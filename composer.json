@@ -1,0 +1,25 @@
+{
+    "name": "skywidesoft/magento2-language-zh_hk",
+    "description": "Chinese (Hong Kong) language",
+    "type": "magento2-language",
+    "version": "0.1.0",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Clarence Ho",
+            "email": "clarence@skywidesoft.com",
+            "homepage": "http://www.skywidesoft.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "magento/framework": "100.0.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
