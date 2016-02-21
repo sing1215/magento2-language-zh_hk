@@ -2140,7 +2140,7 @@ Country,Country,module,Magento_Customer
 "Save Address","Save Address",module,Magento_Customer
 "Go back","Go back",module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
-Email,電郵,module,Magento_Customer
+Email,Email,module,Magento_Customer
 "Send confirmation link","Send confirmation link",module,Magento_Customer
 "Back to Sign In","Back to Sign In",module,Magento_Customer
 "Current Password","Current Password",module,Magento_Customer
@@ -2151,9 +2151,9 @@ Save,Save,module,Magento_Customer
 Submit,Submit,module,Magento_Customer
 "Registered Customers","Registered Customers",module,Magento_Customer
 "If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
-Password,密碼,module,Magento_Customer
+Password,Password,module,Magento_Customer
 Login,Login,module,Magento_Customer
-"Forgot Your Password?","忘記密碼?",module,Magento_Customer
+"Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
 "Subscription option","Subscription option",module,Magento_Customer
 "General Subscription","General Subscription",module,Magento_Customer
 "Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_Customer
