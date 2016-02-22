@@ -1,25 +1,25 @@
-"Read Details","閱讀詳細內容",module,Magento_AdminNotification
-"Mark as Read","標示為已閱讀",module,Magento_AdminNotification
-"Are you sure?","確定?",module,Magento_AdminNotification
-Remove,移除,module,Magento_AdminNotification
-"Messages Inbox","收件箱",module,Magento_AdminNotification
-"You have %1 new system messages","你有 %1 新系統訊息",module,Magento_AdminNotification
-"You have %1 new system message","你有 %1 新系統訊息",module,Magento_AdminNotification
-"Incoming Message","收到的訊息",module,Magento_AdminNotification
-close,關閉,module,Magento_AdminNotification
-Notifications,通知,module,Magento_AdminNotification
-"The message has been marked as Read.","訊息已被標示為已閱讀.",module,Magento_AdminNotification
+"Read Details","Read Details",module,Magento_AdminNotification
+"Mark as Read","Mark as Read",module,Magento_AdminNotification
+"Are you sure?","Are you sure?",module,Magento_AdminNotification
+Remove,Remove,module,Magento_AdminNotification
+"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
+"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
+"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
+"Incoming Message","Incoming Message",module,Magento_AdminNotification
+close,close,module,Magento_AdminNotification
+Notifications,Notifications,module,Magento_AdminNotification
+"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
 "We couldn\'t mark the notification as Read because of an error.","We couldn\'t mark the notification as Read because of an error.",module,Magento_AdminNotification
-"Please select messages.","請選擇訊息.",module,Magento_AdminNotification
+"Please select messages.","Please select messages.",module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
 "We couldn\'t remove the messages because of an error.","We couldn\'t remove the messages because of an error.",module,Magento_AdminNotification
-"The message has been removed.","訊息已被移除.",module,Magento_AdminNotification
-"1 Hour","1 小時",module,Magento_AdminNotification
-"2 Hours","2 小時",module,Magento_AdminNotification
-"6 Hours","6 小時",module,Magento_AdminNotification
-"12 Hours","12 小時",module,Magento_AdminNotification
-"24 Hours","24 小時",module,Magento_AdminNotification
+"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
+"1 Hour","1 Hour",module,Magento_AdminNotification
+"2 Hours","2 Hours",module,Magento_AdminNotification
+"6 Hours","6 Hours",module,Magento_AdminNotification
+"12 Hours","12 Hours",module,Magento_AdminNotification
+"24 Hours","24 Hours",module,Magento_AdminNotification
 critical,critical,module,Magento_AdminNotification
 major,major,module,Magento_AdminNotification
 minor,minor,module,Magento_AdminNotification
@@ -33,42 +33,42 @@ notice,notice,module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Synchronization of media storages has been completed.",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
 "Close popup","Close popup",module,Magento_AdminNotification
-Close,關閉,module,Magento_AdminNotification
-"System Messages:","系統訊息:",module,Magento_AdminNotification
-"Critical System Messages","關鍵系統訊息",module,Magento_AdminNotification
-"Major System Messages","主要系統訊息",module,Magento_AdminNotification
-"System messages","系統訊息",module,Magento_AdminNotification
-"See All (","查看所有 (",module,Magento_AdminNotification
-" unread)"," 未讀)",module,Magento_AdminNotification
+Close,Close,module,Magento_AdminNotification
+"System Messages:","System Messages:",module,Magento_AdminNotification
+"Critical System Messages","Critical System Messages",module,Magento_AdminNotification
+"Major System Messages","Major System Messages",module,Magento_AdminNotification
+"System messages","System messages",module,Magento_AdminNotification
+"See All (","See All (",module,Magento_AdminNotification
+" unread)"," unread)",module,Magento_AdminNotification
 "Please correct the data sent.","Please correct the data sent.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport
 "We can't find the role for the user you wanted.","We can't find the role for the user you wanted.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",module,Magento_Authorization
-"You created the order.","你已新增了訂單.",module,Magento_Authorizenet
-"Order saving error: %1","訂單儲存錯誤: %1",module,Magento_Authorizenet
-"Please choose a payment method.","請選擇付款方法.",module,Magento_Authorizenet
-"We can't process your order right now. Please try again later.","現在未能處理你的訂單，請稍後再嘗試.",module,Magento_Authorizenet
-"Cannot place order.","不能處理訂單.",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","信用卡: xxxx-%1",module,Magento_Authorizenet
-"amount %1","金額 %1",module,Magento_Authorizenet
-failed.,失敗.,module,Magento_Authorizenet
-successful.,成功.,module,Magento_Authorizenet
-"Authorize.Net Transaction ID %1.","Authorize.Net 交易号碼 %1.",module,Magento_Authorizenet
-authorize,授權,module,Magento_Authorizenet
-"authorize and capture","授權和傳送",module,Magento_Authorizenet
-capture,傳送,module,Magento_Authorizenet
-refund,退款,module,Magento_Authorizenet
-void,作廢,module,Magento_Authorizenet
-"Gateway error: %1","閘道錯誤: %1",module,Magento_Authorizenet
-"Something went wrong in the payment gateway.","付款閘道發生錯誤.",module,Magento_Authorizenet
-"Invalid amount for capture.","傳送金額不正確.",module,Magento_Authorizenet
-"Payment capturing error.","傳送付款錯誤.",module,Magento_Authorizenet
-"Invalid transaction ID.","交易号碼不正確.",module,Magento_Authorizenet
-"Payment voiding error.","交易作廢錯誤.",module,Magento_Authorizenet
-"Invalid amount for refund.","退款金額不正確.",module,Magento_Authorizenet
-"Payment refunding error.","退款錯誤.",module,Magento_Authorizenet
+"You created the order.","You created the order.",module,Magento_Authorizenet
+"Order saving error: %1","Order saving error: %1",module,Magento_Authorizenet
+"Please choose a payment method.","Please choose a payment method.",module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.","We can't process your order right now. Please try again later.",module,Magento_Authorizenet
+"Cannot place order.","Cannot place order.",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
+"amount %1","amount %1",module,Magento_Authorizenet
+failed.,failed.,module,Magento_Authorizenet
+successful.,successful.,module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
+authorize,authorize,module,Magento_Authorizenet
+"authorize and capture","authorize and capture",module,Magento_Authorizenet
+capture,capture,module,Magento_Authorizenet
+refund,refund,module,Magento_Authorizenet
+void,void,module,Magento_Authorizenet
+"Gateway error: %1","Gateway error: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_Authorizenet
+"Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
+"Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
+"Invalid transaction ID.","Invalid transaction ID.",module,Magento_Authorizenet
+"Payment voiding error.","Payment voiding error.",module,Magento_Authorizenet
+"Invalid amount for refund.","Invalid amount for refund.",module,Magento_Authorizenet
+"Payment refunding error.","Payment refunding error.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed.",module,Magento_Authorizenet
 "This payment didn't work out because we can't find this order.","This payment didn't work out because we can't find this order.",module,Magento_Authorizenet
 "There was a payment authorization error.","There was a payment authorization error.",module,Magento_Authorizenet
@@ -76,13 +76,13 @@ void,作廢,module,Magento_Authorizenet
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 has been approved. Amount %2. Transaction status is ""%3""",module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.",module,Magento_Authorizenet
-"Authorize Only","只是授權",module,Magento_Authorizenet
-"Authorize and Capture","授權和傳送",module,Magento_Authorizenet
+"Authorize Only","Authorize Only",module,Magento_Authorizenet
+"Authorize and Capture","Authorize and Capture",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Unable to get transaction details. Try again later.",module,Magento_Authorizenet
-"Credit Card Type","信用卡類型",module,Magento_Authorizenet
-"Credit Card Number","信用卡号碼",module,Magento_Authorizenet
-"Expiration Date","有效日期至",module,Magento_Authorizenet
-"Card Verification Number","信用卡識別號",module,Magento_Authorizenet
+"Credit Card Type","Credit Card Type",module,Magento_Authorizenet
+"Credit Card Number","Credit Card Number",module,Magento_Authorizenet
+"Expiration Date","Expiration Date",module,Magento_Authorizenet
+"Card Verification Number","Card Verification Number",module,Magento_Authorizenet
 "Fraud Detection ","Fraud Detection ",module,Magento_Authorizenet
 "FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
 "AVS Response","AVS Response",module,Magento_Authorizenet
@@ -96,108 +96,108 @@ void,作廢,module,Magento_Authorizenet
 "The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
 "Flush Cache Storage","Flush Cache Storage",module,Magento_Backend
 Invalidated,Invalidated,module,Magento_Backend
-Orders,訂單,module,Magento_Backend
-Amounts,金額,module,Magento_Backend
-Bestsellers,最暢銷,module,Magento_Backend
-"Most Viewed Products","最多瀏覽產品",module,Magento_Backend
-"New Customers","新客戶",module,Magento_Backend
-Customers,客戶,module,Magento_Backend
-Customer,客戶,module,Magento_Backend
-Guest,來賓,module,Magento_Backend
-Items,項目,module,Magento_Backend
-Total,總數,module,Magento_Backend
-"Lifetime Sales","終身銷售",module,Magento_Backend
-"Average Order","平均訂單",module,Magento_Backend
-Average,平均,module,Magento_Backend
-Product,貨品,module,Magento_Backend
-Price,售價,module,Magento_Backend
-Quantity,數量,module,Magento_Backend
+Orders,Orders,module,Magento_Backend
+Amounts,Amounts,module,Magento_Backend
+Bestsellers,Bestsellers,module,Magento_Backend
+"Most Viewed Products","Most Viewed Products",module,Magento_Backend
+"New Customers","New Customers",module,Magento_Backend
+Customers,Customers,module,Magento_Backend
+Customer,Customer,module,Magento_Backend
+Guest,Guest,module,Magento_Backend
+Items,Items,module,Magento_Backend
+Total,Total,module,Magento_Backend
+"Lifetime Sales","Lifetime Sales",module,Magento_Backend
+"Average Order","Average Order",module,Magento_Backend
+Average,Average,module,Magento_Backend
+Product,Product,module,Magento_Backend
+Price,Price,module,Magento_Backend
+Quantity,Quantity,module,Magento_Backend
 Views,Views,module,Magento_Backend
-Revenue,收入,module,Magento_Backend
-Tax,稅款,module,Magento_Backend
-Shipping,送貨,module,Magento_Backend
-"Images (.gif, .jpg, .png)","圖片 (.gif, .jpg, .png)",module,Magento_Backend
-"Media (.avi, .flv, .swf)","媒體 (.avi, .flv, .swf)",module,Magento_Backend
-"All Files","所有檔案",module,Magento_Backend
-"Reset to Default","重置為默認",module,Magento_Backend
+Revenue,Revenue,module,Magento_Backend
+Tax,Tax,module,Magento_Backend
+Shipping,Shipping,module,Magento_Backend
+"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
+"All Files","All Files",module,Magento_Backend
+"Reset to Default","Reset to Default",module,Magento_Backend
 "All Store Views","All Store Views",module,Magento_Backend
 "What is this?","What is this?",module,Magento_Backend
-"Save Account","保存帳戶",module,Magento_Backend
-"My Account","我的帳戶",module,Magento_Backend
-"Account Information","帳戶資料",module,Magento_Backend
-"User Name","用戶名稱",module,Magento_Backend
-"First Name","名字",module,Magento_Backend
-"Last Name","姓",module,Magento_Backend
-Email,電郵,module,Magento_Backend
-"User Email","用戶電郵",module,Magento_Backend
-"New Password","新密碼",module,Magento_Backend
-"Password Confirmation","確認密碼",module,Magento_Backend
+"Save Account","Save Account",module,Magento_Backend
+"My Account","My Account",module,Magento_Backend
+"Account Information","Account Information",module,Magento_Backend
+"User Name","User Name",module,Magento_Backend
+"First Name","First Name",module,Magento_Backend
+"Last Name","Last Name",module,Magento_Backend
+Email,Email,module,Magento_Backend
+"User Email","User Email",module,Magento_Backend
+"New Password","New Password",module,Magento_Backend
+"Password Confirmation","Password Confirmation",module,Magento_Backend
 "Interface Locale","Interface Locale",module,Magento_Backend
 "Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
-"Your Password","你的密碼",module,Magento_Backend
+"Your Password","Your Password",module,Magento_Backend
 "Save Cache Settings","Save Cache Settings",module,Magento_Backend
 "Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
-Refresh,刷新,module,Magento_Backend
+Refresh,Refresh,module,Magento_Backend
 "Images Cache","Images Cache",module,Magento_Backend
-Clear,清除,module,Magento_Backend
+Clear,Clear,module,Magento_Backend
 "Search Index","Search Index",module,Magento_Backend
-Rebuild,重建,module,Magento_Backend
-"Inventory Stock Status","庫存狀態",module,Magento_Backend
+Rebuild,Rebuild,module,Magento_Backend
+"Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
 "Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
 "Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
 "Rebuild Flat Catalog Product","Rebuild Flat Catalog Product",module,Magento_Backend
 "Cache Control","Cache Control",module,Magento_Backend
 "All Cache","All Cache",module,Magento_Backend
-"No change","沒有改變",module,Magento_Backend
-Disable,關閉,module,Magento_Backend
-Enable,啟用,module,Magento_Backend
+"No change","No change",module,Magento_Backend
+Disable,Disable,module,Magento_Backend
+Enable,Enable,module,Magento_Backend
 "Add Design Change","Add Design Change",module,Magento_Backend
-Back,返回,module,Magento_Backend
-Delete,刪除,module,Magento_Backend
-"Are you sure?","確定?",module,Magento_Backend
-Save,保存,module,Magento_Backend
+Back,Back,module,Magento_Backend
+Delete,Delete,module,Magento_Backend
+"Are you sure?","Are you sure?",module,Magento_Backend
+Save,Save,module,Magento_Backend
 "Edit Design Change","Edit Design Change",module,Magento_Backend
 "New Store Design Change","New Store Design Change",module,Magento_Backend
-"General Settings","一般設置",module,Magento_Backend
-Store,商店,module,Magento_Backend
-"-- Please Select --","-- 請選擇 --",module,Magento_Backend
+"General Settings","General Settings",module,Magento_Backend
+Store,Store,module,Magento_Backend
+"-- Please Select --","-- Please Select --",module,Magento_Backend
 "Custom Design","Custom Design",module,Magento_Backend
-"Date From","日期從",module,Magento_Backend
-"Date To","日期至",module,Magento_Backend
+"Date From","Date From",module,Magento_Backend
+"Date To","Date To",module,Magento_Backend
 "Design Change","Design Change",module,Magento_Backend
-General,一般,module,Magento_Backend
-Cancel,取消,module,Magento_Backend
-"Delete %1 '%2'","刪除 %1 '%2'",module,Magento_Backend
-"Delete %1","刪除 %1",module,Magento_Backend
+General,General,module,Magento_Backend
+Cancel,Cancel,module,Magento_Backend
+"Delete %1 '%2'","Delete %1 '%2'",module,Magento_Backend
+"Delete %1","Delete %1",module,Magento_Backend
 "Block Information","Block Information",module,Magento_Backend
 "Backup Options","Backup Options",module,Magento_Backend
 "Create DB Backup","Create DB Backup",module,Magento_Backend
-Yes,是,module,Magento_Backend
-No,不是,module,Magento_Backend
-"Delete Store","刪除商店",module,Magento_Backend
-"Delete Web Site","刪除網站",module,Magento_Backend
-"Save Web Site","保存網站",module,Magento_Backend
-"Save Store","保存商店",module,Magento_Backend
+Yes,Yes,module,Magento_Backend
+No,No,module,Magento_Backend
+"Delete Store","Delete Store",module,Magento_Backend
+"Delete Web Site","Delete Web Site",module,Magento_Backend
+"Save Web Site","Save Web Site",module,Magento_Backend
+"Save Store","Save Store",module,Magento_Backend
 "Save Store View","Save Store View",module,Magento_Backend
 "Delete Store View","Delete Store View",module,Magento_Backend
-"Edit Web Site","編輯網站",module,Magento_Backend
-"New Web Site","新增網站",module,Magento_Backend
-"Edit Store","編輯商店",module,Magento_Backend
-"New Store","新增商店",module,Magento_Backend
+"Edit Web Site","Edit Web Site",module,Magento_Backend
+"New Web Site","New Web Site",module,Magento_Backend
+"Edit Store","Edit Store",module,Magento_Backend
+"New Store","New Store",module,Magento_Backend
 "Edit Store View","Edit Store View",module,Magento_Backend
 "New Store View","New Store View",module,Magento_Backend
-"Store Information","商店資料",module,Magento_Backend
-"Web Site","網站",module,Magento_Backend
-Name,名稱,module,Magento_Backend
-"Root Category","頂層類別",module,Magento_Backend
+"Store Information","Store Information",module,Magento_Backend
+"Web Site","Web Site",module,Magento_Backend
+Name,Name,module,Magento_Backend
+"Root Category","Root Category",module,Magento_Backend
 "Default Store View","Default Store View",module,Magento_Backend
 "Store View Information","Store View Information",module,Magento_Backend
-Code,編碼,module,Magento_Backend
-Status,狀態,module,Magento_Backend
-Disabled,已關閉,module,Magento_Backend
-Enabled,已啟用,module,Magento_Backend
-"Sort Order","排序",module,Magento_Backend
-"Web Site Information","網站資料",module,Magento_Backend
+Code,Code,module,Magento_Backend
+Status,Status,module,Magento_Backend
+Disabled,Disabled,module,Magento_Backend
+Enabled,Enabled,module,Magento_Backend
+"Sort Order","Sort Order",module,Magento_Backend
+"Web Site Information","Web Site Information",module,Magento_Backend
 "Default Store","Default Store",module,Magento_Backend
 "Set as Default","Set as Default",module,Magento_Backend
 Stores,Stores,module,Magento_Backend
