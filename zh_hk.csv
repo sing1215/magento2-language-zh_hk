@@ -198,38 +198,38 @@ Disabled,已關閉,module,Magento_Backend
 Enabled,已啟用,module,Magento_Backend
 "Sort Order","排序",module,Magento_Backend
 "Web Site Information","網站資料",module,Magento_Backend
-"Default Store","Default Store",module,Magento_Backend
-"Set as Default","Set as Default",module,Magento_Backend
-Stores,Stores,module,Magento_Backend
-"Create Website","Create Website",module,Magento_Backend
-"Create Store","Create Store",module,Magento_Backend
-"Create Store View","Create Store View",module,Magento_Backend
-Home,Home,module,Magento_Backend
-Reset,Reset,module,Magento_Backend
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Backend
-"Add New Image","Add New Image",module,Magento_Backend
+"Default Store","黙認商店",module,Magento_Backend
+"Set as Default","設定成黙認",module,Magento_Backend
+Stores,商店,module,Magento_Backend
+"Create Website","創建網站",module,Magento_Backend
+"Create Store","創建商店",module,Magento_Backend
+"Create Store View","創建商店視圖",module,Magento_Backend
+Home,主頁,module,Magento_Backend
+Reset,重置,module,Magento_Backend
+"Are you sure you want to do this?","你確定你想這樣做?",module,Magento_Backend
+"Add New Image","添加新圖像",module,Magento_Backend
 "Export block for grid %1 is not defined","Export block for grid %1 is not defined",module,Magento_Backend
-"Reset Filter","Reset Filter",module,Magento_Backend
-Search,Search,module,Magento_Backend
-Any,Any,module,Magento_Backend
-"All Countries","All Countries",module,Magento_Backend
-From,From,module,Magento_Backend
-To,To,module,Magento_Backend
-"Date selector","Date selector",module,Magento_Backend
-"[ deleted ]","[ deleted ]",module,Magento_Backend
-"Select All","Select All",module,Magento_Backend
-" [deleted]"," [deleted]",module,Magento_Backend
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Backend
-"Add New","Add New",module,Magento_Backend
+"Reset Filter","重設過濾器",module,Magento_Backend
+Search,搜尋,module,Magento_Backend
+Any,任何,module,Magento_Backend
+"All Countries","所有國家",module,Magento_Backend
+From,從,module,Magento_Backend
+To,至,module,Magento_Backend
+"Date selector","日期選擇器",module,Magento_Backend
+"[ deleted ]","[ 已刪除 ]",module,Magento_Backend
+"Select All","全選",module,Magento_Backend
+" [deleted]"," [已刪除]",module,Magento_Backend
+"We couldn't find any records.","我們找不到任何記錄.",module,Magento_Backend
+"Add New","新加",module,Magento_Backend
 "Invalid export type supplied for grid export block","Invalid export type supplied for grid export block",module,Magento_Backend
-Export,Export,module,Magento_Backend
+Export,匯出,module,Magento_Backend
 "Please correct the column format and try again.","Please correct the column format and try again.",module,Magento_Backend
 "Please select items.","Please select items.",module,Magento_Backend
-Submit,Submit,module,Magento_Backend
+Submit,提交,module,Magento_Backend
 "Unknown block type","Unknown block type",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empry","Please correct the tab configuration and try again. Tab Id should be not empry",module,Magento_Backend
 "Please correct the tab configuration and try again.","Please correct the tab configuration and try again.",module,Magento_Backend
-"You have logged out.","You have logged out.",module,Magento_Backend
+"You have logged out.","您已登出.",module,Magento_Backend
 "Specified cache type(s) don't exist: %1","Specified cache type(s) don't exist: %1",module,Magento_Backend
 "The image cache was cleaned.","The image cache was cleaned.",module,Magento_Backend
 "An error occurred while clearing the image cache.","An error occurred while clearing the image cache.",module,Magento_Backend
@@ -245,104 +245,104 @@ Submit,Submit,module,Magento_Backend
 "An error occurred while enabling cache.","An error occurred while enabling cache.",module,Magento_Backend
 "%1 cache type(s) refreshed.","%1 cache type(s) refreshed.",module,Magento_Backend
 "An error occurred while refreshing cache.","An error occurred while refreshing cache.",module,Magento_Backend
-Dashboard,Dashboard,module,Magento_Backend
+Dashboard,儀表盤,module,Magento_Backend
 "We updated lifetime statistic.","We updated lifetime statistic.",module,Magento_Backend
 "We can't refresh lifetime statistics.","We can't refresh lifetime statistics.",module,Magento_Backend
-"invalid request","invalid request",module,Magento_Backend
-"see error log for details","see error log for details",module,Magento_Backend
-"Service unavailable: %1","Service unavailable: %1",module,Magento_Backend
-Error,Error,module,Magento_Backend
-"Access Denied.","Access Denied.",module,Magento_Backend
-"You need more permissions to do this.","You need more permissions to do this.",module,Magento_Backend
+"invalid request","無效請求",module,Magento_Backend
+"see error log for details","請看錯誤日誌的詳細信息",module,Magento_Backend
+"Service unavailable: %1","服務不能提供: %1",module,Magento_Backend
+Error,錯誤,module,Magento_Backend
+"Access Denied.","訪問被拒絕.",module,Magento_Backend
+"You need more permissions to do this.","你需要更多的權限來做到這一點.",module,Magento_Backend
 "No search modules were registered","No search modules were registered",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Please make sure that all global admin search modules are installed and activated.",module,Magento_Backend
 "You have entered an invalid password for current user.","You have entered an invalid password for current user.",module,Magento_Backend
-"You saved the account.","You saved the account.",module,Magento_Backend
+"You saved the account.","您已保存帳戶.",module,Magento_Backend
 "An error occurred while saving account.","An error occurred while saving account.",module,Magento_Backend
 "You deleted the design change.","You deleted the design change.",module,Magento_Backend
 "You can\'t delete the design change.","You can\'t delete the design change.",module,Magento_Backend
-"Store Design","Store Design",module,Magento_Backend
-"Edit Store Design Change","Edit Store Design Change",module,Magento_Backend
-"You saved the design change.","You saved the design change.",module,Magento_Backend
-System,System,module,Magento_Backend
-"Manage Stores","Manage Stores",module,Magento_Backend
-"The database was backed up.","The database was backed up.",module,Magento_Backend
+"Store Design","商店設計",module,Magento_Backend
+"Edit Store Design Change","編輯商店設計改動",module,Magento_Backend
+"You saved the design change.","已保存商店設計改動.",module,Magento_Backend
+System,系統,module,Magento_Backend
+"Manage Stores","管理商店",module,Magento_Backend
+"The database was backed up.","資料庫已備份.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","We can't create a backup right now. Please try again later.",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.",module,Magento_Backend
 "Something went wrong. Please try again.","Something went wrong. Please try again.",module,Magento_Backend
-"This store cannot be deleted.","This store cannot be deleted.",module,Magento_Backend
-"You deleted the store.","You deleted the store.",module,Magento_Backend
-"Unable to delete store. Please, try again later.","Unable to delete store. Please, try again later.",module,Magento_Backend
-"This store view cannot be deleted.","This store view cannot be deleted.",module,Magento_Backend
-"Store View","Store View",module,Magento_Backend
-"You deleted the store view.","You deleted the store view.",module,Magento_Backend
+"This store cannot be deleted.","這商店不能被刪除.",module,Magento_Backend
+"You deleted the store.","商店已被刪除.",module,Magento_Backend
+"Unable to delete store. Please, try again later.","無法刪除商店.請稍後再試.",module,Magento_Backend
+"This store view cannot be deleted.","這商店視圖不能被刪除.",module,Magento_Backend
+"Store View","商店視圖",module,Magento_Backend
+"You deleted the store view.","商店視圖已被刪除.",module,Magento_Backend
 "Unable to delete store view. Please, try again later.","Unable to delete store view. Please, try again later.",module,Magento_Backend
-"This website cannot be deleted.","This website cannot be deleted.",module,Magento_Backend
-"You deleted the website.","You deleted the website.",module,Magento_Backend
-"Unable to delete website. Please, try again later.","Unable to delete website. Please, try again later.",module,Magento_Backend
-"The website does not exist.","The website does not exist.",module,Magento_Backend
+"This website cannot be deleted.","這網站不能被刪除.",module,Magento_Backend
+"You deleted the website.","網站已被刪除.",module,Magento_Backend
+"Unable to delete website. Please, try again later.","無法刪除網站.請稍後再試.",module,Magento_Backend
+"The website does not exist.","網站不存在.",module,Magento_Backend
 "Before modifying the website code please make sure it is not used in index.php.","Before modifying the website code please make sure it is not used in index.php.",module,Magento_Backend
-"The store does not exist","The store does not exist",module,Magento_Backend
-"Store view doesn\'t exist","Store view doesn\'t exist",module,Magento_Backend
+"The store does not exist","商店不存在",module,Magento_Backend
+"Store view doesn\'t exist","商店視圖不存在",module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","Before modifying the store view code please make sure it is not used in index.php.",module,Magento_Backend
-"New ","New ",module,Magento_Backend
-"You saved the website.","You saved the website.",module,Magento_Backend
-"You saved the store.","You saved the store.",module,Magento_Backend
-"You saved the store view.","You saved the store view.",module,Magento_Backend
-"Something went wrong while saving. Please review the error log.","Something went wrong while saving. Please review the error log.",module,Magento_Backend
-"Last 24 Hours","Last 24 Hours",module,Magento_Backend
-"Last 7 Days","Last 7 Days",module,Magento_Backend
-"Current Month","Current Month",module,Magento_Backend
+"New ","新增 ",module,Magento_Backend
+"You saved the website.","網站已被保存.",module,Magento_Backend
+"You saved the store.","商店已被保存.",module,Magento_Backend
+"You saved the store view.","商店視圖已被保存.",module,Magento_Backend
+"Something went wrong while saving. Please review the error log.","保存時發生錯誤,請檢查錯誤日誌.",module,Magento_Backend
+"Last 24 Hours","過去 24 小時",module,Magento_Backend
+"Last 7 Days","過去 7 日",module,Magento_Backend
+"Current Month","本月份",module,Magento_Backend
 YTD,YTD,module,Magento_Backend
 2YTD,2YTD,module,Magento_Backend
 "Authentication storage is incorrect.","Authentication storage is incorrect.",module,Magento_Backend
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Backend
 "Authentication error occurred.","Authentication error occurred.",module,Magento_Backend
-Order,Order,module,Magento_Backend
-"Order #%1","Order #%1",module,Magento_Backend
-"Access denied","Access denied",module,Magento_Backend
-"Please try to sign out and sign in again.","Please try to sign out and sign in again.",module,Magento_Backend
+Order,訂單,module,Magento_Backend
+"Order #%1","訂單 #%1",module,Magento_Backend
+"Access denied","訪問被拒絕",module,Magento_Backend
+"Please try to sign out and sign in again.","請嘗試登出並重新登錄.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","If you continue to receive this message, please contact the store owner.",module,Magento_Backend
 "You need more permissions to access this.","You need more permissions to access this.",module,Magento_Backend
-"Welcome, please sign in","Welcome, please sign in",module,Magento_Backend
-Username,Username,module,Magento_Backend
-"user name","user name",module,Magento_Backend
-Password,Password,module,Magento_Backend
-password,password,module,Magento_Backend
-"Sign in","Sign in",module,Magento_Backend
-"Select Range:","Select Range:",module,Magento_Backend
-"No Data Found","No Data Found",module,Magento_Backend
+"Welcome, please sign in","歡迎您，請登入",module,Magento_Backend
+Username,用戶名稱,module,Magento_Backend
+"user name","用戶名稱",module,Magento_Backend
+Password,密碼,module,Magento_Backend
+password,密碼,module,Magento_Backend
+"Sign in","登入",module,Magento_Backend
+"Select Range:","選擇範圍:",module,Magento_Backend
+"No Data Found","找不到資料",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.",module,Magento_Backend
-"Last Orders","Last Orders",module,Magento_Backend
-"Last Search Terms","Last Search Terms",module,Magento_Backend
-"Top Search Terms","Top Search Terms",module,Magento_Backend
-"There are no search keywords.","There are no search keywords.",module,Magento_Backend
-"View Statistics For:","View Statistics For:",module,Magento_Backend
-"All Websites","All Websites",module,Magento_Backend
-"Reload Data","Reload Data",module,Magento_Backend
-"Browse Files...","Browse Files...",module,Magento_Backend
+"Last Orders","最後訂單",module,Magento_Backend
+"Last Search Terms","最後搜索項目",module,Magento_Backend
+"Top Search Terms","熱門搜索項目",module,Magento_Backend
+"There are no search keywords.","沒有搜索關鍵詞.",module,Magento_Backend
+"View Statistics For:","查看統計信息:",module,Magento_Backend
+"All Websites","所有網站",module,Magento_Backend
+"Reload Data","重新加載數據",module,Magento_Backend
+"Browse Files...","瀏覽文件...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
-"ver. %1","ver. %1",module,Magento_Backend
+"ver. %1","版本. %1",module,Magento_Backend
 "Magento Admin Panel","Magento Admin Panel",module,Magento_Backend
-"Account Setting","Account Setting",module,Magento_Backend
-"Customer View","Customer View",module,Magento_Backend
-"Sign Out","Sign Out",module,Magento_Backend
-"About the calendar","About the calendar",module,Magento_Backend
-Close,Close,module,Magento_Backend
-"Go Today","Go Today",module,Magento_Backend
-Previous,Previous,module,Magento_Backend
-Next,Next,module,Magento_Backend
+"Account Setting","帳戶設置",module,Magento_Backend
+"Customer View","客戶視圖",module,Magento_Backend
+"Sign Out","登出",module,Magento_Backend
+"About the calendar","關於日曆",module,Magento_Backend
+Close,關閉,module,Magento_Backend
+"Go Today","前往今天",module,Magento_Backend
+Previous,往前,module,Magento_Backend
+Next,下一個,module,Magento_Backend
 WK,WK,module,Magento_Backend
-Time,Time,module,Magento_Backend
-Hour,Hour,module,Magento_Backend
-Minute,Minute,module,Magento_Backend
+Time,時間,module,Magento_Backend
+Hour,小時,module,Magento_Backend
+Minute,分鐘,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript may be disabled in your browser.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","To use this website you must first enable JavaScript in your browser.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","This is only a demo store. You can browse and place orders, but nothing will be processed.",module,Magento_Backend
-"Report Bugs","Report Bugs",module,Magento_Backend
-"Store View:","Store View:",module,Magento_Backend
-"Stores Configuration","Stores Configuration",module,Magento_Backend
+"Report Bugs","回報問題",module,Magento_Backend
+"Store View:","商店視圖:",module,Magento_Backend
+"Stores Configuration","商店配置",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Magento_Backend
 "Additional Cache Management","Additional Cache Management",module,Magento_Backend
 "Flush Catalog Images Cache","Flush Catalog Images Cache",module,Magento_Backend
@@ -351,33 +351,33 @@ Minute,Minute,module,Magento_Backend
 "Themes JavaScript and CSS files combined to one file.","Themes JavaScript and CSS files combined to one file.",module,Magento_Backend
 "Flush Static Files Cache","Flush Static Files Cache",module,Magento_Backend
 "Preprocessed view files and static files","Preprocessed view files and static files",module,Magento_Backend
-Catalog,Catalog,module,Magento_Backend
+Catalog,目錄,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
 "JavaScript/CSS Cache","JavaScript/CSS Cache",module,Magento_Backend
-"No records found.","No records found.",module,Magento_Backend
-Images,Images,module,Magento_Backend
-"Big Image","Big Image",module,Magento_Backend
-Thumbnail,Thumbnail,module,Magento_Backend
-"Additional Settings","Additional Settings",module,Magento_Backend
-"records found","records found",module,Magento_Backend
-selected,selected,module,Magento_Backend
-"per page","per page",module,Magento_Backend
-"Previous page","Previous page",module,Magento_Backend
+"No records found.","沒有找到記錄.",module,Magento_Backend
+Images,圖片,module,Magento_Backend
+"Big Image","大圖片",module,Magento_Backend
+Thumbnail,縮圖,module,Magento_Backend
+"Additional Settings","更多設置",module,Magento_Backend
+"records found","記錄被找到",module,Magento_Backend
+selected,已選,module,Magento_Backend
+"per page","每頁",module,Magento_Backend
+"Previous page","前一頁",module,Magento_Backend
 "of %1","of %1",module,Magento_Backend
-"Next page","Next page",module,Magento_Backend
-"Export to:","Export to:",module,Magento_Backend
-Actions,Actions,module,Magento_Backend
-"Mass Actions","Mass Actions",module,Magento_Backend
-"Unselect All","Unselect All",module,Magento_Backend
-"Select Visible","Select Visible",module,Magento_Backend
-"Unselect Visible","Unselect Visible",module,Magento_Backend
+"Next page","下一頁",module,Magento_Backend
+"Export to:","匯出至:",module,Magento_Backend
+Actions,操作,module,Magento_Backend
+"Mass Actions","大量操作",module,Magento_Backend
+"Unselect All","取消全選",module,Magento_Backend
+"Select Visible","選擇可見",module,Magento_Backend
+"Unselect Visible","取消選擇可見",module,Magento_Backend
 "Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Backend
 "This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Backend
 "The information in this tab has been changed.","The information in this tab has been changed.",module,Magento_Backend
-Loading...,Loading...,module,Magento_Backend
-"System Backup","System Backup",module,Magento_Backup
-"Database and Media Backup","Database and Media Backup",module,Magento_Backup
-"Database Backup","Database Backup",module,Magento_Backup
+Loading...,加載中...,module,Magento_Backend
+"System Backup","系統備份",module,Magento_Backup
+"Database and Media Backup","資料庫與媒體備份",module,Magento_Backup
+"Database Backup","資料庫備份",module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.",module,Magento_Backup
 "You need more permissions to activate maintenance mode right now.","You need more permissions to activate maintenance mode right now.",module,Magento_Backup
 "To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
@@ -385,19 +385,19 @@ Loading...,Loading...,module,Magento_Backend
 "You need more free space to create a backup.","You need more free space to create a backup.",module,Magento_Backup
 "You need more permissions to create a backup.","You need more permissions to create a backup.",module,Magento_Backup
 "We can't create the backup right now.","We can't create the backup right now.",module,Magento_Backup
-Backups,Backups,module,Magento_Backup
-System,System,module,Magento_Backup
-Tools,Tools,module,Magento_Backup
-Backup,Backup,module,Magento_Backup
-"We can't delete one or more backups.","We can't delete one or more backups.",module,Magento_Backup
-failed,failed,module,Magento_Backup
-successful,successful,module,Magento_Backup
-"You deleted the selected backup(s).","You deleted the selected backup(s).",module,Magento_Backup
-"Can't load snapshot archive","Can't load snapshot archive",module,Magento_Backup
-"Please correct the password.","Please correct the password.",module,Magento_Backup
+Backups,備份,module,Magento_Backup
+System,系統,module,Magento_Backup
+Tools,工具,module,Magento_Backup
+Backup,備份,module,Magento_Backup
+"We can't delete one or more backups.","我們無法刪除一個或多個備份.",module,Magento_Backup
+failed,失敗,module,Magento_Backup
+successful,成功,module,Magento_Backup
+"You deleted the selected backup(s).","已刪除您選定的備份.",module,Magento_Backup
+"Can't load snapshot archive","無法加載快照存檔",module,Magento_Backup
+"Please correct the password.","請更正密碼.",module,Magento_Backup
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
-"We can't find the backup file.","We can't find the backup file.",module,Magento_Backup
-"We can't connect to the FTP right now.","We can't connect to the FTP right now.",module,Magento_Backup
+"We can't find the backup file.","找不到備份檔案.",module,Magento_Backup
+"We can't connect to the FTP right now.","我們不能連接到FTP伺服器.",module,Magento_Backup
 "Failed to validate FTP.","Failed to validate FTP.",module,Magento_Backup
 "You need more permissions to perform a rollback.","You need more permissions to perform a rollback.",module,Magento_Backup
 "Failed to rollback.","Failed to rollback.",module,Magento_Backup
