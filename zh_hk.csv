@@ -376,8 +376,8 @@ Actions,操作,module,Magento_Backend
 "The information in this tab has been changed.","The information in this tab has been changed.",module,Magento_Backend
 Loading...,加載中...,module,Magento_Backend
 "System Backup","系統備份",module,Magento_Backup
-"Database and Media Backup","資料庫與媒體備份",module,Magento_Backup
-"Database Backup","資料庫備份",module,Magento_Backup
+"Database and Media Backup","數據庫與媒體備份",module,Magento_Backup
+"Database Backup","數據庫備份",module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.",module,Magento_Backup
 "You need more permissions to activate maintenance mode right now.","You need more permissions to activate maintenance mode right now.",module,Magento_Backup
 "To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
@@ -398,38 +398,38 @@ successful,成功,module,Magento_Backup
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
 "We can't find the backup file.","找不到備份檔案.",module,Magento_Backup
 "We can't connect to the FTP right now.","我們不能連接到FTP伺服器.",module,Magento_Backup
-"Failed to validate FTP.","Failed to validate FTP.",module,Magento_Backup
+"Failed to validate FTP.","無法驗證FTP.",module,Magento_Backup
 "You need more permissions to perform a rollback.","You need more permissions to perform a rollback.",module,Magento_Backup
-"Failed to rollback.","Failed to rollback.",module,Magento_Backup
-Database,Database,module,Magento_Backup
-"Database and Media","Database and Media",module,Magento_Backup
-"System (excluding Media)","System (excluding Media)",module,Magento_Backup
-"You created the system backup.","You created the system backup.",module,Magento_Backup
-"You created the system backup (excluding media).","You created the system backup (excluding media).",module,Magento_Backup
-"You created the database and media backup.","You created the database and media backup.",module,Magento_Backup
-"You created the database backup.","You created the database backup.",module,Magento_Backup
-"Please correct the order of creation for a new backup.","Please correct the order of creation for a new backup.",module,Magento_Backup
-"The backup file does not exist.","The backup file does not exist.",module,Magento_Backup
-"The backup file path was not specified.","The backup file path was not specified.",module,Magento_Backup
-"The backup file ""%1"" does not exist.","The backup file ""%1"" does not exist.",module,Magento_Backup
-"Sorry, but we cannot read from or write to backup file ""%1"".","Sorry, but we cannot read from or write to backup file ""%1"".",module,Magento_Backup
-"The backup file handler was unspecified.","The backup file handler was unspecified.",module,Magento_Backup
-"Something went wrong while writing to the backup file ""%1"".","Something went wrong while writing to the backup file ""%1"".",module,Magento_Backup
+"Failed to rollback.","未能回滾.",module,Magento_Backup
+Database,數據庫,module,Magento_Backup
+"Database and Media","數據庫與媒體",module,Magento_Backup
+"System (excluding Media)","系統（不包括媒體）",module,Magento_Backup
+"You created the system backup.","您已創建系統備份.",module,Magento_Backup
+"You created the system backup (excluding media).","您已創建系統備份（不包括媒體）.",module,Magento_Backup
+"You created the database and media backup.","您已創建系統及媒體備份.",module,Magento_Backup
+"You created the database backup.","您已創建數據庫備份.",module,Magento_Backup
+"Please correct the order of creation for a new backup.","請更正新備份的創建順序.",module,Magento_Backup
+"The backup file does not exist.","備份文件不存在.",module,Magento_Backup
+"The backup file path was not specified.","未指定備份文件路徑.",module,Magento_Backup
+"The backup file ""%1"" does not exist.","備份文件 ""%1"" 不存在.",module,Magento_Backup
+"Sorry, but we cannot read from or write to backup file ""%1"".","很抱歉，但我們無法讀取或寫入到備份文件 ""%1"".",module,Magento_Backup
+"The backup file handler was unspecified.","請指定備份文件的管理者.",module,Magento_Backup
+"Something went wrong while writing to the backup file ""%1"".","寫入備份文件時發生錯誤 ""%1"".",module,Magento_Backup
 "We can't save the Cron expression.","We can't save the Cron expression.",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","You will lose any data created since the backup was made, including admin users, customers and orders.",module,Magento_Backup
-"Are you sure you want to continue?","Are you sure you want to continue?",module,Magento_Backup
-"This may take a few moments.","This may take a few moments.",module,Magento_Backup
-"Be sure your store is in maintenance mode during backup.","Be sure your store is in maintenance mode during backup.",module,Magento_Backup
-"Backup Name","Backup Name",module,Magento_Backup
+"Are you sure you want to continue?","你確定要繼續?",module,Magento_Backup
+"This may take a few moments.","這可能需要一些時間.",module,Magento_Backup
+"Be sure your store is in maintenance mode during backup.","要確保您的存儲備份過程中處於維護模式.",module,Magento_Backup
+"Backup Name","備份名稱",module,Magento_Backup
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.",module,Magento_Backup
-"Maintenance mode","Maintenance mode",module,Magento_Backup
-"Please put your store into maintenance mode during backup.","Please put your store into maintenance mode during backup.",module,Magento_Backup
-Exclude,Exclude,module,Magento_Backup
-"Exclude media folder from backup","Exclude media folder from backup",module,Magento_Backup
-"Please enter the password to confirm rollback.","Please enter the password to confirm rollback.",module,Magento_Backup
-"This action cannot be undone.","This action cannot be undone.",module,Magento_Backup
-"User Password","User Password",module,Magento_Backup
-"Please put your store into maintenance mode during rollback processing.","Please put your store into maintenance mode during rollback processing.",module,Magento_Backup
+"Maintenance mode","維護模式",module,Magento_Backup
+"Please put your store into maintenance mode during backup.","在備份過程中，請把您的商店設定為維護模式.",module,Magento_Backup
+Exclude,排除,module,Magento_Backup
+"Exclude media folder from backup","從備份中排除媒體文件夾",module,Magento_Backup
+"Please enter the password to confirm rollback.","請輸入密碼以確認回滾.",module,Magento_Backup
+"This action cannot be undone.","這個動作不能撤消.",module,Magento_Backup
+"User Password","用戶密碼",module,Magento_Backup
+"Please put your store into maintenance mode during rollback processing.","回滾處理期間，請把您的商店設定為維護模式.",module,Magento_Backup
 FTP,FTP,module,Magento_Backup
 "Use FTP Connection","Use FTP Connection",module,Magento_Backup
 "FTP credentials","FTP credentials",module,Magento_Backup
@@ -437,41 +437,41 @@ FTP,FTP,module,Magento_Backup
 "FTP Login","FTP Login",module,Magento_Backup
 "FTP Password","FTP Password",module,Magento_Backup
 "Magento root directory","Magento root directory",module,Magento_Backup
-"Create Backup","Create Backup",module,Magento_Backup
-Country,Country,module,Magento_Braintree
-"Allowed Credit Card Types","Allowed Credit Card Types",module,Magento_Braintree
-"Add Rule","Add Rule",module,Magento_Braintree
-Month,Month,module,Magento_Braintree
-Year,Year,module,Magento_Braintree
-"Stored Card","Stored Card",module,Magento_Braintree
-"Credit Card Type","Credit Card Type",module,Magento_Braintree
-"Credit Card Number","Credit Card Number",module,Magento_Braintree
-"Credit card successfully added","Credit card successfully added",module,Magento_Braintree
-"Something went wrong while saving the card.","Something went wrong while saving the card.",module,Magento_Braintree
-"Credit card does not exist","Credit card does not exist",module,Magento_Braintree
-"Delete Credit Card","Delete Credit Card",module,Magento_Braintree
-"There was error deleting the credit card","There was error deleting the credit card",module,Magento_Braintree
-"Credit card successfully deleted","Credit card successfully deleted",module,Magento_Braintree
-"Edit Credit Card","Edit Credit Card",module,Magento_Braintree
-"My Credit Cards","My Credit Cards",module,Magento_Braintree
-"New Credit Card","New Credit Card",module,Magento_Braintree
-"There was error during saving card data","There was error during saving card data",module,Magento_Braintree
-"We can't initialize checkout.","We can't initialize checkout.",module,Magento_Braintree
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Braintree
-"We can't place the order.","We can't place the order.",module,Magento_Braintree
-"Incorrect payment method.","Incorrect payment method.",module,Magento_Braintree
-"We can't initialize checkout review.","We can't initialize checkout review.",module,Magento_Braintree
-"We can't update shipping method.","We can't update shipping method.",module,Magento_Braintree
-"The processor declined your transaction, please re-enter your payment information","The processor declined your transaction, please re-enter your payment information",module,Magento_Braintree
-"Transaction declined by gateway: Check card details or try another card","Transaction declined by gateway: Check card details or try another card",module,Magento_Braintree
-"Transaction declined: ","Transaction declined: ",module,Magento_Braintree
+"Create Backup","創建備份",module,Magento_Backup
+Country,國家,module,Magento_Braintree
+"Allowed Credit Card Types","允許的信用卡類型",module,Magento_Braintree
+"Add Rule","添加規則",module,Magento_Braintree
+Month,月份,module,Magento_Braintree
+Year,年份,module,Magento_Braintree
+"Stored Card","已保存的信用卡",module,Magento_Braintree
+"Credit Card Type","信用卡類型",module,Magento_Braintree
+"Credit Card Number","信用卡號",module,Magento_Braintree
+"Credit card successfully added","成功添加信用卡",module,Magento_Braintree
+"Something went wrong while saving the card.","保存信用卡時發生錯誤.",module,Magento_Braintree
+"Credit card does not exist","信用卡不存在",module,Magento_Braintree
+"Delete Credit Card","刪除信用卡",module,Magento_Braintree
+"There was error deleting the credit card","刪除信用卡時發生錯誤",module,Magento_Braintree
+"Credit card successfully deleted","信用卡成功刪除",module,Magento_Braintree
+"Edit Credit Card","編輯信用卡",module,Magento_Braintree
+"My Credit Cards","我的信用卡",module,Magento_Braintree
+"New Credit Card","新的信用卡",module,Magento_Braintree
+"There was error during saving card data","儲存信用卡資料時出現了錯誤",module,Magento_Braintree
+"We can't initialize checkout.","我們不能初始化結帳.",module,Magento_Braintree
+"Please agree to all the terms and conditions before placing the order.","在下單之前，請同意所有條款和條件.",module,Magento_Braintree
+"We can't place the order.","我們不能下訂單.",module,Magento_Braintree
+"Incorrect payment method.","付款方式不正確.",module,Magento_Braintree
+"We can't initialize checkout review.","我們不能初始化結帳檢閱.",module,Magento_Braintree
+"We can't update shipping method.","我們不能更新送貨方式.",module,Magento_Braintree
+"The processor declined your transaction, please re-enter your payment information","交易處理器拒絕您的交易，請重新輸入您的付款信息",module,Magento_Braintree
+"Transaction declined by gateway: Check card details or try another card","交易被付款網關拒絕：檢查卡信息，或嘗試另一張卡",module,Magento_Braintree
+"Transaction declined: ","交易被拒絕: ",module,Magento_Braintree
 .,.,module,Magento_Braintree
-"The processor responded with an unknown error","The processor responded with an unknown error",module,Magento_Braintree
-"Credit card type is not allowed for your country.","Credit card type is not allowed for your country.",module,Magento_Braintree
-"Credit card type is not allowed for this payment method.","Credit card type is not allowed for this payment method.",module,Magento_Braintree
-"Selected payment type is not allowed for billing country.","Selected payment type is not allowed for billing country.",module,Magento_Braintree
-"Incomplete payment information.","Incomplete payment information.",module,Magento_Braintree
-"Please try again later","Please try again later",module,Magento_Braintree
+"The processor responded with an unknown error","該處理器傳回不知的錯誤回應",module,Magento_Braintree
+"Credit card type is not allowed for your country.","你的國家不允許這信用卡類型.",module,Magento_Braintree
+"Credit card type is not allowed for this payment method.","這種付款方式不允許這信用卡類型.",module,Magento_Braintree
+"Selected payment type is not allowed for billing country.","結算的國家不允許您選擇的付款方式.",module,Magento_Braintree
+"Incomplete payment information.","不完整的付款信息.",module,Magento_Braintree
+"Please try again later","請稍後再試",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Can not find original authorization transaction for partial capture",module,Magento_Braintree
 "There was an error capturing the transaction: %1.","There was an error capturing the transaction: %1.",module,Magento_Braintree
 "This refund is for a partial amount but the Transaction has not settled.","This refund is for a partial amount but the Transaction has not settled.",module,Magento_Braintree
@@ -480,124 +480,124 @@ Year,Year,module,Magento_Braintree
 "Some transactions are already settled or voided and cannot be voided.","Some transactions are already settled or voided and cannot be voided.",module,Magento_Braintree
 "Voided capture.","Voided capture.",module,Magento_Braintree
 "There was an error voiding the transaction: %1.","There was an error voiding the transaction: %1.",module,Magento_Braintree
-Invoice,Invoice,module,Magento_Braintree
-Shipment,Shipment,module,Magento_Braintree
-Authorize,Authorize,module,Magento_Braintree
-"Authorize and Capture","Authorize and Capture",module,Magento_Braintree
-"--Please Select--","--Please Select--",module,Magento_Braintree
-"Invalid Customer ID provided","Invalid Customer ID provided",module,Magento_Braintree
+Invoice,發票,module,Magento_Braintree
+Shipment,送貨,module,Magento_Braintree
+Authorize,授權,module,Magento_Braintree
+"Authorize and Capture","授權和傳送",module,Magento_Braintree
+"--Please Select--","--請選擇--",module,Magento_Braintree
+"Invalid Customer ID provided","客戶号碼不正確",module,Magento_Braintree
 "some error","some error",module,Magento_Braintree
 "a,b,c","a,b,c",module,Magento_Braintree
-"Something went wrong while processing.","Something went wrong while processing.",module,Magento_Braintree
+"Something went wrong while processing.","處理時發生錯誤.",module,Magento_Braintree
 error,error,module,Magento_Braintree
 exception,exception,module,Magento_Braintree
-"Payment Information","Payment Information",module,Magento_Braintree
-"Add new card","Add new card",module,Magento_Braintree
-"Please Select","Please Select",module,Magento_Braintree
-"Expiration Date","Expiration Date",module,Magento_Braintree
-"Card Verification Number","Card Verification Number",module,Magento_Braintree
-"Save this card for future use","Save this card for future use",module,Magento_Braintree
+"Payment Information","支付信息",module,Magento_Braintree
+"Add new card","添加新卡",module,Magento_Braintree
+"Please Select","請選擇",module,Magento_Braintree
+"Expiration Date","有效日期至",module,Magento_Braintree
+"Card Verification Number","信用卡識別號",module,Magento_Braintree
+"Save this card for future use","保存此卡以備將來使用",module,Magento_Braintree
 or,or,module,Magento_Braintree
-"Please confirm that you want to delete this credit card","Please confirm that you want to delete this credit card",module,Magento_Braintree
-"Cardholder Name","Cardholder Name",module,Magento_Braintree
-Delete,Delete,module,Magento_Braintree
-Back,Back,module,Magento_Braintree
-"* Required Fields","* Required Fields",module,Magento_Braintree
-"Credit Card","Credit Card",module,Magento_Braintree
+"Please confirm that you want to delete this credit card","請確認您要刪除這張信用卡",module,Magento_Braintree
+"Cardholder Name","持卡人姓名",module,Magento_Braintree
+Delete,刪除,module,Magento_Braintree
+Back,返回,module,Magento_Braintree
+"* Required Fields","* 必需填寫",module,Magento_Braintree
+"Credit Card","信用卡",module,Magento_Braintree
 CVV,CVV,module,Magento_Braintree
-"Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Braintree
-"What is this?","What is this?",module,Magento_Braintree
-"Make Default","Make Default",module,Magento_Braintree
-"Billing Address","Billing Address",module,Magento_Braintree
-"First Name","First Name",module,Magento_Braintree
-"Last Name","Last Name",module,Magento_Braintree
-Company,Company,module,Magento_Braintree
-Address,Address,module,Magento_Braintree
-City,City,module,Magento_Braintree
-State/Province,State/Province,module,Magento_Braintree
-"Please select region, state or province","Please select region, state or province",module,Magento_Braintree
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Braintree
-Submit,Submit,module,Magento_Braintree
-"Add Credit Card","Add Credit Card",module,Magento_Braintree
-Type,Type,module,Magento_Braintree
-"Card Number","Card Number",module,Magento_Braintree
-"Is Default","Is Default",module,Magento_Braintree
-Actions,Actions,module,Magento_Braintree
-Yes,Yes,module,Magento_Braintree
-No,No,module,Magento_Braintree
-Edit,Edit,module,Magento_Braintree
-"Percent Discount","Percent Discount",module,Magento_Bundle
-"-- Select --","-- Select --",module,Magento_Bundle
-Dynamic,Dynamic,module,Magento_Bundle
-Fixed,Fixed,module,Magento_Bundle
-"Create New Option","Create New Option",module,Magento_Bundle
-"Bundle Items","Bundle Items",module,Magento_Bundle
-"Add Products to Option","Add Products to Option",module,Magento_Bundle
-Close,Close,module,Magento_Bundle
-"Delete Option","Delete Option",module,Magento_Bundle
-"What are you looking for?","What are you looking for?",module,Magento_Bundle
+"Card Verification Number Visual Reference","信用卡驗證號碼視覺參考",module,Magento_Braintree
+"What is this?","這是什麼?",module,Magento_Braintree
+"Make Default","使這成為默認",module,Magento_Braintree
+"Billing Address","帳單地址",module,Magento_Braintree
+"First Name","名字",module,Magento_Braintree
+"Last Name","姓氏",module,Magento_Braintree
+Company,公司,module,Magento_Braintree
+Address,地址,module,Magento_Braintree
+City,城市,module,Magento_Braintree
+State/Province,州/省,module,Magento_Braintree
+"Please select region, state or province","請選擇地區，州或省",module,Magento_Braintree
+"Zip/Postal Code","郵編/郵政編碼",module,Magento_Braintree
+Submit,提交,module,Magento_Braintree
+"Add Credit Card","添加信用卡",module,Magento_Braintree
+Type,類型,module,Magento_Braintree
+"Card Number","卡號",module,Magento_Braintree
+"Is Default","是默認",module,Magento_Braintree
+Actions,操作,module,Magento_Braintree
+Yes,是,module,Magento_Braintree
+No,否,module,Magento_Braintree
+Edit,編輯,module,Magento_Braintree
+"Percent Discount","折扣率",module,Magento_Bundle
+"-- Select --","-- 選擇 --",module,Magento_Bundle
+Dynamic,動態,module,Magento_Bundle
+Fixed,固定,module,Magento_Bundle
+"Create New Option","創建新的選項",module,Magento_Bundle
+"Bundle Items","捆綁項目",module,Magento_Bundle
+"Add Products to Option","添加產品到選項",module,Magento_Bundle
+Close,關閉,module,Magento_Bundle
+"Delete Option","刪除選項",module,Magento_Bundle
+"What are you looking for?","您在找什麼?",module,Magento_Bundle
 ID,ID,module,Magento_Bundle
-Product,Product,module,Magento_Bundle
+Product,產品,module,Magento_Bundle
 SKU,SKU,module,Magento_Bundle
-Price,Price,module,Magento_Bundle
-Delete,Delete,module,Magento_Bundle
-"Use Default Value","Use Default Value",module,Magento_Bundle
+Price,價格,module,Magento_Bundle
+Delete,刪除,module,Magento_Bundle
+"Use Default Value","使用默認值",module,Magento_Bundle
 "There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type.",module,Magento_Bundle
-"Only implemented for bundle product","Only implemented for bundle product",module,Magento_Bundle
-"Product with specified sku: ""%1"" is not a bundle product","Product with specified sku: ""%1"" is not a bundle product",module,Magento_Bundle
+"Only implemented for bundle product","僅適用於捆綁產品",module,Magento_Bundle
+"Product with specified sku: ""%1"" is not a bundle product","產品 sku: ""%1"" 不是捆綁產品",module,Magento_Bundle
 "Bundle product could not contain another composite product","Bundle product could not contain another composite product",module,Magento_Bundle
 "Id field of product link is required","Id field of product link is required",module,Magento_Bundle
 "Can not find product link with id ""%1""","Can not find product link with id ""%1""",module,Magento_Bundle
 "Could not save child: ""%1""","Could not save child: ""%1""",module,Magento_Bundle
 "Product with specified sku: ""%1"" does not contain option: ""%2""","Product with specified sku: ""%1"" does not contain option: ""%2""",module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Child with specified sku: ""%1"" already assigned to product: ""%2""",module,Magento_Bundle
-"Product with specified sku: %1 is not a bundle product","Product with specified sku: %1 is not a bundle product",module,Magento_Bundle
-"Requested bundle option product doesn't exist","Requested bundle option product doesn't exist",module,Magento_Bundle
-"Requested option doesn't exist","Requested option doesn't exist",module,Magento_Bundle
+"Product with specified sku: %1 is not a bundle product","產品 sku: %1 不是捆綁產品",module,Magento_Bundle
+"Requested bundle option product doesn't exist","要求的捆綁選項產品不存在",module,Magento_Bundle
+"Requested option doesn't exist","要求的選項不存在",module,Magento_Bundle
 "Cannot delete option with id %1","Cannot delete option with id %1",module,Magento_Bundle
 "Could not save option","Could not save option",module,Magento_Bundle
-"As Low as","As Low as",module,Magento_Bundle
-"Price Range","Price Range",module,Magento_Bundle
-"Please specify product option(s).","Please specify product option(s).",module,Magento_Bundle
-"The options you selected are not available.","The options you selected are not available.",module,Magento_Bundle
-"The required options you selected are not available.","The required options you selected are not available.",module,Magento_Bundle
-"Please select all required options.","Please select all required options.",module,Magento_Bundle
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Bundle
+"As Low as","低至",module,Magento_Bundle
+"Price Range","價格範圍",module,Magento_Bundle
+"Please specify product option(s).","請說明產品選項.",module,Magento_Bundle
+"The options you selected are not available.","您選擇的選項不存在.",module,Magento_Bundle
+"The required options you selected are not available.","您選擇的所需選項不存在.",module,Magento_Bundle
+"Please select all required options.","請選擇所需的所有選項.",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","我們無法將這個項目現在添加到您的購物車.",module,Magento_Bundle
 N/A,N/A,module,Magento_Bundle
-Percent,Percent,module,Magento_Bundle
-None,None,module,Magento_Bundle
-Quantity:,Quantity:,module,Magento_Bundle
-"Choose a selection...","Choose a selection...",module,Magento_Bundle
-"Ship Bundle Items","Ship Bundle Items",module,Magento_Bundle
-Separately,Separately,module,Magento_Bundle
-Together,Together,module,Magento_Bundle
-"Option Title","Option Title",module,Magento_Bundle
-"Store View Title","Store View Title",module,Magento_Bundle
-"Input Type","Input Type",module,Magento_Bundle
-Required,Required,module,Magento_Bundle
-Position,Position,module,Magento_Bundle
-"There are no products in this option.","There are no products in this option.",module,Magento_Bundle
-"New Option","New Option",module,Magento_Bundle
-Default,Default,module,Magento_Bundle
-Name,Name,module,Magento_Bundle
-"Price Type","Price Type",module,Magento_Bundle
-"Default Quantity","Default Quantity",module,Magento_Bundle
-"User Defined","User Defined",module,Magento_Bundle
-Ordered,Ordered,module,Magento_Bundle
-Invoiced,Invoiced,module,Magento_Bundle
-Shipped,Shipped,module,Magento_Bundle
-Refunded,Refunded,module,Magento_Bundle
-Canceled,Canceled,module,Magento_Bundle
-"As low as","As low as",module,Magento_Bundle
-"Regular Price","Regular Price",module,Magento_Bundle
-From,From,module,Magento_Bundle
-To,To,module,Magento_Bundle
-"Buy %1 with %2 discount each","Buy %1 with %2 discount each",module,Magento_Bundle
-"Go back to product details","Go back to product details",module,Magento_Bundle
-"Customize and Add to Cart","Customize and Add to Cart",module,Magento_Bundle
-"* Required Fields","* Required Fields",module,Magento_Bundle
-"Your Customization","Your Customization",module,Magento_Bundle
-Availability,Availability,module,Magento_Bundle
+Percent,百分率,module,Magento_Bundle
+None,無,module,Magento_Bundle
+Quantity:,數量:,module,Magento_Bundle
+"Choose a selection...","選擇一種...",module,Magento_Bundle
+"Ship Bundle Items","運送捆綁項目",module,Magento_Bundle
+Separately,分別,module,Magento_Bundle
+Together,一起,module,Magento_Bundle
+"Option Title","選項標題",module,Magento_Bundle
+"Store View Title","商店視圖標題",module,Magento_Bundle
+"Input Type","輸入類型",module,Magento_Bundle
+Required,必要,module,Magento_Bundle
+Position,位置,module,Magento_Bundle
+"There are no products in this option.","沒有產品在這個選項.",module,Magento_Bundle
+"New Option","新選項",module,Magento_Bundle
+Default,默認,module,Magento_Bundle
+Name,名稱,module,Magento_Bundle
+"Price Type","價格類型",module,Magento_Bundle
+"Default Quantity","默認數量",module,Magento_Bundle
+"User Defined","用戶自定義",module,Magento_Bundle
+Ordered,已下單,module,Magento_Bundle
+Invoiced,已開發票,module,Magento_Bundle
+Shipped,已送貨,module,Magento_Bundle
+Refunded,已退款,module,Magento_Bundle
+Canceled,已取消,module,Magento_Bundle
+"As low as","低至",module,Magento_Bundle
+"Regular Price","正常價格",module,Magento_Bundle
+From,由,module,Magento_Bundle
+To,至,module,Magento_Bundle
+"Buy %1 with %2 discount each","購買 %1 即可享有 %2 折扣（每件貨品)",module,Magento_Bundle
+"Go back to product details","返回到產品細節",module,Magento_Bundle
+"Customize and Add to Cart","自定義和加入購物車",module,Magento_Bundle
+"* Required Fields","* 必需填寫",module,Magento_Bundle
+"Your Customization","您的自定義",module,Magento_Bundle
+Availability,現貨供應,module,Magento_Bundle
 "In stock","In stock",module,Magento_Bundle
 "Out of stock","Out of stock",module,Magento_Bundle
 Summary,Summary,module,Magento_Bundle
