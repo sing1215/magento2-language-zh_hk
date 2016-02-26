@@ -798,206 +798,206 @@ Reset,重置,module,Magento_Catalog
 "Use All Available Attributes","使用所有可用屬性",module,Magento_Catalog
 "Custom Design","定制設計",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
-Name,Name,module,Magento_Catalog
+Name,名稱,module,Magento_Catalog
 SKU,SKU,module,Magento_Catalog
-Price,Price,module,Magento_Catalog
-Position,Position,module,Magento_Catalog
-"Category Data","Category Data",module,Magento_Catalog
-"Category Products","Category Products",module,Magento_Catalog
-"Add Subcategory","Add Subcategory",module,Magento_Catalog
-"Add Root Category","Add Root Category",module,Magento_Catalog
-Day,Day,module,Magento_Catalog
-Month,Month,module,Magento_Catalog
-Year,Year,module,Magento_Catalog
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>",module,Magento_Catalog
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>",module,Magento_Catalog
+Price,價格,module,Magento_Catalog
+Position,位置,module,Magento_Catalog
+"Category Data","分類數據",module,Magento_Catalog
+"Category Products","分類產品",module,Magento_Catalog
+"Add Subcategory","添加子類別",module,Magento_Catalog
+"Add Root Category","添加頂層類別",module,Magento_Catalog
+Day,日,module,Magento_Catalog
+Month,月,module,Magento_Catalog
+Year,年,module,Magento_Catalog
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>由</span></label>",module,Magento_Catalog
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>至</span></label>",module,Magento_Catalog
 [GLOBAL],[GLOBAL],module,Magento_Catalog
 [WEBSITE],[WEBSITE],module,Magento_Catalog
 "[STORE VIEW]","[STORE VIEW]",module,Magento_Catalog
 "WYSIWYG Editor","WYSIWYG Editor",module,Magento_Catalog
-"Add Product","Add Product",module,Magento_Catalog
+"Add Product","添加產品",module,Magento_Catalog
 label,label,module,Magento_Catalog
-"Product Attributes","Product Attributes",module,Magento_Catalog
-"Add New Attribute","Add New Attribute",module,Magento_Catalog
-"Save in New Attribute Set","Save in New Attribute Set",module,Magento_Catalog
-"Enter Name for New Attribute Set","Enter Name for New Attribute Set",module,Magento_Catalog
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Catalog
-"Save Attribute","Save Attribute",module,Magento_Catalog
-"Delete Attribute","Delete Attribute",module,Magento_Catalog
-"Edit Product Attribute ""%1""","Edit Product Attribute ""%1""",module,Magento_Catalog
-"New Product Attribute","New Product Attribute",module,Magento_Catalog
-"Advanced Attribute Properties","Advanced Attribute Properties",module,Magento_Catalog
-"Attribute Code","Attribute Code",module,Magento_Catalog
+"Product Attributes","產品屬性",module,Magento_Catalog
+"Add New Attribute","添加新屬性",module,Magento_Catalog
+"Save in New Attribute Set","保存至新屬性集",module,Magento_Catalog
+"Enter Name for New Attribute Set","輸入新屬性集的名稱",module,Magento_Catalog
+"Save and Continue Edit","保存並繼續編輯",module,Magento_Catalog
+"Save Attribute","保存屬性",module,Magento_Catalog
+"Delete Attribute","刪除屬性",module,Magento_Catalog
+"Edit Product Attribute ""%1""","編輯產品屬性 ""%1""",module,Magento_Catalog
+"New Product Attribute","新產品屬性",module,Magento_Catalog
+"Advanced Attribute Properties","屬性的進階特性",module,Magento_Catalog
+"Attribute Code","屬性碼",module,Magento_Catalog
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Catalog
-"Default Value","Default Value",module,Magento_Catalog
-"Unique Value","Unique Value",module,Magento_Catalog
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Catalog
-"Not shared with other products","Not shared with other products",module,Magento_Catalog
-"Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Catalog
-"Add to Column Options","Add to Column Options",module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Use in Filter Options","Use in Filter Options",module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
-"Store View","Store View",module,Magento_Catalog
-Website,Website,module,Magento_Catalog
+"Default Value","默認值",module,Magento_Catalog
+"Unique Value","唯一數值",module,Magento_Catalog
+"Unique Value (not shared with other products)","唯一數值（不與其他產品共用）",module,Magento_Catalog
+"Not shared with other products","不與其他產品共用",module,Magento_Catalog
+"Input Validation for Store Owner","店主的輸入驗證",module,Magento_Catalog
+"Add to Column Options","添加到列選項",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","選擇 ""是"" 將這個屬性添加到產品網格中的列選項列表.",module,Magento_Catalog
+"Use in Filter Options","在過濾器選項中使用",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","選擇 ""是"" 將這個屬性添加到產品網格中的過濾選項列表.",module,Magento_Catalog
+"Store View","商店視圖",module,Magento_Catalog
+Website,網站,module,Magento_Catalog
 Global,Global,module,Magento_Catalog
 Scope,Scope,module,Magento_Catalog
 "Declare attribute value saving scope","Declare attribute value saving scope",module,Magento_Catalog
-"Storefront Properties","Storefront Properties",module,Magento_Catalog
-"Use in Search","Use in Search",module,Magento_Catalog
-"Visible in Advanced Search","Visible in Advanced Search",module,Magento_Catalog
-"Comparable on Storefront","Comparable on Storefront",module,Magento_Catalog
-"Use for Promo Rule Conditions","Use for Promo Rule Conditions",module,Magento_Catalog
+"Storefront Properties","店面屬性",module,Magento_Catalog
+"Use in Search","在搜索中使用",module,Magento_Catalog
+"Visible in Advanced Search","可在進階搜索中見到",module,Magento_Catalog
+"Comparable on Storefront","在店面上可作比較",module,Magento_Catalog
+"Use for Promo Rule Conditions","用於促銷規則條件",module,Magento_Catalog
 "Enable WYSIWYG","Enable WYSIWYG",module,Magento_Catalog
-"Allow HTML Tags on Storefront","Allow HTML Tags on Storefront",module,Magento_Catalog
-"Visible on Catalog Pages on Storefront","Visible on Catalog Pages on Storefront",module,Magento_Catalog
-"Used in Product Listing","Used in Product Listing",module,Magento_Catalog
-"Depends on design theme","Depends on design theme",module,Magento_Catalog
-"Used for Sorting in Product Listing","Used for Sorting in Product Listing",module,Magento_Catalog
-"Media Image","Media Image",module,Magento_Catalog
-Gallery,Gallery,module,Magento_Catalog
-"System Properties","System Properties",module,Magento_Catalog
-No,No,module,Magento_Catalog
-Yes,Yes,module,Magento_Catalog
-"Data Type for Saving in Database","Data Type for Saving in Database",module,Magento_Catalog
+"Allow HTML Tags on Storefront","在店面上容許使用 HTML Tags",module,Magento_Catalog
+"Visible on Catalog Pages on Storefront","在店面目錄頁看得見",module,Magento_Catalog
+"Used in Product Listing","已使用在產品列表中",module,Magento_Catalog
+"Depends on design theme","依賴於設計主題",module,Magento_Catalog
+"Used for Sorting in Product Listing","用於產品列表中排序",module,Magento_Catalog
+"Media Image","媒體圖片",module,Magento_Catalog
+Gallery,畫廊,module,Magento_Catalog
+"System Properties","系統屬性",module,Magento_Catalog
+No,不是,module,Magento_Catalog
+Yes,是,module,Magento_Catalog
+"Data Type for Saving in Database","保存在數據庫中的數據類型",module,Magento_Catalog
 Text,Text,module,Magento_Catalog
 Varchar,Varchar,module,Magento_Catalog
 Static,Static,module,Magento_Catalog
 Datetime,Datetime,module,Magento_Catalog
 Decimal,Decimal,module,Magento_Catalog
 Integer,Integer,module,Magento_Catalog
-"Globally Editable","Globally Editable",module,Magento_Catalog
-"Attribute Information","Attribute Information",module,Magento_Catalog
-Properties,Properties,module,Magento_Catalog
-"Manage Labels","Manage Labels",module,Magento_Catalog
-Visible,Visible,module,Magento_Catalog
-"Web Site","Web Site",module,Magento_Catalog
-Searchable,Searchable,module,Magento_Catalog
-Comparable,Comparable,module,Magento_Catalog
-"Delete Selected Group","Delete Selected Group",module,Magento_Catalog
-"Add New","Add New",module,Magento_Catalog
-Back,Back,module,Magento_Catalog
-Delete,Delete,module,Magento_Catalog
-"You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?",module,Magento_Catalog
-Save,Save,module,Magento_Catalog
-"New Set Name","New Set Name",module,Magento_Catalog
-"Edit Attribute Set '%1'","Edit Attribute Set '%1'",module,Magento_Catalog
-Empty,Empty,module,Magento_Catalog
-"Add Attribute","Add Attribute",module,Magento_Catalog
-"Add New Group","Add New Group",module,Magento_Catalog
-"Add Group","Add Group",module,Magento_Catalog
-"Edit Attribute Set Name","Edit Attribute Set Name",module,Magento_Catalog
-"For internal use","For internal use",module,Magento_Catalog
-"Based On","Based On",module,Magento_Catalog
-"Add New Attribute Set","Add New Attribute Set",module,Magento_Catalog
-"Add Attribute Set","Add Attribute Set",module,Magento_Catalog
-"Attribute Sets","Attribute Sets",module,Magento_Catalog
-"Close Window","Close Window",module,Magento_Catalog
-"New Product","New Product",module,Magento_Catalog
-"Save & Edit","Save & Edit",module,Magento_Catalog
-"Save & New","Save & New",module,Magento_Catalog
-"Save & Duplicate","Save & Duplicate",module,Magento_Catalog
-"Save & Close","Save & Close",module,Magento_Catalog
-Attributes,Attributes,module,Magento_Catalog
-Change,Change,module,Magento_Catalog
-"Advanced Inventory","Advanced Inventory",module,Magento_Catalog
-Websites,Websites,module,Magento_Catalog
-"Products Information","Products Information",module,Magento_Catalog
-"Category Name","Category Name",module,Magento_Catalog
-"Parent Category","Parent Category",module,Magento_Catalog
+"Globally Editable","可在所有範圍內進行編輯",module,Magento_Catalog
+"Attribute Information","屬性信息",module,Magento_Catalog
+Properties,屬性,module,Magento_Catalog
+"Manage Labels","管理標籤",module,Magento_Catalog
+Visible,可見,module,Magento_Catalog
+"Web Site","網站",module,Magento_Catalog
+Searchable,可檢索,module,Magento_Catalog
+Comparable,可比較,module,Magento_Catalog
+"Delete Selected Group","刪除選定的組",module,Magento_Catalog
+"Add New","添加新",module,Magento_Catalog
+Back,返回,module,Magento_Catalog
+Delete,刪除,module,Magento_Catalog
+"You are about to delete all products in this attribute set. Are you sure you want to do that?","您將要刪除在此屬性設置中的所有產品。你確定要這麼做?",module,Magento_Catalog
+Save,保存,module,Magento_Catalog
+"New Set Name","新集名稱",module,Magento_Catalog
+"Edit Attribute Set '%1'","編輯屬性集 '%1'",module,Magento_Catalog
+Empty,空,module,Magento_Catalog
+"Add Attribute","添加屬性",module,Magento_Catalog
+"Add New Group","添加新組別",module,Magento_Catalog
+"Add Group","添加組別",module,Magento_Catalog
+"Edit Attribute Set Name","編輯屬性集名稱",module,Magento_Catalog
+"For internal use","內部使用",module,Magento_Catalog
+"Based On","基於",module,Magento_Catalog
+"Add New Attribute Set","添加新的屬性集",module,Magento_Catalog
+"Add Attribute Set","添加屬性集",module,Magento_Catalog
+"Attribute Sets","屬性集",module,Magento_Catalog
+"Close Window","關閉視窗",module,Magento_Catalog
+"New Product","新產品",module,Magento_Catalog
+"Save & Edit","保存和編輯",module,Magento_Catalog
+"Save & New","保存並新增",module,Magento_Catalog
+"Save & Duplicate","保存並複製",module,Magento_Catalog
+"Save & Close","保存並關閉",module,Magento_Catalog
+Attributes,屬性,module,Magento_Catalog
+Change,更改,module,Magento_Catalog
+"Advanced Inventory","進階庫存",module,Magento_Catalog
+Websites,網站,module,Magento_Catalog
+"Products Information","產品信息",module,Magento_Catalog
+"Category Name","分類名稱",module,Magento_Catalog
+"Parent Category","父類別",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.",module,Magento_Catalog
-"We saved the price alert subscription.","We saved the price alert subscription.",module,Magento_Catalog
-"We saved the stock notification.","We saved the stock notification.",module,Magento_Catalog
-"There are no customers for this alert.","There are no customers for this alert.",module,Magento_Catalog
-"First Name","First Name",module,Magento_Catalog
-"Last Name","Last Name",module,Magento_Catalog
-Email,Email,module,Magento_Catalog
-"Subscribe Date","Subscribe Date",module,Magento_Catalog
-"Last Notified","Last Notified",module,Magento_Catalog
-"Send Count","Send Count",module,Magento_Catalog
-"New Attribute","New Attribute",module,Magento_Catalog
-Type,Type,module,Magento_Catalog
-"Attribute Set","Attribute Set",module,Magento_Catalog
-Status,Status,module,Magento_Catalog
-Visibility,Visibility,module,Magento_Catalog
-"Add New Option","Add New Option",module,Magento_Catalog
-"Import Options","Import Options",module,Magento_Catalog
-"Use Default","Use Default",module,Magento_Catalog
-Import,Import,module,Magento_Catalog
-"Add New Row","Add New Row",module,Magento_Catalog
-"Delete Row","Delete Row",module,Magento_Catalog
-"Tier Pricing","Tier Pricing",module,Magento_Catalog
-"Default Price","Default Price",module,Magento_Catalog
-"All Websites","All Websites",module,Magento_Catalog
-"ALL GROUPS","ALL GROUPS",module,Magento_Catalog
-"Add Price","Add Price",module,Magento_Catalog
-"Default Values","Default Values",module,Magento_Catalog
-"Related Products","Related Products",module,Magento_Catalog
-Up-sells,Up-sells,module,Magento_Catalog
-Cross-sells,Cross-sells,module,Magento_Catalog
-"Size for %1","Size for %1",module,Magento_Catalog
-"Watermark File for %1","Watermark File for %1",module,Magento_Catalog
-"Position of Watermark for %1","Position of Watermark for %1",module,Magento_Catalog
-"Name in %1","Name in %1",module,Magento_Catalog
-Quantity,Quantity,module,Magento_Catalog
-Edit,Edit,module,Magento_Catalog
-"Are you sure?","Are you sure?",module,Magento_Catalog
-"Change Status","Change Status",module,Magento_Catalog
-"Update Attributes","Update Attributes",module,Magento_Catalog
-"Images and Videos","Images and Videos",module,Magento_Catalog
-"Click here or drag and drop to add images.","Click here or drag and drop to add images.",module,Magento_Catalog
-"Delete image","Delete image",module,Magento_Catalog
-"Make Base","Make Base",module,Magento_Catalog
-Hidden,Hidden,module,Magento_Catalog
-"start typing to search category","start typing to search category",module,Magento_Catalog
-"New Category","New Category",module,Magento_Catalog
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Catalog
-"Add New Images","Add New Images",module,Magento_Catalog
-"Inc. Tax","Inc. Tax",module,Magento_Catalog
-"Does this have a weight?","Does this have a weight?",module,Magento_Catalog
-Product,Product,module,Magento_Catalog
-"Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
-"Low Stock Products","Low Stock Products",module,Magento_Catalog
-"%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
-Home,Home,module,Magento_Catalog
-"Go to Home Page","Go to Home Page",module,Magento_Catalog
-"Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
-"Products Comparison List","Products Comparison List",module,Magento_Catalog
+"We saved the price alert subscription.","價格認購警報已保存.",module,Magento_Catalog
+"We saved the stock notification.","庫存警報已保存.",module,Magento_Catalog
+"There are no customers for this alert.","這個警報沒有客戶.",module,Magento_Catalog
+"First Name","名字",module,Magento_Catalog
+"Last Name","姓",module,Magento_Catalog
+Email,電郵,module,Magento_Catalog
+"Subscribe Date","訂閱日期",module,Magento_Catalog
+"Last Notified","最後通知",module,Magento_Catalog
+"Send Count","發送數目",module,Magento_Catalog
+"New Attribute","新屬性",module,Magento_Catalog
+Type,類型,module,Magento_Catalog
+"Attribute Set","屬性集",module,Magento_Catalog
+Status,狀態,module,Magento_Catalog
+Visibility,能見度,module,Magento_Catalog
+"Add New Option","添加新選項",module,Magento_Catalog
+"Import Options","匯入選項",module,Magento_Catalog
+"Use Default","使用默認",module,Magento_Catalog
+Import,匯入,module,Magento_Catalog
+"Add New Row","添加新行",module,Magento_Catalog
+"Delete Row","刪除行",module,Magento_Catalog
+"Tier Pricing","分層定價",module,Magento_Catalog
+"Default Price","默認價格",module,Magento_Catalog
+"All Websites","所有網站",module,Magento_Catalog
+"ALL GROUPS","所有組別",module,Magento_Catalog
+"Add Price","添加價格",module,Magento_Catalog
+"Default Values","默認值",module,Magento_Catalog
+"Related Products","相關產品",module,Magento_Catalog
+Up-sells,向上行銷,module,Magento_Catalog
+Cross-sells,交叉行銷,module,Magento_Catalog
+"Size for %1","%1 的大小",module,Magento_Catalog
+"Watermark File for %1","%1 的水印文件",module,Magento_Catalog
+"Position of Watermark for %1","%1 的水印位置",module,Magento_Catalog
+"Name in %1","%1 的名稱",module,Magento_Catalog
+Quantity,數量,module,Magento_Catalog
+Edit,編輯,module,Magento_Catalog
+"Are you sure?","您確定?",module,Magento_Catalog
+"Change Status","更改狀態",module,Magento_Catalog
+"Update Attributes","更新屬性",module,Magento_Catalog
+"Images and Videos","圖片和視頻s",module,Magento_Catalog
+"Click here or drag and drop to add images.","點擊這裡或拖放添加圖片.",module,Magento_Catalog
+"Delete image","刪除圖像",module,Magento_Catalog
+"Make Base","製作基本",module,Magento_Catalog
+Hidden,隱藏,module,Magento_Catalog
+"start typing to search category","開始輸入進行類別搜索",module,Magento_Catalog
+"New Category","新類別",module,Magento_Catalog
+"Images (.gif, .jpg, .png)","圖片 (.gif, .jpg, .png)",module,Magento_Catalog
+"Add New Images","添加新圖片",module,Magento_Catalog
+"Inc. Tax","包括稅",module,Magento_Catalog
+"Does this have a weight?","這是否有重量?",module,Magento_Catalog
+Product,產品,module,Magento_Catalog
+"Notify Low Stock RSS","通知低庫存 RSS",module,Magento_Catalog
+"Low Stock Products","低庫存產品",module,Magento_Catalog
+"%1 has reached a quantity of %2.","%1 已經達到了數量 %2.",module,Magento_Catalog
+Home,主頁,module,Magento_Catalog
+"Go to Home Page","往首頁",module,Magento_Catalog
+"Subscribe to RSS Feed","訂閱 RSS 提要",module,Magento_Catalog
+"Products Comparison List","產品比較表",module,Magento_Catalog
 N/A,N/A,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
-"-- Please Select --","-- Please Select --",module,Magento_Catalog
-None,None,module,Magento_Catalog
-"New Products from %1","New Products from %1",module,Magento_Catalog
-"New Products","New Products",module,Magento_Catalog
-"%1 - Special Products","%1 - Special Products",module,Magento_Catalog
-"Click for price","Click for price",module,Magento_Catalog
-"Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
-"Price: %1","Price: %1",module,Magento_Catalog
-"Special Price: %1","Special Price: %1",module,Magento_Catalog
-"Special Products","Special Products",module,Magento_Catalog
-"You deleted the category.","You deleted the category.",module,Magento_Catalog
-"Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
-Categories,Categories,module,Magento_Catalog
-"Manage Catalog Categories","Manage Catalog Categories",module,Magento_Catalog
-"Manage Categories","Manage Categories",module,Magento_Catalog
-"Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
-"There was a category move error.","There was a category move error.",module,Magento_Catalog
-"There was a category move error. %1","There was a category move error. %1",module,Magento_Catalog
-"You moved the category","You moved the category",module,Magento_Catalog
-"Attribute ""%1"" is required.","Attribute ""%1"" is required.",module,Magento_Catalog
-"Something went wrong while saving the category.","Something went wrong while saving the category.",module,Magento_Catalog
-"You saved the category.","You saved the category.",module,Magento_Catalog
-"Please select products for attributes update.","Please select products for attributes update.",module,Magento_Catalog
-"Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products.",module,Magento_Catalog
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_Catalog
-Catalog,Catalog,module,Magento_Catalog
-"Manage Product Attributes","Manage Product Attributes",module,Magento_Catalog
-"We can't delete the attribute.","We can't delete the attribute.",module,Magento_Catalog
-"You deleted the product attribute.","You deleted the product attribute.",module,Magento_Catalog
-"We can't find an attribute to delete.","We can't find an attribute to delete.",module,Magento_Catalog
-"This attribute no longer exists.","This attribute no longer exists.",module,Magento_Catalog
+"-- Please Select --","-- 請選擇 --",module,Magento_Catalog
+None,無,module,Magento_Catalog
+"New Products from %1","來自 %1 的新產品",module,Magento_Catalog
+"New Products","新產品",module,Magento_Catalog
+"%1 - Special Products","%1 - 特別產品",module,Magento_Catalog
+"Click for price","點擊價格",module,Magento_Catalog
+"Special Expires On: %1","特別到期日: %1",module,Magento_Catalog
+"Price: %1","價格: %1",module,Magento_Catalog
+"Special Price: %1","特價: %1",module,Magento_Catalog
+"Special Products","特別產品",module,Magento_Catalog
+"You deleted the category.","您已刪除這類別.",module,Magento_Catalog
+"Something went wrong while trying to delete the category.","嘗試刪除該類別時出了錯.",module,Magento_Catalog
+Categories,類別,module,Magento_Catalog
+"Manage Catalog Categories","管理目錄分類",module,Magento_Catalog
+"Manage Categories","管理類別",module,Magento_Catalog
+"Category is not available for requested store.","分類不適用於要求的商店.",module,Magento_Catalog
+"There was a category move error.","類別移動發生錯誤.",module,Magento_Catalog
+"There was a category move error. %1","類別移動發生錯誤. %1",module,Magento_Catalog
+"You moved the category","你已移動了類別",module,Magento_Catalog
+"Attribute ""%1"" is required.","屬性 ""%1"" 是必須的.",module,Magento_Catalog
+"Something went wrong while saving the category.","保存類別時發生錯誤.",module,Magento_Catalog
+"You saved the category.","你已保存這類別.",module,Magento_Catalog
+"Please select products for attributes update.","請選擇屬性更新的產品.",module,Magento_Catalog
+"Please make sure to define SKU values for all processed products.","請務必定義所有已處理產品的SKU值.",module,Magento_Catalog
+"A total of %1 record(s) were updated.","共有 %1 紀錄已被更新.",module,Magento_Catalog
+"Something went wrong while updating the product(s) attributes.","在更新產品屬性時發生錯誤.",module,Magento_Catalog
+Catalog,目錄,module,Magento_Catalog
+"Manage Product Attributes","管理產品屬性s",module,Magento_Catalog
+"We can't delete the attribute.","我們不能刪除該屬性.",module,Magento_Catalog
+"You deleted the product attribute.","您已刪除產品屬性.",module,Magento_Catalog
+"We can't find an attribute to delete.","我們無法找到一個屬性來刪除.",module,Magento_Catalog
+"This attribute no longer exists.","此屬性已不存在.",module,Magento_Catalog
 "This attribute cannot be edited.","This attribute cannot be edited.",module,Magento_Catalog
 "Edit Product Attribute","Edit Product Attribute",module,Magento_Catalog
 "An attribute set named '%1' already exists.","An attribute set named '%1' already exists.",module,Magento_Catalog
