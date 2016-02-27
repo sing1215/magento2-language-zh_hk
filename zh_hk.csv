@@ -998,206 +998,206 @@ Catalog,目錄,module,Magento_Catalog
 "You deleted the product attribute.","您已刪除產品屬性.",module,Magento_Catalog
 "We can't find an attribute to delete.","我們無法找到一個屬性來刪除.",module,Magento_Catalog
 "This attribute no longer exists.","此屬性已不存在.",module,Magento_Catalog
-"This attribute cannot be edited.","This attribute cannot be edited.",module,Magento_Catalog
-"Edit Product Attribute","Edit Product Attribute",module,Magento_Catalog
-"An attribute set named '%1' already exists.","An attribute set named '%1' already exists.",module,Magento_Catalog
-"Something went wrong while saving the attribute.","Something went wrong while saving the attribute.",module,Magento_Catalog
-"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
-"We can't update the attribute.","We can't update the attribute.",module,Magento_Catalog
-"You saved the product attribute.","You saved the product attribute.",module,Magento_Catalog
-"An attribute with this code already exists.","An attribute with this code already exists.",module,Magento_Catalog
-"An attribute with the same code (%1) already exists.","An attribute with the same code (%1) already exists.",module,Magento_Catalog
-"You duplicated the product.","You duplicated the product.",module,Magento_Catalog
-"This product no longer exists.","This product no longer exists.",module,Magento_Catalog
-Products,Products,module,Magento_Catalog
-"A group with the same name already exists.","A group with the same name already exists.",module,Magento_Catalog
-"Something went wrong while saving this group.","Something went wrong while saving this group.",module,Magento_Catalog
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
-"A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
-"Unable to save product","Unable to save product",module,Magento_Catalog
-"You saved the product.","You saved the product.",module,Magento_Catalog
-"SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2.",module,Magento_Catalog
-"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_Catalog
-"New Attribute Set","New Attribute Set",module,Magento_Catalog
-"The attribute set has been removed.","The attribute set has been removed.",module,Magento_Catalog
-"We can't delete this set right now.","We can't delete this set right now.",module,Magento_Catalog
-"New Set","New Set",module,Magento_Catalog
-"Manage Product Sets","Manage Product Sets",module,Magento_Catalog
-"Manage Attribute Sets","Manage Attribute Sets",module,Magento_Catalog
-"This attribute set no longer exists.","This attribute set no longer exists.",module,Magento_Catalog
-"You saved the attribute set.","You saved the attribute set.",module,Magento_Catalog
-"Something went wrong while saving the attribute set.","Something went wrong while saving the attribute set.",module,Magento_Catalog
-"You added product %1 to the comparison list.","You added product %1 to the comparison list.",module,Magento_Catalog
-"You cleared the comparison list.","You cleared the comparison list.",module,Magento_Catalog
-"Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
-"You removed product %1 from the comparison list.","You removed product %1 from the comparison list.",module,Magento_Catalog
-"1 item","1 item",module,Magento_Catalog
-"%1 items","%1 items",module,Magento_Catalog
-"Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
-Grid,Grid,module,Magento_Catalog
-List,List,module,Magento_Catalog
-All,All,module,Magento_Catalog
-"Product is not loaded","Product is not loaded",module,Magento_Catalog
-"Bad controller interface for showing product","Bad controller interface for showing product",module,Magento_Catalog
-"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",module,Magento_Catalog
-"Sorry, but we can't find the new parent category you selected.","Sorry, but we can't find the new parent category you selected.",module,Magento_Catalog
-"Sorry, but we can't find the new category you selected.","Sorry, but we can't find the new category you selected.",module,Magento_Catalog
-"We can't move the category because the parent category name matches the child category name.","We can't move the category because the parent category name matches the child category name.",module,Magento_Catalog
-"Can't delete root category.","Can't delete root category.",module,Magento_Catalog
-"The value of attribute ""%1"" must be unique.","The value of attribute ""%1"" must be unique.",module,Magento_Catalog
-"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Default Product Listing Sort by does not exist in Available Product Listing Sort By.",module,Magento_Catalog
-"No layout updates","No layout updates",module,Magento_Catalog
-"Products only","Products only",module,Magento_Catalog
-"Static block only","Static block only",module,Magento_Catalog
-"Static block and products","Static block and products",module,Magento_Catalog
-"Please select a static block.","Please select a static block.",module,Magento_Catalog
+"This attribute cannot be edited.","這個屬性不能被編輯.",module,Magento_Catalog
+"Edit Product Attribute","編輯產品屬性",module,Magento_Catalog
+"An attribute set named '%1' already exists.","屬性名稱 '%1' 已存在.",module,Magento_Catalog
+"Something went wrong while saving the attribute.","保存屬性時發生錯誤.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","屬性編碼 ""%1"" 無效. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
+"We can't update the attribute.","我們不能更新屬性.",module,Magento_Catalog
+"You saved the product attribute.","你已保存產品屬性.",module,Magento_Catalog
+"An attribute with this code already exists.","此代碼的屬性已經存在.",module,Magento_Catalog
+"An attribute with the same code (%1) already exists.","具有相同的碼 (%1) 的屬性已經存在.",module,Magento_Catalog
+"You duplicated the product.","您已複製產品.",module,Magento_Catalog
+"This product no longer exists.","本產品已不存在.",module,Magento_Catalog
+Products,產品,module,Magento_Catalog
+"A group with the same name already exists.","相同名稱的組別已經存在.",module,Magento_Catalog
+"Something went wrong while saving this group.","保存組別時發生錯誤.",module,Magento_Catalog
+"A total of %1 record(s) have been deleted.","共有 %1 筆記錄已被刪除.",module,Magento_Catalog
+"A total of %1 record(s) have been updated.","共有 %1 筆記錄已被更新.",module,Magento_Catalog
+"Something went wrong while updating the product(s) status.","在更新產品狀態時出了錯.",module,Magento_Catalog
+"Unable to save product","無法保存產品",module,Magento_Catalog
+"You saved the product.","已保存產品.",module,Magento_Catalog
+"SKU for product %1 has been changed to %2.","產品的 SKU %1 已更新為 %2.",module,Magento_Catalog
+"The image cannot be removed as it has been assigned to the other image role","圖像不能被刪除，因為它已被分配給其他圖像角色",module,Magento_Catalog
+"New Attribute Set","新屬性集",module,Magento_Catalog
+"The attribute set has been removed.","屬性組已被刪除.",module,Magento_Catalog
+"We can't delete this set right now.","我們現在不能刪除該組.",module,Magento_Catalog
+"New Set","新建集",module,Magento_Catalog
+"Manage Product Sets","管理產品集",module,Magento_Catalog
+"Manage Attribute Sets","管理屬性集",module,Magento_Catalog
+"This attribute set no longer exists.","該屬性集已不存在.",module,Magento_Catalog
+"You saved the attribute set.","已保存屬性集.",module,Magento_Catalog
+"Something went wrong while saving the attribute set.","保存屬性集時發生錯誤.",module,Magento_Catalog
+"You added product %1 to the comparison list.","產品 %1 已加進比較清單.",module,Magento_Catalog
+"You cleared the comparison list.","您清除了比較清單.",module,Magento_Catalog
+"Something went wrong  clearing the comparison list.","清除比較清單時出了錯.",module,Magento_Catalog
+"You removed product %1 from the comparison list.","產品 %1 已從比較清單中移除.",module,Magento_Catalog
+"1 item","1 項目",module,Magento_Catalog
+"%1 items","%1 項目",module,Magento_Catalog
+"Invalid attribute %1","屬性 %1 無效",module,Magento_Catalog
+Grid,格,module,Magento_Catalog
+List,表,module,Magento_Catalog
+All,所有,module,Magento_Catalog
+"Product is not loaded","產品沒有加載",module,Magento_Catalog
+"Bad controller interface for showing product","產品展示的控制器接口是壞的",module,Magento_Catalog
+"Make sure the To Date is later than or the same as the From Date.","確保到日期晚於或等同於開始日期.",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","很抱歉，但我們無法找到您所選擇的新的父類.",module,Magento_Catalog
+"Sorry, but we can't find the new category you selected.","很抱歉，但我們無法找到您所選擇的新類別.",module,Magento_Catalog
+"We can't move the category because the parent category name matches the child category name.","因為父類別名稱與子類別名稱相同，我們不能移動類別.",module,Magento_Catalog
+"Can't delete root category.","無法刪除頂層類別.",module,Magento_Catalog
+"The value of attribute ""%1"" must be unique.","屬性的值 ""%1"" 必須是唯一的.",module,Magento_Catalog
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","默認的產品列表排序在可用產品清單排序中不存在.",module,Magento_Catalog
+"No layout updates","沒有佈局更新",module,Magento_Catalog
+"Products only","只有產品",module,Magento_Catalog
+"Static block only","只有靜態區塊",module,Magento_Catalog
+"Static block and products","靜態區塊與產品",module,Magento_Catalog
+"Please select a static block.","請選擇一個靜態區塊.",module,Magento_Catalog
 frontend_label,frontend_label,module,Magento_Catalog
-"Could not save product ""%1"" with position %2 to category %3","Could not save product ""%1"" with position %2 to category %3",module,Magento_Catalog
-"Category does not contain specified product","Category does not contain specified product",module,Magento_Catalog
-"Could not save product ""%product"" with position %position to category %category","Could not save product ""%product"" with position %position to category %category",module,Magento_Catalog
-"Operation do not allow to move a parent category to any of children category","Operation do not allow to move a parent category to any of children category",module,Magento_Catalog
-"Could not move category","Could not move category",module,Magento_Catalog
-"Could not save category: %1","Could not save category: %1",module,Magento_Catalog
-"Cannot delete category with id %1","Cannot delete category with id %1",module,Magento_Catalog
-"-- Please Select a Category --","-- Please Select a Category --",module,Magento_Catalog
-"Grid Only","Grid Only",module,Magento_Catalog
-"List Only","List Only",module,Magento_Catalog
-"Grid (default) / List","Grid (default) / List",module,Magento_Catalog
-"List (default) / Grid","List (default) / Grid",module,Magento_Catalog
-"Automatic (equalize price ranges)","Automatic (equalize price ranges)",module,Magento_Catalog
-"Automatic (equalize product counts)","Automatic (equalize product counts)",module,Magento_Catalog
-Manual,Manual,module,Magento_Catalog
-Fixed,Fixed,module,Magento_Catalog
-Percent,Percent,module,Magento_Catalog
-"-- Please select --","-- Please select --",module,Magento_Catalog
-"Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
-"Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
+"Could not save product ""%1"" with position %2 to category %3","不能保存產品 ""%1"" 在位置 %2 至類別 %3",module,Magento_Catalog
+"Category does not contain specified product","類別不包含指定產品",module,Magento_Catalog
+"Could not save product ""%product"" with position %position to category %category","不能保存產品 ""%product"" 在位置 %position 至類別 %category",module,Magento_Catalog
+"Operation do not allow to move a parent category to any of children category","操作不允許一個父類移動到任何子類別",module,Magento_Catalog
+"Could not move category","無法移動類別",module,Magento_Catalog
+"Could not save category: %1","無法保存類別: %1",module,Magento_Catalog
+"Cannot delete category with id %1","無法刪除ID為 %1 的類別",module,Magento_Catalog
+"-- Please Select a Category --","-- 請選擇一個類別 --",module,Magento_Catalog
+"Grid Only","僅網格",module,Magento_Catalog
+"List Only","僅列表",module,Magento_Catalog
+"Grid (default) / List","網格（默認）/列表",module,Magento_Catalog
+"List (default) / Grid","列表（默認）/網格",module,Magento_Catalog
+"Automatic (equalize price ranges)","自動（均衡價格範圍）",module,Magento_Catalog
+"Automatic (equalize product counts)","自動（均衡產品數量）",module,Magento_Catalog
+Manual,手動,module,Magento_Catalog
+Fixed,固定,module,Magento_Catalog
+Percent,百分比,module,Magento_Catalog
+"-- Please select --","-- 請選擇 --",module,Magento_Catalog
+"Product Thumbnail Itself","產品縮略圖本身",module,Magento_Catalog
+"Parent Product Thumbnail","父產品縮略圖",module,Magento_Catalog
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
 24h,24h,module,Magento_Catalog
-Stretch,Stretch,module,Magento_Catalog
-Tile,Tile,module,Magento_Catalog
-Top/Left,Top/Left,module,Magento_Catalog
-Top/Right,Top/Right,module,Magento_Catalog
-Bottom/Left,Bottom/Left,module,Magento_Catalog
-Bottom/Right,Bottom/Right,module,Magento_Catalog
-Center,Center,module,Magento_Catalog
+Stretch,伸展,module,Magento_Catalog
+Tile,磚狀,module,Magento_Catalog
+Top/Left,左上角,module,Magento_Catalog
+Top/Right,右上角,module,Magento_Catalog
+Bottom/Left,左下角,module,Magento_Catalog
+Bottom/Right,右下角,module,Magento_Catalog
+Center,正中,module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extends \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Unknown EAV indexer type ""%1"".",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_Catalog
-"Bad value was supplied.","Bad value was supplied.",module,Magento_Catalog
+"Bad value was supplied.","供應的值不正確.",module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module",module,Magento_Catalog
-"Unsupported product type ""%1"".","Unsupported product type ""%1"".",module,Magento_Catalog
-"Please correct the category.","Please correct the category.",module,Magento_Catalog
-"Must be category model instance or its id.","Must be category model instance or its id.",module,Magento_Catalog
-"The attribute model is not defined.","The attribute model is not defined.",module,Magento_Catalog
-Category,Category,module,Magento_Catalog
+"Unsupported product type ""%1"".","不支持的產品類型 ""%1"".",module,Magento_Catalog
+"Please correct the category.","請更正類別.",module,Magento_Catalog
+"Must be category model instance or its id.","必須是類模型實例或它的ID.",module,Magento_Catalog
+"The attribute model is not defined.","未定義的屬性模型.",module,Magento_Catalog
+Category,類別,module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
-"%1 was not found in algorithms","%1 was not found in algorithms",module,Magento_Catalog
+"%1 was not found in algorithms","%1 在算法中找不到",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
-"The filter must be an object. Please set the correct filter.","The filter must be an object. Please set the correct filter.",module,Magento_Catalog
-"Clear Price","Clear Price",module,Magento_Catalog
-"%1 and above","%1 and above",module,Magento_Catalog
-"The filters must be an array.","The filters must be an array.",module,Magento_Catalog
-"The image does not exist.","The image does not exist.",module,Magento_Catalog
-"Please correct the image file type.","Please correct the image file type.",module,Magento_Catalog
-"We couldn't move this file: %1.","We couldn't move this file: %1.",module,Magento_Catalog
-"Group price must be a number greater than 0.","Group price must be a number greater than 0.",module,Magento_Catalog
+"The filter must be an object. Please set the correct filter.","過濾器必須是一個對象. 請設置正確的過濾器.",module,Magento_Catalog
+"Clear Price","清除價格",module,Magento_Catalog
+"%1 and above","%1 或以上",module,Magento_Catalog
+"The filters must be an array.","過濾器必須是一個數組.",module,Magento_Catalog
+"The image does not exist.","圖像不存在.",module,Magento_Catalog
+"Please correct the image file type.","請更正圖像文件類型.",module,Magento_Catalog
+"We couldn't move this file: %1.","我們無法移動這個文件: %1.",module,Magento_Catalog
+"Group price must be a number greater than 0.","組合的價格必須大於 0.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","We couldn't copy file %1. Please delete media with non-existing images and try again.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallery converter should be an instance of EntryConverterInterface.",module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","There is no MediaGalleryEntryConverter for given type",module,Magento_Catalog
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",module,Magento_Catalog
-"The value of attribute ""%1"" must be set","The value of attribute ""%1"" must be set",module,Magento_Catalog
-"SKU length should be %1 characters maximum.","SKU length should be %1 characters maximum.",module,Magento_Catalog
-"Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_Catalog
-"We found a duplicate website, tier price, customer group and quantity.","We found a duplicate website, tier price, customer group and quantity.",module,Magento_Catalog
-"Invalid option id %1","Invalid option id %1",module,Magento_Catalog
-"Can not create attribute set based on non product attribute set.","Can not create attribute set based on non product attribute set.",module,Magento_Catalog
-"Can not create attribute set based on not existing attribute set","Can not create attribute set based on not existing attribute set",module,Magento_Catalog
-"Provided Attribute set non product Attribute set.","Provided Attribute set non product Attribute set.",module,Magento_Catalog
-"Use config","Use config",module,Magento_Catalog
-Enabled,Enabled,module,Magento_Catalog
-Disabled,Disabled,module,Magento_Catalog
-"Attribute Set already exists.","Attribute Set already exists.",module,Magento_Catalog
-"Requested product does not support images.","Requested product does not support images.",module,Magento_Catalog
-"The image content is not valid.","The image content is not valid.",module,Magento_Catalog
-"Cannot save product.","Cannot save product.",module,Magento_Catalog
-"Failed to save new media gallery entry.","Failed to save new media gallery entry.",module,Magento_Catalog
-"There is no image with provided ID.","There is no image with provided ID.",module,Magento_Catalog
-"Such product doesn't exist","Such product doesn't exist",module,Magento_Catalog
-"Such image doesn't exist","Such image doesn't exist",module,Magento_Catalog
-"We can't find the image file.","We can't find the image file.",module,Magento_Catalog
-"The option type to get group instance is incorrect.","The option type to get group instance is incorrect.",module,Magento_Catalog
-"Select type options required values rows.","Select type options required values rows.",module,Magento_Catalog
-"Could not save product option","Could not save product option",module,Magento_Catalog
-"Could not remove custom option","Could not remove custom option",module,Magento_Catalog
-"Please specify date required option(s).","Please specify date required option(s).",module,Magento_Catalog
-"Please specify time required option(s).","Please specify time required option(s).",module,Magento_Catalog
-"Please specify product's required option(s).","Please specify product's required option(s).",module,Magento_Catalog
-"The option instance type in options group is incorrect.","The option instance type in options group is incorrect.",module,Magento_Catalog
-"The product instance type in options group is incorrect.","The product instance type in options group is incorrect.",module,Magento_Catalog
-"The configuration item option instance in options group is incorrect.","The configuration item option instance in options group is incorrect.",module,Magento_Catalog
-"The configuration item instance in options group is incorrect.","The configuration item instance in options group is incorrect.",module,Magento_Catalog
-"The BuyRequest instance in options group is incorrect.","The BuyRequest instance in options group is incorrect.",module,Magento_Catalog
-"We can't add the product to the cart because of an option validation issue.","We can't add the product to the cart because of an option validation issue.",module,Magento_Catalog
+"Please enter a number 0 or greater in this field.","請在此字段中輸入一個等於0或更大的數字.",module,Magento_Catalog
+"The value of attribute ""%1"" must be set","屬性的值 ""%1"" 必須設置",module,Magento_Catalog
+"SKU length should be %1 characters maximum.","SKU 的長度最長是 %1 字符.",module,Magento_Catalog
+"Please enter a valid number in this field.","請在此字段中輸入一個有效的數字.",module,Magento_Catalog
+"We found a duplicate website, tier price, customer group and quantity.","我們發現重複的網站，層級價格，客戶群及數量.",module,Magento_Catalog
+"Invalid option id %1","無效的選項 id %1",module,Magento_Catalog
+"Can not create attribute set based on non product attribute set.","基於非產品的屬性集無法創建屬性集.",module,Magento_Catalog
+"Can not create attribute set based on not existing attribute set","基於不存在屬性集無法創建屬性集",module,Magento_Catalog
+"Provided Attribute set non product Attribute set.","提供的屬性集非產品屬性集.",module,Magento_Catalog
+"Use config","使用配置",module,Magento_Catalog
+Enabled,啟用,module,Magento_Catalog
+Disabled,停用,module,Magento_Catalog
+"Attribute Set already exists.","屬性集已經存在.",module,Magento_Catalog
+"Requested product does not support images.","請求的產品不支持圖像.",module,Magento_Catalog
+"The image content is not valid.","圖像內容是無效的.",module,Magento_Catalog
+"Cannot save product.","無法保存產品.",module,Magento_Catalog
+"Failed to save new media gallery entry.","無法保存新媒體庫條目.",module,Magento_Catalog
+"There is no image with provided ID.","提供的ID沒有圖像.",module,Magento_Catalog
+"Such product doesn't exist","這樣的產品不存在",module,Magento_Catalog
+"Such image doesn't exist","這種圖像不存在",module,Magento_Catalog
+"We can't find the image file.","我們無法找到圖像文件.",module,Magento_Catalog
+"The option type to get group instance is incorrect.","獲得組實例的選項類型不正確.",module,Magento_Catalog
+"Select type options required values rows.","選擇類型選項需要行的值.",module,Magento_Catalog
+"Could not save product option","無法保存產品的選擇",module,Magento_Catalog
+"Could not remove custom option","無法刪除自定義選項",module,Magento_Catalog
+"Please specify date required option(s).","請指定日期所需的選項.",module,Magento_Catalog
+"Please specify time required option(s).","請指定時間所需的選項.",module,Magento_Catalog
+"Please specify product's required option(s).","請指定產品的必須選項.",module,Magento_Catalog
+"The option instance type in options group is incorrect.","在選項組的實例類型選項不正確.",module,Magento_Catalog
+"The product instance type in options group is incorrect.","在選項組的產品實例類型不正確.",module,Magento_Catalog
+"The configuration item option instance in options group is incorrect.","在選項組中的配置項選項的實例是不正確.",module,Magento_Catalog
+"The configuration item instance in options group is incorrect.","在選項組中的配置項實例是不正確.",module,Magento_Catalog
+"The BuyRequest instance in options group is incorrect.","在選項組中的 BuyRequest 實例是不正確.",module,Magento_Catalog
+"We can't add the product to the cart because of an option validation issue.","因為一個選項驗證問題，我們無法將產品添加到購物車.",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
-"The file options format is not valid.","The file options format is not valid.",module,Magento_Catalog
+"The file options format is not valid.","該文件選項格式無效.",module,Magento_Catalog
 px.,px.,module,Magento_Catalog
-"The file '%1' for '%2' has an invalid extension.","The file '%1' for '%2' has an invalid extension.",module,Magento_Catalog
-"The maximum allowed image size for '%1' is %2x%3 px.","The maximum allowed image size for '%1' is %2x%3 px.",module,Magento_Catalog
-"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.",module,Magento_Catalog
-"The file '%1' is empty. Please choose another one","The file '%1' is empty. Please choose another one",module,Magento_Catalog
-"The file '%1' is invalid. Please choose another one","The file '%1' is invalid. Please choose another one",module,Magento_Catalog
-"File '%1' is not an image.","File '%1' is not an image.",module,Magento_Catalog
-"Validation failed. Required options were not filled or the file was not uploaded.","Validation failed. Required options were not filled or the file was not uploaded.",module,Magento_Catalog
-"The file you uploaded is larger than %1 Megabytes allowed by server","The file you uploaded is larger than %1 Megabytes allowed by server",module,Magento_Catalog
-"Option required.","Option required.",module,Magento_Catalog
-"The file is empty. Please choose another one","The file is empty. Please choose another one",module,Magento_Catalog
-"Some of the selected item options are not currently available.","Some of the selected item options are not currently available.",module,Magento_Catalog
-"The text is too long.","The text is too long.",module,Magento_Catalog
-"This product doesn't have tier price","This product doesn't have tier price",module,Magento_Catalog
+"The file '%1' for '%2' has an invalid extension.","文件 '%1' for '%2' extension 不正確.",module,Magento_Catalog
+"The maximum allowed image size for '%1' is %2x%3 px.","允許的最大圖像尺寸 '%1' 是 %2x%3 px.",module,Magento_Catalog
+"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","您上載的文件 '%1' 的大小大於侍服器容許的 %2 megabytes.",module,Magento_Catalog
+"The file '%1' is empty. Please choose another one","文件 '%1' 是空的. 請選擇其他",module,Magento_Catalog
+"The file '%1' is invalid. Please choose another one","文件 '%1' 無效. 請選擇其他",module,Magento_Catalog
+"File '%1' is not an image.","文件 '%1' 不是一個圖像.",module,Magento_Catalog
+"Validation failed. Required options were not filled or the file was not uploaded.","驗證失敗。所需的選項沒有填補或文件沒有上傳.",module,Magento_Catalog
+"The file you uploaded is larger than %1 Megabytes allowed by server","您上載的文件的大小大於侍服器容許的 %1 Megabytes",module,Magento_Catalog
+"Option required.","所需的選項.",module,Magento_Catalog
+"The file is empty. Please choose another one","該文件是空的。請選擇其他",module,Magento_Catalog
+"Some of the selected item options are not currently available.","一些所選項目的選項當前不可用.",module,Magento_Catalog
+"The text is too long.","該文本是太長.",module,Magento_Catalog
+"This product doesn't have tier price","此產品沒有價格層",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
-"Invalid data provided for tier_price","Invalid data provided for tier_price",module,Magento_Catalog
-"Please provide valid data","Please provide valid data",module,Magento_Catalog
-"Values of following attributes are invalid: %1","Values of following attributes are invalid: %1",module,Magento_Catalog
-"Could not save group price","Could not save group price",module,Magento_Catalog
-"We can't create writeable directory ""%1"".","We can't create writeable directory ""%1"".",module,Magento_Catalog
-"The file upload failed.","The file upload failed.",module,Magento_Catalog
-"The product has required options.","The product has required options.",module,Magento_Catalog
-"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_Catalog
+"Invalid data provided for tier_price","提供的 tier_price 的數據不正確",module,Magento_Catalog
+"Please provide valid data","請提供有效的數據",module,Magento_Catalog
+"Values of following attributes are invalid: %1","以下屬性的值無效: %1",module,Magento_Catalog
+"Could not save group price","無法保存組價格",module,Magento_Catalog
+"We can't create writeable directory ""%1"".","我們不能創建可寫目錄 ""%1"".",module,Magento_Catalog
+"The file upload failed.","文件上傳失敗.",module,Magento_Catalog
+"The product has required options.","該產品有所需的選項.",module,Magento_Catalog
+"Something went wrong while processing the request.","處理請求時出了錯.",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
-"Not Visible Individually","Not Visible Individually",module,Magento_Catalog
-Search,Search,module,Magento_Catalog
-"Catalog, Search","Catalog, Search",module,Magento_Catalog
-"Something went wrong while removing products from the websites.","Something went wrong while removing products from the websites.",module,Magento_Catalog
-"Something went wrong while adding products to websites.","Something went wrong while adding products to websites.",module,Magento_Catalog
-"Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist.",module,Magento_Catalog
-"Attribute group that contains system attributes can not be deleted","Attribute group that contains system attributes can not be deleted",module,Magento_Catalog
-"Collection provider is not registered","Collection provider is not registered",module,Magento_Catalog
-"Unknown link type: %1","Unknown link type: %1",module,Magento_Catalog
-"Provided link type ""%1"" does not exist","Provided link type ""%1"" does not exist",module,Magento_Catalog
-"Invalid data provided for linked products","Invalid data provided for linked products",module,Magento_Catalog
-"Product with SKU %1 is not linked to product with SKU %2","Product with SKU %1 is not linked to product with SKU %2",module,Magento_Catalog
-"Product %1 doesn't have linked %2 as %3","Product %1 doesn't have linked %2 as %3",module,Magento_Catalog
-"Requested product doesn't exist","Requested product doesn't exist",module,Magento_Catalog
-"Product option with id %1 does not exist","Product option with id %1 does not exist",module,Magento_Catalog
-"Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist",module,Magento_Catalog
-"Invalid product data: %1","Invalid product data: %1",module,Magento_Catalog
-"Unable to remove product %1","Unable to remove product %1",module,Magento_Catalog
-"There are not websites for assign to product","There are not websites for assign to product",module,Magento_Catalog
-"Could not assign product ""%1"" to websites ""%2""","Could not assign product ""%1"" to websites ""%2""",module,Magento_Catalog
-"Could not save product ""%1"" with websites %2","Could not save product ""%1"" with websites %2",module,Magento_Catalog
-"Attribute '%1' is locked. %2","Attribute '%1' is locked. %2",module,Magento_Catalog
-"Do not change the scope. %1","Do not change the scope. %1",module,Magento_Catalog
-"A product type is not defined for the indexer.","A product type is not defined for the indexer.",module,Magento_Catalog
+"Not Visible Individually","不可獨自顯示",module,Magento_Catalog
+Search,搜索,module,Magento_Catalog
+"Catalog, Search","目錄，搜索",module,Magento_Catalog
+"Something went wrong while removing products from the websites.","從網站去除產品時出了錯.",module,Magento_Catalog
+"Something went wrong while adding products to websites.","從網站新加產品時出了錯.",module,Magento_Catalog
+"Group with id ""%1"" does not exist.","有 id ""%1"" 的組別不存在.",module,Magento_Catalog
+"Attribute group that contains system attributes can not be deleted","包含系統屬性的屬性組不能被刪除",module,Magento_Catalog
+"Collection provider is not registered","收集供應商未註冊",module,Magento_Catalog
+"Unknown link type: %1","未知的鏈接類型: %1",module,Magento_Catalog
+"Provided link type ""%1"" does not exist","提供的鏈接類型 ""%1"" 不存在",module,Magento_Catalog
+"Invalid data provided for linked products","提供連結產品的數據無效",module,Magento_Catalog
+"Product with SKU %1 is not linked to product with SKU %2","有 SKU %1 的產品沒有連接到有 SKU %2 的產品",module,Magento_Catalog
+"Product %1 doesn't have linked %2 as %3","產品 %1 沒有連接到 %2 為 %3",module,Magento_Catalog
+"Requested product doesn't exist","請求的產品不存在",module,Magento_Catalog
+"Product option with id %1 does not exist","有 id %1 的產品選項不存在",module,Magento_Catalog
+"Product with SKU ""%1"" does not exist","有 SKU ""%1"" 的產品不存在",module,Magento_Catalog
+"Invalid product data: %1","無效的產品數據: %1",module,Magento_Catalog
+"Unable to remove product %1","無法刪除產品 %1",module,Magento_Catalog
+"There are not websites for assign to product","有不分配到產品的網站",module,Magento_Catalog
+"Could not assign product ""%1"" to websites ""%2""","無法指配產品 ""%1"" 至網站 ""%2""",module,Magento_Catalog
+"Could not save product ""%1"" with websites %2","無法保存產品 ""%1"" 至網站 %2",module,Magento_Catalog
+"Attribute '%1' is locked. %2","屬性 '%1' 被鎖定. %2",module,Magento_Catalog
+"Do not change the scope. %1","不要更改範圍. %1",module,Magento_Catalog
+"A product type is not defined for the indexer.","產品類型沒有為索引定義.",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
-"Multiple Select","Multiple Select",module,Magento_Catalog
-Dropdown,Dropdown,module,Magento_Catalog
+"Multiple Select","多重選擇",module,Magento_Catalog
+Dropdown,下拉列表,module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template",module,Magento_Catalog
-"As low as","As low as",module,Magento_Catalog
-message,message,module,Magento_Catalog
+"As low as","低至",module,Magento_Catalog
+message,信息,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
 Select...,Select...,module,Magento_Catalog
