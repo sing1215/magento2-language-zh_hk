@@ -1200,203 +1200,203 @@ Dropdown,下拉列表,module,Magento_Catalog
 message,信息,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
-Select...,Select...,module,Magento_Catalog
-"Are you sure you want to delete this category?","Are you sure you want to delete this category?",module,Magento_Catalog
+Select...,選擇...,module,Magento_Catalog
+"Are you sure you want to delete this category?","您確定要刪除此類別?",module,Magento_Catalog
 "ID: %1","ID: %1",module,Magento_Catalog
-"Set root category for this store in the <a href=""%1"">configuration</a>.","Set root category for this store in the <a href=""%1"">configuration</a>.",module,Magento_Catalog
-"This operation can take a long time","This operation can take a long time",module,Magento_Catalog
-"Collapse All","Collapse All",module,Magento_Catalog
-"Expand All","Expand All",module,Magento_Catalog
-"Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Magento_Catalog
-"Use Default Value","Use Default Value",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Manage Titles (Size, Color, etc.)",module,Magento_Catalog
-"Manage Options (values of your attribute)","Manage Options (values of your attribute)",module,Magento_Catalog
-"Is Default","Is Default",module,Magento_Catalog
-"Add Option","Add Option",module,Magento_Catalog
-"Sort Option","Sort Option",module,Magento_Catalog
-Groups,Groups,module,Magento_Catalog
-"Double click on a group to rename it.","Double click on a group to rename it.",module,Magento_Catalog
-"Unassigned Attributes","Unassigned Attributes",module,Magento_Catalog
-"A name is required.","A name is required.",module,Magento_Catalog
-"This group contains system attributes. Please move system attributes to another group and try again.","This group contains system attributes. Please move system attributes to another group and try again.",module,Magento_Catalog
-"Please enter a new group name.","Please enter a new group name.",module,Magento_Catalog
-"An attribute group named \"/name/\" already exists\".","An attribute group named \"/name/\" already exists\".",module,Magento_Catalog
-"Sorry, we're unable to complete this request.","Sorry, we're unable to complete this request.",module,Magento_Catalog
-"You can't remove attributes from this attribute set.","You can't remove attributes from this attribute set.",module,Magento_Catalog
-"Custom Options","Custom Options",module,Magento_Catalog
-"This is a required option.","This is a required option.",module,Magento_Catalog
-"The field isn't complete.","The field isn't complete.",module,Magento_Catalog
-"Compatible file extensions to upload","Compatible file extensions to upload",module,Magento_Catalog
-"Maximum image width","Maximum image width",module,Magento_Catalog
-"Maximum image height","Maximum image height",module,Magento_Catalog
-"Maximum number of characters:","Maximum number of characters:",module,Magento_Catalog
-"start typing to search template","start typing to search template",module,Magento_Catalog
-"Product online","Product online",module,Magento_Catalog
-"Product offline","Product offline",module,Magento_Catalog
-"Product online status","Product online status",module,Magento_Catalog
-"Manage Stock","Manage Stock",module,Magento_Catalog
-Qty,Qty,module,Magento_Catalog
-"Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_Catalog
-"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Qty Uses Decimals","Qty Uses Decimals",module,Magento_Catalog
-Backorders,Backorders,module,Magento_Catalog
-"Notify for Quantity Below","Notify for Quantity Below",module,Magento_Catalog
-"Enable Qty Increments","Enable Qty Increments",module,Magento_Catalog
-"Qty Increments","Qty Increments",module,Magento_Catalog
-"Stock Availability","Stock Availability",module,Magento_Catalog
-"In Stock","In Stock",module,Magento_Catalog
-"Out of Stock","Out of Stock",module,Magento_Catalog
-"Add Product To Websites","Add Product To Websites",module,Magento_Catalog
-"Remove Product From Websites","Remove Product From Websites",module,Magento_Catalog
-"To hide an item in catalog or search results, set the status to ""Disabled"".","To hide an item in catalog or search results, set the status to ""Disabled"".",module,Magento_Catalog
-"We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Catalog
-"Delete Custom Option","Delete Custom Option",module,Magento_Catalog
-"Sort Custom Options","Sort Custom Options",module,Magento_Catalog
-"Option Title","Option Title",module,Magento_Catalog
-"Input Type","Input Type",module,Magento_Catalog
-Required,Required,module,Magento_Catalog
-"Price Type","Price Type",module,Magento_Catalog
-"Compatible File Extensions","Compatible File Extensions",module,Magento_Catalog
-"Maximum Image Size","Maximum Image Size",module,Magento_Catalog
+"Set root category for this store in the <a href=""%1"">configuration</a>.","在 <a href=""%1"">配置</a> 中設定這商店的頂層類別.",module,Magento_Catalog
+"This operation can take a long time","此操作可能需要很長的時間",module,Magento_Catalog
+"Collapse All","全部收縮",module,Magento_Catalog
+"Expand All","展開全部",module,Magento_Catalog
+"Please confirm site switching. All data that hasn't been saved will be lost.","請確認網站切換。將丟失所有尚未保存的數據.",module,Magento_Catalog
+"Use Default Value","使用默認值",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","管理標題（大小，顏色等）",module,Magento_Catalog
+"Manage Options (values of your attribute)","管理選項（你的屬性的值）",module,Magento_Catalog
+"Is Default","是默認",module,Magento_Catalog
+"Add Option","添加選項",module,Magento_Catalog
+"Sort Option","排序選項",module,Magento_Catalog
+Groups,組,module,Magento_Catalog
+"Double click on a group to rename it.","雙點擊將其重新命名.",module,Magento_Catalog
+"Unassigned Attributes","未分配的屬性",module,Magento_Catalog
+"A name is required.","名稱是必需的.",module,Magento_Catalog
+"This group contains system attributes. Please move system attributes to another group and try again.","該組包含系統屬性。請移動系統屬性到另一個組，然後再試一次.",module,Magento_Catalog
+"Please enter a new group name.","請輸入新的組名.",module,Magento_Catalog
+"An attribute group named \"/name/\" already exists\".","屬性組名稱 \"/name/\" 已存在\".",module,Magento_Catalog
+"Sorry, we're unable to complete this request.","很抱歉，我們無法完成這一請求.",module,Magento_Catalog
+"You can't remove attributes from this attribute set.","您無法從該屬性集刪除屬性.",module,Magento_Catalog
+"Custom Options","自定義選項",module,Magento_Catalog
+"This is a required option.","這是一個必需的選項.",module,Magento_Catalog
+"The field isn't complete.","輸入字段是不完整.",module,Magento_Catalog
+"Compatible file extensions to upload","要上傳的兼容的文件的擴展名",module,Magento_Catalog
+"Maximum image width","最大圖像寬度",module,Magento_Catalog
+"Maximum image height","最大圖像高度",module,Magento_Catalog
+"Maximum number of characters:","最大字符數:",module,Magento_Catalog
+"start typing to search template","開始輸入搜索模板",module,Magento_Catalog
+"Product online","產品在線",module,Magento_Catalog
+"Product offline","產品離線",module,Magento_Catalog
+"Product online status","產品在線狀態",module,Magento_Catalog
+"Manage Stock","庫存管理",module,Magento_Catalog
+Qty,數量,module,Magento_Catalog
+"Out-of-Stock Threshold","缺貨的閾值",module,Magento_Catalog
+"Minimum Qty Allowed in Shopping Cart","允許在購物車的最低數量",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","允許在購物車的最高數量",module,Magento_Catalog
+"Qty Uses Decimals","數量使用小數",module,Magento_Catalog
+Backorders,延交訂單,module,Magento_Catalog
+"Notify for Quantity Below","通知的數量低於",module,Magento_Catalog
+"Enable Qty Increments","啟用數量遞增",module,Magento_Catalog
+"Qty Increments","數量遞增",module,Magento_Catalog
+"Stock Availability","庫存可用性",module,Magento_Catalog
+"In Stock","有現貨",module,Magento_Catalog
+"Out of Stock","缺貨",module,Magento_Catalog
+"Add Product To Websites","添加產品到網站",module,Magento_Catalog
+"Remove Product From Websites","從網站刪除產品",module,Magento_Catalog
+"To hide an item in catalog or search results, set the status to ""Disabled"".","要從目錄或搜索結果中隱藏項目, 請將狀態設定為 ""停用"".",module,Magento_Catalog
+"We can't save custom-defined options for bundles with dynamic pricing.","我們無法保存動態定價的捆綁貨品的自定義的選項.",module,Magento_Catalog
+"Delete Custom Option","刪除自定義選項",module,Magento_Catalog
+"Sort Custom Options","排序自定義選項",module,Magento_Catalog
+"Option Title","選項標題",module,Magento_Catalog
+"Input Type","輸入類型",module,Magento_Catalog
+Required,必須,module,Magento_Catalog
+"Price Type","價格類型",module,Magento_Catalog
+"Compatible File Extensions","兼容的文件擴展名",module,Magento_Catalog
+"Maximum Image Size","最大圖像尺寸",module,Magento_Catalog
 "%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>",module,Magento_Catalog
-"Please leave blank if it is not an image.","Please leave blank if it is not an image.",module,Magento_Catalog
-Title,Title,module,Magento_Catalog
-"Sort Custom Option","Sort Custom Option",module,Magento_Catalog
-"Max Characters","Max Characters",module,Magento_Catalog
-"Customer Group","Customer Group",module,Magento_Catalog
-"Item Price","Item Price",module,Magento_Catalog
-Action,Action,module,Magento_Catalog
-"and above","and above",module,Magento_Catalog
-"Delete Tier","Delete Tier",module,Magento_Catalog
-"Product In Websites","Product In Websites",module,Magento_Catalog
-"(Copy data from: %1)","(Copy data from: %1)",module,Magento_Catalog
-"Alt Text","Alt Text",module,Magento_Catalog
-Role,Role,module,Magento_Catalog
-"Hide from Product Page","Hide from Product Page",module,Magento_Catalog
-"Close panel","Close panel",module,Magento_Catalog
-"Product Alerts","Product Alerts",module,Magento_Catalog
-"Allow Multiple Boxes for Shipping.","Allow Multiple Boxes for Shipping.",module,Magento_Catalog
-"start typing to search attribute","start typing to search attribute",module,Magento_Catalog
-"Basic Settings","Basic Settings",module,Magento_Catalog
-"Advanced Settings","Advanced Settings",module,Magento_Catalog
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Catalog
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Catalog
-Actions,Actions,module,Magento_Catalog
-"Mass Actions","Mass Actions",module,Magento_Catalog
-"Select All","Select All",module,Magento_Catalog
-"Unselect All","Unselect All",module,Magento_Catalog
-"Select Visible","Select Visible",module,Magento_Catalog
-"Unselect Visible","Unselect Visible",module,Magento_Catalog
-"Special Price","Special Price",module,Magento_Catalog
-"Regular Price","Regular Price",module,Magento_Catalog
-"Buy %1 for: ","Buy %1 for: ",module,Magento_Catalog
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
-"Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
-"Shop By","Shop By",module,Magento_Catalog
-"Shopping Options","Shopping Options",module,Magento_Catalog
-"Compare Products","Compare Products",module,Magento_Catalog
-"Print This Page","Print This Page",module,Magento_Catalog
-"Remove Product","Remove Product",module,Magento_Catalog
-"Add to Cart","Add to Cart",module,Magento_Catalog
-"In stock","In stock",module,Magento_Catalog
-"Out of stock","Out of stock",module,Magento_Catalog
-"Add to Wish List","Add to Wish List",module,Magento_Catalog
-"You have no items to compare.","You have no items to compare.",module,Magento_Catalog
-"Remove This Item","Remove This Item",module,Magento_Catalog
-Compare,Compare,module,Magento_Catalog
-"Clear All","Clear All",module,Magento_Catalog
-Prev,Prev,module,Magento_Catalog
-Next,Next,module,Magento_Catalog
-"We can't find products matching the selection.","We can't find products matching the selection.",module,Magento_Catalog
-"Add to Compare","Add to Compare",module,Magento_Catalog
-"Learn More","Learn More",module,Magento_Catalog
-"We found other products you might like!","We found other products you might like!",module,Magento_Catalog
-"More Choices:","More Choices:",module,Magento_Catalog
-"Check items to add to the cart or","Check items to add to the cart or",module,Magento_Catalog
-"select all","select all",module,Magento_Catalog
-"Items %1-%2 of %3","Items %1-%2 of %3",module,Magento_Catalog
-"%1 Item","%1 Item",module,Magento_Catalog
-"%1 Items","%1 Items",module,Magento_Catalog
-Show,Show,module,Magento_Catalog
-"per page","per page",module,Magento_Catalog
-"Sort By","Sort By",module,Magento_Catalog
-"Set Ascending Direction","Set Ascending Direction",module,Magento_Catalog
-"Set Descending Direction","Set Descending Direction",module,Magento_Catalog
-"View as","View as",module,Magento_Catalog
-"More Information","More Information",module,Magento_Catalog
-Loading...,Loading...,module,Magento_Catalog
-"* Required Fields","* Required Fields",module,Magento_Catalog
-Availability,Availability,module,Magento_Catalog
-"Terms and Conditions","Terms and Conditions",module,Magento_CheckoutAgreements
-"Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
-"Save Condition","Save Condition",module,Magento_CheckoutAgreements
-"Delete Condition","Delete Condition",module,Magento_CheckoutAgreements
-"Edit Terms and Conditions","Edit Terms and Conditions",module,Magento_CheckoutAgreements
-"New Terms and Conditions","New Terms and Conditions",module,Magento_CheckoutAgreements
-"Terms and Conditions Information","Terms and Conditions Information",module,Magento_CheckoutAgreements
-"Condition Name","Condition Name",module,Magento_CheckoutAgreements
-Status,Status,module,Magento_CheckoutAgreements
-Enabled,Enabled,module,Magento_CheckoutAgreements
-Disabled,Disabled,module,Magento_CheckoutAgreements
-"Show Content as","Show Content as",module,Magento_CheckoutAgreements
-Text,Text,module,Magento_CheckoutAgreements
+"Please leave blank if it is not an image.","請留下空白，如果它不是一個圖像.",module,Magento_Catalog
+Title,標題,module,Magento_Catalog
+"Sort Custom Option","排序自定義選項",module,Magento_Catalog
+"Max Characters","最大字符數",module,Magento_Catalog
+"Customer Group","客戶群組",module,Magento_Catalog
+"Item Price","項目價格",module,Magento_Catalog
+Action,操作,module,Magento_Catalog
+"and above","及以上",module,Magento_Catalog
+"Delete Tier","刪除層",module,Magento_Catalog
+"Product In Websites","網站中的產品",module,Magento_Catalog
+"(Copy data from: %1)","(從: %1 複製數據)",module,Magento_Catalog
+"Alt Text","替換文本",module,Magento_Catalog
+Role,角色,module,Magento_Catalog
+"Hide from Product Page","從產品頁面隱藏",module,Magento_Catalog
+"Close panel","關閉面板",module,Magento_Catalog
+"Product Alerts","產品警報",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping.","允許用多個盒子送貨.",module,Magento_Catalog
+"start typing to search attribute","開始鍵入要搜索的屬性",module,Magento_Catalog
+"Basic Settings","基本設置",module,Magento_Catalog
+"Advanced Settings","進階設置",module,Magento_Catalog
+"Changes have been made to this section that have not been saved.","本節中尚未保存的已經作了的修改.",module,Magento_Catalog
+"This tab contains invalid data. Please resolve this before saving.","此標籤頁包含無效數據。請在保存之前先解決.",module,Magento_Catalog
+Actions,操作,module,Magento_Catalog
+"Mass Actions","大量操作",module,Magento_Catalog
+"Select All","全選",module,Magento_Catalog
+"Unselect All","全部取消選擇",module,Magento_Catalog
+"Select Visible","選擇可見的",module,Magento_Catalog
+"Unselect Visible","取消選擇可見的",module,Magento_Catalog
+"Special Price","特價",module,Magento_Catalog
+"Regular Price","正常價格",module,Magento_Catalog
+"Buy %1 for: ","購買 %1 以: ",module,Magento_Catalog
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","購買 %1 以 %2 （每個）及 <strong class=""benefit"">節省<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
+"Buy %1 for %2 each","購買 %1 以 %2 （每個）",module,Magento_Catalog
+"Shop By","購物（由）",module,Magento_Catalog
+"Shopping Options","購物選項",module,Magento_Catalog
+"Compare Products","產品比較",module,Magento_Catalog
+"Print This Page","打印此頁",module,Magento_Catalog
+"Remove Product","刪除產品",module,Magento_Catalog
+"Add to Cart","添加到購物車",module,Magento_Catalog
+"In stock","有現貨",module,Magento_Catalog
+"Out of stock","缺貨",module,Magento_Catalog
+"Add to Wish List","加入收藏",module,Magento_Catalog
+"You have no items to compare.","您沒有可比較的項目.",module,Magento_Catalog
+"Remove This Item","刪除該項目",module,Magento_Catalog
+Compare,比較,module,Magento_Catalog
+"Clear All","全部清除",module,Magento_Catalog
+Prev,上一頁,module,Magento_Catalog
+Next,下一頁,module,Magento_Catalog
+"We can't find products matching the selection.","我們無法找到匹配的商品選擇.",module,Magento_Catalog
+"Add to Compare","加入比較",module,Magento_Catalog
+"Learn More","了解更多",module,Magento_Catalog
+"We found other products you might like!","我們發現您可能會喜歡的其他產品!",module,Magento_Catalog
+"More Choices:","更多選擇:",module,Magento_Catalog
+"Check items to add to the cart or","選擇產品添加至購物車或",module,Magento_Catalog
+"select all","全選",module,Magento_Catalog
+"Items %1-%2 of %3","項目 %1-%2 從總數 %3",module,Magento_Catalog
+"%1 Item","%1 項目",module,Magento_Catalog
+"%1 Items","%1 項目",module,Magento_Catalog
+Show,顯示,module,Magento_Catalog
+"per page","每頁",module,Magento_Catalog
+"Sort By","排序方式",module,Magento_Catalog
+"Set Ascending Direction","設為升序",module,Magento_Catalog
+"Set Descending Direction","設為降序",module,Magento_Catalog
+"View as","查看",module,Magento_Catalog
+"More Information","更多信息",module,Magento_Catalog
+Loading...,加載...,module,Magento_Catalog
+"* Required Fields","* 必填字段",module,Magento_Catalog
+Availability,可用性,module,Magento_Catalog
+"Terms and Conditions","條款和條件",module,Magento_CheckoutAgreements
+"Add New Condition","添加新條件",module,Magento_CheckoutAgreements
+"Save Condition","保存條件",module,Magento_CheckoutAgreements
+"Delete Condition","刪除條件",module,Magento_CheckoutAgreements
+"Edit Terms and Conditions","編輯條款和條件",module,Magento_CheckoutAgreements
+"New Terms and Conditions","新的條款和條件",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","條款和條件的信息",module,Magento_CheckoutAgreements
+"Condition Name","條件名稱",module,Magento_CheckoutAgreements
+Status,狀態,module,Magento_CheckoutAgreements
+Enabled,啟用,module,Magento_CheckoutAgreements
+Disabled,停用,module,Magento_CheckoutAgreements
+"Show Content as","顯示內容為",module,Magento_CheckoutAgreements
+Text,文本,module,Magento_CheckoutAgreements
 HTML,HTML,module,Magento_CheckoutAgreements
-Applied,Applied,module,Magento_CheckoutAgreements
-"Store View","Store View",module,Magento_CheckoutAgreements
-"Checkbox Text","Checkbox Text",module,Magento_CheckoutAgreements
-Content,Content,module,Magento_CheckoutAgreements
-"Content Height (css)","Content Height (css)",module,Magento_CheckoutAgreements
-"Content Height","Content Height",module,Magento_CheckoutAgreements
+Applied,已應用,module,Magento_CheckoutAgreements
+"Store View","商店視圖",module,Magento_CheckoutAgreements
+"Checkbox Text","複選框文字",module,Magento_CheckoutAgreements
+Content,內容,module,Magento_CheckoutAgreements
+"Content Height (css)","內容高度 (css)",module,Magento_CheckoutAgreements
+"Content Height","內容高度",module,Magento_CheckoutAgreements
 ID,ID,module,Magento_CheckoutAgreements
-Condition,Condition,module,Magento_CheckoutAgreements
-Sales,Sales,module,Magento_CheckoutAgreements
-"Checkout Conditions","Checkout Conditions",module,Magento_CheckoutAgreements
-"Checkout Terms and Conditions","Checkout Terms and Conditions",module,Magento_CheckoutAgreements
-"This condition no longer exists.","This condition no longer exists.",module,Magento_CheckoutAgreements
-"You deleted the condition.","You deleted the condition.",module,Magento_CheckoutAgreements
-"Something went wrong  while deleting this condition.","Something went wrong  while deleting this condition.",module,Magento_CheckoutAgreements
-"Edit Condition","Edit Condition",module,Magento_CheckoutAgreements
-"New Condition","New Condition",module,Magento_CheckoutAgreements
-"You saved the condition.","You saved the condition.",module,Magento_CheckoutAgreements
-"Something went wrong while saving this condition.","Something went wrong while saving this condition.",module,Magento_CheckoutAgreements
-Automatically,Automatically,module,Magento_CheckoutAgreements
-Manually,Manually,module,Magento_CheckoutAgreements
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_CheckoutAgreements
-"Unable to save checkout agreement %1","Unable to save checkout agreement %1",module,Magento_CheckoutAgreements
-"Unable to remove checkout agreement %1","Unable to remove checkout agreement %1",module,Magento_CheckoutAgreements
-"Checkout agreement with specified ID ""%1"" not found.","Checkout agreement with specified ID ""%1"" not found.",module,Magento_CheckoutAgreements
-"Shopping Cart","Shopping Cart",module,Magento_Checkout
-"Invalid method: %1","Invalid method: %1",module,Magento_Checkout
-City,City,module,Magento_Checkout
-Country,Country,module,Magento_Checkout
-State/Province,State/Province,module,Magento_Checkout
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Checkout
-"My Cart (1 item)","My Cart (1 item)",module,Magento_Checkout
-"My Cart (%1 items)","My Cart (%1 items)",module,Magento_Checkout
-"My Cart","My Cart",module,Magento_Checkout
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Checkout
-"Customer is already registered","Customer is already registered",module,Magento_Checkout
-"Your session has expired","Your session has expired",module,Magento_Checkout
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Checkout
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Checkout
-"Out of stock","Out of stock",module,Magento_Checkout
-"We can\'t find the quote item.","We can\'t find the quote item.",module,Magento_Checkout
-"We cannot configure the product.","We cannot configure the product.",module,Magento_Checkout
-"You used coupon code ""%1"".","You used coupon code ""%1"".",module,Magento_Checkout
-"The coupon code ""%1"" is not valid.","The coupon code ""%1"" is not valid.",module,Magento_Checkout
-"You canceled the coupon code.","You canceled the coupon code.",module,Magento_Checkout
-"We cannot apply the coupon code.","We cannot apply the coupon code.",module,Magento_Checkout
-"We can't remove the item.","We can't remove the item.",module,Magento_Checkout
-"%1 was updated in your shopping cart.","%1 was updated in your shopping cart.",module,Magento_Checkout
-"We can't update the item right now.","We can't update the item right now.",module,Magento_Checkout
-"We can't update the shopping cart.","We can't update the shopping cart.",module,Magento_Checkout
-"One-page checkout is turned off.","One-page checkout is turned off.",module,Magento_Checkout
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Checkout
-Checkout,Checkout,module,Magento_Checkout
-"Page not found.","Page not found.",module,Magento_Checkout
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Checkout
-"Something went wrong while processing your order. Please try again later.","Something went wrong while processing your order. Please try again later.",module,Magento_Checkout
+Condition,條件,module,Magento_CheckoutAgreements
+Sales,銷售,module,Magento_CheckoutAgreements
+"Checkout Conditions","結帳條件",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","結帳條款和條件",module,Magento_CheckoutAgreements
+"This condition no longer exists.","這條件已不存在.",module,Magento_CheckoutAgreements
+"You deleted the condition.","您已刪除條件.",module,Magento_CheckoutAgreements
+"Something went wrong  while deleting this condition.","在刪除此條件時發生錯誤.",module,Magento_CheckoutAgreements
+"Edit Condition","編輯條件",module,Magento_CheckoutAgreements
+"New Condition","新條件",module,Magento_CheckoutAgreements
+"You saved the condition.","您已保存條件.",module,Magento_CheckoutAgreements
+"Something went wrong while saving this condition.","在保存此條件時發生錯誤.",module,Magento_CheckoutAgreements
+Automatically,自動,module,Magento_CheckoutAgreements
+Manually,手動,module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","在下單之前，請同意所有條款和條件.",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","無法保存結帳協議 %1",module,Magento_CheckoutAgreements
+"Unable to remove checkout agreement %1","無法刪除結賬協議 %1",module,Magento_CheckoutAgreements
+"Checkout agreement with specified ID ""%1"" not found.","指定 ID ""%1"" 的結賬協議找不到.",module,Magento_CheckoutAgreements
+"Shopping Cart","購物車",module,Magento_Checkout
+"Invalid method: %1","無效的方法: %1",module,Magento_Checkout
+City,城市,module,Magento_Checkout
+Country,國家,module,Magento_Checkout
+State/Province,州/省,module,Magento_Checkout
+"Zip/Postal Code","郵編/郵政編碼",module,Magento_Checkout
+"My Cart (1 item)","我的購物車（1項）",module,Magento_Checkout
+"My Cart (%1 items)","我的購物車 (%1 項目)",module,Magento_Checkout
+"My Cart","我的購物車",module,Magento_Checkout
+"Minimum order amount is %1","最小訂貨銀碼是 %1",module,Magento_Checkout
+"Customer is already registered","客戶已註冊",module,Magento_Checkout
+"Your session has expired","您的會話已過期",module,Magento_Checkout
+"You added %1 to your shopping cart.","您加了 %1 進您的購物車.",module,Magento_Checkout
+"We can't add this item to your shopping cart right now.","我們現在無法將這個項目添加到您的購物車.",module,Magento_Checkout
+"Out of stock","缺貨",module,Magento_Checkout
+"We can\'t find the quote item.","我們無法找到報價項目.",module,Magento_Checkout
+"We cannot configure the product.","我們不能配置產品.",module,Magento_Checkout
+"You used coupon code ""%1"".","您已使用優惠券代碼 ""%1"".",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","優惠券代碼 ""%1"" 無效.",module,Magento_Checkout
+"You canceled the coupon code.","您取消了優惠券代碼.",module,Magento_Checkout
+"We cannot apply the coupon code.","我們不能應用優惠券代碼.",module,Magento_Checkout
+"We can't remove the item.","我們不能刪除該項目.",module,Magento_Checkout
+"%1 was updated in your shopping cart.","%1 在您的購物車已更新.",module,Magento_Checkout
+"We can't update the item right now.","我們現在無法更新項目.",module,Magento_Checkout
+"We can't update the shopping cart.","我們不能更新購物車.",module,Magento_Checkout
+"One-page checkout is turned off.","單頁結帳已關閉.",module,Magento_Checkout
+"Guest checkout is disabled.","訪客結帳被停用.",module,Magento_Checkout
+Checkout,結賬,module,Magento_Checkout
+"Page not found.","找不到網頁.",module,Magento_Checkout
+"Please agree to all the terms and conditions before placing the order.","在下單之前，請同意所有條款和條件.",module,Magento_Checkout
+"Something went wrong while processing your order. Please try again later.","處理您的訂單時發生錯誤. 請稍後再試.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "We can't find the product.","We can't find the product.",module,Magento_Checkout
 "The product does not exist.","The product does not exist.",module,Magento_Checkout
