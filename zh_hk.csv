@@ -1598,47 +1598,47 @@ System,系統,module,Magento_Config
 "Invalid %1. %2","無效的 %1. %2",module,Magento_Config
 "Value must be a URL or one of placeholders: %1","值必須是URL或其中一個佔位符: %1",module,Magento_Config
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","指定一個 URL 或 開頭是佔位符的路徑: %1, and ends with ""/"".",module,Magento_Config
-"%1 An empty value is allowed as well.","%1 An empty value is allowed as well.",module,Magento_Config
-"Specify a fully qualified URL.","Specify a fully qualified URL.",module,Magento_Config
-"Selected allowed currency ""%1"" is not available in installed currencies.","Selected allowed currency ""%1"" is not available in installed currencies.",module,Magento_Config
-"Default display currency ""%1"" is not available in allowed currencies.","Default display currency ""%1"" is not available in allowed currencies.",module,Magento_Config
-"Sorry, we haven't installed the base currency you selected.","Sorry, we haven't installed the base currency you selected.",module,Magento_Config
-"We can't save the Cron expression.","We can't save the Cron expression.",module,Magento_Config
-"Sorry, we haven't installed the default display currency you selected.","Sorry, we haven't installed the default display currency you selected.",module,Magento_Config
-"Sorry, the default display currency you selected is not available in allowed currencies.","Sorry, the default display currency you selected is not available in allowed currencies.",module,Magento_Config
-"Please correct the email address: ""%1"".","Please correct the email address: ""%1"".",module,Magento_Config
-"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","The sender name ""%1"" is not valid. Please use only visible characters and spaces.",module,Magento_Config
-"Maximum sender name length is 255. Please correct your settings.","Maximum sender name length is 255. Please correct your settings.",module,Magento_Config
-"The file you're uploading exceeds the server size limit of %1 kilobytes.","The file you're uploading exceeds the server size limit of %1 kilobytes.",module,Magento_Config
-"The base directory to upload file is not specified.","The base directory to upload file is not specified.",module,Magento_Config
-"The specified image adapter cannot be used because of: %1","The specified image adapter cannot be used because of: %1",module,Magento_Config
-"Default scope","Default scope",module,Magento_Config
-"Base currency","Base currency",module,Magento_Config
-"Display default currency","Display default currency",module,Magento_Config
+"%1 An empty value is allowed as well.","%1 空值是允許的.",module,Magento_Config
+"Specify a fully qualified URL.","指定一個完全合格的URL.",module,Magento_Config
+"Selected allowed currency ""%1"" is not available in installed currencies.","選擇允許貨幣 ""%1"" 不存在於已安裝貨幣.",module,Magento_Config
+"Default display currency ""%1"" is not available in allowed currencies.","默認顯示貨幣 ""%1"" 不是在允許的幣種.",module,Magento_Config
+"Sorry, we haven't installed the base currency you selected.","對不起，我們還沒有安裝你所選擇的基本貨幣.",module,Magento_Config
+"We can't save the Cron expression.","我們無法保存cron表達式.",module,Magento_Config
+"Sorry, we haven't installed the default display currency you selected.","對不起，我們還沒有安裝你選擇的默認顯示貨幣.",module,Magento_Config
+"Sorry, the default display currency you selected is not available in allowed currencies.","對不起，您選擇的默認顯示貨幣不在允許的幣種.",module,Magento_Config
+"Please correct the email address: ""%1"".","請更正電子郵件地址: ""%1"".",module,Magento_Config
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","發件人名稱為 ""%1"" 是無效的. 請只使用可見的字符和空格.",module,Magento_Config
+"Maximum sender name length is 255. Please correct your settings.","最大發件人名稱長度為 255. 請更正您的設置.",module,Magento_Config
+"The file you're uploading exceeds the server size limit of %1 kilobytes.","你上傳的文件超過 %1 kilobytes 的服務器大小限制.",module,Magento_Config
+"The base directory to upload file is not specified.","沒有指定上傳文件的基本目錄.",module,Magento_Config
+"The specified image adapter cannot be used because of: %1","指定的圖像適配器不能使用，原因: %1",module,Magento_Config
+"Default scope","默認範圍",module,Magento_Config
+"Base currency","基礎貨幣",module,Magento_Config
+"Display default currency","顯示默認貨幣",module,Magento_Config
 "website(%1) scope","website(%1) scope",module,Magento_Config
 "store(%1) scope","store(%1) scope",module,Magento_Config
 "Currency ""%1"" is used as %2 in %3.","Currency ""%1"" is used as %2 in %3.",module,Magento_Config
-"Please correct the timezone.","Please correct the timezone.",module,Magento_Config
-"The file ""%1"" does not exist","The file ""%1"" does not exist",module,Magento_Config
+"Please correct the timezone.","請更正時區.",module,Magento_Config
+"The file ""%1"" does not exist","文件 ""%1"" 不存在",module,Magento_Config
 "Always (during development)","Always (during development)",module,Magento_Config
 "Only Once (version upgrade)","Only Once (version upgrade)",module,Magento_Config
 "Never (production)","Never (production)",module,Magento_Config
 Bcc,Bcc,module,Magento_Config
-"Separate Email","Separate Email",module,Magento_Config
+"Separate Email","單獨的電子郵件",module,Magento_Config
 "%1 (Default)","%1 (Default)",module,Magento_Config
-title,title,module,Magento_Config
-No,No,module,Magento_Config
-Optional,Optional,module,Magento_Config
-Required,Required,module,Magento_Config
-Website,Website,module,Magento_Config
-Store,Store,module,Magento_Config
-"Store View","Store View",module,Magento_Config
+title,標題,module,Magento_Config
+No,否,module,Magento_Config
+Optional,可選,module,Magento_Config
+Required,必須,module,Magento_Config
+Website,網站,module,Magento_Config
+Store,商店,module,Magento_Config
+"Store View","商店視圖",module,Magento_Config
 "HTTP (unsecure)","HTTP (unsecure)",module,Magento_Config
 "HTTPS (SSL)","HTTPS (SSL)",module,Magento_Config
 "Yes (302 Found)","Yes (302 Found)",module,Magento_Config
 "Yes (301 Moved Permanently)","Yes (301 Moved Permanently)",module,Magento_Config
-Yes,Yes,module,Magento_Config
-Specified,Specified,module,Magento_Config
+Yes,是,module,Magento_Config
+Specified,已指定,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Config form fieldset clone model required to be able to clone fields",module,Magento_Config
 "Invalid XML in file %1:
 %2","Invalid XML in file %1:
@@ -1654,150 +1654,150 @@ some_comment,some_comment,module,Magento_Config
 test,test,module,Magento_Config
 test2,test2,module,Magento_Config
 "Add after","Add after",module,Magento_Config
-Delete,Delete,module,Magento_Config
-"Current Configuration Scope:","Current Configuration Scope:",module,Magento_Config
-Stores,Stores,module,Magento_Config
+Delete,刪除,module,Magento_Config
+"Current Configuration Scope:","當前配置範圍:",module,Magento_Config
+Stores,商店,module,Magento_Config
 "Add configurable attributes to the current Attribute Set (""%1"")","Add configurable attributes to the current Attribute Set (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Add configurable attributes to the new Attribute Set based on current",module,Magento_ConfigurableProduct
 "New attribute set name","New attribute set name",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Add configurable attributes to the existing Attribute Set",module,Magento_ConfigurableProduct
 "Choose existing Attribute Set","Choose existing Attribute Set",module,Magento_ConfigurableProduct
-Configurations,Configurations,module,Magento_ConfigurableProduct
-"Attribute Values","Attribute Values",module,Magento_ConfigurableProduct
+Configurations,配置,module,Magento_ConfigurableProduct
+"Attribute Values","屬性值",module,Magento_ConfigurableProduct
 "Bulk Images &amp; Price","Bulk Images &amp; Price",module,Magento_ConfigurableProduct
-"Create New Attribute","Create New Attribute",module,Magento_ConfigurableProduct
-"Select Attributes","Select Attributes",module,Magento_ConfigurableProduct
-Summary,Summary,module,Magento_ConfigurableProduct
-"Choose an Option...","Choose an Option...",module,Magento_ConfigurableProduct
-"This attribute is used in configurable products.","This attribute is used in configurable products.",module,Magento_ConfigurableProduct
-"Product has been already attached","Product has been already attached",module,Magento_ConfigurableProduct
-"Product with specified sku: %1 is not a configurable product","Product with specified sku: %1 is not a configurable product",module,Magento_ConfigurableProduct
-"Requested option doesn't exist","Requested option doesn't exist",module,Magento_ConfigurableProduct
-"Requested option doesn't exist: %1","Requested option doesn't exist: %1",module,Magento_ConfigurableProduct
-"Cannot delete variations from product: %1","Cannot delete variations from product: %1",module,Magento_ConfigurableProduct
-"Cannot delete option with id: %1","Cannot delete option with id: %1",module,Magento_ConfigurableProduct
-"Option with id ""%1"" not found","Option with id ""%1"" not found",module,Magento_ConfigurableProduct
-"Could not update option with id ""%1""","Could not update option with id ""%1""",module,Magento_ConfigurableProduct
-"Product already has this option","Product already has this option",module,Magento_ConfigurableProduct
-"Something went wrong while saving option.","Something went wrong while saving option.",module,Magento_ConfigurableProduct
-"Only implemented for configurable product: %1","Only implemented for configurable product: %1",module,Magento_ConfigurableProduct
-"Option attribute ID is not specified.","Option attribute ID is not specified.",module,Magento_ConfigurableProduct
-"Option label is not specified.","Option label is not specified.",module,Magento_ConfigurableProduct
-"Option values are not specified.","Option values are not specified.",module,Magento_ConfigurableProduct
-"Value index is not specified for an option.","Value index is not specified for an option.",module,Magento_ConfigurableProduct
-"The configurable product does not have any variation attribute.","The configurable product does not have any variation attribute.",module,Magento_ConfigurableProduct
-"Product with id ""%1"" does not exist.","Product with id ""%1"" does not exist.",module,Magento_ConfigurableProduct
-"Product with id ""%1"" does not contain required attribute ""%2"".","Product with id ""%1"" does not contain required attribute ""%2"".",module,Magento_ConfigurableProduct
-"Products ""%1"" and %2 have the same set of attribute values.","Products ""%1"" and %2 have the same set of attribute values.",module,Magento_ConfigurableProduct
-"You can't add the item to shopping cart.","You can't add the item to shopping cart.",module,Magento_ConfigurableProduct
-"You need to choose options for your item.","You need to choose options for your item.",module,Magento_ConfigurableProduct
-"Some product variations fields are not valid.","Some product variations fields are not valid.",module,Magento_ConfigurableProduct
-"Configuration must have specified attributes","Configuration must have specified attributes",module,Magento_ConfigurableProduct
+"Create New Attribute","新建屬性",module,Magento_ConfigurableProduct
+"Select Attributes","選擇屬性",module,Magento_ConfigurableProduct
+Summary,摘要,module,Magento_ConfigurableProduct
+"Choose an Option...","選擇一個選項...",module,Magento_ConfigurableProduct
+"This attribute is used in configurable products.","此屬性是可配置的產品中使用.",module,Magento_ConfigurableProduct
+"Product has been already attached","產品已被附",module,Magento_ConfigurableProduct
+"Product with specified sku: %1 is not a configurable product","產品 sku: %1 不是可配置的產品",module,Magento_ConfigurableProduct
+"Requested option doesn't exist","請求的選項不存在",module,Magento_ConfigurableProduct
+"Requested option doesn't exist: %1","請求的選項不存在: %1",module,Magento_ConfigurableProduct
+"Cannot delete variations from product: %1","無法刪除從產品的變化: %1",module,Magento_ConfigurableProduct
+"Cannot delete option with id: %1","無法刪除 id: %1 選項",module,Magento_ConfigurableProduct
+"Option with id ""%1"" not found","選項 id ""%1"" 不存在",module,Magento_ConfigurableProduct
+"Could not update option with id ""%1""","無法更新 id ""%1"" 選項",module,Magento_ConfigurableProduct
+"Product already has this option","產品已經有這個選項",module,Magento_ConfigurableProduct
+"Something went wrong while saving option.","保存選項時發生錯誤.",module,Magento_ConfigurableProduct
+"Only implemented for configurable product: %1","僅適用於配置的產品實施: %1",module,Magento_ConfigurableProduct
+"Option attribute ID is not specified.","沒有指定選項屬性的 ID.",module,Magento_ConfigurableProduct
+"Option label is not specified.","沒有指定選項標籤.",module,Magento_ConfigurableProduct
+"Option values are not specified.","沒有指定選項值.",module,Magento_ConfigurableProduct
+"Value index is not specified for an option.","沒有指定選項值的索引.",module,Magento_ConfigurableProduct
+"The configurable product does not have any variation attribute.","可配置的產品沒有任何變化的屬性.",module,Magento_ConfigurableProduct
+"Product with id ""%1"" does not exist.","產品 id ""%1"" 不存在.",module,Magento_ConfigurableProduct
+"Product with id ""%1"" does not contain required attribute ""%2"".","產品 id ""%1"" 沒有必須的屬性 ""%2"".",module,Magento_ConfigurableProduct
+"Products ""%1"" and %2 have the same set of attribute values.","產品 ""%1"" 及 %2 具有相同的屬性值集.",module,Magento_ConfigurableProduct
+"You can't add the item to shopping cart.","您無法將項目添加到購物車.",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","你需要選擇你的項目的選項.",module,Magento_ConfigurableProduct
+"Some product variations fields are not valid.","某些產品變化字段無效.",module,Magento_ConfigurableProduct
+"Configuration must have specified attributes","配置必須有特定的屬性",module,Magento_ConfigurableProduct
 "Configurable product ""%1"" do not have sub-products","Configurable product ""%1"" do not have sub-products",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","This group contains attributes used in configurable products. Please move these attributes to another group and try again.",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products. You cannot remove it from the attribute set.","This attribute is used in configurable products. You cannot remove it from the attribute set.",module,Magento_ConfigurableProduct
-"Associated Products","Associated Products",module,Magento_ConfigurableProduct
-"Step 2: Attribute Values","Step 2: Attribute Values",module,Magento_ConfigurableProduct
+"Associated Products","相關產品",module,Magento_ConfigurableProduct
+"Step 2: Attribute Values","第2步：屬性值",module,Magento_ConfigurableProduct
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.",module,Magento_ConfigurableProduct
 "Sort Variations","Sort Variations",module,Magento_ConfigurableProduct
-Options,Options,module,Magento_ConfigurableProduct
-"Select All","Select All",module,Magento_ConfigurableProduct
-"Deselect All","Deselect All",module,Magento_ConfigurableProduct
-"Remove Attribute","Remove Attribute",module,Magento_ConfigurableProduct
-"Save Option","Save Option",module,Magento_ConfigurableProduct
-"Remove Option","Remove Option",module,Magento_ConfigurableProduct
-"Create New Value","Create New Value",module,Magento_ConfigurableProduct
-"Step 3: Bulk Images, Price, and Quantity","Step 3: Bulk Images, Price, and Quantity",module,Magento_ConfigurableProduct
+Options,選項,module,Magento_ConfigurableProduct
+"Select All","全選",module,Magento_ConfigurableProduct
+"Deselect All","全部取消",module,Magento_ConfigurableProduct
+"Remove Attribute","刪除屬性",module,Magento_ConfigurableProduct
+"Save Option","保存選項",module,Magento_ConfigurableProduct
+"Remove Option","刪除選項",module,Magento_ConfigurableProduct
+"Create New Value","創造新的值",module,Magento_ConfigurableProduct
+"Step 3: Bulk Images, Price, and Quantity","第3步：批量圖片，價格和數量",module,Magento_ConfigurableProduct
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.","Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.",module,Magento_ConfigurableProduct
-Images,Images,module,Magento_ConfigurableProduct
-"Apply single set of images to all SKUs","Apply single set of images to all SKUs",module,Magento_ConfigurableProduct
-"Apply unique images by attribute to each SKU","Apply unique images by attribute to each SKU",module,Magento_ConfigurableProduct
-"Skip image uploading at this time","Skip image uploading at this time",module,Magento_ConfigurableProduct
-"Browse Files...","Browse Files...",module,Magento_ConfigurableProduct
-"Browse to find or drag image here","Browse to find or drag image here",module,Magento_ConfigurableProduct
-"Remove image","Remove image",module,Magento_ConfigurableProduct
-"Edit role","Edit role",module,Magento_ConfigurableProduct
-Hidden,Hidden,module,Magento_ConfigurableProduct
-"Alt Text","Alt Text",module,Magento_ConfigurableProduct
-Role,Role,module,Magento_ConfigurableProduct
-"Hide from Product Page","Hide from Product Page",module,Magento_ConfigurableProduct
-"Select attribute","Select attribute",module,Magento_ConfigurableProduct
-Select,Select,module,Magento_ConfigurableProduct
-Price,Price,module,Magento_ConfigurableProduct
-"Apply single price to all SKUs","Apply single price to all SKUs",module,Magento_ConfigurableProduct
-"Apply unique prices by attribute to each SKU","Apply unique prices by attribute to each SKU",module,Magento_ConfigurableProduct
-"Skip price at this time","Skip price at this time",module,Magento_ConfigurableProduct
-Quantity,Quantity,module,Magento_ConfigurableProduct
-"Apply single quantity to each SKUs","Apply single quantity to each SKUs",module,Magento_ConfigurableProduct
-"Apply unique quantity by attribute to each SKU","Apply unique quantity by attribute to each SKU",module,Magento_ConfigurableProduct
-"Skip quantity at this time","Skip quantity at this time",module,Magento_ConfigurableProduct
-"Step 1: Select Attributes","Step 1: Select Attributes",module,Magento_ConfigurableProduct
-"Selected Attributes:","Selected Attributes:",module,Magento_ConfigurableProduct
-"Step 4: Summary","Step 4: Summary",module,Magento_ConfigurableProduct
+Images,圖片,module,Magento_ConfigurableProduct
+"Apply single set of images to all SKUs","應用單組圖像至所有的 SKUs",module,Magento_ConfigurableProduct
+"Apply unique images by attribute to each SKU","按屬性給每個SKU應用獨一無二的圖像",module,Magento_ConfigurableProduct
+"Skip image uploading at this time","暫時跳過圖片上傳",module,Magento_ConfigurableProduct
+"Browse Files...","瀏覽文件...",module,Magento_ConfigurableProduct
+"Browse to find or drag image here","瀏覽或拖動圖像到這裡",module,Magento_ConfigurableProduct
+"Remove image","刪除圖像",module,Magento_ConfigurableProduct
+"Edit role","編輯角色",module,Magento_ConfigurableProduct
+Hidden,隱蔽,module,Magento_ConfigurableProduct
+"Alt Text","替換文本",module,Magento_ConfigurableProduct
+Role,角色,module,Magento_ConfigurableProduct
+"Hide from Product Page","從產品頁面隱藏",module,Magento_ConfigurableProduct
+"Select attribute","選擇屬性",module,Magento_ConfigurableProduct
+Select,選擇,module,Magento_ConfigurableProduct
+Price,價格,module,Magento_ConfigurableProduct
+"Apply single price to all SKUs","應用單一價格至所有 SKUs",module,Magento_ConfigurableProduct
+"Apply unique prices by attribute to each SKU","按屬性給每個SKU應用獨特的價格",module,Magento_ConfigurableProduct
+"Skip price at this time","暫時跳過價格",module,Magento_ConfigurableProduct
+Quantity,數量,module,Magento_ConfigurableProduct
+"Apply single quantity to each SKUs","應用單一數量到每個 SKUs",module,Magento_ConfigurableProduct
+"Apply unique quantity by attribute to each SKU","按屬性給每個SKU應用獨特的數量",module,Magento_ConfigurableProduct
+"Skip quantity at this time","暫時跳過數量",module,Magento_ConfigurableProduct
+"Step 1: Select Attributes","第1步：選擇屬性",module,Magento_ConfigurableProduct
+"Selected Attributes:","所選屬性:",module,Magento_ConfigurableProduct
+"Step 4: Summary","第4步：摘要",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
-"Edit Configurations","Edit Configurations",module,Magento_ConfigurableProduct
-"Create Configurations","Create Configurations",module,Magento_ConfigurableProduct
-"Add Products Manually","Add Products Manually",module,Magento_ConfigurableProduct
-"Current Variations","Current Variations",module,Magento_ConfigurableProduct
-Image,Image,module,Magento_ConfigurableProduct
-Name,Name,module,Magento_ConfigurableProduct
+"Edit Configurations","編輯配置",module,Magento_ConfigurableProduct
+"Create Configurations","創建配置",module,Magento_ConfigurableProduct
+"Add Products Manually","手動添加產品",module,Magento_ConfigurableProduct
+"Current Variations","現時的變化",module,Magento_ConfigurableProduct
+Image,圖片,module,Magento_ConfigurableProduct
+Name,名稱,module,Magento_ConfigurableProduct
 SKU,SKU,module,Magento_ConfigurableProduct
-Weight,Weight,module,Magento_ConfigurableProduct
-Actions,Actions,module,Magento_ConfigurableProduct
-"Upload Image","Upload Image",module,Magento_ConfigurableProduct
-"Upload image","Upload image",module,Magento_ConfigurableProduct
-"No Image","No Image",module,Magento_ConfigurableProduct
-"Choose a different Product","Choose a different Product",module,Magento_ConfigurableProduct
-"Remove Product","Remove Product",module,Magento_ConfigurableProduct
-"Create Product Configurations","Create Product Configurations",module,Magento_ConfigurableProduct
-"Choose Affected Attribute Set","Choose Affected Attribute Set",module,Magento_ConfigurableProduct
-Confirm,Confirm,module,Magento_ConfigurableProduct
-Cancel,Cancel,module,Magento_ConfigurableProduct
-"Page not found.","Page not found.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
-"* Required Fields","* Required Fields",module,Magento_Contact
-"Write Us","Write Us",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
-Name,Name,module,Magento_Contact
-Email,Email,module,Magento_Contact
-"Phone Number","Phone Number",module,Magento_Contact
-"What’s on your mind?","What’s on your mind?",module,Magento_Contact
-Submit,Submit,module,Magento_Contact
-"Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
-"Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
-"Invalid cookie path","Invalid cookie path",module,Magento_Cookie
-"We use cookies to make your experience better.","We use cookies to make your experience better.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.",module,Magento_Cookie
-"<a href=""%1"">Learn more</a>.","<a href=""%1"">Learn more</a>.",module,Magento_Cookie
-"Allow Cookies","Allow Cookies",module,Magento_Cookie
-"We can't save the cron expression.","We can't save the cron expression.",module,Magento_Cron
-Daily,Daily,module,Magento_Cron
-Weekly,Weekly,module,Magento_Cron
-Monthly,Monthly,module,Magento_Cron
+Weight,重量,module,Magento_ConfigurableProduct
+Actions,操作,module,Magento_ConfigurableProduct
+"Upload Image","上傳圖片",module,Magento_ConfigurableProduct
+"Upload image","上傳圖片",module,Magento_ConfigurableProduct
+"No Image","沒有圖像",module,Magento_ConfigurableProduct
+"Choose a different Product","選擇不同的產品",module,Magento_ConfigurableProduct
+"Remove Product","刪除產品",module,Magento_ConfigurableProduct
+"Create Product Configurations","創建產品配置",module,Magento_ConfigurableProduct
+"Choose Affected Attribute Set","選擇受影響的屬性集",module,Magento_ConfigurableProduct
+Confirm,確認,module,Magento_ConfigurableProduct
+Cancel,取消,module,Magento_ConfigurableProduct
+"Page not found.","找不到網頁.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","感謝您聯繫我們，及你的意見和問題與。我們會很快回覆您.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","我們現在無法處理您的請求。對不起.",module,Magento_Contact
+"* Required Fields","* 必填字段",module,Magento_Contact
+"Write Us","寫信給我們",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","給我們留言，我們會盡快給您盡快.",module,Magento_Contact
+Name,名稱,module,Magento_Contact
+Email,電子郵件,module,Magento_Contact
+"Phone Number","電話號碼",module,Magento_Contact
+"What’s on your mind?","你在想什麼?",module,Magento_Contact
+Submit,提交,module,Magento_Contact
+"Invalid domain name: %1","無效的域名: %1",module,Magento_Cookie
+"Invalid cookie lifetime: %1","無效的cookie有效期限: %1",module,Magento_Cookie
+"Invalid cookie path","無效的Cookie路徑",module,Magento_Cookie
+"We use cookies to make your experience better.","我們使用cookies，讓您體驗更好.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","為了符合新的電子隱私指令，我們需要徵得您同意設置cookies.",module,Magento_Cookie
+"<a href=""%1"">Learn more</a>.","<a href=""%1"">了解更多</a>.",module,Magento_Cookie
+"Allow Cookies","允許Cookies",module,Magento_Cookie
+"We can't save the cron expression.","我們無法保存cron表達式.",module,Magento_Cron
+Daily,每日,module,Magento_Cron
+Weekly,每星期,module,Magento_Cron
+Monthly,每月,module,Magento_Cron
 "Invalid cron expression: %1","Invalid cron expression: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Invalid cron expression, expecting numeric modulus: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1",module,Magento_Cron
-"Save Currency Rates","Save Currency Rates",module,Magento_CurrencySymbol
-Reset,Reset,module,Magento_CurrencySymbol
-Import,Import,module,Magento_CurrencySymbol
-"Manage Currency Rates","Manage Currency Rates",module,Magento_CurrencySymbol
-"Import Service","Import Service",module,Magento_CurrencySymbol
-"Save Currency Symbols","Save Currency Symbols",module,Magento_CurrencySymbol
-"Currency Symbols","Currency Symbols",module,Magento_CurrencySymbol
-"Use Standard","Use Standard",module,Magento_CurrencySymbol
-"Please specify a correct Import Service.","Please specify a correct Import Service.",module,Magento_CurrencySymbol
-"We can't initialize the import model.","We can't initialize the import model.",module,Magento_CurrencySymbol
-"Click ""Save"" to apply the rates we found.","Click ""Save"" to apply the rates we found.",module,Magento_CurrencySymbol
-"Currency Rates","Currency Rates",module,Magento_CurrencySymbol
-"Please correct the input data for %1 => %2 rate","Please correct the input data for %1 => %2 rate",module,Magento_CurrencySymbol
-"All valid rates have been saved.","All valid rates have been saved.",module,Magento_CurrencySymbol
-System,System,module,Magento_CurrencySymbol
+"Save Currency Rates","保存貨幣匯率",module,Magento_CurrencySymbol
+Reset,重置,module,Magento_CurrencySymbol
+Import,匯入,module,Magento_CurrencySymbol
+"Manage Currency Rates","管理貨幣匯率",module,Magento_CurrencySymbol
+"Import Service","匯入服務",module,Magento_CurrencySymbol
+"Save Currency Symbols","保存貨幣符號",module,Magento_CurrencySymbol
+"Currency Symbols","貨幣符號",module,Magento_CurrencySymbol
+"Use Standard","使用標準",module,Magento_CurrencySymbol
+"Please specify a correct Import Service.","請指定正確的導入服務.",module,Magento_CurrencySymbol
+"We can't initialize the import model.","我們不能初始化導入模型.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","點擊 ""保存"" 來應用我們找到的匯率.",module,Magento_CurrencySymbol
+"Currency Rates","貨幣匯率",module,Magento_CurrencySymbol
+"Please correct the input data for %1 => %2 rate","請更正 %1 => %2 的匯率輸入值",module,Magento_CurrencySymbol
+"All valid rates have been saved.","所有有效的匯率已保存.",module,Magento_CurrencySymbol
+System,系統,module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","You applied the custom currency symbols.",module,Magento_CurrencySymbol
 "Old rate:","Old rate:",module,Magento_CurrencySymbol
 "Please specify a website.","Please specify a website.",module,Magento_CustomerImportExport
