@@ -1798,206 +1798,206 @@ Import,匯入,module,Magento_CurrencySymbol
 "Please correct the input data for %1 => %2 rate","請更正 %1 => %2 的匯率輸入值",module,Magento_CurrencySymbol
 "All valid rates have been saved.","所有有效的匯率已保存.",module,Magento_CurrencySymbol
 System,系統,module,Magento_CurrencySymbol
-"You applied the custom currency symbols.","You applied the custom currency symbols.",module,Magento_CurrencySymbol
-"Old rate:","Old rate:",module,Magento_CurrencySymbol
-"Please specify a website.","Please specify a website.",module,Magento_CustomerImportExport
-"Please specify an email.","Please specify an email.",module,Magento_CustomerImportExport
-"We found an invalid value in a website column.","We found an invalid value in a website column.",module,Magento_CustomerImportExport
-"Please enter a valid email.","Please enter a valid email.",module,Magento_CustomerImportExport
-"Please make sure attribute ""%s"" is not empty.","Please make sure attribute ""%s"" is not empty.",module,Magento_CustomerImportExport
-"We can't find a customer who matches this email and website code.","We can't find a customer who matches this email and website code.",module,Magento_CustomerImportExport
-"Customer address id column is not specified","Customer address id column is not specified",module,Magento_CustomerImportExport
-"We can't find that customer address.","We can't find that customer address.",module,Magento_CustomerImportExport
-"Please enter a valid region.","Please enter a valid region.",module,Magento_CustomerImportExport
-"We found another row with this email, website and address ID combination.","We found another row with this email, website and address ID combination.",module,Magento_CustomerImportExport
-"This email is found more than once in the import file.","This email is found more than once in the import file.",module,Magento_CustomerImportExport
-"Orphan rows that will be skipped due default row errors","Orphan rows that will be skipped due default row errors",module,Magento_CustomerImportExport
+"You applied the custom currency symbols.","您已應用自定義貨幣符號.",module,Magento_CurrencySymbol
+"Old rate:","舊匯率:",module,Magento_CurrencySymbol
+"Please specify a website.","請指定網站.",module,Magento_CustomerImportExport
+"Please specify an email.","請指定電子郵件.",module,Magento_CustomerImportExport
+"We found an invalid value in a website column.","我們發現在網站上列的值無效.",module,Magento_CustomerImportExport
+"Please enter a valid email.","請輸入一個有效的電子郵件地址.",module,Magento_CustomerImportExport
+"Please make sure attribute ""%s"" is not empty.","請確保屬性 ""%s"" 不是空的.",module,Magento_CustomerImportExport
+"We can't find a customer who matches this email and website code.","我們無法找到符合電子郵件和網站代碼的客戶.",module,Magento_CustomerImportExport
+"Customer address id column is not specified","沒有指定客戶地址ID列",module,Magento_CustomerImportExport
+"We can't find that customer address.","我們無法找到客戶地址.",module,Magento_CustomerImportExport
+"Please enter a valid region.","請輸入一個有效的區域.",module,Magento_CustomerImportExport
+"We found another row with this email, website and address ID combination.","我們發現另一行與此電子郵件，網站和地址ID組合.",module,Magento_CustomerImportExport
+"This email is found more than once in the import file.","在導入文件中不止一次找到此電子郵件.",module,Magento_CustomerImportExport
+"Orphan rows that will be skipped due default row errors","因為默認的行錯誤而被跳過的孤兒行",module,Magento_CustomerImportExport
 "Invalid value in Store column (store does not exists?)","Invalid value in Store column (store does not exists?)",module,Magento_CustomerImportExport
-"We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
-"Please enter a password with a valid length.","Please enter a password with a valid length.",module,Magento_CustomerImportExport
-"Sign Out","Sign Out",module,Magento_Customer
+"We can't find that email and website combination.","我們無法找到電子郵件和網站組合.",module,Magento_CustomerImportExport
+"Please enter a password with a valid length.","請輸入有效長度的密碼.",module,Magento_CustomerImportExport
+"Sign Out","登出",module,Magento_Customer
 "Sign In","登入",module,Magento_Customer
-"You subscribe to our newsletter.","You subscribe to our newsletter.",module,Magento_Customer
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
-"You have not set a default shipping address.","You have not set a default shipping address.",module,Magento_Customer
-"You have not set a default billing address.","You have not set a default billing address.",module,Magento_Customer
-"Address Book","Address Book",module,Magento_Customer
-"Edit Address","Edit Address",module,Magento_Customer
-"Add New Address","Add New Address",module,Magento_Customer
-region,region,module,Magento_Customer
-"Create Order","Create Order",module,Magento_Customer
-"Save Customer","Save Customer",module,Magento_Customer
-"Delete Customer","Delete Customer",module,Magento_Customer
-"Reset Password","Reset Password",module,Magento_Customer
-"Are you sure you want to revoke the customer\'s tokens?","Are you sure you want to revoke the customer\'s tokens?",module,Magento_Customer
-"Force Sign-In","Force Sign-In",module,Magento_Customer
-"New Customer","New Customer",module,Magento_Customer
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Customer
-Back,Back,module,Magento_Customer
-"Please select","Please select",module,Magento_Customer
-Reset,Reset,module,Magento_Customer
+"You subscribe to our newsletter.","您已訂閱我們的通訊.",module,Magento_Customer
+"You don't subscribe to our newsletter.","你沒有訂閱我們的通訊.",module,Magento_Customer
+"You have not set a default shipping address.","您沒有設置默認送貨地址.",module,Magento_Customer
+"You have not set a default billing address.","您沒有設置默認帳單地址.",module,Magento_Customer
+"Address Book","地址簿",module,Magento_Customer
+"Edit Address","編輯地址",module,Magento_Customer
+"Add New Address","添加新地址",module,Magento_Customer
+region,地區,module,Magento_Customer
+"Create Order","創建訂單",module,Magento_Customer
+"Save Customer","保存客戶",module,Magento_Customer
+"Delete Customer","刪除客戶",module,Magento_Customer
+"Reset Password","重設密碼",module,Magento_Customer
+"Are you sure you want to revoke the customer\'s tokens?","您確定要撤銷的客戶的 tokens?",module,Magento_Customer
+"Force Sign-In","強行登入",module,Magento_Customer
+"New Customer","新客戶",module,Magento_Customer
+"Save and Continue Edit","保存並繼續編輯",module,Magento_Customer
+Back,返回,module,Magento_Customer
+"Please select","請選擇",module,Magento_Customer
+Reset,重設,module,Magento_Customer
 ID,ID,module,Magento_Customer
-Product,Product,module,Magento_Customer
+Product,產品,module,Magento_Customer
 SKU,SKU,module,Magento_Customer
-Quantity,Quantity,module,Magento_Customer
-Price,Price,module,Magento_Customer
-Total,Total,module,Magento_Customer
-Action,Action,module,Magento_Customer
-Configure,Configure,module,Magento_Customer
-Delete,Delete,module,Magento_Customer
-"Shopping Cart from %1","Shopping Cart from %1",module,Magento_Customer
-Newsletter,Newsletter,module,Magento_Customer
-"Newsletter Information","Newsletter Information",module,Magento_Customer
-"Subscribed to Newsletter","Subscribed to Newsletter",module,Magento_Customer
-"Last Date Subscribed","Last Date Subscribed",module,Magento_Customer
-"Last Date Unsubscribed","Last Date Unsubscribed",module,Magento_Customer
-"No Newsletter Found","No Newsletter Found",module,Magento_Customer
-"Start date","Start date",module,Magento_Customer
-"End Date","End Date",module,Magento_Customer
-"Receive Date","Receive Date",module,Magento_Customer
-Subject,Subject,module,Magento_Customer
-Status,Status,module,Magento_Customer
-Sent,Sent,module,Magento_Customer
-Cancel,Cancel,module,Magento_Customer
-"Not Sent","Not Sent",module,Magento_Customer
-Sending,Sending,module,Magento_Customer
-Paused,Paused,module,Magento_Customer
-View,View,module,Magento_Customer
-Unknown,Unknown,module,Magento_Customer
-Order,Order,module,Magento_Customer
-Purchased,Purchased,module,Magento_Customer
-"Bill-to Name","Bill-to Name",module,Magento_Customer
-"Ship-to Name","Ship-to Name",module,Magento_Customer
-"Order Total","Order Total",module,Magento_Customer
-"Purchase Point","Purchase Point",module,Magento_Customer
-"Customer View","Customer View",module,Magento_Customer
-"There are no items in customer's shopping cart.","There are no items in customer's shopping cart.",module,Magento_Customer
-Qty,Qty,module,Magento_Customer
-Confirmed,Confirmed,module,Magento_Customer
-"Confirmation Required","Confirmation Required",module,Magento_Customer
-"Confirmation Not Required","Confirmation Not Required",module,Magento_Customer
-Indeterminate,Indeterminate,module,Magento_Customer
-"The customer does not have default billing address.","The customer does not have default billing address.",module,Magento_Customer
-Offline,Offline,module,Magento_Customer
-Online,Online,module,Magento_Customer
-Never,Never,module,Magento_Customer
-"Deleted Stores","Deleted Stores",module,Magento_Customer
-"Add Locale","Add Locale",module,Magento_Customer
-"Add Date","Add Date",module,Magento_Customer
-"Days in Wish List","Days in Wish List",module,Magento_Customer
-No,No,module,Magento_Customer
-Yes,Yes,module,Magento_Customer
-"Delete File","Delete File",module,Magento_Customer
-Download,Download,module,Magento_Customer
-"Delete Image","Delete Image",module,Magento_Customer
-"View Full Size","View Full Size",module,Magento_Customer
-"All countries","All countries",module,Magento_Customer
-"Customer Groups","Customer Groups",module,Magento_Customer
-"Add New Customer Group","Add New Customer Group",module,Magento_Customer
-"Save Customer Group","Save Customer Group",module,Magento_Customer
-"Delete Customer Group","Delete Customer Group",module,Magento_Customer
-"New Customer Group","New Customer Group",module,Magento_Customer
-"Edit Customer Group ""%1""","Edit Customer Group ""%1""",module,Magento_Customer
-"Group Information","Group Information",module,Magento_Customer
-"Group Name","Group Name",module,Magento_Customer
-"Maximum length must be less then %1 symbols","Maximum length must be less then %1 symbols",module,Magento_Customer
-"Tax Class","Tax Class",module,Magento_Customer
-"The customer is now assigned to Customer Group %s.","The customer is now assigned to Customer Group %s.",module,Magento_Customer
-"Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?",module,Magento_Customer
-"The VAT ID is valid.","The VAT ID is valid.",module,Magento_Customer
-"The VAT ID entered (%s) is not a valid VAT ID.","The VAT ID entered (%s) is not a valid VAT ID.",module,Magento_Customer
-"The VAT ID is valid. The current Customer Group will be used.","The VAT ID is valid. The current Customer Group will be used.",module,Magento_Customer
-"The VAT ID is valid but no Customer Group is assigned for it.","The VAT ID is valid but no Customer Group is assigned for it.",module,Magento_Customer
-"Based on the VAT ID, the customer belongs to the Customer Group %s.","Based on the VAT ID, the customer belongs to the Customer Group %s.",module,Magento_Customer
-"Something went wrong while validating the VAT ID.","Something went wrong while validating the VAT ID.",module,Magento_Customer
-"The customer would belong to Customer Group %s.","The customer would belong to Customer Group %s.",module,Magento_Customer
-"There was an error detecting Customer Group.","There was an error detecting Customer Group.",module,Magento_Customer
-"Validate VAT Number","Validate VAT Number",module,Magento_Customer
-"Customer Login","Customer Login",module,Magento_Customer
-"Create New Customer Account","Create New Customer Account",module,Magento_Customer
-"Date of Birth","Date of Birth",module,Magento_Customer
-"Bad request.","Bad request.",module,Magento_Customer
-"This confirmation key is invalid or has expired.","This confirmation key is invalid or has expired.",module,Magento_Customer
+Quantity,數量,module,Magento_Customer
+Price,價格,module,Magento_Customer
+Total,總額,module,Magento_Customer
+Action,操作,module,Magento_Customer
+Configure,配置,module,Magento_Customer
+Delete,刪除,module,Magento_Customer
+"Shopping Cart from %1","從購物車 %1",module,Magento_Customer
+Newsletter,通訊,module,Magento_Customer
+"Newsletter Information","通訊信息",module,Magento_Customer
+"Subscribed to Newsletter","已訂閱通訊",module,Magento_Customer
+"Last Date Subscribed","對上的訂閱日期",module,Magento_Customer
+"Last Date Unsubscribed","對上的取消訂閱日期",module,Magento_Customer
+"No Newsletter Found","沒有找到通訊",module,Magento_Customer
+"Start date","開始日期",module,Magento_Customer
+"End Date","結束日期",module,Magento_Customer
+"Receive Date","收到的日期",module,Magento_Customer
+Subject,標題,module,Magento_Customer
+Status,狀態,module,Magento_Customer
+Sent,已發送,module,Magento_Customer
+Cancel,取消,module,Magento_Customer
+"Not Sent","未發送",module,Magento_Customer
+Sending,發出,module,Magento_Customer
+Paused,已暫停,module,Magento_Customer
+View,觀看,module,Magento_Customer
+Unknown,未知,module,Magento_Customer
+Order,訂單,module,Magento_Customer
+Purchased,已購買,module,Magento_Customer
+"Bill-to Name","付款人姓名",module,Magento_Customer
+"Ship-to Name","收貨人姓名",module,Magento_Customer
+"Order Total","訂單總額",module,Magento_Customer
+"Purchase Point","購買點",module,Magento_Customer
+"Customer View","客戶視圖",module,Magento_Customer
+"There are no items in customer's shopping cart.","在客戶的購物車中沒有商品.",module,Magento_Customer
+Qty,數量,module,Magento_Customer
+Confirmed,已確認,module,Magento_Customer
+"Confirmation Required","需要確認",module,Magento_Customer
+"Confirmation Not Required","不需要確認",module,Magento_Customer
+Indeterminate,不定,module,Magento_Customer
+"The customer does not have default billing address.","該客戶沒有默認賬單地址.",module,Magento_Customer
+Offline,當前離線,module,Magento_Customer
+Online,線上,module,Magento_Customer
+Never,永不,module,Magento_Customer
+"Deleted Stores","已刪除的商店",module,Magento_Customer
+"Add Locale","添加語言區域",module,Magento_Customer
+"Add Date","添加日期",module,Magento_Customer
+"Days in Wish List","在收藏中的日數",module,Magento_Customer
+No,否,module,Magento_Customer
+Yes,是,module,Magento_Customer
+"Delete File","刪除文件",module,Magento_Customer
+Download,下載,module,Magento_Customer
+"Delete Image","刪除圖像",module,Magento_Customer
+"View Full Size","查看全尺寸",module,Magento_Customer
+"All countries","所有國家",module,Magento_Customer
+"Customer Groups","客戶群",module,Magento_Customer
+"Add New Customer Group","添加新客戶群",module,Magento_Customer
+"Save Customer Group","保存客戶群",module,Magento_Customer
+"Delete Customer Group","刪除客戶群",module,Magento_Customer
+"New Customer Group","新客戶群",module,Magento_Customer
+"Edit Customer Group ""%1""","編輯客戶群 ""%1""",module,Magento_Customer
+"Group Information","群組信息",module,Magento_Customer
+"Group Name","組名稱",module,Magento_Customer
+"Maximum length must be less then %1 symbols","最大長度必須小於 %1 符號",module,Magento_Customer
+"Tax Class","稅分類",module,Magento_Customer
+"The customer is now assigned to Customer Group %s.","客戶現已分配給客戶群 %s.",module,Magento_Customer
+"Would you like to change the Customer Group for this order?","你想改變此訂單的客戶組?",module,Magento_Customer
+"The VAT ID is valid.","增值稅 ID 無效.",module,Magento_Customer
+"The VAT ID entered (%s) is not a valid VAT ID.","輸入的增值稅 ID (%s) 不是一個有效的增值稅 ID.",module,Magento_Customer
+"The VAT ID is valid. The current Customer Group will be used.","增值稅 ID 無效. 將被用於目前的客戶群.",module,Magento_Customer
+"The VAT ID is valid but no Customer Group is assigned for it.","增值稅 ID 是有效的，但沒有客戶群被分配給它.",module,Magento_Customer
+"Based on the VAT ID, the customer belongs to the Customer Group %s.","根據增值稅ID，客戶所屬的客戶群是 %s.",module,Magento_Customer
+"Something went wrong while validating the VAT ID.","驗證增值稅ID時發生錯誤.",module,Magento_Customer
+"The customer would belong to Customer Group %s.","客戶將屬於客戶群 %s.",module,Magento_Customer
+"There was an error detecting Customer Group.","偵測客戶群時發生錯誤.",module,Magento_Customer
+"Validate VAT Number","驗證增值稅號",module,Magento_Customer
+"Customer Login","客戶登入",module,Magento_Customer
+"Create New Customer Account","創建新客戶帳戶",module,Magento_Customer
+"Date of Birth","出生日期",module,Magento_Customer
+"Bad request.","錯誤的請求.",module,Magento_Customer
+"This confirmation key is invalid or has expired.","這確認密鑰無效或已過期.",module,Magento_Customer
 "There was an error confirming the account","There was an error confirming the account",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
-"Thank you for registering with %1.","Thank you for registering with %1.",module,Magento_Customer
-"Please check your email for confirmation key.","Please check your email for confirmation key.",module,Magento_Customer
-"This email does not require confirmation.","This email does not require confirmation.",module,Magento_Customer
-"Wrong email.","Wrong email.",module,Magento_Customer
-"Your password reset link has expired.","Your password reset link has expired.",module,Magento_Customer
-"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Magento_Customer
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
-"We can't save the customer.","We can't save the customer.",module,Magento_Customer
-"Please make sure your passwords match.","Please make sure your passwords match.",module,Magento_Customer
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
-"Account Information","Account Information",module,Magento_Customer
-"Invalid input","Invalid input",module,Magento_Customer
-"You saved the account information.","You saved the account information.",module,Magento_Customer
-"Please enter new password.","Please enter new password.",module,Magento_Customer
-"Confirm your new password.","Confirm your new password.",module,Magento_Customer
-"Something went wrong while changing the password.","Something went wrong while changing the password.",module,Magento_Customer
-"Please correct the email address.","Please correct the email address.",module,Magento_Customer
-"We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
-"Please enter your email.","Please enter your email.",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","如果您是已註冊的增值稅客戶, 請點擊 <a href=""%1"">這裡</a> 輸入您的送貨地址來進行適當的增值稅計算.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","如果您是已註冊的增值稅客戶, 請點擊 <a href=""%1"">這裡</a> 輸入您的帳單地址來進行適當的增值稅計算.",module,Magento_Customer
+"Thank you for registering with %1.","感謝您註冊到 %1.",module,Magento_Customer
+"Please check your email for confirmation key.","請在您的電子郵件中查看確認鍵",module,Magento_Customer
+"This email does not require confirmation.","此電子郵件不要求確認.",module,Magento_Customer
+"Wrong email.","錯誤的電子郵件.",module,Magento_Customer
+"Your password reset link has expired.","您的密碼重置鏈接已失效.",module,Magento_Customer
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","您必須確認您的帳戶。請檢查您的電子郵件中的確認鏈接或 <a href=""%1"">點擊這裡</a> 要求一個新的鏈接.",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","已經有一個用此電子郵件地址的帳戶. 如果你確信這是你的電子郵件地址, <a href=""%1"">點擊此處</a> 來取得您的密碼並訪問您的帳戶.",module,Magento_Customer
+"We can't save the customer.","我們不能保存客戶.",module,Magento_Customer
+"Please make sure your passwords match.","請確保您的密碼匹配.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","如果您是已註冊的增值稅客戶, 請點擊 <a href=""%1"">這裡</a> 輸入您的送貨地址來進行適當的增值稅計算.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","如果您是已註冊的增值稅客戶, 請點擊 <a href=""%1"">這裡</a> 輸入您的帳單地址來進行適當的增值稅計算.",module,Magento_Customer
+"Account Information","帳戶信息",module,Magento_Customer
+"Invalid input","輸入無效",module,Magento_Customer
+"You saved the account information.","您已保存帳戶信息.",module,Magento_Customer
+"Please enter new password.","請輸入新密碼.",module,Magento_Customer
+"Confirm your new password.","確認您的新密碼.",module,Magento_Customer
+"Something went wrong while changing the password.","更改密碼時出了錯.",module,Magento_Customer
+"Please correct the email address.","請更正電子郵件地址.",module,Magento_Customer
+"We're unable to send the password reset email.","我們無法發送密碼重置電子郵件.",module,Magento_Customer
+"Please enter your email.","請輸入您的電子郵件.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","如果有一個與 %1 關聯的帳戶， 您將收到一封電子郵件的鏈接重設密碼.",module,Magento_Customer
 "My Account","My Account",module,Magento_Customer
-"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
-"Invalid login or password.","Invalid login or password.",module,Magento_Customer
-"A login and a password are required.","A login and a password are required.",module,Magento_Customer
-"New Password and Confirm New Password values didn\'t match.","New Password and Confirm New Password values didn\'t match.",module,Magento_Customer
-"Please enter a new password.","Please enter a new password.",module,Magento_Customer
-"You updated your password.","You updated your password.",module,Magento_Customer
-"Something went wrong while saving the new password.","Something went wrong while saving the new password.",module,Magento_Customer
-"You deleted the address.","You deleted the address.",module,Magento_Customer
-"We can't delete the address right now.","We can't delete the address right now.",module,Magento_Customer
-"You saved the address.","You saved the address.",module,Magento_Customer
-"We can't save the address.","We can't save the address.",module,Magento_Customer
-"No customer ID defined.","No customer ID defined.",module,Magento_Customer
-"Please correct the quote items and try again.","Please correct the quote items and try again.",module,Magento_Customer
-"You have revoked the customer's tokens.","You have revoked the customer's tokens.",module,Magento_Customer
-"We can't find a customer to revoke.","We can't find a customer to revoke.",module,Magento_Customer
-"You deleted the customer group.","You deleted the customer group.",module,Magento_Customer
-"The customer group no longer exists.","The customer group no longer exists.",module,Magento_Customer
-Customers,Customers,module,Magento_Customer
-"New Group","New Group",module,Magento_Customer
-"New Customer Groups","New Customer Groups",module,Magento_Customer
-"Edit Group","Edit Group",module,Magento_Customer
-"Edit Customer Groups","Edit Customer Groups",module,Magento_Customer
-"You saved the customer group.","You saved the customer group.",module,Magento_Customer
-"Please select customer(s).","Please select customer(s).",module,Magento_Customer
-"Customer could not be deleted.","Customer could not be deleted.",module,Magento_Customer
-"You deleted the customer.","You deleted the customer.",module,Magento_Customer
-"Something went wrong while editing the customer.","Something went wrong while editing the customer.",module,Magento_Customer
-"Manage Customers","Manage Customers",module,Magento_Customer
-"Please correct the data sent.","Please correct the data sent.",module,Magento_Customer
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Customer
-"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_Customer
-"The customer will receive an email with a link to reset password.","The customer will receive an email with a link to reset password.",module,Magento_Customer
-"Something went wrong while resetting customer password.","Something went wrong while resetting customer password.",module,Magento_Customer
-"You saved the customer.","You saved the customer.",module,Magento_Customer
-"Something went wrong while saving the customer.","Something went wrong while saving the customer.",module,Magento_Customer
-"Page not found.","Page not found.",module,Magento_Customer
-"Online Customers","Online Customers",module,Magento_Customer
-"Customers Now Online","Customers Now Online",module,Magento_Customer
-"Please define Wish List item ID.","Please define Wish List item ID.",module,Magento_Customer
-"Please load Wish List item.","Please load Wish List item.",module,Magento_Customer
-"Login successful.","Login successful.",module,Magento_Customer
-"""%1"" section source is not supported","""%1"" section source is not supported",module,Magento_Customer
+"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","此帳戶未被確認. <a href=""%1"">點擊此處</a> 重新發送確認郵件.",module,Magento_Customer
+"Invalid login or password.","無效的登錄名或密碼.",module,Magento_Customer
+"A login and a password are required.","登錄名和密碼是必需的.",module,Magento_Customer
+"New Password and Confirm New Password values didn\'t match.","新密碼和確認新密碼值不匹配.",module,Magento_Customer
+"Please enter a new password.","請輸入新密碼.",module,Magento_Customer
+"You updated your password.","你已更新你的密碼.",module,Magento_Customer
+"Something went wrong while saving the new password.","保存新密碼時出了錯.",module,Magento_Customer
+"You deleted the address.","您已刪除地址.",module,Magento_Customer
+"We can't delete the address right now.","我們現在不能刪除地址.",module,Magento_Customer
+"You saved the address.","您已保存地址.",module,Magento_Customer
+"We can't save the address.","我們不能保存地址.",module,Magento_Customer
+"No customer ID defined.","沒有定義客戶ID.",module,Magento_Customer
+"Please correct the quote items and try again.","請更正報價的項目，然後再試一次.",module,Magento_Customer
+"You have revoked the customer's tokens.","已撤消了客戶的 tokens.",module,Magento_Customer
+"We can't find a customer to revoke.","我們無法找到一個客戶來撤銷.",module,Magento_Customer
+"You deleted the customer group.","您已刪除客戶群.",module,Magento_Customer
+"The customer group no longer exists.","客戶群已不存在.",module,Magento_Customer
+Customers,客戶,module,Magento_Customer
+"New Group","新組別",module,Magento_Customer
+"New Customer Groups","新的客戶群",module,Magento_Customer
+"Edit Group","編輯組",module,Magento_Customer
+"Edit Customer Groups","編輯客戶群",module,Magento_Customer
+"You saved the customer group.","您已保存客戶群.",module,Magento_Customer
+"Please select customer(s).","請選擇客戶.",module,Magento_Customer
+"Customer could not be deleted.","顧客無法刪除.",module,Magento_Customer
+"You deleted the customer.","您已刪除客戶.",module,Magento_Customer
+"Something went wrong while editing the customer.","在編輯客戶出了錯.",module,Magento_Customer
+"Manage Customers","客戶管理",module,Magento_Customer
+"Please correct the data sent.","請更正發送的數據.",module,Magento_Customer
+"A total of %1 record(s) were updated.","共有 %1 記錄已被更新.",module,Magento_Customer
+"A total of %1 record(s) were deleted.","共有 %1 記錄已被刪除.",module,Magento_Customer
+"The customer will receive an email with a link to reset password.","客戶將收到一封電子郵件，內有一個鏈接來重置密碼.",module,Magento_Customer
+"Something went wrong while resetting customer password.","重置客戶密碼時發生錯誤.",module,Magento_Customer
+"You saved the customer.","你已保存客戶.",module,Magento_Customer
+"Something went wrong while saving the customer.","保存客戶時出了錯.",module,Magento_Customer
+"Page not found.","找不到網頁.",module,Magento_Customer
+"Online Customers","在線客戶",module,Magento_Customer
+"Customers Now Online","現在在線客戶",module,Magento_Customer
+"Please define Wish List item ID.","請確定願望清單項目編號.",module,Magento_Customer
+"Please load Wish List item.","請加載願望清單項目.",module,Magento_Customer
+"Login successful.","登入成功.",module,Magento_Customer
+"""%1"" section source is not supported","""%1"" 部源不支持",module,Magento_Customer
 "%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
-"No confirmation needed.","No confirmation needed.",module,Magento_Customer
-"Account already active","Account already active",module,Magento_Customer
-"Invalid confirmation token","Invalid confirmation token",module,Magento_Customer
-"This account is not confirmed.","This account is not confirmed.",module,Magento_Customer
-"This customer already exists in this store.","This customer already exists in this store.",module,Magento_Customer
-"A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website.",module,Magento_Customer
-"The password doesn't match this account.","The password doesn't match this account.",module,Magento_Customer
-"Please enter a password with at least %1 characters.","Please enter a password with at least %1 characters.",module,Magento_Customer
-"The password can't begin or end with a space.","The password can't begin or end with a space.",module,Magento_Customer
-"Reset password token mismatch.","Reset password token mismatch.",module,Magento_Customer
-"Reset password token expired.","Reset password token expired.",module,Magento_Customer
-"Please correct the transactional account email type.","Please correct the transactional account email type.",module,Magento_Customer
+"No confirmation needed.","沒有需要確認.",module,Magento_Customer
+"Account already active","帳號已激活",module,Magento_Customer
+"Invalid confirmation token","無效的確認 token",module,Magento_Customer
+"This account is not confirmed.","此帳戶未確認.",module,Magento_Customer
+"This customer already exists in this store.","該客戶已經存在於這家店.",module,Magento_Customer
+"A customer with the same email already exists in an associated website.","用相同的電子郵件的一位顧客已經存在關聯的網站中.",module,Magento_Customer
+"The password doesn't match this account.","該密碼不匹配此帳戶.",module,Magento_Customer
+"Please enter a password with at least %1 characters.","請輸入至少 %1 個字符的密碼.",module,Magento_Customer
+"The password can't begin or end with a space.","密碼不能以空格作為開始或結尾.",module,Magento_Customer
+"Reset password token mismatch.","重置密碼 token 不匹配.",module,Magento_Customer
+"Reset password token expired.","重置密碼 token 已過期.",module,Magento_Customer
+"Please correct the transactional account email type.","請更正交易帳戶的電子郵件類型.",module,Magento_Customer
 "Please enter the first name.","Please enter the first name.",module,Magento_Customer
 "Please enter the last name.","Please enter the last name.",module,Magento_Customer
 "Please enter the street.","Please enter the street.",module,Magento_Customer
