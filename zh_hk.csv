@@ -2228,159 +2228,159 @@ Documents,Documents,module,Magento_Dhl
 "Unable to retrieve shipping label","Unable to retrieve shipping label",module,Magento_Dhl
 "Non documents","Non documents",module,Magento_Dhl
 None,None,module,Magento_Dhl
-State/Province,State/Province,module,Magento_Directory
-"--Please Select--","--Please Select--",module,Magento_Directory
-lbs,lbs,module,Magento_Directory
-kgs,kgs,module,Magento_Directory
-"Requested country is not available.","Requested country is not available.",module,Magento_Directory
-"Please correct the target currency.","Please correct the target currency.",module,Magento_Directory
-"Undefined rate from ""%1-%2"".","Undefined rate from ""%1-%2"".",module,Magento_Directory
-label,label,module,Magento_Directory
-"We can't retrieve a rate from %1.","We can't retrieve a rate from %1.",module,Magento_Directory
+State/Province,州/省,module,Magento_Directory
+"--Please Select--","--請選擇--",module,Magento_Directory
+lbs,磅,module,Magento_Directory
+kgs,千克,module,Magento_Directory
+"Requested country is not available.","請求的國家不可用.",module,Magento_Directory
+"Please correct the target currency.","請更正目標貨幣.",module,Magento_Directory
+"Undefined rate from ""%1-%2"".","未定義匯率 ""%1-%2"".",module,Magento_Directory
+label,標籤,module,Magento_Directory
+"We can't retrieve a rate from %1.","我們不能從 %1 找到匯率.",module,Magento_Directory
 "FATAL ERROR:","FATAL ERROR:",module,Magento_Directory
-"We can't initialize the import model.","We can't initialize the import model.",module,Magento_Directory
-"Please specify the correct Import Service.","Please specify the correct Import Service.",module,Magento_Directory
+"We can't initialize the import model.","我們不能初始化導入模型.",module,Magento_Directory
+"Please specify the correct Import Service.","請指定正確的導入服務.",module,Magento_Directory
 WARNING:,WARNING:,module,Magento_Directory
-"Please correct the country code: %1.","Please correct the country code: %1.",module,Magento_Directory
-"Country and Format Type combination should be unique","Country and Format Type combination should be unique",module,Magento_Directory
-"Please correct the rates received","Please correct the rates received",module,Magento_Directory
-"Please select a region, state or province.","Please select a region, state or province.",module,Magento_Directory
-Currency,Currency,module,Magento_Directory
-"Your current currency is: %1.","Your current currency is: %1.",module,Magento_Directory
-Continue,Continue,module,Magento_Directory
-"File directory '%1' is not readable.","File directory '%1' is not readable.",module,Magento_DownloadableImportExport
-"File directory '%1' is not writable.","File directory '%1' is not writable.",module,Magento_DownloadableImportExport
-Error,Error,module,Magento_DownloadableImportExport
-"Downloadable Information","Downloadable Information",module,Magento_Downloadable
-"Add New Link","Add New Link",module,Magento_Downloadable
-"Upload Files","Upload Files",module,Magento_Downloadable
-"All Files","All Files",module,Magento_Downloadable
-Unlimited,Unlimited,module,Magento_Downloadable
-"Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
-"We can\'t find the link you requested.","We can\'t find the link you requested.",module,Magento_Downloadable
-"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
-"Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
-"The link has expired.","The link has expired.",module,Magento_Downloadable
-"The link is not available.","The link is not available.",module,Magento_Downloadable
-"Sorry, there was an error getting requested content. Please contact the store owner.","Sorry, there was an error getting requested content. Please contact the store owner.",module,Magento_Downloadable
-"Please set resource file and link type.","Please set resource file and link type.",module,Magento_Downloadable
-"Invalid download link type.","Invalid download link type.",module,Magento_Downloadable
-"Something went wrong while saving the file(s).","Something went wrong while saving the file(s).",module,Magento_Downloadable
-"Provided content must be valid base64 encoded data.","Provided content must be valid base64 encoded data.",module,Magento_Downloadable
-"Provided file name contains forbidden characters.","Provided file name contains forbidden characters.",module,Magento_Downloadable
-"Link price must have numeric positive value.","Link price must have numeric positive value.",module,Magento_Downloadable
-"Number of downloads must be a positive integer.","Number of downloads must be a positive integer.",module,Magento_Downloadable
-"Sort order must be a positive integer.","Sort order must be a positive integer.",module,Magento_Downloadable
-"Link URL must have valid format.","Link URL must have valid format.",module,Magento_Downloadable
-"Provided file content must be valid base64 encoded data.","Provided file content must be valid base64 encoded data.",module,Magento_Downloadable
-"Sample URL must have valid format.","Sample URL must have valid format.",module,Magento_Downloadable
-"Order id cannot be null","Order id cannot be null",module,Magento_Downloadable
-"Order item id cannot be null","Order item id cannot be null",module,Magento_Downloadable
-"Product type of the product must be 'downloadable'.","Product type of the product must be 'downloadable'.",module,Magento_Downloadable
-"Provided link information is invalid.","Provided link information is invalid.",module,Magento_Downloadable
-"Invalid link type.","Invalid link type.",module,Magento_Downloadable
-"Link title cannot be empty.","Link title cannot be empty.",module,Magento_Downloadable
-"There is no downloadable link with provided ID.","There is no downloadable link with provided ID.",module,Magento_Downloadable
-"Provided downloadable link is not related to given product.","Provided downloadable link is not related to given product.",module,Magento_Downloadable
-"Please specify product link(s).","Please specify product link(s).",module,Magento_Downloadable
-"Provided sample information is invalid.","Provided sample information is invalid.",module,Magento_Downloadable
-"Invalid sample type.","Invalid sample type.",module,Magento_Downloadable
-"Sample title cannot be empty.","Sample title cannot be empty.",module,Magento_Downloadable
-"There is no downloadable sample with provided ID.","There is no downloadable sample with provided ID.",module,Magento_Downloadable
-"Provided downloadable sample is not related to given product.","Provided downloadable sample is not related to given product.",module,Magento_Downloadable
-attachment,attachment,module,Magento_Downloadable
-inline,inline,module,Magento_Downloadable
-Pending,Pending,module,Magento_Downloadable
-Invoiced,Invoiced,module,Magento_Downloadable
-sample,sample,module,Magento_Downloadable
-"Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
-Links,Links,module,Magento_Downloadable
-"Add links to your product files here.","Add links to your product files here.",module,Magento_Downloadable
+"Please correct the country code: %1.","請更正國家代碼: %1.",module,Magento_Directory
+"Country and Format Type combination should be unique","國家和格式類型組合應該是唯一的",module,Magento_Directory
+"Please correct the rates received","請更正收到的匯率",module,Magento_Directory
+"Please select a region, state or province.","請選擇一個地區，州或省.",module,Magento_Directory
+Currency,貨幣,module,Magento_Directory
+"Your current currency is: %1.","您當前的貨幣: %1.",module,Magento_Directory
+Continue,繼續,module,Magento_Directory
+"File directory '%1' is not readable.","文件目錄 '%1' 不可讀.",module,Magento_DownloadableImportExport
+"File directory '%1' is not writable.","文件目錄 '%1' 不可寫入.",module,Magento_DownloadableImportExport
+Error,錯誤,module,Magento_DownloadableImportExport
+"Downloadable Information","可下載的信息",module,Magento_Downloadable
+"Add New Link","添加新的鏈接",module,Magento_Downloadable
+"Upload Files","上傳文件",module,Magento_Downloadable
+"All Files","全部文件",module,Magento_Downloadable
+Unlimited,無限,module,Magento_Downloadable
+"Something went wrong while getting the requested content.","獲取所請求的內容時出了錯.",module,Magento_Downloadable
+"My Downloadable Products","我的可下載的產品",module,Magento_Downloadable
+"We can\'t find the link you requested.","我們無法找到您所請求的鏈接.",module,Magento_Downloadable
+"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","請登錄以下載產品或購買 <a href=""%1"">%2</a>.",module,Magento_Downloadable
+"Please sign in to download your product.","請登錄以下載產品.",module,Magento_Downloadable
+"The link has expired.","該鏈接已失效.",module,Magento_Downloadable
+"The link is not available.","該鏈接不可用.",module,Magento_Downloadable
+"Sorry, there was an error getting requested content. Please contact the store owner.","對不起，獲取請求的內容時出現了錯誤。請聯繫店主.",module,Magento_Downloadable
+"Please set resource file and link type.","請設置資源文件和鏈接類型.",module,Magento_Downloadable
+"Invalid download link type.","無效的下載鏈接類型.",module,Magento_Downloadable
+"Something went wrong while saving the file(s).","保存文件時出了錯.",module,Magento_Downloadable
+"Provided content must be valid base64 encoded data.","提供的內容必須是有效的base64編碼數據.",module,Magento_Downloadable
+"Provided file name contains forbidden characters.","提供文件名包含禁止字符.",module,Magento_Downloadable
+"Link price must have numeric positive value.","鏈接價格必須是數字正值.",module,Magento_Downloadable
+"Number of downloads must be a positive integer.","下載數必須為正整數.",module,Magento_Downloadable
+"Sort order must be a positive integer.","排序順序必須是正整數.",module,Magento_Downloadable
+"Link URL must have valid format.","鏈接URL必須擁有有效的格式.",module,Magento_Downloadable
+"Provided file content must be valid base64 encoded data.","提供的文件內容必須是有效的base64編碼數據.",module,Magento_Downloadable
+"Sample URL must have valid format.","樣本URL必須擁有有效的格式.",module,Magento_Downloadable
+"Order id cannot be null","訂單ID不能為空",module,Magento_Downloadable
+"Order item id cannot be null","訂購項目ID不能為空",module,Magento_Downloadable
+"Product type of the product must be 'downloadable'.","該產品的產品類型必須是 '下載'.",module,Magento_Downloadable
+"Provided link information is invalid.","提供鏈接信息是無效.",module,Magento_Downloadable
+"Invalid link type.","無效的鏈接類型.",module,Magento_Downloadable
+"Link title cannot be empty.","鏈接標題不能為空.",module,Magento_Downloadable
+"There is no downloadable link with provided ID.","提供的ID沒有下載鏈接.",module,Magento_Downloadable
+"Provided downloadable link is not related to given product.","提供可下載的鏈接與產品沒有關聯.",module,Magento_Downloadable
+"Please specify product link(s).","請指定產品鏈接.",module,Magento_Downloadable
+"Provided sample information is invalid.","提供的樣本信息無效.",module,Magento_Downloadable
+"Invalid sample type.","無效的樣品類型.",module,Magento_Downloadable
+"Sample title cannot be empty.","樣本標題不能為空.",module,Magento_Downloadable
+"There is no downloadable sample with provided ID.","提供的ID沒有可下載的樣本.",module,Magento_Downloadable
+"Provided downloadable sample is not related to given product.","提供的可下載的樣品與提供的產品沒有關聯.",module,Magento_Downloadable
+attachment,附件,module,Magento_Downloadable
+inline,內聯,module,Magento_Downloadable
+Pending,有待,module,Magento_Downloadable
+Invoiced,已開發票,module,Magento_Downloadable
+sample,樣品,module,Magento_Downloadable
+"Is this downloadable Product?","這是可下載的產品?",module,Magento_Downloadable
+Links,鏈接,module,Magento_Downloadable
+"Add links to your product files here.","在這裡添加鏈接到您的產品文件.",module,Magento_Downloadable
 "[STORE VIEW]","[STORE VIEW]",module,Magento_Downloadable
-Title,Title,module,Magento_Downloadable
-"Use Default Value","Use Default Value",module,Magento_Downloadable
+Title,標題,module,Magento_Downloadable
+"Use Default Value","使用默認值",module,Magento_Downloadable
 [GLOBAL],[GLOBAL],module,Magento_Downloadable
-"Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
-"Sort Order","Sort Order",module,Magento_Downloadable
-Price,Price,module,Magento_Downloadable
-"Attach File or Enter Link","Attach File or Enter Link",module,Magento_Downloadable
-Sample,Sample,module,Magento_Downloadable
-Shareable,Shareable,module,Magento_Downloadable
-"Max. Downloads","Max. Downloads",module,Magento_Downloadable
-"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.",module,Magento_Downloadable
-"Sort Variations","Sort Variations",module,Magento_Downloadable
-File,File,module,Magento_Downloadable
-"Browse Files...","Browse Files...",module,Magento_Downloadable
-URL,URL,module,Magento_Downloadable
-Yes,Yes,module,Magento_Downloadable
-No,No,module,Magento_Downloadable
-"Use config","Use config",module,Magento_Downloadable
-Delete,Delete,module,Magento_Downloadable
-Samples,Samples,module,Magento_Downloadable
-"Add product preview files here.","Add product preview files here.",module,Magento_Downloadable
+"Links can be purchased separately","鏈接可以單獨購買",module,Magento_Downloadable
+"Sort Order","排序",module,Magento_Downloadable
+Price,價格,module,Magento_Downloadable
+"Attach File or Enter Link","附加文件或輸入鏈接",module,Magento_Downloadable
+Sample,樣品,module,Magento_Downloadable
+Shareable,可共享,module,Magento_Downloadable
+"Max. Downloads","最大下載次數",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","文件名建議使用字母數字，破折號和下劃線字符。不正確的字符被替換成 '_'.",module,Magento_Downloadable
+"Sort Variations","排序變化",module,Magento_Downloadable
+File,文件,module,Magento_Downloadable
+"Browse Files...","瀏覽文件...",module,Magento_Downloadable
+URL,網址,module,Magento_Downloadable
+Yes,是,module,Magento_Downloadable
+No,否,module,Magento_Downloadable
+"Use config","使用配置",module,Magento_Downloadable
+Delete,刪除,module,Magento_Downloadable
+Samples,樣本,module,Magento_Downloadable
+"Add product preview files here.","這裡添加的產品預覽文件.",module,Magento_Downloadable
 SKU,SKU,module,Magento_Downloadable
 U,U,module,Magento_Downloadable
-"Select all","Select all",module,Magento_Downloadable
-"Unselect all","Unselect all",module,Magento_Downloadable
-Availability,Availability,module,Magento_Downloadable
-"In stock","In stock",module,Magento_Downloadable
-"Out of stock","Out of stock",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
-"Downloadable Products","Downloadable Products",module,Magento_Downloadable
-"Order #","Order #",module,Magento_Downloadable
-Date,Date,module,Magento_Downloadable
-Status,Status,module,Magento_Downloadable
-"Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
-"View Order","View Order",module,Magento_Downloadable
-"Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
-Back,Back,module,Magento_Downloadable
-download,download,module,Magento_Downloadable
-"Gift Message","Gift Message",module,Magento_Downloadable
-From:,From:,module,Magento_Downloadable
-To:,To:,module,Magento_Downloadable
-Message:,Message:,module,Magento_Downloadable
-"Product Name","Product Name",module,Magento_Downloadable
-Qty,Qty,module,Magento_Downloadable
-Subtotal,Subtotal,module,Magento_Downloadable
-"Discount Amount","Discount Amount",module,Magento_Downloadable
-"Row Total","Row Total",module,Magento_Downloadable
-"Qty Invoiced","Qty Invoiced",module,Magento_Downloadable
-Ordered,Ordered,module,Magento_Downloadable
-Shipped,Shipped,module,Magento_Downloadable
-Canceled,Canceled,module,Magento_Downloadable
-Refunded,Refunded,module,Magento_Downloadable
-"Attribute Properties","Attribute Properties",module,Magento_Eav
-"Default label","Default label",module,Magento_Eav
-"Attribute Code","Attribute Code",module,Magento_Eav
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Eav
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Eav
-"Values Required","Values Required",module,Magento_Eav
-"Default Value","Default Value",module,Magento_Eav
-"Unique Value","Unique Value",module,Magento_Eav
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Eav
-"Not shared with other products","Not shared with other products",module,Magento_Eav
-"Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Eav
-Required,Required,module,Magento_Eav
-Yes,Yes,module,Magento_Eav
-No,No,module,Magento_Eav
-System,System,module,Magento_Eav
-None,None,module,Magento_Eav
-"Decimal Number","Decimal Number",module,Magento_Eav
-"Integer Number","Integer Number",module,Magento_Eav
-Email,Email,module,Magento_Eav
-URL,URL,module,Magento_Eav
-Letters,Letters,module,Magento_Eav
-"Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
-"Text Field","Text Field",module,Magento_Eav
-"Text Area","Text Area",module,Magento_Eav
-Date,Date,module,Magento_Eav
-Yes/No,Yes/No,module,Magento_Eav
-"Multiple Select","Multiple Select",module,Magento_Eav
-Dropdown,Dropdown,module,Magento_Eav
-"Input type ""%value%"" not found in the input types list.","Input type ""%value%"" not found in the input types list.",module,Magento_Eav
-"Attribute object is undefined","Attribute object is undefined",module,Magento_Eav
+"Select all","全選",module,Magento_Downloadable
+"Unselect all","取消全選",module,Magento_Downloadable
+Availability,可用性,module,Magento_Downloadable
+"In stock","有現貨",module,Magento_Downloadable
+"Out of stock","缺貨",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","前往 <a href=""%1"">我的下載產品</a>",module,Magento_Downloadable
+"Downloadable Products","下載產品",module,Magento_Downloadable
+"Order #","訂單 #",module,Magento_Downloadable
+Date,日期,module,Magento_Downloadable
+Status,狀態,module,Magento_Downloadable
+"Remaining Downloads","剩餘下載",module,Magento_Downloadable
+"View Order","查看訂單",module,Magento_Downloadable
+"Start Download","開始下載",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","您還沒有購買任何下載的產品.",module,Magento_Downloadable
+Back,返回,module,Magento_Downloadable
+download,下載,module,Magento_Downloadable
+"Gift Message","禮品信息",module,Magento_Downloadable
+From:,由:,module,Magento_Downloadable
+To:,至:,module,Magento_Downloadable
+Message:,訊息:,module,Magento_Downloadable
+"Product Name","產品名稱",module,Magento_Downloadable
+Qty,數量,module,Magento_Downloadable
+Subtotal,小計,module,Magento_Downloadable
+"Discount Amount","折扣金額",module,Magento_Downloadable
+"Row Total","行匯總",module,Magento_Downloadable
+"Qty Invoiced","已開票的數量",module,Magento_Downloadable
+Ordered,已下單,module,Magento_Downloadable
+Shipped,已送貨,module,Magento_Downloadable
+Canceled,已取消,module,Magento_Downloadable
+Refunded,已退款,module,Magento_Downloadable
+"Attribute Properties","屬性內容",module,Magento_Eav
+"Default label","默認標籤",module,Magento_Eav
+"Attribute Code","屬性碼",module,Magento_Eav
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","這是在內部使用。請確保您不要使用空格或大於 %1 的符號.",module,Magento_Eav
+"Catalog Input Type for Store Owner","目錄輸入類型的店主",module,Magento_Eav
+"Values Required","所需的值",module,Magento_Eav
+"Default Value","默認值",module,Magento_Eav
+"Unique Value","唯一的值",module,Magento_Eav
+"Unique Value (not shared with other products)","唯一的值（不與其他產品共用）",module,Magento_Eav
+"Not shared with other products","不與其他產品共用",module,Magento_Eav
+"Input Validation for Store Owner","店主的輸入驗證",module,Magento_Eav
+Required,需要,module,Magento_Eav
+Yes,是,module,Magento_Eav
+No,否,module,Magento_Eav
+System,系統,module,Magento_Eav
+None,沒有,module,Magento_Eav
+"Decimal Number","十進制數",module,Magento_Eav
+"Integer Number","整數",module,Magento_Eav
+Email,電子郵件,module,Magento_Eav
+URL,網址,module,Magento_Eav
+Letters,字母,module,Magento_Eav
+"Letters (a-z, A-Z) or Numbers (0-9)","字母 (a-z, A-Z) 或數字 (0-9)",module,Magento_Eav
+"Text Field","文字輸入",module,Magento_Eav
+"Text Area","多行文本",module,Magento_Eav
+Date,日期,module,Magento_Eav
+Yes/No,是/否,module,Magento_Eav
+"Multiple Select","多重選擇",module,Magento_Eav
+Dropdown,落下選單,module,Magento_Eav
+"Input type ""%value%"" not found in the input types list.","輸入類型 ""%value%"" 在輸入類型列表中沒有找到.",module,Magento_Eav
+"Attribute object is undefined","屬性的對象沒有定義",module,Magento_Eav
 "Entity object is undefined","Entity object is undefined",module,Magento_Eav
 """%1"" invalid type entered.","""%1"" invalid type entered.",module,Magento_Eav
 """%1"" contains non-alphabetic or non-numeric characters.","""%1"" contains non-alphabetic or non-numeric characters.",module,Magento_Eav
@@ -2489,15 +2489,15 @@ label,label,module,Magento_Eav
 hello,hello,module,Magento_Eav
 "Some internal exception message.","Some internal exception message.",module,Magento_Eav
 "The value of attribute not valid","The value of attribute not valid",module,Magento_Eav
-"Add New Template","Add New Template",module,Magento_Email
-"Transactional Emails","Transactional Emails",module,Magento_Email
-Back,Back,module,Magento_Email
-Reset,Reset,module,Magento_Email
-"Delete Template","Delete Template",module,Magento_Email
-"Convert to Plain Text","Convert to Plain Text",module,Magento_Email
-"Return Html Version","Return Html Version",module,Magento_Email
-"Preview Template","Preview Template",module,Magento_Email
-"Save Template","Save Template",module,Magento_Email
+"Add New Template","添加新模板",module,Magento_Email
+"Transactional Emails","交易電子郵件",module,Magento_Email
+Back,返回,module,Magento_Email
+Reset,重設,module,Magento_Email
+"Delete Template","刪除模板",module,Magento_Email
+"Convert to Plain Text","轉換為純文本",module,Magento_Email
+"Return Html Version","返回HTML版本",module,Magento_Email
+"Preview Template","預覽模板",module,Magento_Email
+"Save Template","保存模板",module,Magento_Email
 "Load Template","Load Template",module,Magento_Email
 "Edit Email Template","Edit Email Template",module,Magento_Email
 "New Email Template","New Email Template",module,Magento_Email
