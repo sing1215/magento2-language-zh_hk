@@ -2498,88 +2498,88 @@ Reset,重設,module,Magento_Email
 "Return Html Version","返回HTML版本",module,Magento_Email
 "Preview Template","預覽模板",module,Magento_Email
 "Save Template","保存模板",module,Magento_Email
-"Load Template","Load Template",module,Magento_Email
-"Edit Email Template","Edit Email Template",module,Magento_Email
-"New Email Template","New Email Template",module,Magento_Email
-"Default Config","Default Config",module,Magento_Email
-"Template Information","Template Information",module,Magento_Email
-"Currently Used For","Currently Used For",module,Magento_Email
-"Template Name","Template Name",module,Magento_Email
-"Template Subject","Template Subject",module,Magento_Email
-"Insert Variable...","Insert Variable...",module,Magento_Email
-"Template Content","Template Content",module,Magento_Email
-"Template Styles","Template Styles",module,Magento_Email
-Preview,Preview,module,Magento_Email
-Unknown,Unknown,module,Magento_Email
-"You deleted the email template.","You deleted the email template.",module,Magento_Email
-"The email template is currently being used.","The email template is currently being used.",module,Magento_Email
-"We can't delete email template data right now. Please review log and try again.","We can't delete email template data right now. Please review log and try again.",module,Magento_Email
-"We can't find an email template to delete.","We can't find an email template to delete.",module,Magento_Email
-"Edit Template","Edit Template",module,Magento_Email
-"Edit System Template","Edit System Template",module,Magento_Email
-"New Template","New Template",module,Magento_Email
-"New System Template","New System Template",module,Magento_Email
-"Email Templates","Email Templates",module,Magento_Email
-"Email Preview","Email Preview",module,Magento_Email
-"An error occurred. The email template can not be opened for preview.","An error occurred. The email template can not be opened for preview.",module,Magento_Email
-"This email template no longer exists.","This email template no longer exists.",module,Magento_Email
-"You saved the email template.","You saved the email template.",module,Magento_Email
-"Area is already set","Area is already set",module,Magento_Email
-"Design config must have area and store.","Design config must have area and store.",module,Magento_Email
-"Base Unsecure URL","Base Unsecure URL",module,Magento_Email
-"Base Secure URL","Base Secure URL",module,Magento_Email
-"General Contact Name","General Contact Name",module,Magento_Email
-"General Contact Email","General Contact Email",module,Magento_Email
-"Sales Representative Contact Name","Sales Representative Contact Name",module,Magento_Email
-"Sales Representative Contact Email","Sales Representative Contact Email",module,Magento_Email
-"Custom1 Contact Name","Custom1 Contact Name",module,Magento_Email
-"Custom1 Contact Email","Custom1 Contact Email",module,Magento_Email
-"Custom2 Contact Name","Custom2 Contact Name",module,Magento_Email
-"Custom2 Contact Email","Custom2 Contact Email",module,Magento_Email
-"Store Name","Store Name",module,Magento_Email
-"Store Phone Number","Store Phone Number",module,Magento_Email
-"Store Hours","Store Hours",module,Magento_Email
-Country,Country,module,Magento_Email
-Region/State,Region/State,module,Magento_Email
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Email
-City,City,module,Magento_Email
-"Street Address 1","Street Address 1",module,Magento_Email
-"Street Address 2","Street Address 2",module,Magento_Email
-"Store Contact Information","Store Contact Information",module,Magento_Email
+"Load Template","加載模板",module,Magento_Email
+"Edit Email Template","編輯電子郵件模板",module,Magento_Email
+"New Email Template","新的電子郵件模板",module,Magento_Email
+"Default Config","默認配置",module,Magento_Email
+"Template Information","模板信息",module,Magento_Email
+"Currently Used For","目前用於",module,Magento_Email
+"Template Name","模板名稱",module,Magento_Email
+"Template Subject","模板主題",module,Magento_Email
+"Insert Variable...","插入變量...",module,Magento_Email
+"Template Content","模板內容",module,Magento_Email
+"Template Styles","模板樣式",module,Magento_Email
+Preview,預覽,module,Magento_Email
+Unknown,不明,module,Magento_Email
+"You deleted the email template.","您已刪除電子郵件模板.",module,Magento_Email
+"The email template is currently being used.","電子郵件模板當前正被使用.",module,Magento_Email
+"We can't delete email template data right now. Please review log and try again.","我們現在不能刪除電子郵件模板數據。請檢查日誌，然後再試一次.",module,Magento_Email
+"We can't find an email template to delete.","我們無法找到一個電子郵件模板刪除.",module,Magento_Email
+"Edit Template","編輯模板",module,Magento_Email
+"Edit System Template","編輯系統模板",module,Magento_Email
+"New Template","新模板",module,Magento_Email
+"New System Template","新系統模板",module,Magento_Email
+"Email Templates","電子郵件模板",module,Magento_Email
+"Email Preview","電子郵件預覽",module,Magento_Email
+"An error occurred. The email template can not be opened for preview.","發生錯誤。電子郵件模板無法打開預覽.",module,Magento_Email
+"This email template no longer exists.","此電子郵件模板已不存在.",module,Magento_Email
+"You saved the email template.","您已保存電子郵件模板.",module,Magento_Email
+"Area is already set","區域已被設置",module,Magento_Email
+"Design config must have area and store.","設計配置必須有區域和商店.",module,Magento_Email
+"Base Unsecure URL","基本不安全網址",module,Magento_Email
+"Base Secure URL","基本安全網址",module,Magento_Email
+"General Contact Name","一般聯繫人姓名",module,Magento_Email
+"General Contact Email","一般聯繫電子郵件",module,Magento_Email
+"Sales Representative Contact Name","銷售代表聯繫人姓名",module,Magento_Email
+"Sales Representative Contact Email","銷售代表聯繫電子郵件",module,Magento_Email
+"Custom1 Contact Name","自定義1聯繫人姓名",module,Magento_Email
+"Custom1 Contact Email","自定義1聯繫人電子郵件",module,Magento_Email
+"Custom2 Contact Name","自定義2聯繫人姓名",module,Magento_Email
+"Custom2 Contact Email","自定義2聯繫人電子郵件",module,Magento_Email
+"Store Name","商店名稱",module,Magento_Email
+"Store Phone Number","商店電話號碼",module,Magento_Email
+"Store Hours","商店 營業時間",module,Magento_Email
+Country,國家,module,Magento_Email
+Region/State,地區/國家,module,Magento_Email
+"Zip/Postal Code","郵編/郵政編碼",module,Magento_Email
+City,城市,module,Magento_Email
+"Street Address 1","街道地址 1",module,Magento_Email
+"Street Address 2","街道地址 2",module,Magento_Email
+"Store Contact Information","商店聯繫人信息",module,Magento_Email
 %1,%1,module,Magento_Email
-"Template Variables","Template Variables",module,Magento_Email
-"Please enter a template name.","Please enter a template name.",module,Magento_Email
-"Duplicate Of Template Name","Duplicate Of Template Name",module,Magento_Email
-"Invalid transactional email code: %1","Invalid transactional email code: %1",module,Magento_Email
-"Requested invalid store ""%1""","Requested invalid store ""%1""",module,Magento_Email
-"""file"" parameter must be specified","""file"" parameter must be specified",module,Magento_Email
-"Contents of %s could not be loaded or is empty","Contents of %s could not be loaded or is empty",module,Magento_Email
-"""file"" parameter must be specified and must not be empty","""file"" parameter must be specified and must not be empty",module,Magento_Email
-"Design params must be set before calling this method","Design params must be set before calling this method",module,Magento_Email
+"Template Variables","模板變量",module,Magento_Email
+"Please enter a template name.","請輸入模板名稱.",module,Magento_Email
+"Duplicate Of Template Name","複製模板名稱",module,Magento_Email
+"Invalid transactional email code: %1","無效交易電子郵件編碼: %1",module,Magento_Email
+"Requested invalid store ""%1""","請求無效店 ""%1""",module,Magento_Email
+"""file"" parameter must be specified","""file"" 參數必須指定",module,Magento_Email
+"Contents of %s could not be loaded or is empty","%s 的內容無法加載或為空",module,Magento_Email
+"""file"" parameter must be specified and must not be empty","""file"" 參數必須指定及不是空的",module,Magento_Email
+"Design params must be set before calling this method","設計參數必須要在調用此方法之前設置",module,Magento_Email
 "<pre> %1 </pre>","<pre> %1 </pre>",module,Magento_Email
 "CSS inlining error:","CSS inlining error:",module,Magento_Email
-"Error filtering template: %s","Error filtering template: %s",module,Magento_Email
-"We\'re sorry, an error has occurred while generating this email.","We\'re sorry, an error has occurred while generating this email.",module,Magento_Email
-"Invalid sender data","Invalid sender data",module,Magento_Email
-Title,Title,module,Magento_Email
-"Load default template","Load default template",module,Magento_Email
-Template,Template,module,Magento_Email
-"Are you sure you want to strip tags?","Are you sure you want to strip tags?",module,Magento_Email
-"Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Email
-"The template did not load. Please review the log for details.","The template did not load. Please review the log for details.",module,Magento_Email
-"Change Encryption Key","Change Encryption Key",module,Magento_EncryptionKey
-"Encryption Key","Encryption Key",module,Magento_EncryptionKey
-"New Encryption Key","New Encryption Key",module,Magento_EncryptionKey
-"The encryption key is used to protect passwords and other sensitive data.","The encryption key is used to protect passwords and other sensitive data.",module,Magento_EncryptionKey
-"Auto-generate a Key","Auto-generate a Key",module,Magento_EncryptionKey
-No,No,module,Magento_EncryptionKey
-Yes,Yes,module,Magento_EncryptionKey
-"The generated key will be displayed after changing.","The generated key will be displayed after changing.",module,Magento_EncryptionKey
-"New Key","New Key",module,Magento_EncryptionKey
-"Deployment configuration file is not writable.","Deployment configuration file is not writable.",module,Magento_EncryptionKey
-"Please enter an encryption key.","Please enter an encryption key.",module,Magento_EncryptionKey
-"The encryption key has been changed.","The encryption key has been changed.",module,Magento_EncryptionKey
-"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey
+"Error filtering template: %s","過濾模板錯誤: %s",module,Magento_Email
+"We\'re sorry, an error has occurred while generating this email.","我們很抱歉，產生此郵件時發生錯誤.",module,Magento_Email
+"Invalid sender data","發送者數據無效",module,Magento_Email
+Title,標題,module,Magento_Email
+"Load default template","加載默認模板",module,Magento_Email
+Template,模板,module,Magento_Email
+"Are you sure you want to strip tags?","你確定你想要去除標籤?",module,Magento_Email
+"Are you sure you want to delete this template?","你確定要刪除此模板?",module,Magento_Email
+"The template did not load. Please review the log for details.","該模板沒有加載。請查看日誌中詳細信息.",module,Magento_Email
+"Change Encryption Key","更改加密密鑰",module,Magento_EncryptionKey
+"Encryption Key","加密密鑰",module,Magento_EncryptionKey
+"New Encryption Key","新加密密鑰",module,Magento_EncryptionKey
+"The encryption key is used to protect passwords and other sensitive data.","加密密鑰用於保護密碼和其它敏感數據.",module,Magento_EncryptionKey
+"Auto-generate a Key","自動生成密鑰",module,Magento_EncryptionKey
+No,否,module,Magento_EncryptionKey
+Yes,是,module,Magento_EncryptionKey
+"The generated key will be displayed after changing.","生成的密鑰轉換後將顯示.",module,Magento_EncryptionKey
+"New Key","新密鑰",module,Magento_EncryptionKey
+"Deployment configuration file is not writable.","部署配置文件是不可寫.",module,Magento_EncryptionKey
+"Please enter an encryption key.","請輸入加密密鑰.",module,Magento_EncryptionKey
+"The encryption key has been changed.","加密密鑰已被更改.",module,Magento_EncryptionKey
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","這是你的新的加密密鑰: <span style=""font-family:monospace;"">%1</span>. 請務必將它寫下來，好好保存它!",module,Magento_EncryptionKey
 "Europe First Priority","Europe First Priority",module,Magento_Fedex
 "1 Day Freight","1 Day Freight",module,Magento_Fedex
 "2 Day Freight","2 Day Freight",module,Magento_Fedex
@@ -2623,181 +2623,181 @@ Kilograms,Kilograms,module,Magento_Fedex
 status,status,module,Magento_Fedex
 "Empty response","Empty response",module,Magento_Fedex
 None,None,module,Magento_Fedex
-"Gift Messages is not applicable for empty cart","Gift Messages is not applicable for empty cart",module,Magento_GiftMessage
-"Gift Messages is not applicable for virtual products","Gift Messages is not applicable for virtual products",module,Magento_GiftMessage
-"Gift Message is not available","Gift Message is not available",module,Magento_GiftMessage
-"Could not add gift message to shopping cart","Could not add gift message to shopping cart",module,Magento_GiftMessage
-"There is no item with provided id in the cart","There is no item with provided id in the cart",module,Magento_GiftMessage
-"There is no product with provided  itemId: %1 in the cart","There is no product with provided  itemId: %1 in the cart",module,Magento_GiftMessage
-"There is no item with provided id in the order","There is no item with provided id in the order",module,Magento_GiftMessage
-"There is no item with provided id in the order or gift message isn't allowed","There is no item with provided id in the order or gift message isn't allowed",module,Magento_GiftMessage
-"Could not add gift message to order: ""%1""","Could not add gift message to order: ""%1""",module,Magento_GiftMessage
-"There is no order with provided id or gift message isn't allowed","There is no order with provided id or gift message isn't allowed",module,Magento_GiftMessage
-"There is no order with provided id","There is no order with provided id",module,Magento_GiftMessage
-"Gift Messages is not applicable for empty order","Gift Messages is not applicable for empty order",module,Magento_GiftMessage
-"Could not add gift message to order's item: ""%1""","Could not add gift message to order's item: ""%1""",module,Magento_GiftMessage
-"Unknown entity type","Unknown entity type",module,Magento_GiftMessage
-From,From,module,Magento_GiftMessage
-To,To,module,Magento_GiftMessage
-Message,Message,module,Magento_GiftMessage
-Cancel,Cancel,module,Magento_GiftMessage
+"Gift Messages is not applicable for empty cart","禮品消息並不適用於空購物車",module,Magento_GiftMessage
+"Gift Messages is not applicable for virtual products","禮品信息不適用於虛擬產品",module,Magento_GiftMessage
+"Gift Message is not available","禮品信息不可用",module,Magento_GiftMessage
+"Could not add gift message to shopping cart","不能添加禮物消息至購物車",module,Magento_GiftMessage
+"There is no item with provided id in the cart","在購物車中沒有項目與提供的ID相符",module,Magento_GiftMessage
+"There is no product with provided  itemId: %1 in the cart","在購物車中沒有產品與提供的項目ID相符: %1",module,Magento_GiftMessage
+"There is no item with provided id in the order","在訂單中沒有項目與提供的ID相符",module,Magento_GiftMessage
+"There is no item with provided id in the order or gift message isn't allowed","在訂單中沒有項目與提供的ID相符， 或禮品消息是不允許的",module,Magento_GiftMessage
+"Could not add gift message to order: ""%1""","不能添加禮物消息至訂單: ""%1""",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn't allowed","在訂單中沒有項目與提供的ID相符， 或禮品消息是不允許的",module,Magento_GiftMessage
+"There is no order with provided id","在訂單中沒有項目與提供的ID相符",module,Magento_GiftMessage
+"Gift Messages is not applicable for empty order","禮品消息並不適用於空的訂單",module,Magento_GiftMessage
+"Could not add gift message to order's item: ""%1""","不能添加禮物消息至訂單項目: ""%1""",module,Magento_GiftMessage
+"Unknown entity type","未知的實體類型",module,Magento_GiftMessage
+From,由,module,Magento_GiftMessage
+To,至,module,Magento_GiftMessage
+Message,信息,module,Magento_GiftMessage
+Cancel,取消,module,Magento_GiftMessage
 OK,OK,module,Magento_GiftMessage
-"Gift Options","Gift Options",module,Magento_GiftMessage
-"Gift Message","Gift Message",module,Magento_GiftMessage
-"Do you have any gift items in your order?","Do you have any gift items in your order?",module,Magento_GiftMessage
-"Add gift options","Add gift options",module,Magento_GiftMessage
-"Gift Options for the Entire Order","Gift Options for the Entire Order",module,Magento_GiftMessage
-"Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_GiftMessage
-"Gift Options for Individual Items","Gift Options for Individual Items",module,Magento_GiftMessage
-"<span>Item %1</span> of %2","<span>Item %1</span> of %2",module,Magento_GiftMessage
-"Leave a box blank if you don't want to add a gift message for that item.","Leave a box blank if you don't want to add a gift message for that item.",module,Magento_GiftMessage
-"Add Gift Options for the Entire Order","Add Gift Options for the Entire Order",module,Magento_GiftMessage
-"You can leave this box blank if you don't want to add a gift message for this address.","You can leave this box blank if you don't want to add a gift message for this address.",module,Magento_GiftMessage
-"Add gift options for Individual Items","Add gift options for Individual Items",module,Magento_GiftMessage
-"You can leave this box blank if you don't want to add a gift message for the item.","You can leave this box blank if you don't want to add a gift message for the item.",module,Magento_GiftMessage
-Dynamic,Dynamic,module,Magento_GoogleAdwords
-Constant,Constant,module,Magento_GoogleAdwords
-"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.",module,Magento_GoogleAdwords
-"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","Conversion Id value is not valid ""%1"". Conversion Id should be an integer.",module,Magento_GoogleAdwords
-"Product View Optimization","Product View Optimization",module,Magento_GoogleOptimizer
-"Page View Optimization","Page View Optimization",module,Magento_GoogleOptimizer
-"Google Analytics Content Experiments Code","Google Analytics Content Experiments Code",module,Magento_GoogleOptimizer
-"Experiment Code","Experiment Code",module,Magento_GoogleOptimizer
-"Experiment code should be added to the original page only.","Experiment code should be added to the original page only.",module,Magento_GoogleOptimizer
-"Category View Optimization","Category View Optimization",module,Magento_GoogleOptimizer
-"Grouped Products","Grouped Products",module,Magento_GroupedProduct
-"Please specify the quantity of product(s).","Please specify the quantity of product(s).",module,Magento_GroupedProduct
-"Cannot process the item.","Cannot process the item.",module,Magento_GroupedProduct
-"Associated Products","Associated Products",module,Magento_GroupedProduct
-Availability:,Availability:,module,Magento_GroupedProduct
-"Out of stock","Out of stock",module,Magento_GroupedProduct
+"Gift Options","禮品選項",module,Magento_GiftMessage
+"Gift Message","禮品信息",module,Magento_GiftMessage
+"Do you have any gift items in your order?","你的訂單中有任何禮品嗎?",module,Magento_GiftMessage
+"Add gift options","新增禮品選項",module,Magento_GiftMessage
+"Gift Options for the Entire Order","整個訂單的禮品選項",module,Magento_GiftMessage
+"Leave this box blank if you don't want to leave a gift message for the entire order.","將此框留空，如果你不想留下禮物消息至整個訂單.",module,Magento_GiftMessage
+"Gift Options for Individual Items","個別項目的禮品選項",module,Magento_GiftMessage
+"<span>Item %1</span> of %2","%2 的 <span>項目 %1</span>",module,Magento_GiftMessage
+"Leave a box blank if you don't want to add a gift message for that item.","將此框留空，如果你不希望添加禮物消息至該項目.",module,Magento_GiftMessage
+"Add Gift Options for the Entire Order","添加禮品選項至整個訂單",module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for this address.","您可以將此框留空，如果你不想添加禮品消息至此地址.",module,Magento_GiftMessage
+"Add gift options for Individual Items","添加單個項目的禮物選項",module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for the item.","您可以將此框留空，如果你不想添加禮品消息至該項目.",module,Magento_GiftMessage
+Dynamic,動態,module,Magento_GoogleAdwords
+Constant,常數,module,Magento_GoogleAdwords
+"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","轉換色彩值無效 ""%1"". 請設置十六進制6位數的值.",module,Magento_GoogleAdwords
+"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","轉換編號值無效 ""%1"". 轉換編號應該是一個整數.",module,Magento_GoogleAdwords
+"Product View Optimization","產品瀏覽優化",module,Magento_GoogleOptimizer
+"Page View Optimization","頁面瀏覽優化",module,Magento_GoogleOptimizer
+"Google Analytics Content Experiments Code","谷歌Analytics內容實驗代碼",module,Magento_GoogleOptimizer
+"Experiment Code","實驗代碼",module,Magento_GoogleOptimizer
+"Experiment code should be added to the original page only.","實驗代碼應該被添加到原來的頁面.",module,Magento_GoogleOptimizer
+"Category View Optimization","類別瀏覽優化",module,Magento_GoogleOptimizer
+"Grouped Products","組合產品",module,Magento_GroupedProduct
+"Please specify the quantity of product(s).","請說明產品的數量.",module,Magento_GroupedProduct
+"Cannot process the item.","無法處理項目.",module,Magento_GroupedProduct
+"Associated Products","相關產品",module,Magento_GroupedProduct
+Availability:,可用性:,module,Magento_GroupedProduct
+"Out of stock","缺貨",module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
 SKU,SKU,module,Magento_GroupedProduct
-"Product Name","Product Name",module,Magento_GroupedProduct
-Price,Price,module,Magento_GroupedProduct
+"Product Name","產品名稱",module,Magento_GroupedProduct
+Price,價錢,module,Magento_GroupedProduct
 Qty,Qty,module,Magento_GroupedProduct
-"No options of this product are available.","No options of this product are available.",module,Magento_GroupedProduct
-"There are no grouped products.","There are no grouped products.",module,Magento_GroupedProduct
-Name,Name,module,Magento_GroupedProduct
-"Default Qty","Default Qty",module,Magento_GroupedProduct
-"Starting at","Starting at",module,Magento_GroupedProduct
-Availability,Availability,module,Magento_GroupedProduct
-"In stock","In stock",module,Magento_GroupedProduct
-"Grouped product items","Grouped product items",module,Magento_GroupedProduct
-Export,Export,module,Magento_ImportExport
-"Export Settings","Export Settings",module,Magento_ImportExport
-"Entity Type","Entity Type",module,Magento_ImportExport
-"Export File Format","Export File Format",module,Magento_ImportExport
-From,From,module,Magento_ImportExport
-To,To,module,Magento_ImportExport
-"We can't filter an attribute with no attribute options.","We can't filter an attribute with no attribute options.",module,Magento_ImportExport
-Exclude,Exclude,module,Magento_ImportExport
-"Attribute Label","Attribute Label",module,Magento_ImportExport
-"Attribute Code","Attribute Code",module,Magento_ImportExport
-Filter,Filter,module,Magento_ImportExport
-"Unknown attribute filter type","Unknown attribute filter type",module,Magento_ImportExport
-Download,Download,module,Magento_ImportExport
-"Check Data","Check Data",module,Magento_ImportExport
-Import,Import,module,Magento_ImportExport
-"Import Settings","Import Settings",module,Magento_ImportExport
-"Import Behavior","Import Behavior",module,Magento_ImportExport
+"No options of this product are available.","本產品沒有可用選項.",module,Magento_GroupedProduct
+"There are no grouped products.","沒有組合產品.",module,Magento_GroupedProduct
+Name,名稱,module,Magento_GroupedProduct
+"Default Qty","默認數量",module,Magento_GroupedProduct
+"Starting at","開始於",module,Magento_GroupedProduct
+Availability,可用性,module,Magento_GroupedProduct
+"In stock","有現貨",module,Magento_GroupedProduct
+"Grouped product items","組合產品項目",module,Magento_GroupedProduct
+Export,匯出,module,Magento_ImportExport
+"Export Settings","導出設置",module,Magento_ImportExport
+"Entity Type","實體類型",module,Magento_ImportExport
+"Export File Format","導出文件格式",module,Magento_ImportExport
+From,由,module,Magento_ImportExport
+To,至,module,Magento_ImportExport
+"We can't filter an attribute with no attribute options.","我們不能過濾沒有屬性選項的屬性.",module,Magento_ImportExport
+Exclude,排除,module,Magento_ImportExport
+"Attribute Label","屬性標籤",module,Magento_ImportExport
+"Attribute Code","屬性碼",module,Magento_ImportExport
+Filter,過濾,module,Magento_ImportExport
+"Unknown attribute filter type","未知屬性過濾器類型",module,Magento_ImportExport
+Download,下載,module,Magento_ImportExport
+"Check Data","檢查數據",module,Magento_ImportExport
+Import,匯入,module,Magento_ImportExport
+"Import Settings","導入設置",module,Magento_ImportExport
+"Import Behavior","導入行為",module,Magento_ImportExport
 " "," ",module,Magento_ImportExport
-"Allowed Errors Count","Allowed Errors Count",module,Magento_ImportExport
-"Please specify number of errors to halt import process","Please specify number of errors to halt import process",module,Magento_ImportExport
-"Field separator","Field separator",module,Magento_ImportExport
-"Multiple value separator","Multiple value separator",module,Magento_ImportExport
-"File to Import","File to Import",module,Magento_ImportExport
-"Select File to Import","Select File to Import",module,Magento_ImportExport
-"Images File Directory","Images File Directory",module,Magento_ImportExport
+"Allowed Errors Count","允許的錯誤數目",module,Magento_ImportExport
+"Please specify number of errors to halt import process","請註明錯誤數目來停止導入過程",module,Magento_ImportExport
+"Field separator","字段分隔符",module,Magento_ImportExport
+"Multiple value separator","多值分隔符",module,Magento_ImportExport
+"File to Import","要導入的文件",module,Magento_ImportExport
+"Select File to Import","選擇要導入的文件",module,Magento_ImportExport
+"Images File Directory","圖像文件目錄",module,Magento_ImportExport
 "For Type ""Local Server"" use relative path to Magento installation,
                                 e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation,
                                 e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
-"Download Sample File","Download Sample File",module,Magento_ImportExport
-"Please correct the data sent value.","Please correct the data sent value.",module,Magento_ImportExport
-Import/Export,Import/Export,module,Magento_ImportExport
-History,History,module,Magento_ImportExport
-"Import History","Import History",module,Magento_ImportExport
-"Import history","Import history",module,Magento_ImportExport
-"There is no sample file for this entity.","There is no sample file for this entity.",module,Magento_ImportExport
-Status,Status,module,Magento_ImportExport
-"Maximum error count has been reached or system error is occurred!","Maximum error count has been reached or system error is occurred!",module,Magento_ImportExport
-"Import successfully done","Import successfully done",module,Magento_ImportExport
-"This file is empty. Please try another one.","This file is empty. Please try another one.",module,Magento_ImportExport
-"Data validation is failed. Please fix errors and re-upload the file..","Data validation is failed. Please fix errors and re-upload the file..",module,Magento_ImportExport
-"File is valid! To start import process press ""Import"" button","File is valid! To start import process press ""Import"" button",module,Magento_ImportExport
-"The file is valid, but we can't import it for some reason.","The file is valid, but we can't import it for some reason.",module,Magento_ImportExport
-"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4",module,Magento_ImportExport
-"The file was not uploaded.","The file was not uploaded.",module,Magento_ImportExport
-"Sorry, but the data is invalid or the file is not uploaded.","Sorry, but the data is invalid or the file is not uploaded.",module,Magento_ImportExport
-"Show more","Show more",module,Magento_ImportExport
-"Additional data","Additional data",module,Magento_ImportExport
-"Following Error(s) has been occurred during importing process:","Following Error(s) has been occurred during importing process:",module,Magento_ImportExport
-"Only first 100 errors are displayed here. ","Only first 100 errors are displayed here. ",module,Magento_ImportExport
-"Download full report","Download full report",module,Magento_ImportExport
+"Download Sample File","下載示例文件",module,Magento_ImportExport
+"Please correct the data sent value.","請更正數據的發送值.",module,Magento_ImportExport
+Import/Export,匯入，匯出,module,Magento_ImportExport
+History,歷史,module,Magento_ImportExport
+"Import History","導入歷史記錄",module,Magento_ImportExport
+"Import history","導入歷史記錄",module,Magento_ImportExport
+"There is no sample file for this entity.","這個實體沒有示例文件.",module,Magento_ImportExport
+Status,狀態,module,Magento_ImportExport
+"Maximum error count has been reached or system error is occurred!","最大錯誤數已達到或發生系統錯誤!",module,Magento_ImportExport
+"Import successfully done","導入成功完成",module,Magento_ImportExport
+"This file is empty. Please try another one.","這個文件是空的。請嘗試另一個.",module,Magento_ImportExport
+"Data validation is failed. Please fix errors and re-upload the file..","數據驗證失敗。請修正錯誤，重新上傳文件.",module,Magento_ImportExport
+"File is valid! To start import process press ""Import"" button","文件是有效的！要開始導入過程按 ""導入"" 按鈕",module,Magento_ImportExport
+"The file is valid, but we can't import it for some reason.","該文件是有效的，但出於某種原因，我們不能將其導入.",module,Magento_ImportExport
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","已檢查行: %1, 已檢查實體: %2, 無效行: %3, 總錯誤: %4",module,Magento_ImportExport
+"The file was not uploaded.","該文件沒有上傳.",module,Magento_ImportExport
+"Sorry, but the data is invalid or the file is not uploaded.","抱歉，該數據是無效或文件沒有被上傳.",module,Magento_ImportExport
+"Show more","展示更多",module,Magento_ImportExport
+"Additional data","其他數據",module,Magento_ImportExport
+"Following Error(s) has been occurred during importing process:","以下錯誤在導入過程中出現:",module,Magento_ImportExport
+"Only first 100 errors are displayed here. ","在這裡只顯示首100個錯誤. ",module,Magento_ImportExport
+"Download full report","下載報告全文",module,Magento_ImportExport
 "in rows:","in rows:",module,Magento_ImportExport
-"Make sure your file isn't more than %1M.","Make sure your file isn't more than %1M.",module,Magento_ImportExport
-"We can't provide the upload settings right now.","We can't provide the upload settings right now.",module,Magento_ImportExport
-"Created: %1, Updated: %2, Deleted: %3","Created: %1, Updated: %2, Deleted: %3",module,Magento_ImportExport
-"Please enter a correct entity model.","Please enter a correct entity model.",module,Magento_ImportExport
+"Make sure your file isn't more than %1M.","確保你的文件小於 %1M.",module,Magento_ImportExport
+"We can't provide the upload settings right now.","我們現在不能提供上傳設置.",module,Magento_ImportExport
+"Created: %1, Updated: %2, Deleted: %3","新增: %1, 更改: %2, 刪除: %3",module,Magento_ImportExport
+"Please enter a correct entity model.","請輸入正確的實體模型.",module,Magento_ImportExport
 "The entity adapter object must be an instance of %1 or %2.","The entity adapter object must be an instance of %1 or %2.",module,Magento_ImportExport
 "The input entity code is not equal to entity adapter code.","The input entity code is not equal to entity adapter code.",module,Magento_ImportExport
-"Please enter a correct entity.","Please enter a correct entity.",module,Magento_ImportExport
+"Please enter a correct entity.","請輸入正確的實體.",module,Magento_ImportExport
 "The adapter object must be an instance of %1.","The adapter object must be an instance of %1.",module,Magento_ImportExport
-"Please correct the file format.","Please correct the file format.",module,Magento_ImportExport
-"Begin export of %1","Begin export of %1",module,Magento_ImportExport
-"There is no data for the export.","There is no data for the export.",module,Magento_ImportExport
-"Exported %1 rows.","Exported %1 rows.",module,Magento_ImportExport
-"The export is finished.","The export is finished.",module,Magento_ImportExport
-"Please provide filter data.","Please provide filter data.",module,Magento_ImportExport
-"We can't determine the attribute filter type.","We can't determine the attribute filter type.",module,Magento_ImportExport
-"Entity is unknown","Entity is unknown",module,Magento_ImportExport
-"We can't identify this file format.","We can't identify this file format.",module,Magento_ImportExport
-"Please correct the value for ""%1"" column.","Please correct the value for ""%1"" column.",module,Magento_ImportExport
-"Please specify the writer.","Please specify the writer.",module,Magento_ImportExport
-"The destination file path must be a string.","The destination file path must be a string.",module,Magento_ImportExport
-"The destination directory is not writable.","The destination directory is not writable.",module,Magento_ImportExport
-"Destination file is not writable","Destination file is not writable",module,Magento_ImportExport
-"The header column names are already set.","The header column names are already set.",module,Magento_ImportExport
-"Data validation is failed. Please fix errors and re-upload the file.","Data validation is failed. Please fix errors and re-upload the file.",module,Magento_ImportExport
+"Please correct the file format.","請更正文件格式.",module,Magento_ImportExport
+"Begin export of %1","開始導出 %1",module,Magento_ImportExport
+"There is no data for the export.","目前的匯出沒有數據.",module,Magento_ImportExport
+"Exported %1 rows.","已匯出 %1 行.",module,Magento_ImportExport
+"The export is finished.","導出完成.",module,Magento_ImportExport
+"Please provide filter data.","請提供過濾數據.",module,Magento_ImportExport
+"We can't determine the attribute filter type.","我們不能確定該屬性的過濾器類型.",module,Magento_ImportExport
+"Entity is unknown","實體不明",module,Magento_ImportExport
+"We can't identify this file format.","我們無法識別這種文件格式.",module,Magento_ImportExport
+"Please correct the value for ""%1"" column.","請修正欄 ""%1"" 的值.",module,Magento_ImportExport
+"Please specify the writer.","請註明寫入者.",module,Magento_ImportExport
+"The destination file path must be a string.","目標文件路徑必須是字符串.",module,Magento_ImportExport
+"The destination directory is not writable.","目標目錄不可寫.",module,Magento_ImportExport
+"Destination file is not writable","目標文件不可寫",module,Magento_ImportExport
+"The header column names are already set.","頭列名已經被設置.",module,Magento_ImportExport
+"Data validation is failed. Please fix errors and re-upload the file.","數據驗證失敗。請修正錯誤，重新上傳文件.",module,Magento_ImportExport
 "in rows","in rows",module,Magento_ImportExport
-"The validation is complete.","The validation is complete.",module,Magento_ImportExport
-"This file does not contain any data.","This file does not contain any data.",module,Magento_ImportExport
+"The validation is complete.","驗證完成.",module,Magento_ImportExport
+"This file does not contain any data.","此文件不包含任何數據",module,Magento_ImportExport
 "Begin import of ""%1"" with ""%2"" behavior","Begin import of ""%1"" with ""%2"" behavior",module,Magento_ImportExport
-"The import was successful.","The import was successful.",module,Magento_ImportExport
-"The file you uploaded has no extension.","The file you uploaded has no extension.",module,Magento_ImportExport
-"The source file moving process failed.","The source file moving process failed.",module,Magento_ImportExport
-"Begin data validation","Begin data validation",module,Magento_ImportExport
-"Import data validation is complete.","Import data validation is complete.",module,Magento_ImportExport
+"The import was successful.","導入成功.",module,Magento_ImportExport
+"The file you uploaded has no extension.","你上傳的文件沒有擴展.",module,Magento_ImportExport
+"The source file moving process failed.","源文件移動過程中失敗.",module,Magento_ImportExport
+"Begin data validation","開始數據驗證",module,Magento_ImportExport
+"Import data validation is complete.","導入數據的驗證完成.",module,Magento_ImportExport
 "The behavior token for %1 is invalid.","The behavior token for %1 is invalid.",module,Magento_ImportExport
-"Please enter a correct entity model","Please enter a correct entity model",module,Magento_ImportExport
-"Source file coping failed","Source file coping failed",module,Magento_ImportExport
-"The source is not set.","The source is not set.",module,Magento_ImportExport
-"The adapter type must be a non-empty string.","The adapter type must be a non-empty string.",module,Magento_ImportExport
-"'%1' file extension is not supported","'%1' file extension is not supported",module,Magento_ImportExport
+"Please enter a correct entity model","請輸入正確的實體模型",module,Magento_ImportExport
+"Source file coping failed","源文件複製失敗",module,Magento_ImportExport
+"The source is not set.","源未設置.",module,Magento_ImportExport
+"The adapter type must be a non-empty string.","適配器類型必須是一個非空的字符串.",module,Magento_ImportExport
+"'%1' file extension is not supported","'%1' 文件擴展名不支持",module,Magento_ImportExport
 "Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource",module,Magento_ImportExport
-"Please specify a source.","Please specify a source.",module,Magento_ImportExport
-"ImportExport: Import Data validation - Validation strategy not found","ImportExport: Import Data validation - Validation strategy not found",module,Magento_ImportExport
-"Cannot get autoincrement value","Cannot get autoincrement value",module,Magento_ImportExport
+"Please specify a source.","請註明來源.",module,Magento_ImportExport
+"ImportExport: Import Data validation - Validation strategy not found","ImportExport: 進口數據驗證 - 驗證策略找不到",module,Magento_ImportExport
+"Cannot get autoincrement value","無法獲取自動增量值",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Error in data structure: %1 values are mixed",module,Magento_ImportExport
-"-- Please Select --","-- Please Select --",module,Magento_ImportExport
-label,label,module,Magento_ImportExport
-Add/Update,Add/Update,module,Magento_ImportExport
-Replace,Replace,module,Magento_ImportExport
-Delete,Delete,module,Magento_ImportExport
-"Note: Product IDs will be regenerated.","Note: Product IDs will be regenerated.",module,Magento_ImportExport
-"Add/Update Complex Data","Add/Update Complex Data",module,Magento_ImportExport
+"-- Please Select --","-- 請選擇 --",module,Magento_ImportExport
+label,標籤,module,Magento_ImportExport
+Add/Update,添加/更新,module,Magento_ImportExport
+Replace,替代,module,Magento_ImportExport
+Delete,刪除,module,Magento_ImportExport
+"Note: Product IDs will be regenerated.","注：產品 IDs 將被重新生成.",module,Magento_ImportExport
+"Add/Update Complex Data","添加/更新複雜的數據",module,Magento_ImportExport
 "Delete Entities","Delete Entities",module,Magento_ImportExport
 "Custom Action","Custom Action",module,Magento_ImportExport
 "Error message","Error message",module,Magento_ImportExport
-"URL key for specified store already exists.","URL key for specified store already exists.",module,Magento_ImportExport
-"Entity Attributes","Entity Attributes",module,Magento_ImportExport
-Continue,Continue,module,Magento_ImportExport
-"Validation Results","Validation Results",module,Magento_ImportExport
-"Indexer Management","Indexer Management",module,Magento_Indexer
-"Update by Schedule","Update by Schedule",module,Magento_Indexer
-"Update on Save","Update on Save",module,Magento_Indexer
-"Reindex required","Reindex required",module,Magento_Indexer
-Ready,Ready,module,Magento_Indexer
+"URL key for specified store already exists.","指定商店網址鍵已經存在.",module,Magento_ImportExport
+"Entity Attributes","實體屬性",module,Magento_ImportExport
+Continue,繼續,module,Magento_ImportExport
+"Validation Results","驗證結果",module,Magento_ImportExport
+"Indexer Management","索引管理",module,Magento_Indexer
+"Update by Schedule","排程更新",module,Magento_Indexer
+"Update on Save","保存時更新",module,Magento_Indexer
+"Reindex required","需要重新建立索引",module,Magento_Indexer
+Ready,準備,module,Magento_Indexer
 Processing,Processing,module,Magento_Indexer
 Never,Never,module,Magento_Indexer
 "Index Management","Index Management",module,Magento_Indexer
