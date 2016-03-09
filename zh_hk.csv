@@ -2798,10 +2798,10 @@ Continue,繼續,module,Magento_ImportExport
 "Update on Save","保存時更新",module,Magento_Indexer
 "Reindex required","需要重新建立索引",module,Magento_Indexer
 Ready,準備,module,Magento_Indexer
-Processing,Processing,module,Magento_Indexer
-Never,Never,module,Magento_Indexer
-"Index Management","Index Management",module,Magento_Indexer
-"Please select indexers.","Please select indexers.",module,Magento_Indexer
+Processing,處理中,module,Magento_Indexer
+Never,決不,module,Magento_Indexer
+"Index Management","索引管理",module,Magento_Indexer
+"Please select indexers.","請選擇索引.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indexer(s) are in ""Update by Schedule"" mode.",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","We couldn't change indexer(s)' mode because of an error.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indexer(s) are in ""Update on Save"" mode.",module,Magento_Indexer
@@ -2954,50 +2954,50 @@ Database,Database,module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","File with an extension ""%value%"" is protected and cannot be uploaded",module,Magento_MediaStorage
 "Unable to create directory: %1","Unable to create directory: %1",module,Magento_MediaStorage
 "Unable to save file: %1","Unable to save file: %1",module,Magento_MediaStorage
-"To see product price, add this item to your cart. You can always remove it later.","To see product price, add this item to your cart. You can always remove it later.",module,Magento_Msrp
-"See price before order confirmation.","See price before order confirmation.",module,Magento_Msrp
-"On Gesture","On Gesture",module,Magento_Msrp
-"In Cart","In Cart",module,Magento_Msrp
-"Before Order Confirmation","Before Order Confirmation",module,Magento_Msrp
-"Use config","Use config",module,Magento_Msrp
-"Click for price","Click for price",module,Magento_Msrp
-"What\'s this?","What\'s this?",module,Magento_Msrp
-"Order total will be displayed before you submit the order","Order total will be displayed before you submit the order",module,Magento_Msrp
-"You will see the order total before you submit the order.","You will see the order total before you submit the order.",module,Magento_Msrp
-Price,Price,module,Magento_Msrp
-"Actual Price","Actual Price",module,Magento_Msrp
-"Add to Cart","Add to Cart",module,Magento_Msrp
-"Change Billing Address","Change Billing Address",module,Magento_Multishipping
-"Ship to Multiple Addresses","Ship to Multiple Addresses",module,Magento_Multishipping
-"Billing Information - %1","Billing Information - %1",module,Magento_Multishipping
-"Review Order - %1","Review Order - %1",module,Magento_Multishipping
-Total,Total,module,Magento_Multishipping
-"Total for this address","Total for this address",module,Magento_Multishipping
-"Shipping Methods","Shipping Methods",module,Magento_Multishipping
-"Edit Address","Edit Address",module,Magento_Multishipping
-"Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
-"Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
-"Create Billing Address","Create Billing Address",module,Magento_Multishipping
-"Create Shipping Address","Create Shipping Address",module,Magento_Multishipping
-"Data saving problem","Data saving problem",module,Magento_Multishipping
-"We cannot open the overview page.","We cannot open the overview page.",module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
-"Order place error","Order place error",module,Magento_Multishipping
-"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
-"Please check shipping address information.","Please check shipping address information.",module,Magento_Multishipping
-"Please check billing address information.","Please check billing address information.",module,Magento_Multishipping
-"Please select shipping methods for all addresses.","Please select shipping methods for all addresses.",module,Magento_Multishipping
-"A payment method is not defined.","A payment method is not defined.",module,Magento_Multishipping
-"The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
-"Item not found or already ordered","Item not found or already ordered",module,Magento_Multishipping
-"Please specify a payment method.","Please specify a payment method.",module,Magento_Multishipping
-"Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
-"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
-"Select Addresses","Select Addresses",module,Magento_Multishipping
-"Shipping Information","Shipping Information",module,Magento_Multishipping
-"Billing Information","Billing Information",module,Magento_Multishipping
-"Place Order","Place Order",module,Magento_Multishipping
-"Order Success","Order Success",module,Magento_Multishipping
+"To see product price, add this item to your cart. You can always remove it later.","要查看產品的價格，將該產品添加到您的購物車。以後您可以隨時將其刪除。",module,Magento_Msrp
+"See price before order confirmation.","在確認訂單前查看價格.",module,Magento_Msrp
+"On Gesture","手勢",module,Magento_Msrp
+"In Cart","在購物車",module,Magento_Msrp
+"Before Order Confirmation","訂單確認之前",module,Magento_Msrp
+"Use config","使用配置",module,Magento_Msrp
+"Click for price","點擊價格",module,Magento_Msrp
+"What\'s this?","這是甚麼?",module,Magento_Msrp
+"Order total will be displayed before you submit the order","您提交訂單之前，訂單總額將顯示",module,Magento_Msrp
+"You will see the order total before you submit the order.","您提交訂單之前會看到訂單總額.",module,Magento_Msrp
+Price,價錢,module,Magento_Msrp
+"Actual Price","實際價格",module,Magento_Msrp
+"Add to Cart","添加到購物車",module,Magento_Msrp
+"Change Billing Address","更改賬單地址",module,Magento_Multishipping
+"Ship to Multiple Addresses","送到多個地址",module,Magento_Multishipping
+"Billing Information - %1","賬單信息 - %1",module,Magento_Multishipping
+"Review Order - %1","查看訂單 - %1",module,Magento_Multishipping
+Total,總額,module,Magento_Multishipping
+"Total for this address","該地址的總額",module,Magento_Multishipping
+"Shipping Methods","送貨方式",module,Magento_Multishipping
+"Edit Address","編輯地址",module,Magento_Multishipping
+"Edit Billing Address","修改帳單地址",module,Magento_Multishipping
+"Edit Shipping Address","編輯送貨地址",module,Magento_Multishipping
+"Create Billing Address","創建帳單地址",module,Magento_Multishipping
+"Create Shipping Address","創建送貨地址",module,Magento_Multishipping
+"Data saving problem","數據保存問題",module,Magento_Multishipping
+"We cannot open the overview page.","我們無法打開概述頁面.",module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","在下訂單之前，請同意所有條款和條件.",module,Magento_Multishipping
+"Order place error","下訂單時出錯",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","允許運送到多個地址的最多數量是 %1",module,Magento_Multishipping
+"Please check shipping address information.","請檢查送貨地址信息.",module,Magento_Multishipping
+"Please check billing address information.","請檢查帳單地址信息.",module,Magento_Multishipping
+"Please select shipping methods for all addresses.","請選擇所有地址送貨方式.",module,Magento_Multishipping
+"A payment method is not defined.","沒有定義的付款方式.",module,Magento_Multishipping
+"The requested payment method is not available for multishipping.","請求的付款方式不適用於多種送貨方法.",module,Magento_Multishipping
+"Item not found or already ordered","項目未找到或已訂購",module,Magento_Multishipping
+"Please specify a payment method.","請指定付款方式.",module,Magento_Multishipping
+"Please check shipping addresses information.","請檢查送貨地址信息.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","請指定所有地址的送貨方式.",module,Magento_Multishipping
+"Select Addresses","選擇地址",module,Magento_Multishipping
+"Shipping Information","送貨信息",module,Magento_Multishipping
+"Billing Information","賬單信息",module,Magento_Multishipping
+"Place Order","下訂單",module,Magento_Multishipping
+"Order Success","訂單成功",module,Magento_Multishipping
 "Default Billing","Default Billing",module,Magento_Multishipping
 "Default Shipping","Default Shipping",module,Magento_Multishipping
 "Select Address","Select Address",module,Magento_Multishipping
