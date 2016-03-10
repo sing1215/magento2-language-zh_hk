@@ -3199,102 +3199,102 @@ Month,月,module,Magento_Payment
 Year,年,module,Magento_Payment
 "We cannot retrieve the payment info model object.","我們無法檢索付款信息模型對象.",module,Magento_Payment
 N/A,N/A,module,Magento_Payment
-"Credit Card Type","Credit Card Type",module,Magento_Payment
-"Credit Card Number","Credit Card Number",module,Magento_Payment
-"Switch/Solo/Maestro Issue Number","Switch/Solo/Maestro Issue Number",module,Magento_Payment
-"Switch/Solo/Maestro Start Date","Switch/Solo/Maestro Start Date",module,Magento_Payment
-"We cannot retrieve the transparent payment method model object.","We cannot retrieve the transparent payment method model object.",module,Magento_Payment
-"Command %1 does not exist.","Command %1 does not exist.",module,Magento_Payment
-"Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
-"Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
-Discount,Discount,module,Magento_Payment
-Shipping,Shipping,module,Magento_Payment
-"All Allowed Countries","All Allowed Countries",module,Magento_Payment
-"Specific Countries","Specific Countries",module,Magento_Payment
-"The payment method you requested is not available.","The payment method you requested is not available.",module,Magento_Payment
-"The payment disallows storing objects.","The payment disallows storing objects.",module,Magento_Payment
-"We cannot retrieve the payment method code.","We cannot retrieve the payment method code.",module,Magento_Payment
-"We cannot retrieve the payment information object instance.","We cannot retrieve the payment information object instance.",module,Magento_Payment
-"You can't use the payment type you selected to make payments to the billing country.","You can't use the payment type you selected to make payments to the billing country.",module,Magento_Payment
-"The order action is not available.","The order action is not available.",module,Magento_Payment
-"The authorize action is not available.","The authorize action is not available.",module,Magento_Payment
-"The capture action is not available.","The capture action is not available.",module,Magento_Payment
-"The refund action is not available.","The refund action is not available.",module,Magento_Payment
-"The void action is not available.","The void action is not available.",module,Magento_Payment
-"The payment review action is unavailable.","The payment review action is unavailable.",module,Magento_Payment
-"The credit card number doesn't match the credit card type.","The credit card number doesn't match the credit card type.",module,Magento_Payment
-"Invalid Credit Card Number","Invalid Credit Card Number",module,Magento_Payment
-"This credit card type is not allowed for this payment method.","This credit card type is not allowed for this payment method.",module,Magento_Payment
-"Please enter a valid credit card verification number.","Please enter a valid credit card verification number.",module,Magento_Payment
-"Please enter a valid credit card expiration date.","Please enter a valid credit card expiration date.",module,Magento_Payment
+"Credit Card Type","信用卡類型",module,Magento_Payment
+"Credit Card Number","信用卡號",module,Magento_Payment
+"Switch/Solo/Maestro Issue Number","Switch/Solo/Maestro 發行號",module,Magento_Payment
+"Switch/Solo/Maestro Start Date","Switch/Solo/Maestro 開始日期",module,Magento_Payment
+"We cannot retrieve the transparent payment method model object.","我們不能檢索透明付款方式模型對象.",module,Magento_Payment
+"Command %1 does not exist.","命令 %1 不存在.",module,Magento_Payment
+"Wrong gateway response format.","錯誤的網關響應格式.",module,Magento_Payment
+"Validator for field %1 does not exist.","字段的驗證者 %1 不存在.",module,Magento_Payment
+Discount,折扣,module,Magento_Payment
+Shipping,送貨,module,Magento_Payment
+"All Allowed Countries","所有允許國家",module,Magento_Payment
+"Specific Countries","特定國家",module,Magento_Payment
+"The payment method you requested is not available.","您要求的付款方式不可用.",module,Magento_Payment
+"The payment disallows storing objects.","支付不允許存儲對象.",module,Magento_Payment
+"We cannot retrieve the payment method code.","我們無法檢索付款方式碼.",module,Magento_Payment
+"We cannot retrieve the payment information object instance.","我們無法檢索付款信息對象實例.",module,Magento_Payment
+"You can't use the payment type you selected to make payments to the billing country.","你不能用你選擇的付款方式來支付到帳單國家.",module,Magento_Payment
+"The order action is not available.","訂單操作不可用.",module,Magento_Payment
+"The authorize action is not available.","該授權操作不可用.",module,Magento_Payment
+"The capture action is not available.","捕獲操作不可用.",module,Magento_Payment
+"The refund action is not available.","退款操作不可用.",module,Magento_Payment
+"The void action is not available.","廢止操作不可用.",module,Magento_Payment
+"The payment review action is unavailable.","支付審核動作是不可用.",module,Magento_Payment
+"The credit card number doesn't match the credit card type.","信用卡號碼不匹配信用卡類型.",module,Magento_Payment
+"Invalid Credit Card Number","無效的信用卡號碼",module,Magento_Payment
+"This credit card type is not allowed for this payment method.","這種信用卡類型不允許用在此付款方式.",module,Magento_Payment
+"Please enter a valid credit card verification number.","請輸入有效的信用卡驗證碼.",module,Magento_Payment
+"Please enter a valid credit card expiration date.","請輸入一個有效的信用卡到期日.",module,Magento_Payment
 "%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 class doesn't implement \Magento\Payment\Model\MethodInterface",module,Magento_Payment
-Yes,Yes,module,Magento_Payment
-No,No,module,Magento_Payment
-"Expiration Date","Expiration Date",module,Magento_Payment
-"Card Verification Number","Card Verification Number",module,Magento_Payment
+Yes,是,module,Magento_Payment
+No,否,module,Magento_Payment
+"Expiration Date","有效日期至",module,Magento_Payment
+"Card Verification Number","信用卡識別號",module,Magento_Payment
 "Switch/Solo/Maestro Only","Switch/Solo/Maestro Only",module,Magento_Payment
-"Issue Number","Issue Number",module,Magento_Payment
-"Start Date","Start Date",module,Magento_Payment
-" is not available. You still can process offline actions."," is not available. You still can process offline actions.",module,Magento_Payment
-"Please Select","Please Select",module,Magento_Payment
-"We'll ask for your payment details before you place an order.","We'll ask for your payment details before you place an order.",module,Magento_Payment
-"--Please Select--","--Please Select--",module,Magento_Payment
-"Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Payment
-"What is this?","What is this?",module,Magento_Payment
-"Credit Card Information","Credit Card Information",module,Magento_Payment
-"Billing Agreements","Billing Agreements",module,Magento_Paypal
+"Issue Number","發行號",module,Magento_Payment
+"Start Date","開始日期",module,Magento_Payment
+" is not available. You still can process offline actions."," 不可用。您仍然可以處理離線操作.",module,Magento_Payment
+"Please Select","請選擇",module,Magento_Payment
+"We'll ask for your payment details before you place an order.","我們會在你下訂單之前詢問您的付款細節.",module,Magento_Payment
+"--Please Select--","--請選擇--",module,Magento_Payment
+"Card Verification Number Visual Reference","信用卡驗證號碼視覺參考",module,Magento_Payment
+"What is this?","這是什麼?",module,Magento_Payment
+"Credit Card Information","信用卡信息",module,Magento_Payment
+"Billing Agreements","結算協議",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
-Email,Email,module,Magento_Paypal
-"First Name","First Name",module,Magento_Paypal
-"Last Name","Last Name",module,Magento_Paypal
-"Reference ID","Reference ID",module,Magento_Paypal
-Status,Status,module,Magento_Paypal
-Created,Created,module,Magento_Paypal
+Email,電子郵件,module,Magento_Paypal
+"First Name","名字",module,Magento_Paypal
+"Last Name","姓",module,Magento_Paypal
+"Reference ID","參考ID",module,Magento_Paypal
+Status,狀態,module,Magento_Paypal
+Created,已創建,module,Magento_Paypal
 N/A,N/A,module,Magento_Paypal
-Updated,Updated,module,Magento_Paypal
-Back,Back,module,Magento_Paypal
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Paypal
-Cancel,Cancel,module,Magento_Paypal
-"Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
-"General Information","General Information",module,Magento_Paypal
-"Related Orders","Related Orders",module,Magento_Paypal
-Order,Order,module,Magento_Paypal
-Purchased,Purchased,module,Magento_Paypal
-"Bill-to Name","Bill-to Name",module,Magento_Paypal
-"Ship-to Name","Ship-to Name",module,Magento_Paypal
-"Order Total","Order Total",module,Magento_Paypal
-"Purchase Point","Purchase Point",module,Magento_Paypal
-"Billing Agreement View","Billing Agreement View",module,Magento_Paypal
-"View Transaction Details","View Transaction Details",module,Magento_Paypal
-"Reference Information","Reference Information",module,Magento_Paypal
-"Transaction Information","Transaction Information",module,Magento_Paypal
-"PayPal Fee Information","PayPal Fee Information",module,Magento_Paypal
-"PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Paypal
+Updated,已更新,module,Magento_Paypal
+Back,返回,module,Magento_Paypal
+"Are you sure you want to do this?","你確定你想這樣做?",module,Magento_Paypal
+Cancel,取消,module,Magento_Paypal
+"Billing Agreement #%1","結算協議 #%1",module,Magento_Paypal
+"General Information","一般信息",module,Magento_Paypal
+"Related Orders","相關訂單",module,Magento_Paypal
+Order,訂單,module,Magento_Paypal
+Purchased,已購買,module,Magento_Paypal
+"Bill-to Name","付款人姓名",module,Magento_Paypal
+"Ship-to Name","收貨人姓名",module,Magento_Paypal
+"Order Total","合計訂單",module,Magento_Paypal
+"Purchase Point","購買點",module,Magento_Paypal
+"Billing Agreement View","結算協議查看",module,Magento_Paypal
+"View Transaction Details","查看交易詳情",module,Magento_Paypal
+"Reference Information","參考信息",module,Magento_Paypal
+"Transaction Information","交易信息",module,Magento_Paypal
+"PayPal Fee Information","PayPal 費用信息",module,Magento_Paypal
+"PayPal Settlement Reports","PayPal 結算報告",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?",module,Magento_Paypal
 "Fetch Updates","Fetch Updates",module,Magento_Paypal
 button_label,button_label,module,Magento_Paypal
 sandbox_button_label,sandbox_button_label,module,Magento_Paypal
-Help,Help,module,Magento_Paypal
-Configure,Configure,module,Magento_Paypal
-Close,Close,module,Magento_Paypal
-"Learn More","Learn More",module,Magento_Paypal
-"View Demo","View Demo",module,Magento_Paypal
-"See terms","See terms",module,Magento_Paypal
-"You will be redirected to the PayPal website.","You will be redirected to the PayPal website.",module,Magento_Paypal
-"You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order.",module,Magento_Paypal
-"Incl. Tax","Incl. Tax",module,Magento_Paypal
-"Billing Information","Billing Information",module,Magento_Paypal
-"Shipping Information","Shipping Information",module,Magento_Paypal
-"Would you like to sign a billing agreement to streamline further purchases with PayPal?","Would you like to sign a billing agreement to streamline further purchases with PayPal?",module,Magento_Paypal
-"Invalid block type","Invalid block type",module,Magento_Paypal
-"Please specify the correct billing agreement ID and try again.","Please specify the correct billing agreement ID and try again.",module,Magento_Paypal
-"You canceled the billing agreement.","You canceled the billing agreement.",module,Magento_Paypal
-"We can't cancel the billing agreement.","We can't cancel the billing agreement.",module,Magento_Paypal
-"You deleted the billing agreement.","You deleted the billing agreement.",module,Magento_Paypal
-"We can't delete the billing agreement.","We can't delete the billing agreement.",module,Magento_Paypal
-Reports,Reports,module,Magento_Paypal
-Sales,Sales,module,Magento_Paypal
-"View Transaction","View Transaction",module,Magento_Paypal
+Help,幫助,module,Magento_Paypal
+Configure,配置,module,Magento_Paypal
+Close,關閉,module,Magento_Paypal
+"Learn More","了解更多",module,Magento_Paypal
+"View Demo","觀看演示",module,Magento_Paypal
+"See terms","查看條款",module,Magento_Paypal
+"You will be redirected to the PayPal website.","您將被重定向到PayPal網站.",module,Magento_Paypal
+"You will be redirected to the PayPal website when you place an order.","當你下訂單，你將被重定向到PayPal網站.",module,Magento_Paypal
+"Incl. Tax","含稅",module,Magento_Paypal
+"Billing Information","賬單信息",module,Magento_Paypal
+"Shipping Information","送貨信息",module,Magento_Paypal
+"Would you like to sign a billing agreement to streamline further purchases with PayPal?","你願意簽署一份協議， 來簡化您往後經 PayPal 的購物?",module,Magento_Paypal
+"Invalid block type","無效塊類型",module,Magento_Paypal
+"Please specify the correct billing agreement ID and try again.","請指定正確的計費協議ID，然後再試一次.",module,Magento_Paypal
+"You canceled the billing agreement.","您取消了結算協議.",module,Magento_Paypal
+"We can't cancel the billing agreement.","我們無法取消結算協議.",module,Magento_Paypal
+"You deleted the billing agreement.","您已刪除結算協議.",module,Magento_Paypal
+"We can't delete the billing agreement.","我們不能刪除結算協議.",module,Magento_Paypal
+Reports,報表,module,Magento_Paypal
+Sales,銷售,module,Magento_Paypal
+"View Transaction","查看交易",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","We found nothing to fetch because of an empty configuration.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","We fetched %1 report rows from ""%2@%3.""",module,Magento_Paypal
 "We can't fetch reports from ""%1@%2.""","We can't fetch reports from ""%1@%2.""",module,Magento_Paypal
@@ -3302,71 +3302,71 @@ Sales,Sales,module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","The billing agreement ""%1"" has been created.",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","We couldn't finish the billing agreement wizard.",module,Magento_Paypal
 "We can't start the billing agreement wizard.","We can't start the billing agreement wizard.",module,Magento_Paypal
-"Billing Agreement # %1","Billing Agreement # %1",module,Magento_Paypal
-"We can't initialize Express Checkout.","We can't initialize Express Checkout.",module,Magento_Paypal
-"PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token does not exist.",module,Magento_Paypal
+"Billing Agreement # %1","結算協議 # %1",module,Magento_Paypal
+"We can't initialize Express Checkout.","我們不能初始化 Express Checkout.",module,Magento_Paypal
+"PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token 不存在.",module,Magento_Paypal
 "A wrong PayPal Express Checkout Token is specified.","A wrong PayPal Express Checkout Token is specified.",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout and Order have been canceled.",module,Magento_Paypal
 "Express Checkout has been canceled.","Express Checkout has been canceled.",module,Magento_Paypal
 "Unable to cancel Express Checkout","Unable to cancel Express Checkout",module,Magento_Paypal
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Paypal
-"We can't place the order.","We can't place the order.",module,Magento_Paypal
+"Please agree to all the terms and conditions before placing the order.","在下單之前，請同意所有條款和條件.",module,Magento_Paypal
+"We can't place the order.","我們不能下訂單.",module,Magento_Paypal
 "We can't process Express Checkout approval.","We can't process Express Checkout approval.",module,Magento_Paypal
 "We can't initialize Express Checkout review.","We can't initialize Express Checkout review.",module,Magento_Paypal
-"We can't update shipping method.","We can't update shipping method.",module,Magento_Paypal
-"To check out, please sign in with your email address.","To check out, please sign in with your email address.",module,Magento_Paypal
+"We can't update shipping method.","我們不能更新送貨方式.",module,Magento_Paypal
+"To check out, please sign in with your email address.","要結算，請用您的電子郵件地址登錄.",module,Magento_Paypal
 "We can't start Express Checkout.","We can't start Express Checkout.",module,Magento_Paypal
-"Your payment has been declined. Please try again.","Your payment has been declined. Please try again.",module,Magento_Paypal
-"Requested payment method does not match with order.","Requested payment method does not match with order.",module,Magento_Paypal
+"Your payment has been declined. Please try again.","您的付款已被拒絕。 請再試一次.",module,Magento_Paypal
+"Requested payment method does not match with order.","要求的付款方法與訂單不相符.",module,Magento_Paypal
 "We can't contact the PayPal gateway.","We can't contact the PayPal gateway.",module,Magento_Paypal
 "PayPal response hasn\'t required fields.","PayPal response hasn\'t required fields.",module,Magento_Paypal
-"Something went wrong while processing your order.","Something went wrong while processing your order.",module,Magento_Paypal
+"Something went wrong while processing your order.","處理您的訂單時出了錯.",module,Magento_Paypal
 "PayPal gateway has rejected request. %1","PayPal gateway has rejected request. %1",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","The PayPal gateway rejected the request. %1",module,Magento_Paypal
-"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.",module,Magento_Paypal
-"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.",module,Magento_Paypal
-"The payment method code is not set.","The payment method code is not set.",module,Magento_Paypal
-"The reference ID is not set.","The reference ID is not set.",module,Magento_Paypal
-"Unable to save Billing Agreement:","Unable to save Billing Agreement:",module,Magento_Paypal
-Active,Active,module,Magento_Paypal
-Canceled,Canceled,module,Magento_Paypal
-"The customer ID is not set.","The customer ID is not set.",module,Magento_Paypal
-"The Billing Agreement status is not set.","The Billing Agreement status is not set.",module,Magento_Paypal
-"The PayPal certificate does not exist.","The PayPal certificate does not exist.",module,Magento_Paypal
-"We prefer PayPal (150 X 60)","We prefer PayPal (150 X 60)",module,Magento_Paypal
-"We prefer PayPal (150 X 40)","We prefer PayPal (150 X 40)",module,Magento_Paypal
-"Now accepting PayPal (150 X 60)","Now accepting PayPal (150 X 60)",module,Magento_Paypal
-"Now accepting PayPal (150 X 40)","Now accepting PayPal (150 X 40)",module,Magento_Paypal
-"Payments by PayPal (150 X 60)","Payments by PayPal (150 X 60)",module,Magento_Paypal
-"Payments by PayPal (150 X 40)","Payments by PayPal (150 X 40)",module,Magento_Paypal
-"Shop now using (150 X 60)","Shop now using (150 X 60)",module,Magento_Paypal
-"Shop now using (150 X 40)","Shop now using (150 X 40)",module,Magento_Paypal
-Dynamic,Dynamic,module,Magento_Paypal
-Static,Static,module,Magento_Paypal
-Shortcut,Shortcut,module,Magento_Paypal
-"Acceptance Mark Image","Acceptance Mark Image",module,Magento_Paypal
-Authorization,Authorization,module,Magento_Paypal
-Sale,Sale,module,Magento_Paypal
-Yes,Yes,module,Magento_Paypal
-No,No,module,Magento_Paypal
-"For Virtual Quotes Only","For Virtual Quotes Only",module,Magento_Paypal
-Auto,Auto,module,Magento_Paypal
-"Ask Customer","Ask Customer",module,Magento_Paypal
-Never,Never,module,Magento_Paypal
+"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","很抱歉 - 但我們無法處理您的付款。請嘗試其他付款方式，或與我們聯繫，以便我們能夠幫助您.",module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","很抱歉 - 但我們無法完成您的交易。請嘗試其他付款方式，或與我們聯繫，以便我們能夠幫助您.",module,Magento_Paypal
+"The payment method code is not set.","付款方法代碼沒有被設置.",module,Magento_Paypal
+"The reference ID is not set.","參考ID沒有設定.",module,Magento_Paypal
+"Unable to save Billing Agreement:","無法保存結算協議:",module,Magento_Paypal
+Active,活躍,module,Magento_Paypal
+Canceled,取消,module,Magento_Paypal
+"The customer ID is not set.","顧客ID沒有設定.",module,Magento_Paypal
+"The Billing Agreement status is not set.","結算協議狀態未設置.",module,Magento_Paypal
+"The PayPal certificate does not exist.","PayPal 證書不存在.",module,Magento_Paypal
+"We prefer PayPal (150 X 60)","我們喜歡 PayPal (150 X 60)",module,Magento_Paypal
+"We prefer PayPal (150 X 40)","我們喜歡 PayPal (150 X 40)",module,Magento_Paypal
+"Now accepting PayPal (150 X 60)","我們現在接受 PayPal (150 X 60)",module,Magento_Paypal
+"Now accepting PayPal (150 X 40)","我們現在接受 PayPal (150 X 40)",module,Magento_Paypal
+"Payments by PayPal (150 X 60)","用 PayPal 付款 (150 X 60)",module,Magento_Paypal
+"Payments by PayPal (150 X 40)","用 PayPal 付款 (150 X 40)",module,Magento_Paypal
+"Shop now using (150 X 60)","現在購物，使用 (150 X 60)",module,Magento_Paypal
+"Shop now using (150 X 40)","現在購物，使用 (150 X 40)",module,Magento_Paypal
+Dynamic,動態,module,Magento_Paypal
+Static,靜態,module,Magento_Paypal
+Shortcut,捷徑,module,Magento_Paypal
+"Acceptance Mark Image","接受標記圖片",module,Magento_Paypal
+Authorization,授權,module,Magento_Paypal
+Sale,銷售,module,Magento_Paypal
+Yes,是,module,Magento_Paypal
+No,否,module,Magento_Paypal
+"For Virtual Quotes Only","僅適用於虛擬報價",module,Magento_Paypal
+Auto,自動,module,Magento_Paypal
+"Ask Customer","詢問客戶",module,Magento_Paypal
+Never,永不,module,Magento_Paypal
 "IPN (Instant Payment Notification) Only","IPN (Instant Payment Notification) Only",module,Magento_Paypal
 "API Signature","API Signature",module,Magento_Paypal
 "API Certificate","API Certificate",module,Magento_Paypal
 "The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway.",module,Magento_Paypal
-"Ordered amount of %1","Ordered amount of %1",module,Magento_Paypal
+"Ordered amount of %1","訂單銀碼 %1",module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","We'll authorize the amount of %1 as soon as the payment gateway approves it.",module,Magento_Paypal
-"The authorized amount is %1.","The authorized amount is %1.",module,Magento_Paypal
+"The authorized amount is %1.","授權銀碼 %1.",module,Magento_Paypal
 "The maximum number of child authorizations is reached.","The maximum number of child authorizations is reached.",module,Magento_Paypal
 "PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",module,Magento_Paypal
-"A payer is not identified.","A payer is not identified.",module,Magento_Paypal
+"A payer is not identified.","付款人沒有確定.",module,Magento_Paypal
 "Cannot get secure form URL from PayPal","Cannot get secure form URL from PayPal",module,Magento_Paypal
 "Last Transaction ID","Last Transaction ID",module,Magento_Paypal
-"This customer didn't include a confirmed address.","This customer didn't include a confirmed address.",module,Magento_Paypal
-"The payment is authorized but not settled.","The payment is authorized but not settled.",module,Magento_Paypal
+"This customer didn't include a confirmed address.","該客戶不包括已確認的地址.",module,Magento_Paypal
+"The payment is authorized but not settled.","支付已授權，但尚未結算.",module,Magento_Paypal
 "The payment eCheck is not cleared.","The payment eCheck is not cleared.",module,Magento_Paypal
 "The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.",module,Magento_Paypal
 "The payment currency doesn't match any of the merchant's balances currency.","The payment currency doesn't match any of the merchant's balances currency.",module,Magento_Paypal
@@ -3392,12 +3392,12 @@ Never,Never,module,Magento_Paypal
 "Buyer claims that a possible duplicate payment was made to the merchant.","Buyer claims that a possible duplicate payment was made to the merchant.",module,Magento_Paypal
 "Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.",module,Magento_Paypal
 "Unknown reason. Please contact PayPal customer service.","Unknown reason. Please contact PayPal customer service.",module,Magento_Paypal
-"Payer ID","Payer ID",module,Magento_Paypal
-"Payer Email","Payer Email",module,Magento_Paypal
-"Payer Status","Payer Status",module,Magento_Paypal
-"Payer Address ID","Payer Address ID",module,Magento_Paypal
-"Payer Address Status","Payer Address Status",module,Magento_Paypal
-"Merchant Protection Eligibility","Merchant Protection Eligibility",module,Magento_Paypal
+"Payer ID","付款人ID",module,Magento_Paypal
+"Payer Email","付款人電子郵件",module,Magento_Paypal
+"Payer Status","付款人狀態",module,Magento_Paypal
+"Payer Address ID","付款人地址ID",module,Magento_Paypal
+"Payer Address Status","付款人地址狀態",module,Magento_Paypal
+"Merchant Protection Eligibility","商家保護資格",module,Magento_Paypal
 "Triggered Fraud Filters","Triggered Fraud Filters",module,Magento_Paypal
 "Last Correlation ID","Last Correlation ID",module,Magento_Paypal
 "Address Verification System Response","Address Verification System Response",module,Magento_Paypal
