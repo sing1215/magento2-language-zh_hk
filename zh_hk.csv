@@ -3641,363 +3641,363 @@ Continue,Continue,module,Magento_Paypal
 "Acceptance Mark","Acceptance Mark",module,Magento_Paypal
 "What is PayPal?","What is PayPal?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
-"Not you?","Not you?",module,Magento_Persistent
-"Your shopping cart has been updated with new prices.","Your shopping cart has been updated with new prices.",module,Magento_Persistent
-"Welcome, %1!","Welcome, %1!",module,Magento_Persistent
-"We cannot load the configuration from file %1.","We cannot load the configuration from file %1.",module,Magento_Persistent
-"Method ""%1"" is not defined in ""%2""","Method ""%1"" is not defined in ""%2""",module,Magento_Persistent
-"To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
-"Remember Me","Remember Me",module,Magento_Persistent
-"What's this?","What's this?",module,Magento_Persistent
-"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
-"You saved the alert subscription.","You saved the alert subscription.",module,Magento_ProductAlert
-"There are not enough parameters.","There are not enough parameters.",module,Magento_ProductAlert
-"We can't update the alert subscription right now.","We can't update the alert subscription right now.",module,Magento_ProductAlert
-"Alert subscription has been saved.","Alert subscription has been saved.",module,Magento_ProductAlert
-"You deleted the alert subscription.","You deleted the alert subscription.",module,Magento_ProductAlert
-"We can't find the product.","We can't find the product.",module,Magento_ProductAlert
-"You will no longer receive price alerts for this product.","You will no longer receive price alerts for this product.",module,Magento_ProductAlert
-"Unable to update the alert subscription.","Unable to update the alert subscription.",module,Magento_ProductAlert
-"You will no longer receive stock alerts for this product.","You will no longer receive stock alerts for this product.",module,Magento_ProductAlert
-"The product was not found.","The product was not found.",module,Magento_ProductAlert
-"You will no longer receive stock alerts.","You will no longer receive stock alerts.",module,Magento_ProductAlert
-"Invalid block type: %1","Invalid block type: %1",module,Magento_ProductAlert
-"Price change alert! We wanted you to know that prices have changed for these products:","Price change alert! We wanted you to know that prices have changed for these products:",module,Magento_ProductAlert
-Price:,Price:,module,Magento_ProductAlert
-"Click here to stop alerts for this product.","Click here to stop alerts for this product.",module,Magento_ProductAlert
-"Unsubscribe from all price alerts","Unsubscribe from all price alerts",module,Magento_ProductAlert
-"In stock alert! We wanted you to know that these products are now available:","In stock alert! We wanted you to know that these products are now available:",module,Magento_ProductAlert
-"Unsubscribe from all stock alerts","Unsubscribe from all stock alerts",module,Magento_ProductAlert
-Url,Url,module,Magento_ProductVideo
-Title,Title,module,Magento_ProductVideo
-Description,Description,module,Magento_ProductVideo
-"Preview Image","Preview Image",module,Magento_ProductVideo
-"Get Video Information","Get Video Information",module,Magento_ProductVideo
-"Hide from Product Page","Hide from Product Page",module,Magento_ProductVideo
-Role,Role,module,Magento_ProductVideo
-"YouTube and Vimeo supported.","YouTube and Vimeo supported.",module,Magento_ProductVideo
-"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
-"Could not get preview image information. Please check your connection and try again.","Could not get preview image information. Please check your connection and try again.",module,Magento_ProductVideo
-"Click here to add videos.","Click here to add videos.",module,Magento_ProductVideo
-"New Video","New Video",module,Magento_ProductVideo
-"Add Video","Add Video",module,Magento_ProductVideo
-"Add video","Add video",module,Magento_ProductVideo
-"Click here or drag and drop to add images.","Click here or drag and drop to add images.",module,Magento_ProductVideo
-"Delete video","Delete video",module,Magento_ProductVideo
-"Delete image","Delete image",module,Magento_ProductVideo
-"Make Base","Make Base",module,Magento_ProductVideo
-Hidden,Hidden,module,Magento_ProductVideo
-"Alt Text","Alt Text",module,Magento_ProductVideo
-Title:,Title:,module,Magento_ProductVideo
-Uploaded:,Uploaded:,module,Magento_ProductVideo
-Uploader:,Uploader:,module,Magento_ProductVideo
-Duration:,Duration:,module,Magento_ProductVideo
-"Unable to save address. Please, check input data.","Unable to save address. Please, check input data.",module,Magento_Quote
-"Cart %1 doesn't contain products","Cart %1 doesn't contain products",module,Magento_Quote
-"Could not apply coupon code","Could not apply coupon code",module,Magento_Quote
-"Coupon code is not valid","Coupon code is not valid",module,Magento_Quote
-"Could not delete coupon code","Could not delete coupon code",module,Magento_Quote
-"Shipping address is not set","Shipping address is not set",module,Magento_Quote
-"The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_Quote
-"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Quote
-"This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us.",module,Magento_Quote
-"The address model is not defined.","The address model is not defined.",module,Magento_Quote
+"Not you?","不是你?",module,Magento_Persistent
+"Your shopping cart has been updated with new prices.","您的購物車已經更新了新價格.",module,Magento_Persistent
+"Welcome, %1!","歡迎, %1!",module,Magento_Persistent
+"We cannot load the configuration from file %1.","我們不能從文件加載配置 %1.",module,Magento_Persistent
+"Method ""%1"" is not defined in ""%2""","方法 ""%1"" 在 ""%2"" 中沒有定義",module,Magento_Persistent
+"To check out, please sign in using your email address.","要結賬，請使用您的電子郵件地址登錄.",module,Magento_Persistent
+"Remember Me","記住我",module,Magento_Persistent
+"What's this?","這是什麼?",module,Magento_Persistent
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","選取 &quot;記住我&quot; 訪問您的購物車，即使你沒有在這台計算機上登錄.",module,Magento_Persistent
+"You saved the alert subscription.","你救了警報訂閱.",module,Magento_ProductAlert
+"There are not enough parameters.","沒有足夠的參數.",module,Magento_ProductAlert
+"We can't update the alert subscription right now.","我們現在不能更新警報訂閱.",module,Magento_ProductAlert
+"Alert subscription has been saved.","警報訂閱已保存.",module,Magento_ProductAlert
+"You deleted the alert subscription.","您已刪除警報訂閱.",module,Magento_ProductAlert
+"We can't find the product.","我們無法找到產品.",module,Magento_ProductAlert
+"You will no longer receive price alerts for this product.","您將不再接收價該產品的通知.",module,Magento_ProductAlert
+"Unable to update the alert subscription.","無法更新警報訂閱.",module,Magento_ProductAlert
+"You will no longer receive stock alerts for this product.","您將不再接受該產品的庫存警報通知.",module,Magento_ProductAlert
+"The product was not found.","產品找不到.",module,Magento_ProductAlert
+"You will no longer receive stock alerts.","您將不再接受庫存警報通知.",module,Magento_ProductAlert
+"Invalid block type: %1","無效塊類型: %1",module,Magento_ProductAlert
+"Price change alert! We wanted you to know that prices have changed for these products:","價格變化的通報！我們想讓你知道，這些產品的價格已經改變了:",module,Magento_ProductAlert
+Price:,價格:,module,Magento_ProductAlert
+"Click here to stop alerts for this product.","點擊此處停止該產品的通知.",module,Magento_ProductAlert
+"Unsubscribe from all price alerts","取消訂閱所有價格警報",module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:","庫存通報！我們想讓你知道，這些產品現已有貨:",module,Magento_ProductAlert
+"Unsubscribe from all stock alerts","取消訂閱所有庫存警報",module,Magento_ProductAlert
+Url,網址,module,Magento_ProductVideo
+Title,標題,module,Magento_ProductVideo
+Description,描述,module,Magento_ProductVideo
+"Preview Image","預覽圖像",module,Magento_ProductVideo
+"Get Video Information","獲取視頻信息",module,Magento_ProductVideo
+"Hide from Product Page","從產品頁面隱藏",module,Magento_ProductVideo
+Role,角色,module,Magento_ProductVideo
+"YouTube and Vimeo supported.","支持 YouTube 和 Vimeo.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","支援 Vimeo.<br />要添加YouTube影片, 請先 <a href=""%1"">輸入 YouTube API 密鑰</a>.",module,Magento_ProductVideo
+"Could not get preview image information. Please check your connection and try again.","無法獲取預覽圖像的信息。請檢查您的連接，然後再試一次.",module,Magento_ProductVideo
+"Click here to add videos.","點擊此處添加視頻.",module,Magento_ProductVideo
+"New Video","新視頻",module,Magento_ProductVideo
+"Add Video","添加視頻",module,Magento_ProductVideo
+"Add video","添加視頻",module,Magento_ProductVideo
+"Click here or drag and drop to add images.","點擊這裡或拖放添加圖片.",module,Magento_ProductVideo
+"Delete video","刪除視頻",module,Magento_ProductVideo
+"Delete image","刪除圖像",module,Magento_ProductVideo
+"Make Base","變成基本",module,Magento_ProductVideo
+Hidden,隱蔽,module,Magento_ProductVideo
+"Alt Text","替換文本",module,Magento_ProductVideo
+Title:,標題:,module,Magento_ProductVideo
+Uploaded:,已上傳:,module,Magento_ProductVideo
+Uploader:,上傳者:,module,Magento_ProductVideo
+Duration:,為期:,module,Magento_ProductVideo
+"Unable to save address. Please, check input data.","無法保存地址。請檢查輸入數據.",module,Magento_Quote
+"Cart %1 doesn't contain products","購物車 %1 不包含產品",module,Magento_Quote
+"Could not apply coupon code","無法應用優惠券代碼",module,Magento_Quote
+"Coupon code is not valid","優惠券代碼無效",module,Magento_Quote
+"Could not delete coupon code","無法刪除優惠券代碼",module,Magento_Quote
+"Shipping address is not set","送貨地址未設置",module,Magento_Quote
+"The requested Payment Method is not available.","要求的付款方法不可用.",module,Magento_Quote
+"We found an invalid request for adding product to quote.","我們發現一個無效的請求將產品加進報價.",module,Magento_Quote
+"This is the wrong quote item id to update configuration.","這是錯誤的報價項目ID來更新配置.",module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.","這種送貨方式不可用。要使用此送貨方式，請與我們聯繫.",module,Magento_Quote
+"The address model is not defined.","沒有定義的地址模式.",module,Magento_Quote
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
-"Grand Total","Grand Total",module,Magento_Quote
-"Shipping & Handling (%1)","Shipping & Handling (%1)",module,Magento_Quote
-"Shipping & Handling","Shipping & Handling",module,Magento_Quote
-Shipping,Shipping,module,Magento_Quote
-Subtotal,Subtotal,module,Magento_Quote
-"We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_Quote
-"Item qty declaration error","Item qty declaration error",module,Magento_Quote
-"Some of the products below do not have all the required options.","Some of the products below do not have all the required options.",module,Magento_Quote
-"Something went wrong during the item options declaration.","Something went wrong during the item options declaration.",module,Magento_Quote
-"We found an item options declaration error.","We found an item options declaration error.",module,Magento_Quote
-"Some of the selected options are not currently available.","Some of the selected options are not currently available.",module,Magento_Quote
-"Selected option(s) or their combination is not currently available.","Selected option(s) or their combination is not currently available.",module,Magento_Quote
-"Some item options or their combination are not currently available.","Some item options or their combination are not currently available.",module,Magento_Quote
-"Cart %1 doesn't contain item  %2","Cart %1 doesn't contain item  %2",module,Magento_Quote
-"Could not save quote","Could not save quote",module,Magento_Quote
-"Could not remove item from quote","Could not remove item from quote",module,Magento_Quote
-"The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
-"Invalid customer id %1","Invalid customer id %1",module,Magento_Quote
-"Invalid address id %1","Invalid address id %1",module,Magento_Quote
-"Cannot create quote","Cannot create quote",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart belongs to different store.","Cannot assign customer to the given cart. The cart belongs to different store.",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart is not anonymous.","Cannot assign customer to the given cart. The cart is not anonymous.",module,Magento_Quote
-"Cannot assign customer to the given cart. Customer already has active cart.","Cannot assign customer to the given cart. Customer already has active cart.",module,Magento_Quote
-"Cannot place order.","Cannot place order.",module,Magento_Quote
-"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
-"Please check the shipping address information. %1","Please check the shipping address information. %1",module,Magento_Quote
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Quote
-"Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
-"Please select a valid payment method.","Please select a valid payment method.",module,Magento_Quote
-"Store Credit","Store Credit",module,Magento_Quote
-Discount,Discount,module,Magento_Quote
-Tax,Tax,module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping address is not applicable.","Cart contains virtual product(s) only. Shipping address is not applicable.",module,Magento_Quote
-"Shipping address not set.","Shipping address not set.",module,Magento_Quote
-"Shipping method is not applicable for empty cart","Shipping method is not applicable for empty cart",module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping method is not applicable.","Cart contains virtual product(s) only. Shipping method is not applicable.",module,Magento_Quote
-"Carrier with such method not found: %1, %2","Carrier with such method not found: %1, %2",module,Magento_Quote
-"Cannot set shipping method. %1","Cannot set shipping method. %1",module,Magento_Quote
+"Grand Total","累計",module,Magento_Quote
+"Shipping & Handling (%1)","運費和手續費 (%1)",module,Magento_Quote
+"Shipping & Handling","運費和手續費",module,Magento_Quote
+Shipping,送貨,module,Magento_Quote
+Subtotal,小計,module,Magento_Quote
+"We found an invalid item option format.","我們發現一個無效項目選擇格式.",module,Magento_Quote
+"An item option with code %1 already exists.","擁有代碼 %1 的項目選擇已經存在.",module,Magento_Quote
+"Item qty declaration error","項目數量申報錯誤",module,Magento_Quote
+"Some of the products below do not have all the required options.","下面的一些產品不具備所有必需的選項.",module,Magento_Quote
+"Something went wrong during the item options declaration.","一些項目的選項聲明中出錯.",module,Magento_Quote
+"We found an item options declaration error.","我們發現一個項目選擇聲明的錯誤.",module,Magento_Quote
+"Some of the selected options are not currently available.","一些選定的選項當前不可用.",module,Magento_Quote
+"Selected option(s) or their combination is not currently available.","選擇的選項或者其結合當前不可用.",module,Magento_Quote
+"Some item options or their combination are not currently available.","有些項目的選項或者其結合當前不可用.",module,Magento_Quote
+"Cart %1 doesn't contain item  %2","購物車 %1 不包含項目 %2",module,Magento_Quote
+"Could not save quote","無法保存報價",module,Magento_Quote
+"Could not remove item from quote","無法從報價中移除項目",module,Magento_Quote
+"The qty value is required to update quote item.","需要該數量值來更新報價項目.",module,Magento_Quote
+"Invalid customer id %1","無效客戶ID %1",module,Magento_Quote
+"Invalid address id %1","無效地址ID %1",module,Magento_Quote
+"Cannot create quote","無法創建報價",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart belongs to different store.","不能分配客戶給所定的購物車。購物車屬於不同的商店.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart is not anonymous.","不能分配客戶給定的購物車。車是不是匿名.",module,Magento_Quote
+"Cannot assign customer to the given cart. Customer already has active cart.","不能分配客戶給定的購物車。客戶已經有了活躍的購物車.",module,Magento_Quote
+"Cannot place order.","無法下單.",module,Magento_Quote
+"This item price or quantity is not valid for checkout.","該項目的價格或數量在結帳中是無效.",module,Magento_Quote
+"Please check the shipping address information. %1","請檢查送貨地址信息. %1",module,Magento_Quote
+"Please specify a shipping method.","請指定送貨方式.",module,Magento_Quote
+"Please check the billing address information. %1","請檢查帳單地址信息. %1",module,Magento_Quote
+"Please select a valid payment method.","請選擇一個有效的付款方式.",module,Magento_Quote
+"Store Credit","店鋪信用",module,Magento_Quote
+Discount,折扣,module,Magento_Quote
+Tax,稅,module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping address is not applicable.","購物車只包括虛擬產品。送貨地址不適用.",module,Magento_Quote
+"Shipping address not set.","送貨地址未設定.",module,Magento_Quote
+"Shipping method is not applicable for empty cart","送貨方式並不適用於空購物車",module,Magento_Quote
+"Cart contains virtual product(s) only. Shipping method is not applicable.","購物車只包括虛擬產品。送貨方式不適用.",module,Magento_Quote
+"Carrier with such method not found: %1, %2","用這樣的送貨方法運營商沒有找到: %1, %2",module,Magento_Quote
+"Cannot set shipping method. %1","無法設置送貨方式. %1",module,Magento_Quote
 error123,error123,module,Magento_Quote
 error345,error345,module,Magento_Quote
-"New Accounts","New Accounts",module,Magento_Reports
-"Customers by number of orders","Customers by number of orders",module,Magento_Reports
-"Customers by Orders Total","Customers by Orders Total",module,Magento_Reports
-Filter,Filter,module,Magento_Reports
-"Date Used","Date Used",module,Magento_Reports
-Day,Day,module,Magento_Reports
-Month,Month,module,Magento_Reports
-Year,Year,module,Magento_Reports
-Period,Period,module,Magento_Reports
-From,From,module,Magento_Reports
-To,To,module,Magento_Reports
-Yes,Yes,module,Magento_Reports
-No,No,module,Magento_Reports
-"Empty Rows","Empty Rows",module,Magento_Reports
-"Invalid date specified","Invalid date specified",module,Magento_Reports
-Refresh,Refresh,module,Magento_Reports
-"We can't find records for this period.","We can't find records for this period.",module,Magento_Reports
-"Show Reviews","Show Reviews",module,Magento_Reports
-"Products Report","Products Report",module,Magento_Reports
-Downloads,Downloads,module,Magento_Reports
-Product,Product,module,Magento_Reports
-Link,Link,module,Magento_Reports
+"New Accounts","新賬戶",module,Magento_Reports
+"Customers by number of orders","客戶（從訂單數量）",module,Magento_Reports
+"Customers by Orders Total","客戶（從訂單總額）",module,Magento_Reports
+Filter,過濾,module,Magento_Reports
+"Date Used","使用日期",module,Magento_Reports
+Day,日,module,Magento_Reports
+Month,月,module,Magento_Reports
+Year,年,module,Magento_Reports
+Period,時期,module,Magento_Reports
+From,由,module,Magento_Reports
+To,至,module,Magento_Reports
+Yes,是,module,Magento_Reports
+No,否,module,Magento_Reports
+"Empty Rows","空行",module,Magento_Reports
+"Invalid date specified","指定日期無效",module,Magento_Reports
+Refresh,刷新,module,Magento_Reports
+"We can't find records for this period.","我們找不到此期間記錄.",module,Magento_Reports
+"Show Reviews","顯示評論",module,Magento_Reports
+"Products Report","產品報告",module,Magento_Reports
+Downloads,下載,module,Magento_Reports
+Product,產品,module,Magento_Reports
+Link,鏈接,module,Magento_Reports
 SKU,SKU,module,Magento_Reports
-Purchases,Purchases,module,Magento_Reports
+Purchases,購買,module,Magento_Reports
 CSV,CSV,module,Magento_Reports
 "Excel XML","Excel XML",module,Magento_Reports
-Unlimited,Unlimited,module,Magento_Reports
-"Low stock","Low stock",module,Magento_Reports
-"Products Ordered","Products Ordered",module,Magento_Reports
-"Most Viewed","Most Viewed",module,Magento_Reports
-"Show Report","Show Report",module,Magento_Reports
-Interval,Interval,module,Magento_Reports
-Total,Total,module,Magento_Reports
-Price,Price,module,Magento_Reports
-Views,Views,module,Magento_Reports
-"Refresh Statistics","Refresh Statistics",module,Magento_Reports
-"Customers Reviews","Customers Reviews",module,Magento_Reports
-"Reviews for %1","Reviews for %1",module,Magento_Reports
-Customer,Customer,module,Magento_Reports
-Title,Title,module,Magento_Reports
-Detail,Detail,module,Magento_Reports
-Created,Created,module,Magento_Reports
-"Products Reviews","Products Reviews",module,Magento_Reports
-"Products Bestsellers Report","Products Bestsellers Report",module,Magento_Reports
-"Order Quantity","Order Quantity",module,Magento_Reports
-"Coupons Usage Report","Coupons Usage Report",module,Magento_Reports
-Subtotal,Subtotal,module,Magento_Reports
-"Coupon Code","Coupon Code",module,Magento_Reports
-"Price Rule","Price Rule",module,Magento_Reports
-Uses,Uses,module,Magento_Reports
-"Sales Subtotal","Sales Subtotal",module,Magento_Reports
-"Sales Discount","Sales Discount",module,Magento_Reports
-"Sales Total","Sales Total",module,Magento_Reports
-Discount,Discount,module,Magento_Reports
-"Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report",module,Magento_Reports
-Orders,Orders,module,Magento_Reports
-"Invoiced Orders","Invoiced Orders",module,Magento_Reports
-"Total Invoiced","Total Invoiced",module,Magento_Reports
-"Paid Invoices","Paid Invoices",module,Magento_Reports
-"Unpaid Invoices","Unpaid Invoices",module,Magento_Reports
-"Total Refunded Report","Total Refunded Report",module,Magento_Reports
-"Refunded Orders","Refunded Orders",module,Magento_Reports
-"Total Refunded","Total Refunded",module,Magento_Reports
-"Online Refunds","Online Refunds",module,Magento_Reports
-"Offline Refunds","Offline Refunds",module,Magento_Reports
-"Total Ordered Report","Total Ordered Report",module,Magento_Reports
-"Sales Items","Sales Items",module,Magento_Reports
-Items,Items,module,Magento_Reports
-Revenue,Revenue,module,Magento_Reports
-Profit,Profit,module,Magento_Reports
-Invoiced,Invoiced,module,Magento_Reports
-Paid,Paid,module,Magento_Reports
-Refunded,Refunded,module,Magento_Reports
-"Sales Tax","Sales Tax",module,Magento_Reports
-Tax,Tax,module,Magento_Reports
-"Sales Shipping","Sales Shipping",module,Magento_Reports
-Shipping,Shipping,module,Magento_Reports
-Canceled,Canceled,module,Magento_Reports
-"Total Shipped Report","Total Shipped Report",module,Magento_Reports
-Carrier/Method,Carrier/Method,module,Magento_Reports
-"Total Sales Shipping","Total Sales Shipping",module,Magento_Reports
-"Total Shipping","Total Shipping",module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate",module,Magento_Reports
-Rate,Rate,module,Magento_Reports
-"Tax Amount","Tax Amount",module,Magento_Reports
-"Abandoned carts","Abandoned carts",module,Magento_Reports
-Email,Email,module,Magento_Reports
-Products,Products,module,Magento_Reports
-Quantity,Quantity,module,Magento_Reports
-"Applied Coupon","Applied Coupon",module,Magento_Reports
-Updated,Updated,module,Magento_Reports
-"IP Address","IP Address",module,Magento_Reports
-Customers,Customers,module,Magento_Reports
+Unlimited,無限,module,Magento_Reports
+"Low stock","低庫存",module,Magento_Reports
+"Products Ordered","已訂購產品",module,Magento_Reports
+"Most Viewed","最受關注",module,Magento_Reports
+"Show Report","顯示報告",module,Magento_Reports
+Interval,間隔,module,Magento_Reports
+Total,總額,module,Magento_Reports
+Price,價錢,module,Magento_Reports
+Views,觀看,module,Magento_Reports
+"Refresh Statistics","刷新統計信息",module,Magento_Reports
+"Customers Reviews","顧客評論",module,Magento_Reports
+"Reviews for %1","%1 的評論",module,Magento_Reports
+Customer,顧客,module,Magento_Reports
+Title,標題,module,Magento_Reports
+Detail,詳情,module,Magento_Reports
+Created,創建,module,Magento_Reports
+"Products Reviews","產品點評",module,Magento_Reports
+"Products Bestsellers Report","產品暢銷報告",module,Magento_Reports
+"Order Quantity","訂單數量",module,Magento_Reports
+"Coupons Usage Report","優惠券使用情況報告",module,Magento_Reports
+Subtotal,小計,module,Magento_Reports
+"Coupon Code","優惠券代碼",module,Magento_Reports
+"Price Rule","價格規則",module,Magento_Reports
+Uses,使用,module,Magento_Reports
+"Sales Subtotal","銷售小計",module,Magento_Reports
+"Sales Discount","銷售折扣",module,Magento_Reports
+"Sales Total","總銷售",module,Magento_Reports
+Discount,折扣,module,Magento_Reports
+"Total Invoiced vs. Paid Report","發票總額 vs. 支付總額報告",module,Magento_Reports
+Orders,訂單,module,Magento_Reports
+"Invoiced Orders","已發票的訂單",module,Magento_Reports
+"Total Invoiced","已發票總額",module,Magento_Reports
+"Paid Invoices","已付款的發票",module,Magento_Reports
+"Unpaid Invoices","未付款的發票",module,Magento_Reports
+"Total Refunded Report","總退款報告",module,Magento_Reports
+"Refunded Orders","已退款訂單",module,Magento_Reports
+"Total Refunded","共退還",module,Magento_Reports
+"Online Refunds","在線退款",module,Magento_Reports
+"Offline Refunds","離線退款",module,Magento_Reports
+"Total Ordered Report","訂單總額報告",module,Magento_Reports
+"Sales Items","銷售項目",module,Magento_Reports
+Items,項目,module,Magento_Reports
+Revenue,收入,module,Magento_Reports
+Profit,利潤,module,Magento_Reports
+Invoiced,已開發票,module,Magento_Reports
+Paid,已付費,module,Magento_Reports
+Refunded,已退款,module,Magento_Reports
+"Sales Tax","銷售稅",module,Magento_Reports
+Tax,稅,module,Magento_Reports
+"Sales Shipping","銷售送貨",module,Magento_Reports
+Shipping,送貨,module,Magento_Reports
+Canceled,已取消,module,Magento_Reports
+"Total Shipped Report","總出貨報告",module,Magento_Reports
+Carrier/Method,運輸商/方法,module,Magento_Reports
+"Total Sales Shipping","總銷售航運",module,Magento_Reports
+"Total Shipping","總航運",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rate","訂單稅款報告（稅率分組）",module,Magento_Reports
+Rate,率,module,Magento_Reports
+"Tax Amount","稅額",module,Magento_Reports
+"Abandoned carts","被遺棄的購物車",module,Magento_Reports
+Email,電子郵件,module,Magento_Reports
+Products,產品,module,Magento_Reports
+Quantity,數量,module,Magento_Reports
+"Applied Coupon","優惠券應用",module,Magento_Reports
+Updated,已更新,module,Magento_Reports
+"IP Address","IP 地址",module,Magento_Reports
+Customers,顧客,module,Magento_Reports
 ID,ID,module,Magento_Reports
-"First Name","First Name",module,Magento_Reports
-"Last Name","Last Name",module,Magento_Reports
-"Items in Cart","Items in Cart",module,Magento_Reports
-"Products in carts","Products in carts",module,Magento_Reports
-Carts,Carts,module,Magento_Reports
-Name,Name,module,Magento_Reports
-"Wish Lists","Wish Lists",module,Magento_Reports
-"Wish List Purchase","Wish List Purchase",module,Magento_Reports
-"Wish List vs. Regular Order","Wish List vs. Regular Order",module,Magento_Reports
-"Times Deleted","Times Deleted",module,Magento_Reports
-"Index type is not valid","Index type is not valid",module,Magento_Reports
-Reports,Reports,module,Magento_Reports
-"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.",module,Magento_Reports
-"New Accounts Report","New Accounts Report",module,Magento_Reports
-"Customers by Number of Orders","Customers by Number of Orders",module,Magento_Reports
-"Order Count Report","Order Count Report",module,Magento_Reports
-"Order Total Report","Order Total Report",module,Magento_Reports
-"Downloads Report","Downloads Report",module,Magento_Reports
-"Low Stock","Low Stock",module,Magento_Reports
-"Low Stock Report","Low Stock Report",module,Magento_Reports
-"Ordered Products Report","Ordered Products Report",module,Magento_Reports
-"Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
-"Product Views Report","Product Views Report",module,Magento_Reports
-"An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
-Review,Review,module,Magento_Reports
-Reviews,Reviews,module,Magento_Reports
-"Customers Report","Customers Report",module,Magento_Reports
-"Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
-"Product Reviews Report","Product Reviews Report",module,Magento_Reports
-"Product Reviews","Product Reviews",module,Magento_Reports
-Details,Details,module,Magento_Reports
-Sales,Sales,module,Magento_Reports
-"Best Sellers Report","Best Sellers Report",module,Magento_Reports
-Coupons,Coupons,module,Magento_Reports
-"Coupons Report","Coupons Report",module,Magento_Reports
-"Invoice Report","Invoice Report",module,Magento_Reports
-"Refunds Report","Refunds Report",module,Magento_Reports
-"Sales Report","Sales Report",module,Magento_Reports
-"Shipping Report","Shipping Report",module,Magento_Reports
-"Tax Report","Tax Report",module,Magento_Reports
-"Shopping Cart","Shopping Cart",module,Magento_Reports
-"Abandoned Carts","Abandoned Carts",module,Magento_Reports
-"Customer Shopping Carts","Customer Shopping Carts",module,Magento_Reports
-"Products in Carts","Products in Carts",module,Magento_Reports
-Statistics,Statistics,module,Magento_Reports
-"No report code is specified.","No report code is specified.",module,Magento_Reports
-"You refreshed lifetime statistics.","You refreshed lifetime statistics.",module,Magento_Reports
-"We can't refresh lifetime statistics.","We can't refresh lifetime statistics.",module,Magento_Reports
-"Recent statistics have been updated.","Recent statistics have been updated.",module,Magento_Reports
-"We can't refresh recent statistics.","We can't refresh recent statistics.",module,Magento_Reports
-"The product type filter specified is incorrect.","The product type filter specified is incorrect.",module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rates","Order Taxes Report Grouped by Tax Rates",module,Magento_Reports
-"Total Invoiced VS Paid Report","Total Invoiced VS Paid Report",module,Magento_Reports
-"Promotion Coupons Usage Report","Promotion Coupons Usage Report",module,Magento_Reports
-Bestsellers,Bestsellers,module,Magento_Reports
-"Most Viewed Products Report","Most Viewed Products Report",module,Magento_Reports
-"An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
-Error,Error,module,Magento_Reports
-"Show By","Show By",module,Magento_Reports
-"Select Date","Select Date",module,Magento_Reports
-"Customers that have Wish List: %1","Customers that have Wish List: %1",module,Magento_Reports
-"Number of Wish Lists: %1","Number of Wish Lists: %1",module,Magento_Reports
-"Number of items bought from a Wish List: %1","Number of items bought from a Wish List: %1",module,Magento_Reports
-"Number of times Wish Lists have been shared (emailed): %1","Number of times Wish Lists have been shared (emailed): %1",module,Magento_Reports
-"Number of Wish List referrals: %1","Number of Wish List referrals: %1",module,Magento_Reports
-"Number of Wish List conversions: %1","Number of Wish List conversions: %1",module,Magento_Reports
-"Show Report For:","Show Report For:",module,Magento_Reports
-"All Websites","All Websites",module,Magento_Reports
-"Recently Viewed","Recently Viewed",module,Magento_Reports
-"Add to Cart","Add to Cart",module,Magento_Reports
-"In stock","In stock",module,Magento_Reports
-"Out of stock","Out of stock",module,Magento_Reports
-"Add to Wish List","Add to Wish List",module,Magento_Reports
-"Add to Compare","Add to Compare",module,Magento_Reports
-"Recently Compared","Recently Compared",module,Magento_Reports
-"Learn More","Learn More",module,Magento_Reports
-"Save Review","Save Review",module,Magento_Review
-"New Review","New Review",module,Magento_Review
-"Review Details","Review Details",module,Magento_Review
-Product,Product,module,Magento_Review
-"Product Rating","Product Rating",module,Magento_Review
-Status,Status,module,Magento_Review
-Visibility,Visibility,module,Magento_Review
-Nickname,Nickname,module,Magento_Review
-"Summary of Review","Summary of Review",module,Magento_Review
-Review,Review,module,Magento_Review
-Previous,Previous,module,Magento_Review
-"Save and Previous","Save and Previous",module,Magento_Review
-"Save and Next","Save and Next",module,Magento_Review
-Next,Next,module,Magento_Review
-"Delete Review","Delete Review",module,Magento_Review
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Review
-"Edit Review '%1'","Edit Review '%1'",module,Magento_Review
+"First Name","名字",module,Magento_Reports
+"Last Name","姓",module,Magento_Reports
+"Items in Cart","在購物車中的物品",module,Magento_Reports
+"Products in carts","在購物車中的產品",module,Magento_Reports
+Carts,購物車,module,Magento_Reports
+Name,名稱,module,Magento_Reports
+"Wish Lists","願望清單",module,Magento_Reports
+"Wish List Purchase","願望清單購買",module,Magento_Reports
+"Wish List vs. Regular Order","願望清單 vs. 一般訂單",module,Magento_Reports
+"Times Deleted","刪除次數",module,Magento_Reports
+"Index type is not valid","索引類型無效",module,Magento_Reports
+Reports,報告,module,Magento_Reports
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","最近更新時間: %1. 要刷新最後的日子 <a href=""%2"">統計</a>, 點擊 <a href=""%3"">這處</a>.",module,Magento_Reports
+"New Accounts Report","新帳戶報告",module,Magento_Reports
+"Customers by Number of Orders","客戶（從訂單數量）",module,Magento_Reports
+"Order Count Report","訂單數量報告",module,Magento_Reports
+"Order Total Report","訂單總計報告",module,Magento_Reports
+"Downloads Report","下載報告",module,Magento_Reports
+"Low Stock","低庫存",module,Magento_Reports
+"Low Stock Report","低庫存報告",module,Magento_Reports
+"Ordered Products Report","已訂購的產品報告",module,Magento_Reports
+"Products Most Viewed Report","產品最多查看報告",module,Magento_Reports
+"Product Views Report","產品觀看報告",module,Magento_Reports
+"An error occurred while showing the product views report. Please review the log and try again.","展示產品觀看報告時出錯。請查看日誌，然後再試一次.",module,Magento_Reports
+Review,評論,module,Magento_Reports
+Reviews,評論,module,Magento_Reports
+"Customers Report","客戶報告",module,Magento_Reports
+"Customer Reviews Report","客戶評價報告",module,Magento_Reports
+"Product Reviews Report","產品評測報告",module,Magento_Reports
+"Product Reviews","產品評測",module,Magento_Reports
+Details,詳細信息,module,Magento_Reports
+Sales,銷售,module,Magento_Reports
+"Best Sellers Report","暢銷報告",module,Magento_Reports
+Coupons,優惠券,module,Magento_Reports
+"Coupons Report","優惠券報告",module,Magento_Reports
+"Invoice Report","發票報表",module,Magento_Reports
+"Refunds Report","退款報告",module,Magento_Reports
+"Sales Report","銷售報告",module,Magento_Reports
+"Shipping Report","送貨報表",module,Magento_Reports
+"Tax Report","稅務報表",module,Magento_Reports
+"Shopping Cart","購物車",module,Magento_Reports
+"Abandoned Carts","已放棄購的物車",module,Magento_Reports
+"Customer Shopping Carts","顧客的購物車",module,Magento_Reports
+"Products in Carts","購物車中的產品",module,Magento_Reports
+Statistics,統計,module,Magento_Reports
+"No report code is specified.","未指定報告代碼.",module,Magento_Reports
+"You refreshed lifetime statistics.","您刷新了一生統計.",module,Magento_Reports
+"We can't refresh lifetime statistics.","我們不能刷新一生統計.",module,Magento_Reports
+"Recent statistics have been updated.","最近的統計已更新.",module,Magento_Reports
+"We can't refresh recent statistics.","我們無法刷新最新統計數據.",module,Magento_Reports
+"The product type filter specified is incorrect.","指定的產品類型過濾器是不正確.",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rates","訂單稅款報告（以稅率分組）",module,Magento_Reports
+"Total Invoiced VS Paid Report","總開發票 VS 付費報告",module,Magento_Reports
+"Promotion Coupons Usage Report","促銷優惠券使用情況報告",module,Magento_Reports
+Bestsellers,最暢銷,module,Magento_Reports
+"Most Viewed Products Report","最多瀏覽的產品報告",module,Magento_Reports
+"An error occurred while showing the product views report. Please review the log and try again.","展示產品觀看報告時出錯。請查看日誌，然後再試一次.",module,Magento_Reports
+Error,錯誤,module,Magento_Reports
+"Show By","顯示（以）",module,Magento_Reports
+"Select Date","選擇日期",module,Magento_Reports
+"Customers that have Wish List: %1","有願望清單的客戶: %1",module,Magento_Reports
+"Number of Wish Lists: %1","願望清單數目: %1",module,Magento_Reports
+"Number of items bought from a Wish List: %1","從願望清單購買的項目數量: %1",module,Magento_Reports
+"Number of times Wish Lists have been shared (emailed): %1","願望列表數量已經共享（通過電子郵件）的數目: %1",module,Magento_Reports
+"Number of Wish List referrals: %1","願望清單轉介數: %1",module,Magento_Reports
+"Number of Wish List conversions: %1","願望清單轉化次數: %1",module,Magento_Reports
+"Show Report For:","顯示報告:",module,Magento_Reports
+"All Websites","所有網站",module,Magento_Reports
+"Recently Viewed","最近瀏覽過的",module,Magento_Reports
+"Add to Cart","添加到購物車",module,Magento_Reports
+"In stock","有現貨",module,Magento_Reports
+"Out of stock","缺貨",module,Magento_Reports
+"Add to Wish List","加入願望清單",module,Magento_Reports
+"Add to Compare","加入比較",module,Magento_Reports
+"Recently Compared","最近比較",module,Magento_Reports
+"Learn More","了解更多",module,Magento_Reports
+"Save Review","保存評論",module,Magento_Review
+"New Review","新的評論",module,Magento_Review
+"Review Details","評論詳情",module,Magento_Review
+Product,產品,module,Magento_Review
+"Product Rating","產品評級",module,Magento_Review
+Status,狀態,module,Magento_Review
+Visibility,能見度,module,Magento_Review
+Nickname,暱稱,module,Magento_Review
+"Summary of Review","評論摘要",module,Magento_Review
+Review,評論,module,Magento_Review
+Previous,前面的,module,Magento_Review
+"Save and Previous","保存並上一頁",module,Magento_Review
+"Save and Next","保存並下一頁",module,Magento_Review
+Next,下一個,module,Magento_Review
+"Delete Review","刪除評論",module,Magento_Review
+"Are you sure you want to do this?","你確定你想這樣做?",module,Magento_Review
+"Edit Review '%1'","編輯評論 '%1'",module,Magento_Review
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
-Administrator,Administrator,module,Magento_Review
-Guest,Guest,module,Magento_Review
-Author,Author,module,Magento_Review
-"Summary Rating","Summary Rating",module,Magento_Review
-"Detailed Rating","Detailed Rating",module,Magento_Review
+Administrator,管理員,module,Magento_Review
+Guest,來賓,module,Magento_Review
+Author,作者,module,Magento_Review
+"Summary Rating","摘要評級",module,Magento_Review
+"Detailed Rating","詳細評分",module,Magento_Review
 ID,ID,module,Magento_Review
-Created,Created,module,Magento_Review
-Title,Title,module,Magento_Review
-Type,Type,module,Magento_Review
+Created,創建,module,Magento_Review
+Title,標題,module,Magento_Review
+Type,類型,module,Magento_Review
 SKU,SKU,module,Magento_Review
-Action,Action,module,Magento_Review
-Edit,Edit,module,Magento_Review
-Delete,Delete,module,Magento_Review
-"Are you sure?","Are you sure?",module,Magento_Review
-"Update Status","Update Status",module,Magento_Review
-Customer,Customer,module,Magento_Review
-"Pending Reviews of Customer `%1`","Pending Reviews of Customer `%1`",module,Magento_Review
-"Pending Reviews","Pending Reviews",module,Magento_Review
-"All Reviews of Customer `%1`","All Reviews of Customer `%1`",module,Magento_Review
-"All Reviews of Product `%1`","All Reviews of Product `%1`",module,Magento_Review
-"All Reviews","All Reviews",module,Magento_Review
-Name,Name,module,Magento_Review
-"Product Store Name","Product Store Name",module,Magento_Review
-Price,Price,module,Magento_Review
-Quantity,Quantity,module,Magento_Review
-Websites,Websites,module,Magento_Review
-"Manage Ratings","Manage Ratings",module,Magento_Review
-"Add New Rating","Add New Rating",module,Magento_Review
-"Save Rating","Save Rating",module,Magento_Review
-"Delete Rating","Delete Rating",module,Magento_Review
-"Edit Rating #%1","Edit Rating #%1",module,Magento_Review
-"New Rating","New Rating",module,Magento_Review
-"Rating Title","Rating Title",module,Magento_Review
-"Default Value","Default Value",module,Magento_Review
-"Rating Visibility","Rating Visibility",module,Magento_Review
-"Is Active","Is Active",module,Magento_Review
-"Sort Order","Sort Order",module,Magento_Review
-"Rating Information","Rating Information",module,Magento_Review
-"Product Reviews","Product Reviews",module,Magento_Review
-"Pending product review(s)","Pending product review(s)",module,Magento_Review
-"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Product: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
-"Summary of review: %1 <br/>","Summary of review: %1 <br/>",module,Magento_Review
-"Review: %1 <br/>","Review: %1 <br/>",module,Magento_Review
-"Store: %1 <br/>","Store: %1 <br/>",module,Magento_Review
-"Click <a href=""%1"">here</a> to see the review.","Click <a href=""%1"">here</a> to see the review.",module,Magento_Review
-"Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2",module,Magento_Review
-"Pending Reviews RSS","Pending Reviews RSS",module,Magento_Review
-"Reviews %1","Reviews %1",module,Magento_Review
-Reviews,Reviews,module,Magento_Review
-"The review has been deleted.","The review has been deleted.",module,Magento_Review
-"Something went wrong  deleting this review.","Something went wrong  deleting this review.",module,Magento_Review
-"Customer Reviews","Customer Reviews",module,Magento_Review
-"Edit Review","Edit Review",module,Magento_Review
-"We can't retrieve the product ID.","We can't retrieve the product ID.",module,Magento_Review
-"Please select review(s).","Please select review(s).",module,Magento_Review
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Review
-"Something went wrong while deleting these records.","Something went wrong while deleting these records.",module,Magento_Review
-"A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Review
-"Something went wrong while updating these review(s).","Something went wrong while updating these review(s).",module,Magento_Review
-"You saved the review.","You saved the review.",module,Magento_Review
-"Something went wrong while saving this review.","Something went wrong while saving this review.",module,Magento_Review
-"The review was removed by another user or does not exist.","The review was removed by another user or does not exist.",module,Magento_Review
-"You deleted the rating.","You deleted the rating.",module,Magento_Review
+Action,操作,module,Magento_Review
+Edit,編輯,module,Magento_Review
+Delete,刪除,module,Magento_Review
+"Are you sure?","你確定?",module,Magento_Review
+"Update Status","更新狀態",module,Magento_Review
+Customer,顧客,module,Magento_Review
+"Pending Reviews of Customer `%1`","顧客的待定評價 `%1`",module,Magento_Review
+"Pending Reviews","待定評價",module,Magento_Review
+"All Reviews of Customer `%1`","顧客 `%1` 的所有評價",module,Magento_Review
+"All Reviews of Product `%1`","產品 `%1` 的所有評價",module,Magento_Review
+"All Reviews","所有評價",module,Magento_Review
+Name,名稱,module,Magento_Review
+"Product Store Name","產品商店名稱",module,Magento_Review
+Price,價錢,module,Magento_Review
+Quantity,數量,module,Magento_Review
+Websites,網站,module,Magento_Review
+"Manage Ratings","管理評級",module,Magento_Review
+"Add New Rating","添加新評級",module,Magento_Review
+"Save Rating","保存評級",module,Magento_Review
+"Delete Rating","刪除評級",module,Magento_Review
+"Edit Rating #%1","編輯評級 #%1",module,Magento_Review
+"New Rating","新評級",module,Magento_Review
+"Rating Title","評級標題",module,Magento_Review
+"Default Value","默認值",module,Magento_Review
+"Rating Visibility","評級能見度",module,Magento_Review
+"Is Active","是活躍的",module,Magento_Review
+"Sort Order","排序",module,Magento_Review
+"Rating Information","評級信息",module,Magento_Review
+"Product Reviews","產品評測",module,Magento_Review
+"Pending product review(s)","待定的產品評測",module,Magento_Review
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","產品: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
+"Summary of review: %1 <br/>","評測摘要: %1 <br/>",module,Magento_Review
+"Review: %1 <br/>","評論: %1 <br/>",module,Magento_Review
+"Store: %1 <br/>","商店: %1 <br/>",module,Magento_Review
+"Click <a href=""%1"">here</a> to see the review.","點擊 <a href=""%1"">這裡</a> 來觀看評論.",module,Magento_Review
+"Product: ""%1"" reviewed by: %2","產品: ""%1"" 評論人: %2",module,Magento_Review
+"Pending Reviews RSS","待定評測RSS",module,Magento_Review
+"Reviews %1","評論 %1",module,Magento_Review
+Reviews,評論,module,Magento_Review
+"The review has been deleted.","該評論已刪除.",module,Magento_Review
+"Something went wrong  deleting this review.","刪除此評論時出了錯.",module,Magento_Review
+"Customer Reviews","顧客評論",module,Magento_Review
+"Edit Review","編輯評論",module,Magento_Review
+"We can't retrieve the product ID.","我們無法檢索產品ID.",module,Magento_Review
+"Please select review(s).","請選擇評論.",module,Magento_Review
+"A total of %1 record(s) have been deleted.","共有 %1 記錄已被刪除.",module,Magento_Review
+"Something went wrong while deleting these records.","在刪除這些記錄出了錯.",module,Magento_Review
+"A total of %1 record(s) have been updated.","共有 %1 記錄已被更新.",module,Magento_Review
+"Something went wrong while updating these review(s).","而更新這些評論出了錯.",module,Magento_Review
+"You saved the review.","你保存了評論.",module,Magento_Review
+"Something went wrong while saving this review.","保存這筆評論時出了錯.",module,Magento_Review
+"The review was removed by another user or does not exist.","評論已被其他用戶刪除或不存在.",module,Magento_Review
+"You deleted the rating.","您刪除了這評級.",module,Magento_Review
 Ratings,Ratings,module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
 "My Product Reviews","My Product Reviews",module,Magento_Review
