@@ -3998,118 +3998,118 @@ Reviews,評論,module,Magento_Review
 "Something went wrong while saving this review.","保存這筆評論時出了錯.",module,Magento_Review
 "The review was removed by another user or does not exist.","評論已被其他用戶刪除或不存在.",module,Magento_Review
 "You deleted the rating.","您刪除了這評級.",module,Magento_Review
-Ratings,Ratings,module,Magento_Review
-"You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
-"You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
-"We can't post your review right now.","We can't post your review right now.",module,Magento_Review
-"Storage key was not set","Storage key was not set",module,Magento_Review
-Approved,Approved,module,Magento_Review
-Pending,Pending,module,Magento_Review
-"Not Approved","Not Approved",module,Magento_Review
-"Please enter a review summary.","Please enter a review summary.",module,Magento_Review
-"Please enter a nickname.","Please enter a nickname.",module,Magento_Review
-"Please enter a review.","Please enter a review.",module,Magento_Review
-"Rating isn\'t Available","Rating isn\'t Available",module,Magento_Review
-"Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value.",module,Magento_Review
-"Assigned Options","Assigned Options",module,Magento_Review
-"Option Title:","Option Title:",module,Magento_Review
-"Product Name","Product Name",module,Magento_Review
-Rating,Rating,module,Magento_Review
-Actions,Actions,module,Magento_Review
-"See Details","See Details",module,Magento_Review
-"You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
-Back,Back,module,Magento_Review
-"My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
-"Average Customer Rating:","Average Customer Rating:",module,Magento_Review
-"Your Review","Your Review",module,Magento_Review
-"Submitted on %1","Submitted on %1",module,Magento_Review
-"Back to My Reviews","Back to My Reviews",module,Magento_Review
-"Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
-"Write Your Own Review","Write Your Own Review",module,Magento_Review
-"* Required Fields","* Required Fields",module,Magento_Review
-"You\'re reviewing:","You\'re reviewing:",module,Magento_Review
-"Your Rating","Your Rating",module,Magento_Review
+Ratings,評級,module,Magento_Review
+"You saved the rating.","你保存了評級.",module,Magento_Review
+"My Product Reviews","我的產品評論",module,Magento_Review
+"You submitted your review for moderation.","您提交了需要審核的評論.",module,Magento_Review
+"We can't post your review right now.","我們現在無法發表您的評論.",module,Magento_Review
+"Storage key was not set","存儲密鑰未設置",module,Magento_Review
+Approved,批准,module,Magento_Review
+Pending,待定,module,Magento_Review
+"Not Approved","不批准",module,Magento_Review
+"Please enter a review summary.","請輸入評論摘要.",module,Magento_Review
+"Please enter a nickname.","請輸入暱稱.",module,Magento_Review
+"Please enter a review.","請輸入評論.",module,Magento_Review
+"Rating isn\'t Available","評級是不可用",module,Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.","請指定商店的等級標題，否則我們將只使用默認值.",module,Magento_Review
+"Assigned Options","已指派的選項",module,Magento_Review
+"Option Title:","選項標題:",module,Magento_Review
+"Product Name","產品名稱",module,Magento_Review
+Rating,評級,module,Magento_Review
+Actions,操作,module,Magento_Review
+"See Details","查看詳細信息",module,Magento_Review
+"You have submitted no reviews.","您無提交任何評論.",module,Magento_Review
+Back,返回,module,Magento_Review
+"My Recent Reviews","我最近的評論",module,Magento_Review
+"View All","查看全部",module,Magento_Review
+"Average Customer Rating:","平均客戶評級:",module,Magento_Review
+"Your Review","你的評論",module,Magento_Review
+"Submitted on %1","提交日期在 %1",module,Magento_Review
+"Back to My Reviews","回到我的評論",module,Magento_Review
+"Ratings Review Summary","評級評測總結",module,Magento_Review
+"Be the first to review this product","成為第一個評論該產品",module,Magento_Review
+"Write Your Own Review","發表您的評論",module,Magento_Review
+"* Required Fields","* 必填字段",module,Magento_Review
+"You\'re reviewing:","您正在評論:",module,Magento_Review
+"Your Rating","您的評級",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
-Summary,Summary,module,Magento_Review
-"Submit Review","Submit Review",module,Magento_Review
-"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
-"Add Your Review","Add Your Review",module,Magento_Review
-"%1 Review(s)","%1 Review(s)",module,Magento_Review
-"Review by","Review by",module,Magento_Review
-"Posted on","Posted on",module,Magento_Review
-"Back to Main Product Info","Back to Main Product Info",module,Magento_Review
-"Average Customer Rating","Average Customer Rating",module,Magento_Review
-"Product Rating:","Product Rating:",module,Magento_Review
-"Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
-"Back to Product Reviews","Back to Product Reviews",module,Magento_Review
-"Page not found.","Page not found.",module,Magento_Rss
-Feed,Feed,module,Magento_Rss
-"Miscellaneous Feeds","Miscellaneous Feeds",module,Magento_Rss
-"Get Feed","Get Feed",module,Magento_Rss
-Apply,Apply,module,Magento_Rule
-"Please choose a valid discount amount.","Please choose a valid discount amount.",module,Magento_Rule
-"End Date must follow Start Date.","End Date must follow Start Date.",module,Magento_Rule
-"Please specify a website.","Please specify a website.",module,Magento_Rule
-"Please specify Customer Groups.","Please specify Customer Groups.",module,Magento_Rule
-to,to,module,Magento_Rule
-by,by,module,Magento_Rule
-"Please choose an action to add.","Please choose an action to add.",module,Magento_Rule
-"Perform following actions","Perform following actions",module,Magento_Rule
-is,is,module,Magento_Rule
-"is not","is not",module,Magento_Rule
-"equals or greater than","equals or greater than",module,Magento_Rule
-"equals or less than","equals or less than",module,Magento_Rule
-"greater than","greater than",module,Magento_Rule
-"less than","less than",module,Magento_Rule
-contains,contains,module,Magento_Rule
-"does not contain","does not contain",module,Magento_Rule
-"is one of","is one of",module,Magento_Rule
-"is not one of","is not one of",module,Magento_Rule
-"Please choose a condition to add.","Please choose a condition to add.",module,Magento_Rule
-Add,Add,module,Magento_Rule
-Remove,Remove,module,Magento_Rule
-ALL,ALL,module,Magento_Rule
-ANY,ANY,module,Magento_Rule
-TRUE,TRUE,module,Magento_Rule
-FALSE,FALSE,module,Magento_Rule
-"If %1 of these conditions are %2:","If %1 of these conditions are %2:",module,Magento_Rule
-"Conditions Combination","Conditions Combination",module,Magento_Rule
-"Attribute Set","Attribute Set",module,Magento_Rule
-Category,Category,module,Magento_Rule
-"Open Chooser","Open Chooser",module,Magento_Rule
-"Unknown condition operator","Unknown condition operator",module,Magento_Rule
+Summary,摘要,module,Magento_Review
+"Submit Review","提交評論",module,Magento_Review
+"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","只有註冊用戶可以發表評論. 請 <a href=""%1"">登入</a> 或 <a href=""%2"">創建一個帳戶</a>",module,Magento_Review
+"Add Your Review","添加您的評論",module,Magento_Review
+"%1 Review(s)","%1 評論",module,Magento_Review
+"Review by","評論者",module,Magento_Review
+"Posted on","發表於",module,Magento_Review
+"Back to Main Product Info","返回主產品信息",module,Magento_Review
+"Average Customer Rating","平均客戶評級",module,Magento_Review
+"Product Rating:","產品評級:",module,Magento_Review
+"Product Review (submitted on %1):","產品評論 (提交於 %1):",module,Magento_Review
+"Back to Product Reviews","返回商品評論",module,Magento_Review
+"Page not found.","找不到網頁.",module,Magento_Rss
+Feed,供稿,module,Magento_Rss
+"Miscellaneous Feeds","其他供稿,module,Magento_Rss
+"Get Feed","獲取供稿",module,Magento_Rss
+Apply,應用,module,Magento_Rule
+"Please choose a valid discount amount.","請選擇一個有效的折扣金額.",module,Magento_Rule
+"End Date must follow Start Date.","結束日期必須大於開始日期.",module,Magento_Rule
+"Please specify a website.","請指定網站.",module,Magento_Rule
+"Please specify Customer Groups.","請指定客戶群.",module,Magento_Rule
+to,至,module,Magento_Rule
+by,通過,module,Magento_Rule
+"Please choose an action to add.","請選擇一個動作來添加.",module,Magento_Rule
+"Perform following actions","執行以下操作",module,Magento_Rule
+is,是,module,Magento_Rule
+"is not","不是",module,Magento_Rule
+"equals or greater than","等於或大於",module,Magento_Rule
+"equals or less than","等於或小於",module,Magento_Rule
+"greater than","大於",module,Magento_Rule
+"less than","小於",module,Magento_Rule
+contains,包含,module,Magento_Rule
+"does not contain","不含",module,Magento_Rule
+"is one of","是其一",module,Magento_Rule
+"is not one of","不是其一",module,Magento_Rule
+"Please choose a condition to add.","請選擇一個條件來添加.",module,Magento_Rule
+Add,添加,module,Magento_Rule
+Remove,刪除,module,Magento_Rule
+ALL,全部,module,Magento_Rule
+ANY,任何,module,Magento_Rule
+TRUE,對,module,Magento_Rule
+FALSE,錯,module,Magento_Rule
+"If %1 of these conditions are %2:","如果這些條件的 %1 是 %2:",module,Magento_Rule
+"Conditions Combination","條件結合",module,Magento_Rule
+"Attribute Set","屬性集",module,Magento_Rule
+Category,類別,module,Magento_Rule
+"Open Chooser","打開選配",module,Magento_Rule
+"Unknown condition operator","未知條件運算符",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1"".",module,Magento_Rule
-"Cart Price Rules","Cart Price Rules",module,Magento_SalesRule
-"Add New Rule","Add New Rule",module,Magento_SalesRule
-"Save and Continue Edit","Save and Continue Edit",module,Magento_SalesRule
-"Edit Rule '%1'","Edit Rule '%1'",module,Magento_SalesRule
-"New Rule","New Rule",module,Magento_SalesRule
-"Rule Information","Rule Information",module,Magento_SalesRule
-Actions,Actions,module,Magento_SalesRule
-"Pricing Structure Rules","Pricing Structure Rules",module,Magento_SalesRule
-Apply,Apply,module,Magento_SalesRule
-"Percent of product price discount","Percent of product price discount",module,Magento_SalesRule
-"Fixed amount discount","Fixed amount discount",module,Magento_SalesRule
-"Fixed amount discount for whole cart","Fixed amount discount for whole cart",module,Magento_SalesRule
-"Buy X get Y free (discount amount is Y)","Buy X get Y free (discount amount is Y)",module,Magento_SalesRule
-"Discount Amount","Discount Amount",module,Magento_SalesRule
-"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRule
-"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRule
-"Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRule
-"Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRule
-Yes,Yes,module,Magento_SalesRule
-No,No,module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
-"Apply To","Apply To",module,Magento_SalesRule
-Conditions,Conditions,module,Magento_SalesRule
-"Apply the rule only if the following conditions are met (leave blank for all products).","Apply the rule only if the following conditions are met (leave blank for all products).",module,Magento_SalesRule
-"Manage Coupon Codes","Manage Coupon Codes",module,Magento_SalesRule
-"Coupons Information","Coupons Information",module,Magento_SalesRule
-"Coupon Qty","Coupon Qty",module,Magento_SalesRule
-"Code Length","Code Length",module,Magento_SalesRule
+"Cart Price Rules","購物車價格規則",module,Magento_SalesRule
+"Add New Rule","添加新規則",module,Magento_SalesRule
+"Save and Continue Edit","保存並繼續編輯",module,Magento_SalesRule
+"Edit Rule '%1'","編輯規則 '%1'",module,Magento_SalesRule
+"New Rule","新規則",module,Magento_SalesRule
+"Rule Information","規則信息",module,Magento_SalesRule
+Actions,操作,module,Magento_SalesRule
+"Pricing Structure Rules","價格結構規則",module,Magento_SalesRule
+Apply,應用,module,Magento_SalesRule
+"Percent of product price discount","產品價格折扣百分比",module,Magento_SalesRule
+"Fixed amount discount","定額折扣",module,Magento_SalesRule
+"Fixed amount discount for whole cart","整個購物車的定額折扣",module,Magento_SalesRule
+"Buy X get Y free (discount amount is Y)","購買X即可獲得免費Y（優惠金額為Y）",module,Magento_SalesRule
+"Discount Amount","折扣金額",module,Magento_SalesRule
+"Maximum Qty Discount is Applied To","最大數量折扣已應用於",module,Magento_SalesRule
+"Discount Qty Step (Buy X)","折扣數量梯級（買入X）",module,Magento_SalesRule
+"Apply to Shipping Amount","適用於送貨價格",module,Magento_SalesRule
+"Discard subsequent rules","丟棄後續規則",module,Magento_SalesRule
+Yes,是,module,Magento_SalesRule
+No,否,module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","只對符合以下條件的購物車項目應用該規則（留空代表所有項目）.",module,Magento_SalesRule
+"Apply To","適用於",module,Magento_SalesRule
+Conditions,條件,module,Magento_SalesRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","只有在滿足以下條件的規則時應用（留空代表所有產品）.",module,Magento_SalesRule
+"Manage Coupon Codes","管理優惠券代碼",module,Magento_SalesRule
+"Coupons Information","優惠券信息",module,Magento_SalesRule
+"Coupon Qty","優惠券數量",module,Magento_SalesRule
+"Code Length","代碼長度",module,Magento_SalesRule
 "Excluding prefix, suffix and separators.","Excluding prefix, suffix and separators.",module,Magento_SalesRule
 "Code Format","Code Format",module,Magento_SalesRule
 "Code Prefix","Code Prefix",module,Magento_SalesRule
@@ -4231,73 +4231,73 @@ is,is,module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
 "Entity Sequence profile not added to meta active profile","Entity Sequence profile not added to meta active profile",module,Magento_SalesSequence
 "Not enough arguments","Not enough arguments",module,Magento_SalesSequence
-"Credit Memos","Credit Memos",module,Magento_Sales
-Orders,Orders,module,Magento_Sales
-Invoices,Invoices,module,Magento_Sales
-"We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
-"Create New Order","Create New Order",module,Magento_Sales
-"Save Order Address","Save Order Address",module,Magento_Sales
-Shipping,Shipping,module,Magento_Sales
-Billing,Billing,module,Magento_Sales
-"Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
-"Order Address Information","Order Address Information",module,Magento_Sales
-"Please correct the parent block for this block.","Please correct the parent block for this block.",module,Magento_Sales
-"Submit Comment","Submit Comment",module,Magento_Sales
-"Submit Order","Submit Order",module,Magento_Sales
-"Are you sure you want to cancel this order?","Are you sure you want to cancel this order?",module,Magento_Sales
-Cancel,Cancel,module,Magento_Sales
-"Billing Address","Billing Address",module,Magento_Sales
-"Payment Method","Payment Method",module,Magento_Sales
-"Order Comment","Order Comment",module,Magento_Sales
-Coupons,Coupons,module,Magento_Sales
-"Please select a customer","Please select a customer",module,Magento_Sales
-"Create New Customer","Create New Customer",module,Magento_Sales
-"Account Information","Account Information",module,Magento_Sales
-From,From,module,Magento_Sales
-To,To,module,Magento_Sales
-Message,Message,module,Magento_Sales
-"Edit Order #%1","Edit Order #%1",module,Magento_Sales
-"Create New Order for %1 in %2","Create New Order for %1 in %2",module,Magento_Sales
-"Create New Order for New Customer in %1","Create New Order for New Customer in %1",module,Magento_Sales
-"Create New Order for %1","Create New Order for %1",module,Magento_Sales
-"Create New Order for New Customer","Create New Order for New Customer",module,Magento_Sales
-"Items Ordered","Items Ordered",module,Magento_Sales
-"This product is disabled.","This product is disabled.",module,Magento_Sales
-"Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
-"Item ordered qty","Item ordered qty",module,Magento_Sales
-"%1 with %2 discount each","%1 with %2 discount each",module,Magento_Sales
-"%1 for %2","%1 for %2",module,Magento_Sales
-"* - Enter custom price including tax","* - Enter custom price including tax",module,Magento_Sales
-"* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
-Configure,Configure,module,Magento_Sales
-"This product does not have any configurable options","This product does not have any configurable options",module,Magento_Sales
-"Newsletter Subscription","Newsletter Subscription",module,Magento_Sales
-"Please select products","Please select products",module,Magento_Sales
-"Add Selected Product(s) to Order","Add Selected Product(s) to Order",module,Magento_Sales
+"Credit Memos","貸項通知單",module,Magento_Sales
+Orders,訂單,module,Magento_Sales
+Invoices,發票,module,Magento_Sales
+"We can't get the order instance right now.","我們現在無法獲取訂單實例.",module,Magento_Sales
+"Create New Order","創建新訂單",module,Magento_Sales
+"Save Order Address","保存訂單地址",module,Magento_Sales
+Shipping,送貨,module,Magento_Sales
+Billing,開票,module,Magento_Sales
+"Edit Order %1 %2 Address","編輯訂單 %1 %2 地址",module,Magento_Sales
+"Order Address Information","訂單地址信息",module,Magento_Sales
+"Please correct the parent block for this block.","請更正此塊的母塊.",module,Magento_Sales
+"Submit Comment","提交意見",module,Magento_Sales
+"Submit Order","提交訂單",module,Magento_Sales
+"Are you sure you want to cancel this order?","你確定要取消此訂單?",module,Magento_Sales
+Cancel,取消,module,Magento_Sales
+"Billing Address","帳單地址",module,Magento_Sales
+"Payment Method","付款方法",module,Magento_Sales
+"Order Comment","訂單註釋",module,Magento_Sales
+Coupons,惠券,module,Magento_Sales
+"Please select a customer","請選擇一個客戶",module,Magento_Sales
+"Create New Customer","創建新客戶",module,Magento_Sales
+"Account Information","帳戶信息",module,Magento_Sales
+From,由,module,Magento_Sales
+To,至,module,Magento_Sales
+Message,信息,module,Magento_Sales
+"Edit Order #%1","編輯訂單 #%1",module,Magento_Sales
+"Create New Order for %1 in %2","為 %1 在 %2 創建新訂單",module,Magento_Sales
+"Create New Order for New Customer in %1","在 %1 為新客戶創建新訂單",module,Magento_Sales
+"Create New Order for %1","為 %1 創建新訂單",module,Magento_Sales
+"Create New Order for New Customer","為新客戶創建新訂單",module,Magento_Sales
+"Items Ordered","已訂購項目",module,Magento_Sales
+"This product is disabled.","該產品已被停用.",module,Magento_Sales
+"Buy %1 for price %2","購買 %1 以價錢 %2",module,Magento_Sales
+"Item ordered qty","項目已訂購數量",module,Magento_Sales
+"%1 with %2 discount each","%1 以 %2 折扣 （每個）",module,Magento_Sales
+"%1 for %2","%1 以 %2",module,Magento_Sales
+"* - Enter custom price including tax","* - 輸入含稅的定制價格",module,Magento_Sales
+"* - Enter custom price excluding tax","* - 輸入不含稅的定制價格",module,Magento_Sales
+Configure,配置,module,Magento_Sales
+"This product does not have any configurable options","此產品不具有任何可配置的選項",module,Magento_Sales
+"Newsletter Subscription","通訊訂閱",module,Magento_Sales
+"Please select products","請選擇產品",module,Magento_Sales
+"Add Selected Product(s) to Order","添加所選產品至訂購",module,Magento_Sales
 ID,ID,module,Magento_Sales
-Product,Product,module,Magento_Sales
+Product,產品,module,Magento_Sales
 SKU,SKU,module,Magento_Sales
-Price,Price,module,Magento_Sales
-Select,Select,module,Magento_Sales
-Quantity,Quantity,module,Magento_Sales
-"Shipping Address","Shipping Address",module,Magento_Sales
-"Shipping Method","Shipping Method",module,Magento_Sales
-"Update Changes","Update Changes",module,Magento_Sales
-"Shopping Cart","Shopping Cart",module,Magento_Sales
-"Are you sure you want to delete all items from shopping cart?","Are you sure you want to delete all items from shopping cart?",module,Magento_Sales
-"Clear Shopping Cart","Clear Shopping Cart",module,Magento_Sales
-"Products in Comparison List","Products in Comparison List",module,Magento_Sales
-"Recently Compared Products","Recently Compared Products",module,Magento_Sales
-"Recently Viewed Products","Recently Viewed Products",module,Magento_Sales
-"Last Ordered Items","Last Ordered Items",module,Magento_Sales
-"Recently Viewed","Recently Viewed",module,Magento_Sales
-"Wish List","Wish List",module,Magento_Sales
-"Please select a store","Please select a store",module,Magento_Sales
-"Order Totals","Order Totals",module,Magento_Sales
-"Shipping Incl. Tax (%1)","Shipping Incl. Tax (%1)",module,Magento_Sales
-"Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)",module,Magento_Sales
-"New Credit Memo for Invoice #%1","New Credit Memo for Invoice #%1",module,Magento_Sales
-"New Credit Memo for Order #%1","New Credit Memo for Order #%1",module,Magento_Sales
+Price,價錢,module,Magento_Sales
+Select,選擇,module,Magento_Sales
+Quantity,數量,module,Magento_Sales
+"Shipping Address","送貨地址",module,Magento_Sales
+"Shipping Method","送貨方式",module,Magento_Sales
+"Update Changes","更新變化",module,Magento_Sales
+"Shopping Cart","購物車",module,Magento_Sales
+"Are you sure you want to delete all items from shopping cart?","你確定要刪除購物車中的所有項目?",module,Magento_Sales
+"Clear Shopping Cart","清除購物車",module,Magento_Sales
+"Products in Comparison List","比較表中的產品",module,Magento_Sales
+"Recently Compared Products","最近比較產品",module,Magento_Sales
+"Recently Viewed Products","最近瀏覽過的產品",module,Magento_Sales
+"Last Ordered Items","剛訂購過的項目",module,Magento_Sales
+"Recently Viewed","最近瀏覽過的",module,Magento_Sales
+"Wish List","願望清單",module,Magento_Sales
+"Please select a store","請選擇一間商店",module,Magento_Sales
+"Order Totals","訂單總計",module,Magento_Sales
+"Shipping Incl. Tax (%1)","已包含稅的送貨費 (%1)",module,Magento_Sales
+"Shipping Excl. Tax (%1)","不包含稅的送貨費 (%1)",module,Magento_Sales
+"New Credit Memo for Invoice #%1","發票 #%1 的新信用憑證",module,Magento_Sales
+"New Credit Memo for Order #%1","訂單 #%1 的新信用憑證",module,Magento_Sales
 "Refund Shipping (Incl. Tax)","Refund Shipping (Incl. Tax)",module,Magento_Sales
 "Refund Shipping (Excl. Tax)","Refund Shipping (Excl. Tax)",module,Magento_Sales
 "Refund Shipping","Refund Shipping",module,Magento_Sales
