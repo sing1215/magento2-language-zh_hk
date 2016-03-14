@@ -4298,206 +4298,206 @@ Quantity,數量,module,Magento_Sales
 "Shipping Excl. Tax (%1)","不包含稅的送貨費 (%1)",module,Magento_Sales
 "New Credit Memo for Invoice #%1","發票 #%1 的新信用憑證",module,Magento_Sales
 "New Credit Memo for Order #%1","訂單 #%1 的新信用憑證",module,Magento_Sales
-"Refund Shipping (Incl. Tax)","Refund Shipping (Incl. Tax)",module,Magento_Sales
-"Refund Shipping (Excl. Tax)","Refund Shipping (Excl. Tax)",module,Magento_Sales
-"Refund Shipping","Refund Shipping",module,Magento_Sales
-"Update Qty's","Update Qty's",module,Magento_Sales
-Refund,Refund,module,Magento_Sales
-"Refund Offline","Refund Offline",module,Magento_Sales
-"Paid Amount","Paid Amount",module,Magento_Sales
-"Refund Amount","Refund Amount",module,Magento_Sales
-"Shipping Amount","Shipping Amount",module,Magento_Sales
-"Shipping Refund","Shipping Refund",module,Magento_Sales
-"Order Grand Total","Order Grand Total",module,Magento_Sales
-"Adjustment Refund","Adjustment Refund",module,Magento_Sales
-"Adjustment Fee","Adjustment Fee",module,Magento_Sales
-"Send Email","Send Email",module,Magento_Sales
-"Are you sure you want to send a credit memo email to customer?","Are you sure you want to send a credit memo email to customer?",module,Magento_Sales
-Void,Void,module,Magento_Sales
-Print,Print,module,Magento_Sales
-"The credit memo email was sent.","The credit memo email was sent.",module,Magento_Sales
-"The credit memo email wasn't sent.","The credit memo email wasn't sent.",module,Magento_Sales
-"Credit Memo #%1 | %3 | %2 (%4)","Credit Memo #%1 | %3 | %2 (%4)",module,Magento_Sales
-"Total Refund","Total Refund",module,Magento_Sales
-"New Invoice and Shipment for Order #%1","New Invoice and Shipment for Order #%1",module,Magento_Sales
-"New Invoice for Order #%1","New Invoice for Order #%1",module,Magento_Sales
-"Submit Invoice and Shipment","Submit Invoice and Shipment",module,Magento_Sales
-"Submit Invoice","Submit Invoice",module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?","Are you sure you want to send an invoice email to customer?",module,Magento_Sales
-"Credit Memo","Credit Memo",module,Magento_Sales
-Capture,Capture,module,Magento_Sales
-"The invoice email was sent.","The invoice email was sent.",module,Magento_Sales
-"The invoice email wasn't sent.","The invoice email wasn't sent.",module,Magento_Sales
-"Invoice #%1 | %2 | %4 (%3)","Invoice #%1 | %2 | %4 (%3)",module,Magento_Sales
-"Invalid parent block for this block","Invalid parent block for this block",module,Magento_Sales
-"Order Statuses","Order Statuses",module,Magento_Sales
-"Create New Status","Create New Status",module,Magento_Sales
-"Assign Status to State","Assign Status to State",module,Magento_Sales
-"Save Status Assignment","Save Status Assignment",module,Magento_Sales
-"Assign Order Status to State","Assign Order Status to State",module,Magento_Sales
-"Assignment Information","Assignment Information",module,Magento_Sales
-"Order Status","Order Status",module,Magento_Sales
-"Order State","Order State",module,Magento_Sales
-"Use Order Status As Default","Use Order Status As Default",module,Magento_Sales
-"Visible On Storefront","Visible On Storefront",module,Magento_Sales
-"Edit Order Status","Edit Order Status",module,Magento_Sales
-"Save Status","Save Status",module,Magento_Sales
-"New Order Status","New Order Status",module,Magento_Sales
-"Order Status Information","Order Status Information",module,Magento_Sales
-"Status Code","Status Code",module,Magento_Sales
-"Status Label","Status Label",module,Magento_Sales
-"Store View Specific Labels","Store View Specific Labels",module,Magento_Sales
-"Total Paid","Total Paid",module,Magento_Sales
-"Total Refunded","Total Refunded",module,Magento_Sales
-"Total Due","Total Due",module,Magento_Sales
-Edit,Edit,module,Magento_Sales
-"Are you sure you want to send an order email to customer?","Are you sure you want to send an order email to customer?",module,Magento_Sales
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
-"Are you sure you want to void the payment?","Are you sure you want to void the payment?",module,Magento_Sales
-Hold,Hold,module,Magento_Sales
-hold,hold,module,Magento_Sales
-Unhold,Unhold,module,Magento_Sales
-unhold,unhold,module,Magento_Sales
-"Are you sure you want to accept this payment?","Are you sure you want to accept this payment?",module,Magento_Sales
-"Accept Payment","Accept Payment",module,Magento_Sales
-"Are you sure you want to deny this payment?","Are you sure you want to deny this payment?",module,Magento_Sales
-"Deny Payment","Deny Payment",module,Magento_Sales
-"Get Payment Update","Get Payment Update",module,Magento_Sales
-"Invoice and Ship","Invoice and Ship",module,Magento_Sales
-Invoice,Invoice,module,Magento_Sales
-Ship,Ship,module,Magento_Sales
-Reorder,Reorder,module,Magento_Sales
-"Order # %1 %2 | %3","Order # %1 %2 | %3",module,Magento_Sales
-"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
-"Are you sure? This order will be canceled and a new one will be created instead.","Are you sure? This order will be canceled and a new one will be created instead.",module,Magento_Sales
-"Save Gift Message","Save Gift Message",module,Magento_Sales
-" [deleted]"," [deleted]",module,Magento_Sales
-"Order Credit Memos","Order Credit Memos",module,Magento_Sales
-"Credit memo #%1 created","Credit memo #%1 created",module,Magento_Sales
-"Credit memo #%1 comment added","Credit memo #%1 comment added",module,Magento_Sales
-"Shipment #%1 created","Shipment #%1 created",module,Magento_Sales
-"Shipment #%1 comment added","Shipment #%1 comment added",module,Magento_Sales
-"Invoice #%1 created","Invoice #%1 created",module,Magento_Sales
-"Invoice #%1 comment added","Invoice #%1 comment added",module,Magento_Sales
-"Tracking number %1 for %2 assigned","Tracking number %1 for %2 assigned",module,Magento_Sales
-"Comments History","Comments History",module,Magento_Sales
-"Order History","Order History",module,Magento_Sales
-Information,Information,module,Magento_Sales
-"Order Information","Order Information",module,Magento_Sales
-"Order Invoices","Order Invoices",module,Magento_Sales
-Shipments,Shipments,module,Magento_Sales
-"Order Shipments","Order Shipments",module,Magento_Sales
-Transactions,Transactions,module,Magento_Sales
-"Order View","Order View",module,Magento_Sales
-Any,Any,module,Magento_Sales
-Specified,Specified,module,Magento_Sales
-"Applies to Any of the Specified Order Statuses except canceled orders","Applies to Any of the Specified Order Statuses except canceled orders",module,Magento_Sales
-"Cart Price Rule","Cart Price Rule",module,Magento_Sales
-Yes,Yes,module,Magento_Sales
-No,No,module,Magento_Sales
-"Show Actual Values","Show Actual Values",module,Magento_Sales
-"New Order RSS","New Order RSS",module,Magento_Sales
-Subtotal,Subtotal,module,Magento_Sales
-"Shipping & Handling","Shipping & Handling",module,Magento_Sales
-"Discount (%1)","Discount (%1)",module,Magento_Sales
-Discount,Discount,module,Magento_Sales
-"Grand Total","Grand Total",module,Magento_Sales
-Back,Back,module,Magento_Sales
-Fetch,Fetch,module,Magento_Sales
-"Transaction # %1 | %2","Transaction # %1 | %2",module,Magento_Sales
+"Refund Shipping (Incl. Tax)","送貨退款（含稅）",module,Magento_Sales
+"Refund Shipping (Excl. Tax)","送貨退款（不含稅）",module,Magento_Sales
+"Refund Shipping","送貨退款",module,Magento_Sales
+"Update Qty's","更新數量",module,Magento_Sales
+Refund,退款,module,Magento_Sales
+"Refund Offline","離線退款",module,Magento_Sales
+"Paid Amount","已付金額",module,Magento_Sales
+"Refund Amount","退款金額",module,Magento_Sales
+"Shipping Amount","送貨金額",module,Magento_Sales
+"Shipping Refund","送貨退款",module,Magento_Sales
+"Order Grand Total","訂單總計",module,Magento_Sales
+"Adjustment Refund","調整退款",module,Magento_Sales
+"Adjustment Fee","調整收費",module,Magento_Sales
+"Send Email","發電子郵件",module,Magento_Sales
+"Are you sure you want to send a credit memo email to customer?","你確定你要發送一個貸項通知電子郵件給客戶?",module,Magento_Sales
+Void,廢止,module,Magento_Sales
+Print,打印,module,Magento_Sales
+"The credit memo email was sent.","貸項通知電子郵件已發送.",module,Magento_Sales
+"The credit memo email wasn't sent.","貸項通知電子郵件沒有發送.",module,Magento_Sales
+"Credit Memo #%1 | %3 | %2 (%4)","貸項通知 #%1 | %3 | %2 (%4)",module,Magento_Sales
+"Total Refund","總退款",module,Magento_Sales
+"New Invoice and Shipment for Order #%1","新建發票和送貨至訂單 #%1",module,Magento_Sales
+"New Invoice for Order #%1","新建發票至訂單 #%1",module,Magento_Sales
+"Submit Invoice and Shipment","提交發票和裝運",module,Magento_Sales
+"Submit Invoice","提交發票",module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?","你確定要發送發票電子郵件給客戶?",module,Magento_Sales
+"Credit Memo","貸項通知單",module,Magento_Sales
+Capture,捕捉,module,Magento_Sales
+"The invoice email was sent.","發票電子郵件已發送.",module,Magento_Sales
+"The invoice email wasn't sent.","發票電子郵件沒有發送.",module,Magento_Sales
+"Invoice #%1 | %2 | %4 (%3)","發票 #%1 | %2 | %4 (%3)",module,Magento_Sales
+"Invalid parent block for this block","該塊的母塊無效",module,Magento_Sales
+"Order Statuses","訂單狀態",module,Magento_Sales
+"Create New Status","創建新的狀態",module,Magento_Sales
+"Assign Status to State","指配狀態至狀況",module,Magento_Sales
+"Save Status Assignment","保存狀態分配",module,Magento_Sales
+"Assign Order Status to State","指配訂單狀態至狀況",module,Magento_Sales
+"Assignment Information","分配信息",module,Magento_Sales
+"Order Status","訂單狀態",module,Magento_Sales
+"Order State","訂單狀況",module,Magento_Sales
+"Use Order Status As Default","使用訂單狀態為默認值",module,Magento_Sales
+"Visible On Storefront","在店面中可見",module,Magento_Sales
+"Edit Order Status","編輯訂單狀態",module,Magento_Sales
+"Save Status","保存狀態",module,Magento_Sales
+"New Order Status","新的訂單狀態",module,Magento_Sales
+"Order Status Information","訂單狀態信息",module,Magento_Sales
+"Status Code","狀態代碼",module,Magento_Sales
+"Status Label","狀態標籤",module,Magento_Sales
+"Store View Specific Labels","商店視圖特定標籤",module,Magento_Sales
+"Total Paid","支付總額",module,Magento_Sales
+"Total Refunded","共退還",module,Magento_Sales
+"Total Due","總應得",module,Magento_Sales
+Edit,編輯,module,Magento_Sales
+"Are you sure you want to send an order email to customer?","你確定要發送訂單電子郵件給客戶?",module,Magento_Sales
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","這將創建一個離線退款。要創建一個在線退款，開一張發票，並為它創建貸項通知單。 你想繼續嗎?",module,Magento_Sales
+"Are you sure you want to void the payment?","您確定要作廢付款?",module,Magento_Sales
+Hold,保留,module,Magento_Sales
+hold,保留,module,Magento_Sales
+Unhold,恢復,module,Magento_Sales
+unhold,恢復,module,Magento_Sales
+"Are you sure you want to accept this payment?","您確定要接受此付款?",module,Magento_Sales
+"Accept Payment","接受支付",module,Magento_Sales
+"Are you sure you want to deny this payment?","您確定要拒絕此付款?",module,Magento_Sales
+"Deny Payment","拒絕付款",module,Magento_Sales
+"Get Payment Update","獲取付款更新",module,Magento_Sales
+"Invoice and Ship","發票和送貨",module,Magento_Sales
+Invoice,發票,module,Magento_Sales
+Ship,送貨,module,Magento_Sales
+Reorder,重新訂購,module,Magento_Sales
+"Order # %1 %2 | %3","訂單 # %1 %2 | %3",module,Magento_Sales
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","此訂單包含 (%1) 的項目，因此無法通過管理界面進行編輯. 如果您想繼續編輯，在 (%2) 的項目將被刪除，訂單將被取消，新的訂單將被放置.",module,Magento_Sales
+"Are you sure? This order will be canceled and a new one will be created instead.","你確定？該訂單將被取消，新的一個將被轉而創建.",module,Magento_Sales
+"Save Gift Message","保存禮品消息",module,Magento_Sales
+" [deleted]"," [已刪除]",module,Magento_Sales
+"Order Credit Memos","訂單貸項通知單",module,Magento_Sales
+"Credit memo #%1 created","貸項通知單 #%1 已創建",module,Magento_Sales
+"Credit memo #%1 comment added","貸項通知單 #%1 意見已添加",module,Magento_Sales
+"Shipment #%1 created","送貨 #%1 已創建",module,Magento_Sales
+"Shipment #%1 comment added","送貨 #%1 意見已添加",module,Magento_Sales
+"Invoice #%1 created","發票 #%1 已創建",module,Magento_Sales
+"Invoice #%1 comment added","發票 #%1 意見已添加",module,Magento_Sales
+"Tracking number %1 for %2 assigned","追踪號碼 %1 至 %2 已被指配",module,Magento_Sales
+"Comments History","評論歷史",module,Magento_Sales
+"Order History","訂單歷史",module,Magento_Sales
+Information,信息,module,Magento_Sales
+"Order Information","訂單信息",module,Magento_Sales
+"Order Invoices","訂單發票",module,Magento_Sales
+Shipments,送貨,module,Magento_Sales
+"Order Shipments","訂單送貨",module,Magento_Sales
+Transactions,交易,module,Magento_Sales
+"Order View","訂單視圖",module,Magento_Sales
+Any,任何,module,Magento_Sales
+Specified,指定,module,Magento_Sales
+"Applies to Any of the Specified Order Statuses except canceled orders","適用於任何指定的訂單狀態，除了取消的訂單",module,Magento_Sales
+"Cart Price Rule","購物車價格規則",module,Magento_Sales
+Yes,是,module,Magento_Sales
+No,否,module,Magento_Sales
+"Show Actual Values","顯示實際值",module,Magento_Sales
+"New Order RSS","新訂單 RSS",module,Magento_Sales
+Subtotal,小計,module,Magento_Sales
+"Shipping & Handling","運費和手續費",module,Magento_Sales
+"Discount (%1)","折扣 (%1)",module,Magento_Sales
+Discount,折扣,module,Magento_Sales
+"Grand Total","累計",module,Magento_Sales
+Back,返回,module,Magento_Sales
+Fetch,取,module,Magento_Sales
+"Transaction # %1 | %2","交易 # %1 | %2",module,Magento_Sales
 N/A,N/A,module,Magento_Sales
 Key,Key,module,Magento_Sales
 Value,Value,module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
-"Order # %1","Order # %1",module,Magento_Sales
-"Back to My Orders","Back to My Orders",module,Magento_Sales
-"View Another Order","View Another Order",module,Magento_Sales
-"About Your Refund","About Your Refund",module,Magento_Sales
-"My Orders","My Orders",module,Magento_Sales
-"Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
-"About Your Invoice","About Your Invoice",module,Magento_Sales
-"Print Order # %1","Print Order # %1",module,Magento_Sales
-"Grand Total to be Charged","Grand Total to be Charged",module,Magento_Sales
-Unassign,Unassign,module,Magento_Sales
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Sales
-"You sent the message.","You sent the message.",module,Magento_Sales
-Sales,Sales,module,Magento_Sales
-"This order no longer exists.","This order no longer exists.",module,Magento_Sales
-"Please enter a comment.","Please enter a comment.",module,Magento_Sales
-"We cannot add order history.","We cannot add order history.",module,Magento_Sales
-"You updated the order address.","You updated the order address.",module,Magento_Sales
-"We can't update the order address right now.","We can't update the order address right now.",module,Magento_Sales
-"You have not canceled the item.","You have not canceled the item.",module,Magento_Sales
-"You canceled the order.","You canceled the order.",module,Magento_Sales
-"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" coupon code was not applied. Do not apply discount is selected for item(s)",module,Magento_Sales
-"""%1"" coupon code is not valid.","""%1"" coupon code is not valid.",module,Magento_Sales
-"The coupon code has been accepted.","The coupon code has been accepted.",module,Magento_Sales
-"Quote item id is not received.","Quote item id is not received.",module,Magento_Sales
-"Quote item is not loaded.","Quote item is not loaded.",module,Magento_Sales
-"New Order","New Order",module,Magento_Sales
-"You created the order.","You created the order.",module,Magento_Sales
-"Order saving error: %1","Order saving error: %1",module,Magento_Sales
-"Cannot add new comment.","Cannot add new comment.",module,Magento_Sales
-"The credit memo has been canceled.","The credit memo has been canceled.",module,Magento_Sales
-"Credit memo has not been canceled.","Credit memo has not been canceled.",module,Magento_Sales
-"New Memo for #%1","New Memo for #%1",module,Magento_Sales
-"New Memo","New Memo",module,Magento_Sales
-"The credit memo's total must be positive.","The credit memo's total must be positive.",module,Magento_Sales
-"Cannot create online refund for Refund to Store Credit.","Cannot create online refund for Refund to Store Credit.",module,Magento_Sales
-"You created the credit memo.","You created the credit memo.",module,Magento_Sales
-"We can't save the credit memo right now.","We can't save the credit memo right now.",module,Magento_Sales
-"We can't update the item's quantity right now.","We can't update the item's quantity right now.",module,Magento_Sales
-"View Memo for #%1","View Memo for #%1",module,Magento_Sales
-"View Memo","View Memo",module,Magento_Sales
-"You voided the credit memo.","You voided the credit memo.",module,Magento_Sales
-"We can't void the credit memo.","We can't void the credit memo.",module,Magento_Sales
-"The order no longer exists.","The order no longer exists.",module,Magento_Sales
-"We can't create credit memo for the order.","We can't create credit memo for the order.",module,Magento_Sales
-"Edit Order","Edit Order",module,Magento_Sales
-"You sent the order email.","You sent the order email.",module,Magento_Sales
-"We can't send the email order right now.","We can't send the email order right now.",module,Magento_Sales
-"You have not put the order on hold.","You have not put the order on hold.",module,Magento_Sales
-"You put the order on hold.","You put the order on hold.",module,Magento_Sales
-"You canceled the invoice.","You canceled the invoice.",module,Magento_Sales
-"Invoice canceling error","Invoice canceling error",module,Magento_Sales
-"The invoice has been captured.","The invoice has been captured.",module,Magento_Sales
-"Invoice capturing error","Invoice capturing error",module,Magento_Sales
-"The order does not allow an invoice to be created.","The order does not allow an invoice to be created.",module,Magento_Sales
-"You can't create an invoice without products.","You can't create an invoice without products.",module,Magento_Sales
-"New Invoice","New Invoice",module,Magento_Sales
-"We can't save the invoice right now.","We can't save the invoice right now.",module,Magento_Sales
-"The invoice and the shipment  have been created. The shipping label cannot be created now.","The invoice and the shipment  have been created. The shipping label cannot be created now.",module,Magento_Sales
-"You created the invoice and shipment.","You created the invoice and shipment.",module,Magento_Sales
-"The invoice has been created.","The invoice has been created.",module,Magento_Sales
-"We can't send the invoice email right now.","We can't send the invoice email right now.",module,Magento_Sales
-"We can't send the shipment right now.","We can't send the shipment right now.",module,Magento_Sales
-"Cannot update item quantity.","Cannot update item quantity.",module,Magento_Sales
-"The invoice has been voided.","The invoice has been voided.",module,Magento_Sales
-"Invoice voiding error","Invoice voiding error",module,Magento_Sales
-"%1 order(s) cannot be canceled.","%1 order(s) cannot be canceled.",module,Magento_Sales
-"You cannot cancel the order(s).","You cannot cancel the order(s).",module,Magento_Sales
-"We canceled %1 order(s).","We canceled %1 order(s).",module,Magento_Sales
-"%1 order(s) were not put on hold.","%1 order(s) were not put on hold.",module,Magento_Sales
-"No order(s) were put on hold.","No order(s) were put on hold.",module,Magento_Sales
-"You have put %1 order(s) on hold.","You have put %1 order(s) on hold.",module,Magento_Sales
-"%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status.",module,Magento_Sales
-"No order(s) were released from on hold status.","No order(s) were released from on hold status.",module,Magento_Sales
-"%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status.",module,Magento_Sales
-"There are no printable documents related to selected orders.","There are no printable documents related to selected orders.",module,Magento_Sales
-"The payment has been accepted.","The payment has been accepted.",module,Magento_Sales
-"The payment has been denied.","The payment has been denied.",module,Magento_Sales
-"Transaction has been approved.","Transaction has been approved.",module,Magento_Sales
-"Transaction has been voided/declined.","Transaction has been voided/declined.",module,Magento_Sales
-"There is no update for the transaction.","There is no update for the transaction.",module,Magento_Sales
-"We can't update the payment right now.","We can't update the payment right now.",module,Magento_Sales
-"You assigned the order status.","You assigned the order status.",module,Magento_Sales
-"Something went wrong while assigning the order status.","Something went wrong while assigning the order status.",module,Magento_Sales
-"We can't find this order status.","We can't find this order status.",module,Magento_Sales
-"Create New Order Status","Create New Order Status",module,Magento_Sales
-"We found another order status with the same order status code.","We found another order status with the same order status code.",module,Magento_Sales
-"You saved the order status.","You saved the order status.",module,Magento_Sales
-"We can't add the order status right now.","We can't add the order status right now.",module,Magento_Sales
-"You have unassigned the order status.","You have unassigned the order status.",module,Magento_Sales
+"Order # %1","訂購 # %1",module,Magento_Sales
+"Back to My Orders","回到我的訂單",module,Magento_Sales
+"View Another Order","查看另一訂單",module,Magento_Sales
+"About Your Refund","關於您的退款",module,Magento_Sales
+"My Orders","我的訂單",module,Magento_Sales
+"Subscribe to Order Status","訂閱我的訂單狀態",module,Magento_Sales
+"About Your Invoice","關於您的發票",module,Magento_Sales
+"Print Order # %1","打印訂單 # %1",module,Magento_Sales
+"Grand Total to be Charged","總計收費",module,Magento_Sales
+Unassign,取消分配,module,Magento_Sales
+"We can't add this item to your shopping cart right now.","我們現在無法將這個項目添加到您的購物車.",module,Magento_Sales
+"You sent the message.","您已發送消息.",module,Magento_Sales
+Sales,銷售,module,Magento_Sales
+"This order no longer exists.","該訂單已不存在.",module,Magento_Sales
+"Please enter a comment.","請輸入評論.",module,Magento_Sales
+"We cannot add order history.","我們不能添加訂單歷史記錄.",module,Magento_Sales
+"You updated the order address.","你已更新訂單地址.",module,Magento_Sales
+"We can't update the order address right now.","我們現在不能更新訂單地址.",module,Magento_Sales
+"You have not canceled the item.","您還沒有取消該項目.",module,Magento_Sales
+"You canceled the order.","您取消了訂單.",module,Magento_Sales
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" 優惠券代碼沒有被應用。不應用折扣至該項目已被選擇",module,Magento_Sales
+"""%1"" coupon code is not valid.","""%1"" 優惠券代碼無效.",module,Magento_Sales
+"The coupon code has been accepted.","優惠券代碼已被接受.",module,Magento_Sales
+"Quote item id is not received.","報價項目的ID沒有收到.",module,Magento_Sales
+"Quote item is not loaded.","報價項目沒有加載.",module,Magento_Sales
+"New Order","新訂單",module,Magento_Sales
+"You created the order.","您創建了訂單.",module,Magento_Sales
+"Order saving error: %1","保存訂單錯誤: %1",module,Magento_Sales
+"Cannot add new comment.","無法添加新評論.",module,Magento_Sales
+"The credit memo has been canceled.","該貸項通知單已被取消.",module,Magento_Sales
+"Credit memo has not been canceled.","信用備忘錄並沒有被取消.",module,Magento_Sales
+"New Memo for #%1","新備忘錄 #%1",module,Magento_Sales
+"New Memo","新備忘錄",module,Magento_Sales
+"The credit memo's total must be positive.","該貸項通知單總額必須為正.",module,Magento_Sales
+"Cannot create online refund for Refund to Store Credit.","不能為退款至商店信用額創建在線退款.",module,Magento_Sales
+"You created the credit memo.","您創建貸項通知單.",module,Magento_Sales
+"We can't save the credit memo right now.","我們現在無法保存貸項通知單.",module,Magento_Sales
+"We can't update the item's quantity right now.","我們現在無法更新項目的數量.",module,Magento_Sales
+"View Memo for #%1","查看備忘錄 #%1",module,Magento_Sales
+"View Memo","查看備忘錄",module,Magento_Sales
+"You voided the credit memo.","你作廢貸項通知單.",module,Magento_Sales
+"We can't void the credit memo.","我們不能作廢貸項通知單.",module,Magento_Sales
+"The order no longer exists.","訂單已不存在.",module,Magento_Sales
+"We can't create credit memo for the order.","我們不能為訂單創建貸項通知單.",module,Magento_Sales
+"Edit Order","編輯訂單",module,Magento_Sales
+"You sent the order email.","您已發送訂單電子郵件.",module,Magento_Sales
+"We can't send the email order right now.","我們現在不能發送電子郵件訂單.",module,Magento_Sales
+"You have not put the order on hold.","你還沒有把訂單暫停.",module,Magento_Sales
+"You put the order on hold.","你把訂單擱置.",module,Magento_Sales
+"You canceled the invoice.","您取消了發票.",module,Magento_Sales
+"Invoice canceling error","發票取消錯誤",module,Magento_Sales
+"The invoice has been captured.","發票已被抓獲.",module,Magento_Sales
+"Invoice capturing error","發票捕獲錯誤",module,Magento_Sales
+"The order does not allow an invoice to be created.","訂單不允許創建發票.",module,Magento_Sales
+"You can't create an invoice without products.","您不能創建無產品的發票.",module,Magento_Sales
+"New Invoice","新發票",module,Magento_Sales
+"We can't save the invoice right now.","我們現在不能保存發票.",module,Magento_Sales
+"The invoice and the shipment  have been created. The shipping label cannot be created now.","發票和發貨已經建立。運輸標籤現在不能創建.",module,Magento_Sales
+"You created the invoice and shipment.","您創建了發票和裝運.",module,Magento_Sales
+"The invoice has been created.","該發票已創建.",module,Magento_Sales
+"We can't send the invoice email right now.","我們現在不能發送電子郵件發票.",module,Magento_Sales
+"We can't send the shipment right now.","我們現在不能發送貨物.",module,Magento_Sales
+"Cannot update item quantity.","無法更新項目數量.",module,Magento_Sales
+"The invoice has been voided.","該發票已作廢.",module,Magento_Sales
+"Invoice voiding error","發票作廢錯誤",module,Magento_Sales
+"%1 order(s) cannot be canceled.","%1 訂單不能被取消.",module,Magento_Sales
+"You cannot cancel the order(s).","您無法取消訂單.",module,Magento_Sales
+"We canceled %1 order(s).","我們取消了 %1 訂單.",module,Magento_Sales
+"%1 order(s) were not put on hold.","%1 訂單沒有被擱置.",module,Magento_Sales
+"No order(s) were put on hold.","沒有訂單被擱置.",module,Magento_Sales
+"You have put %1 order(s) on hold.","您已暫時擱置 %1 訂單.",module,Magento_Sales
+"%1 order(s) were not released from on hold status.","%1 訂單沒有從擱置狀態中釋放.",module,Magento_Sales
+"No order(s) were released from on hold status.","沒有訂單從暫停狀態中釋放.",module,Magento_Sales
+"%1 order(s) have been released from on hold status.","%1 訂單已經從擱置狀態的釋放.",module,Magento_Sales
+"There are no printable documents related to selected orders.","所選訂單沒有相關的可打印文檔.",module,Magento_Sales
+"The payment has been accepted.","付款已被接受.",module,Magento_Sales
+"The payment has been denied.","付款已被拒絕.",module,Magento_Sales
+"Transaction has been approved.","交易已經獲得批准.",module,Magento_Sales
+"Transaction has been voided/declined.","交易已經作廢/拒絕.",module,Magento_Sales
+"There is no update for the transaction.","交易沒有更新.",module,Magento_Sales
+"We can't update the payment right now.","我們現在無法更新付款.",module,Magento_Sales
+"You assigned the order status.","您指配了訂單狀態.",module,Magento_Sales
+"Something went wrong while assigning the order status.","指配訂單狀態時出了錯.",module,Magento_Sales
+"We can't find this order status.","我們無法找到該訂單狀態.",module,Magento_Sales
+"Create New Order Status","創建新的訂單狀態",module,Magento_Sales
+"We found another order status with the same order status code.","我們發現另一個訂單狀態使用相同的訂單狀態代碼.",module,Magento_Sales
+"You saved the order status.","你保存了訂單狀態.",module,Magento_Sales
+"We can't add the order status right now.","我們現在不能添加訂單狀態.",module,Magento_Sales
+"You have unassigned the order status.","您已取消指配訂單狀態.",module,Magento_Sales
 "Something went wrong while unassigning the order.","Something went wrong while unassigning the order.",module,Magento_Sales
 "Can't unhold order.","Can't unhold order.",module,Magento_Sales
 "You released the order from holding status.","You released the order from holding status.",module,Magento_Sales
