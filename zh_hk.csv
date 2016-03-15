@@ -4498,210 +4498,206 @@ Sales,銷售,module,Magento_Sales
 "You saved the order status.","你保存了訂單狀態.",module,Magento_Sales
 "We can't add the order status right now.","我們現在不能添加訂單狀態.",module,Magento_Sales
 "You have unassigned the order status.","您已取消指配訂單狀態.",module,Magento_Sales
-"Something went wrong while unassigning the order.","Something went wrong while unassigning the order.",module,Magento_Sales
-"Can't unhold order.","Can't unhold order.",module,Magento_Sales
-"You released the order from holding status.","You released the order from holding status.",module,Magento_Sales
-"The order was not on hold.","The order was not on hold.",module,Magento_Sales
-"Exception occurred during order load","Exception occurred during order load",module,Magento_Sales
-"Something went wrong while saving the gift message.","Something went wrong while saving the gift message.",module,Magento_Sales
-"You saved the gift card message.","You saved the gift card message.",module,Magento_Sales
-"The payment has been voided.","The payment has been voided.",module,Magento_Sales
-"We can't void the payment right now.","We can't void the payment right now.",module,Magento_Sales
-"Please correct the transaction ID and try again.","Please correct the transaction ID and try again.",module,Magento_Sales
-"The transaction details have been updated.","The transaction details have been updated.",module,Magento_Sales
-"We can't update the transaction details.","We can't update the transaction details.",module,Magento_Sales
-"Orders and Returns","Orders and Returns",module,Magento_Sales
-"You entered incorrect data. Please try again.","You entered incorrect data. Please try again.",module,Magento_Sales
-Home,Home,module,Magento_Sales
-"Go to Home Page","Go to Home Page",module,Magento_Sales
-"We can't find this wish list.","We can't find this wish list.",module,Magento_Sales
-"We could not add a product to cart by the ID ""%1"".","We could not add a product to cart by the ID ""%1"".",module,Magento_Sales
-"There is an error in one of the option rows.","There is an error in one of the option rows.",module,Magento_Sales
-"Shipping Address: ","Shipping Address: ",module,Magento_Sales
-"Billing Address: ","Billing Address: ",module,Magento_Sales
-"Please specify order items.","Please specify order items.",module,Magento_Sales
-"Please specify a shipping method.","Please specify a shipping method.",module,Magento_Sales
-"Please specify a payment method.","Please specify a payment method.",module,Magento_Sales
-"This payment method is not available.","This payment method is not available.",module,Magento_Sales
-"Validation is failed.","Validation is failed.",module,Magento_Sales
-"You did not email your customer. Please check your email settings.","You did not email your customer. Please check your email settings.",module,Magento_Sales
-"Path ""%1"" is not part of allowed directory ""%2""","Path ""%1"" is not part of allowed directory ""%2""",module,Magento_Sales
-"Identifying Fields required","Identifying Fields required",module,Magento_Sales
-"Id required","Id required",module,Magento_Sales
-"A hold action is not available.","A hold action is not available.",module,Magento_Sales
-"You cannot remove the hold.","You cannot remove the hold.",module,Magento_Sales
-"We cannot cancel this order.","We cannot cancel this order.",module,Magento_Sales
-Guest,Guest,module,Magento_Sales
-"Please enter the first name.","Please enter the first name.",module,Magento_Sales
-"Please enter the last name.","Please enter the last name.",module,Magento_Sales
-"Please enter the street.","Please enter the street.",module,Magento_Sales
-"Please enter the city.","Please enter the city.",module,Magento_Sales
-"Please enter the phone number.","Please enter the phone number.",module,Magento_Sales
-"Please enter the zip/postal code.","Please enter the zip/postal code.",module,Magento_Sales
-"Please enter the country.","Please enter the country.",module,Magento_Sales
-"Please enter the state/province.","Please enter the state/province.",module,Magento_Sales
-"Requested entity doesn't exist","Requested entity doesn't exist",module,Magento_Sales
-"Could not delete order address","Could not delete order address",module,Magento_Sales
-"Could not save order address","Could not save order address",module,Magento_Sales
-Pending,Pending,module,Magento_Sales
-Refunded,Refunded,module,Magento_Sales
-Canceled,Canceled,module,Magento_Sales
-"Unknown State","Unknown State",module,Magento_Sales
-"We found an invalid quantity to refund item ""%1"".","We found an invalid quantity to refund item ""%1"".",module,Magento_Sales
-"Maximum shipping amount allowed to refund is: %1","Maximum shipping amount allowed to refund is: %1",module,Magento_Sales
-"Could not delete credit memo","Could not delete credit memo",module,Magento_Sales
-"Could not save credit memo","Could not save credit memo",module,Magento_Sales
-"This order already has associated customer account","This order already has associated customer account",module,Magento_Sales
-Paid,Paid,module,Magento_Sales
-"We cannot register an existing invoice","We cannot register an existing invoice",module,Magento_Sales
-"ID required","ID required",module,Magento_Sales
-"Unknown Status","Unknown Status",module,Magento_Sales
-Ordered,Ordered,module,Magento_Sales
-Shipped,Shipped,module,Magento_Sales
-Invoiced,Invoiced,module,Magento_Sales
-Backordered,Backordered,module,Magento_Sales
-Returned,Returned,module,Magento_Sales
-Partial,Partial,module,Magento_Sales
-Mixed,Mixed,module,Magento_Sales
-"Registered a Void notification.","Registered a Void notification.",module,Magento_Sales
-"If the invoice was created offline, try creating an offline credit memo.","If the invoice was created offline, try creating an offline credit memo.",module,Magento_Sales
-"We refunded %1 online.","We refunded %1 online.",module,Magento_Sales
-"We refunded %1 offline.","We refunded %1 offline.",module,Magento_Sales
+"Something went wrong while unassigning the order.","取消指配訂單時出了錯",module,Magento_Sales
+"Can't unhold order.","無法取消保留訂單.",module,Magento_Sales
+"You released the order from holding status.","您已從保留狀態釋放了訂單.",module,Magento_Sales
+"The order was not on hold.","該訂單是不是擱置.",module,Magento_Sales
+"Exception occurred during order load","訂單裝載過程中發生異常",module,Magento_Sales
+"Something went wrong while saving the gift message.","保存禮品消息時出了錯.",module,Magento_Sales
+"You saved the gift card message.","您保存了禮品卡信息.",module,Magento_Sales
+"The payment has been voided.","該付款已作廢.",module,Magento_Sales
+"We can't void the payment right now.","我們現在不能作廢付款.",module,Magento_Sales
+"Please correct the transaction ID and try again.","請更正交易ID，然後再試一次.",module,Magento_Sales
+"The transaction details have been updated.","該交易細節已更新.",module,Magento_Sales
+"We can't update the transaction details.","我們不能更新交易明細.",module,Magento_Sales
+"Orders and Returns","訂單和退貨",module,Magento_Sales
+"You entered incorrect data. Please try again.","您輸入不正確的數據。 請再試一次.",module,Magento_Sales
+Home,主頁,module,Magento_Sales
+"Go to Home Page","去首頁",module,Magento_Sales
+"We can't find this wish list.","我們找不到這個願望清單.",module,Magento_Sales
+"We could not add a product to cart by the ID ""%1"".","我們不能將產品ID ""%1"" 添加到購物車.",module,Magento_Sales
+"There is an error in one of the option rows.","在一個選項的行中有錯誤.",module,Magento_Sales
+"Shipping Address: ","送貨地址: ",module,Magento_Sales
+"Billing Address: ","帳單地址: ",module,Magento_Sales
+"Please specify order items.","請註明訂單項目.",module,Magento_Sales
+"Please specify a shipping method.","請指定送貨方式.",module,Magento_Sales
+"Please specify a payment method.","請指定付款方式.",module,Magento_Sales
+"This payment method is not available.","這種付款方式不可用.",module,Magento_Sales
+"Validation is failed.","驗證失敗.",module,Magento_Sales
+"You did not email your customer. Please check your email settings.","你沒有發電子郵件給客戶。請檢查您的電子郵件設置.",module,Magento_Sales
+"Path ""%1"" is not part of allowed directory ""%2""","路徑 ""%1"" 是不允許的目錄的一部分 ""%2""",module,Magento_Sales
+"Identifying Fields required","需要識別欄",module,Magento_Sales
+"Id required","Id 是必須的",module,Magento_Sales
+"A hold action is not available.","一個保留操作不可用.",module,Magento_Sales
+"You cannot remove the hold.","不能刪除保留.",module,Magento_Sales
+"We cannot cancel this order.","我們無法取消該訂單.",module,Magento_Sales
+Guest,來賓,module,Magento_Sales
+"Please enter the first name.","請輸入名字.",module,Magento_Sales
+"Please enter the last name.","請輸入姓氏.",module,Magento_Sales
+"Please enter the street.","請輸入街道.",module,Magento_Sales
+"Please enter the city.","請輸入城市.",module,Magento_Sales
+"Please enter the phone number.","請輸入電話號碼.",module,Magento_Sales
+"Please enter the zip/postal code.","請輸入郵編/郵政編碼.",module,Magento_Sales
+"Please enter the country.","請進入國家.",module,Magento_Sales
+"Please enter the state/province.","請輸入州/省.",module,Magento_Sales
+"Requested entity doesn't exist","請求實體不存在",module,Magento_Sales
+"Could not delete order address","無法刪除訂單地址",module,Magento_Sales
+"Could not save order address","無法保存訂單地址",module,Magento_Sales
+Pending,等待,module,Magento_Sales
+Refunded,退款,module,Magento_Sales
+Canceled,取消,module,Magento_Sales
+"Unknown State","未知狀態",module,Magento_Sales
+"We found an invalid quantity to refund item ""%1"".","我們發現一個退還項目 ""%1"" 的數量無效.",module,Magento_Sales
+"Maximum shipping amount allowed to refund is: %1","允許退還最大送貨款項: %1",module,Magento_Sales
+"Could not delete credit memo","無法刪除貸項通知單",module,Magento_Sales
+"Could not save credit memo","無法保存貸項通知單",module,Magento_Sales
+"This order already has associated customer account","該訂單已經有了相關的客戶賬戶",module,Magento_Sales
+Paid,付費,module,Magento_Sales
+"We cannot register an existing invoice","我們不能註冊現有發票",module,Magento_Sales
+"ID required","ID 是必須的",module,Magento_Sales
+"Unknown Status","未知狀態",module,Magento_Sales
+Ordered,已訂購,module,Magento_Sales
+Shipped,已送貨,module,Magento_Sales
+Invoiced,已開發票,module,Magento_Sales
+Backordered,已預訂,module,Magento_Sales
+Returned,已退回,module,Magento_Sales
+Partial,部分,module,Magento_Sales
+Mixed,混合,module,Magento_Sales
+"Registered a Void notification.","註冊作廢通知.",module,Magento_Sales
+"If the invoice was created offline, try creating an offline credit memo.","如果發票是離線創建的，請嘗試創建一個離線貸項通知單.",module,Magento_Sales
+"We refunded %1 online.","我們已在線上退還 %1.",module,Magento_Sales
+"We refunded %1 offline.","我們已離線退還 %1.",module,Magento_Sales
 "IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.",module,Magento_Sales
-"The credit memo has been created automatically.","The credit memo has been created automatically.",module,Magento_Sales
-"Registered notification about refunded amount of %1.","Registered notification about refunded amount of %1.",module,Magento_Sales
-"Canceled order online","Canceled order online",module,Magento_Sales
-"Canceled order offline","Canceled order offline",module,Magento_Sales
-"Approved the payment online.","Approved the payment online.",module,Magento_Sales
-"There is no need to approve this payment.","There is no need to approve this payment.",module,Magento_Sales
-"Denied the payment online","Denied the payment online",module,Magento_Sales
-"Registered update about approved payment.","Registered update about approved payment.",module,Magento_Sales
-"Registered update about denied payment.","Registered update about denied payment.",module,Magento_Sales
-"There is no update for the payment.","There is no update for the payment.",module,Magento_Sales
-"Voided authorization.","Voided authorization.",module,Magento_Sales
-"Amount: %1.","Amount: %1.",module,Magento_Sales
-"Transaction ID: ""%1""","Transaction ID: ""%1""",module,Magento_Sales
-"The payment method you requested is not available.","The payment method you requested is not available.",module,Magento_Sales
-"The payment disallows storing objects.","The payment disallows storing objects.",module,Magento_Sales
-"The transaction ""%1"" cannot be captured yet.","The transaction ""%1"" cannot be captured yet.",module,Magento_Sales
-"We will authorize %1 after the payment is approved at the payment gateway.","We will authorize %1 after the payment is approved at the payment gateway.",module,Magento_Sales
+"The credit memo has been created automatically.","該貸項通知單已自動創建.",module,Magento_Sales
+"Registered notification about refunded amount of %1.","已註冊關於退款金額 %1 的通知.",module,Magento_Sales
+"Canceled order online","在線取消訂單",module,Magento_Sales
+"Canceled order offline","離線取消訂單",module,Magento_Sales
+"Approved the payment online.","在線批准了支付.",module,Magento_Sales
+"There is no need to approve this payment.","沒有必要批准此付款.",module,Magento_Sales
+"Denied the payment online","拒絕了網上支付",module,Magento_Sales
+"Registered update about approved payment.","已註冊批准支付的更新.",module,Magento_Sales
+"Registered update about denied payment.","已註冊拒絕支付的更新.",module,Magento_Sales
+"There is no update for the payment.","該支付沒有更新.",module,Magento_Sales
+"Voided authorization.","授權已作廢.",module,Magento_Sales
+"Amount: %1.","金額: %1.",module,Magento_Sales
+"Transaction ID: ""%1""","交易 ID: ""%1""",module,Magento_Sales
+"The payment method you requested is not available.","您要求的付款方式不可用.",module,Magento_Sales
+"The payment disallows storing objects.","支付不允許存儲對象.",module,Magento_Sales
+"The transaction ""%1"" cannot be captured yet.","交易 ""%1"" 目前還無法捕獲.",module,Magento_Sales
+"We will authorize %1 after the payment is approved at the payment gateway.","我們將授權 %1 ，當支付獲得支付網關的批准後.",module,Magento_Sales
 "Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Order is suspended as its authorizing amount %1 is suspected to be fraudulent.",module,Magento_Sales
-"Authorized amount of %1","Authorized amount of %1",module,Magento_Sales
-"An amount of %1 will be captured after being approved at the payment gateway.","An amount of %1 will be captured after being approved at the payment gateway.",module,Magento_Sales
-"Captured amount of %1 online","Captured amount of %1 online",module,Magento_Sales
-"The order amount of %1 is pending approval on the payment gateway.","The order amount of %1 is pending approval on the payment gateway.",module,Magento_Sales
-"Ordered amount of %1","Ordered amount of %1",module,Magento_Sales
-"Registered notification about captured amount of %1.","Registered notification about captured amount of %1.",module,Magento_Sales
+"Authorized amount of %1","授權金額 %1",module,Magento_Sales
+"An amount of %1 will be captured after being approved at the payment gateway.","%1 的金額將在支付網關批准後被捕獲.",module,Magento_Sales
+"Captured amount of %1 online","在線捕獲金額 %1",module,Magento_Sales
+"The order amount of %1 is pending approval on the payment gateway.","%1 的訂單金額正在等待支付網關批准.",module,Magento_Sales
+"Ordered amount of %1","訂購金額 %1",module,Magento_Sales
+"Registered notification about captured amount of %1.","有關捕獲金額 %1 的註冊通知.",module,Magento_Sales
 "Order is suspended as its capture amount %1 is suspected to be fraudulent.","Order is suspended as its capture amount %1 is suspected to be fraudulent.",module,Magento_Sales
 "The parent transaction ID must have a transaction ID.","The parent transaction ID must have a transaction ID.",module,Magento_Sales
 "Payment transactions disallow storing objects.","Payment transactions disallow storing objects.",module,Magento_Sales
-"The transaction ""%1"" (%2) is already closed.","The transaction ""%1"" (%2) is already closed.",module,Magento_Sales
-"Set order for existing transactions not allowed","Set order for existing transactions not allowed",module,Magento_Sales
+"The transaction ""%1"" (%2) is already closed.","交易 ""%1"" (%2) 已關閉.",module,Magento_Sales
+"Set order for existing transactions not allowed","設定訂單至現有交易不允許",module,Magento_Sales
 "At minimum, you need to set a payment ID.","At minimum, you need to set a payment ID.",module,Magento_Sales
-Order,Order,module,Magento_Sales
-Authorization,Authorization,module,Magento_Sales
-"We found an unsupported transaction type ""%1"".","We found an unsupported transaction type ""%1"".",module,Magento_Sales
-"Please set a proper payment and order id.","Please set a proper payment and order id.",module,Magento_Sales
-"Please enter a Transaction ID.","Please enter a Transaction ID.",module,Magento_Sales
+Order,訂購,module,Magento_Sales
+Authorization,授權,module,Magento_Sales
+"We found an unsupported transaction type ""%1"".","我們發現不支持的交易類型 ""%1"".",module,Magento_Sales
+"Please set a proper payment and order id.","請設置一個適當的支付和訂單ID.",module,Magento_Sales
+"Please enter a Transaction ID.","請輸入交易編號.",module,Magento_Sales
 "You can't do this without a transaction object.","You can't do this without a transaction object.",module,Magento_Sales
-"Order # ","Order # ",module,Magento_Sales
-"Order Date: ","Order Date: ",module,Magento_Sales
-"Sold to:","Sold to:",module,Magento_Sales
-"Ship to:","Ship to:",module,Magento_Sales
-"Payment Method:","Payment Method:",module,Magento_Sales
-"Shipping Method:","Shipping Method:",module,Magento_Sales
-"Total Shipping Charges","Total Shipping Charges",module,Magento_Sales
-Title,Title,module,Magento_Sales
-Number,Number,module,Magento_Sales
+"Order # ","訂單 # ",module,Magento_Sales
+"Order Date: ","訂單日期: ",module,Magento_Sales
+"Sold to:","賣給:",module,Magento_Sales
+"Ship to:","運送到:",module,Magento_Sales
+"Payment Method:","付款方法:",module,Magento_Sales
+"Shipping Method:","送貨方式:",module,Magento_Sales
+"Total Shipping Charges","總運費",module,Magento_Sales
+Title,標題,module,Magento_Sales
+Number,數字,module,Magento_Sales
 "We found an invalid renderer model.","We found an invalid renderer model.",module,Magento_Sales
 "Please define the PDF object before using.","Please define the PDF object before using.",module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array.",module,Magento_Sales
-Products,Products,module,Magento_Sales
-"Total (ex)","Total (ex)",module,Magento_Sales
-Qty,Qty,module,Magento_Sales
-Tax,Tax,module,Magento_Sales
-"Total (inc)","Total (inc)",module,Magento_Sales
-"Credit Memo # ","Credit Memo # ",module,Magento_Sales
-"Invoice # ","Invoice # ",module,Magento_Sales
+Products,產品,module,Magento_Sales
+"Total (ex)","總共 (ex)",module,Magento_Sales
+Qty,數量,module,Magento_Sales
+Tax,稅,module,Magento_Sales
+"Total (inc)","總共 (inc)",module,Magento_Sales
+"Credit Memo # ","貸項通知單 # ",module,Magento_Sales
+"Invoice # ","發票 # ",module,Magento_Sales
 "The order object is not specified.","The order object is not specified.",module,Magento_Sales
 "The source object is not specified.","The source object is not specified.",module,Magento_Sales
 "An item object is not specified.","An item object is not specified.",module,Magento_Sales
 "A PDF object is not specified.","A PDF object is not specified.",module,Magento_Sales
 "A PDF page object is not specified.","A PDF page object is not specified.",module,Magento_Sales
-"Excl. Tax","Excl. Tax",module,Magento_Sales
-"Incl. Tax","Incl. Tax",module,Magento_Sales
-"Packing Slip # ","Packing Slip # ",module,Magento_Sales
-title,title,module,Magento_Sales
+"Excl. Tax","不含稅",module,Magento_Sales
+"Incl. Tax","含稅",module,Magento_Sales
+"Packing Slip # ","裝箱單 # ",module,Magento_Sales
+title,標題,module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
-"We cannot register an existing shipment","We cannot register an existing shipment",module,Magento_Sales
-"We found an invalid quantity to ship for item ""%1"".","We found an invalid quantity to ship for item ""%1"".",module,Magento_Sales
-"Please enter a tracking number.","Please enter a tracking number.",module,Magento_Sales
-"Could not delete shipment","Could not delete shipment",module,Magento_Sales
-"Could not save shipment","Could not save shipment",module,Magento_Sales
+"We cannot register an existing shipment","我們不能註冊現有裝運",module,Magento_Sales
+"We found an invalid quantity to ship for item ""%1"".","我們發現一個項目 ""%1"" 有無效的出貨數量.",module,Magento_Sales
+"Please enter a tracking number.","請輸入追蹤號碼.",module,Magento_Sales
+"Could not delete shipment","無法刪除裝運",module,Magento_Sales
+"Could not save shipment","無法保存發貨",module,Magento_Sales
 "The last status can't be unassigned from its current state.","The last status can't be unassigned from its current state.",module,Magento_Sales
 "Status can't be unassigned, because it is used by existing order(s).","Status can't be unassigned, because it is used by existing order(s).",module,Magento_Sales
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.",module,Magento_Sales
 "We cannot determine the field name.","We cannot determine the field name.",module,Magento_Sales
-City,City,module,Magento_Sales
-Company,Company,module,Magento_Sales
-Country,Country,module,Magento_Sales
-Email,Email,module,Magento_Sales
-"First Name","First Name",module,Magento_Sales
-"Last Name","Last Name",module,Magento_Sales
-State/Province,State/Province,module,Magento_Sales
-"Street Address","Street Address",module,Magento_Sales
-"Phone Number","Phone Number",module,Magento_Sales
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Sales
-"We can\'t save the address:\n%1","We can\'t save the address:\n%1",module,Magento_Sales
-"Cannot save comment:
-%1","Cannot save comment:
-%1",module,Magento_Sales
+City,城市,module,Magento_Sales
+Company,公司,module,Magento_Sales
+Country,國家,module,Magento_Sales
+Email,電子郵件,module,Magento_Sales
+"First Name","名字",module,Magento_Sales
+"Last Name","姓",module,Magento_Sales
+State/Province,州/省,module,Magento_Sales
+"Street Address","街道地址",module,Magento_Sales
+"Phone Number","電話號碼",module,Magento_Sales
+"Zip/Postal Code","郵編/郵政編碼",module,Magento_Sales
+"We can\'t save the address:\n%1","我們不能保存地址:\n%1",module,Magento_Sales
+"Cannot save comment:%1","無法保存評論:%1",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","We don't have enough information to save the parent transaction ID.",module,Magento_Sales
-"We cannot create an empty shipment.","We cannot create an empty shipment.",module,Magento_Sales
-"Cannot save track:
-%1","Cannot save track:
-%1",module,Magento_Sales
+"We cannot create an empty shipment.","我們不能創建一個空的裝運.",module,Magento_Sales
+"Cannot save track:%1","Cannot save track:%1",module,Magento_Sales
 "Cannot unassign status from state","Cannot unassign status from state",module,Magento_Sales
-"New Orders","New Orders",module,Magento_Sales
-"Order #%1 created at %2","Order #%1 created at %2",module,Magento_Sales
-"Details for %1 #%2","Details for %1 #%2",module,Magento_Sales
-"Notified Date: %1","Notified Date: %1",module,Magento_Sales
-"Comment: %1<br/>","Comment: %1<br/>",module,Magento_Sales
-"Current Status: %1<br/>","Current Status: %1<br/>",module,Magento_Sales
-"Total: %1<br/>","Total: %1<br/>",module,Magento_Sales
-"Order # %1 Notification(s)","Order # %1 Notification(s)",module,Magento_Sales
-"You can not cancel Credit Memo","You can not cancel Credit Memo",module,Magento_Sales
-"Could not cancel creditmemo","Could not cancel creditmemo",module,Magento_Sales
-"We cannot register an existing credit memo.","We cannot register an existing credit memo.",module,Magento_Sales
-"The most money available to refund is %1.","The most money available to refund is %1.",module,Magento_Sales
-"We found an invalid quantity to invoice item ""%1"".","We found an invalid quantity to invoice item ""%1"".",module,Magento_Sales
-"The Order State ""%1"" must not be set manually.","The Order State ""%1"" must not be set manually.",module,Magento_Sales
-"VAT Request Identifier","VAT Request Identifier",module,Magento_Sales
-"VAT Request Date","VAT Request Date",module,Magento_Sales
-"Pending Payment","Pending Payment",module,Magento_Sales
-Processing,Processing,module,Magento_Sales
-"On Hold","On Hold",module,Magento_Sales
-Complete,Complete,module,Magento_Sales
-Closed,Closed,module,Magento_Sales
+"New Orders","新訂單",module,Magento_Sales
+"Order #%1 created at %2","訂單 #%1 創建於 %2",module,Magento_Sales
+"Details for %1 #%2","關於 %1 #%2 的詳情",module,Magento_Sales
+"Notified Date: %1","通知日期: %1",module,Magento_Sales
+"Comment: %1<br/>","評論: %1<br/>",module,Magento_Sales
+"Current Status: %1<br/>","當前狀態: %1<br/>",module,Magento_Sales
+"Total: %1<br/>","總計: %1<br/>",module,Magento_Sales
+"Order # %1 Notification(s)","訂單 # %1 通知",module,Magento_Sales
+"You can not cancel Credit Memo","您不能取消貸項通知單",module,Magento_Sales
+"Could not cancel creditmemo","不能取消貸項通知單",module,Magento_Sales
+"We cannot register an existing credit memo.","我們無法註冊現有的貸項通知單.",module,Magento_Sales
+"The most money available to refund is %1.","可退還的金額最多是 %1.",module,Magento_Sales
+"We found an invalid quantity to invoice item ""%1"".","我們發現一個發票項目 ""%1"" 的數量無效.",module,Magento_Sales
+"The Order State ""%1"" must not be set manually.","訂單狀態 ""%1"" 不能手動設置.",module,Magento_Sales
+"VAT Request Identifier","增值稅請求標識符",module,Magento_Sales
+"VAT Request Date","增值稅請求日期",module,Magento_Sales
+"Pending Payment","待付款",module,Magento_Sales
+Processing,處理中,module,Magento_Sales
+"On Hold","等候",module,Magento_Sales
+Complete,完成,module,Magento_Sales
+Closed,關閉,module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
-"Payment Review","Payment Review",module,Magento_Sales
-New,New,module,Magento_Sales
-"test message","test message",module,Magento_Sales
-"Email has not been sent","Email has not been sent",module,Magento_Sales
-" Transaction ID: ""%1"""," Transaction ID: ""%1""",module,Magento_Sales
+"Payment Review","付款檢閱",module,Magento_Sales
+New,新增,module,Magento_Sales
+"test message","測試訊息",module,Magento_Sales
+"Email has not been sent","電子郵件尚未發送",module,Magento_Sales
+" Transaction ID: ""%1"""," 交易 ID: ""%1""",module,Magento_Sales
 View,View,module,Magento_Sales
-"Group was removed","Group was removed",module,Magento_Sales
-"Changing address information will not recalculate shipping, tax or other order amount.","Changing address information will not recalculate shipping, tax or other order amount.",module,Magento_Sales
-"Comment Text","Comment Text",module,Magento_Sales
-"Notify Customer by Email","Notify Customer by Email",module,Magento_Sales
-"Visible on Storefront","Visible on Storefront",module,Magento_Sales
-Customer,Customer,module,Magento_Sales
-Notified,Notified,module,Magento_Sales
-"Not Notified","Not Notified",module,Magento_Sales
-"No Payment Methods","No Payment Methods",module,Magento_Sales
-"Order Comments","Order Comments",module,Magento_Sales
-"Apply Coupon Code","Apply Coupon Code",module,Magento_Sales
-Apply,Apply,module,Magento_Sales
+"Group was removed","群組已被刪除",module,Magento_Sales
+"Changing address information will not recalculate shipping, tax or other order amount.","更改地址信息將不重新計算運費，稅收或其他訂單金額.",module,Magento_Sales
+"Comment Text","註釋文本",module,Magento_Sales
+"Notify Customer by Email","通過電子郵件通知客戶",module,Magento_Sales
+"Visible on Storefront","在店面可見",module,Magento_Sales
+Customer,顧客,module,Magento_Sales
+Notified,已通知,module,Magento_Sales
+"Not Notified","沒有通知",module,Magento_Sales
+"No Payment Methods","沒有付款方式",module,Magento_Sales
+"Order Comments","訂單評論",module,Magento_Sales
+"Apply Coupon Code","應用優惠券代碼",module,Magento_Sales
+Apply,應用,module,Magento_Sales
 "Remove Coupon Code","Remove Coupon Code",module,Magento_Sales
 Remove,Remove,module,Magento_Sales
 "Address Information","Address Information",module,Magento_Sales
