@@ -4698,306 +4698,306 @@ Notified,已通知,module,Magento_Sales
 "Order Comments","訂單評論",module,Magento_Sales
 "Apply Coupon Code","應用優惠券代碼",module,Magento_Sales
 Apply,應用,module,Magento_Sales
-"Remove Coupon Code","Remove Coupon Code",module,Magento_Sales
-Remove,Remove,module,Magento_Sales
-"Address Information","Address Information",module,Magento_Sales
-"Payment &amp; Shipping Information","Payment &amp; Shipping Information",module,Magento_Sales
-"Order Total","Order Total",module,Magento_Sales
-"Order Currency:","Order Currency:",module,Magento_Sales
-"Same As Billing Address","Same As Billing Address",module,Magento_Sales
-"Select from existing customer addresses:","Select from existing customer addresses:",module,Magento_Sales
-"Add New Address","Add New Address",module,Magento_Sales
-"Save in address book","Save in address book",module,Magento_Sales
-"You don't need to select a shipping address.","You don't need to select a shipping address.",module,Magento_Sales
-"Gift Message for the Entire Order","Gift Message for the Entire Order",module,Magento_Sales
-"Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_Sales
-"Row Subtotal","Row Subtotal",module,Magento_Sales
-Action,Action,module,Magento_Sales
-"No ordered items","No ordered items",module,Magento_Sales
-"Update Items and Quantities","Update Items and Quantities",module,Magento_Sales
-"Total %1 product(s)","Total %1 product(s)",module,Magento_Sales
-Subtotal:,Subtotal:,module,Magento_Sales
-"Tier Pricing","Tier Pricing",module,Magento_Sales
-"Custom Price","Custom Price",module,Magento_Sales
-"Please select","Please select",module,Magento_Sales
-"Move to Shopping Cart","Move to Shopping Cart",module,Magento_Sales
-"Move to Wish List","Move to Wish List",module,Magento_Sales
-"Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Sales
-"Click to change shipping method","Click to change shipping method",module,Magento_Sales
-"Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order.",module,Magento_Sales
-"Get shipping methods and rates","Get shipping methods and rates",module,Magento_Sales
-"You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
-"Customer's Activities","Customer's Activities",module,Magento_Sales
-Refresh,Refresh,module,Magento_Sales
-Item,Item,module,Magento_Sales
-"Add To Order","Add To Order",module,Magento_Sales
-"Configure and Add to Order","Configure and Add to Order",module,Magento_Sales
-"No items","No items",module,Magento_Sales
-"Append Comments","Append Comments",module,Magento_Sales
-"Email Order Confirmation","Email Order Confirmation",module,Magento_Sales
-"Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Sales
-"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Sales
-"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Sales
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Sales
-"Payment &amp; Shipping Method","Payment &amp; Shipping Method",module,Magento_Sales
-"Payment Information","Payment Information",module,Magento_Sales
-"The order was placed using %1.","The order was placed using %1.",module,Magento_Sales
-"Shipping Information","Shipping Information",module,Magento_Sales
-"Items to Refund","Items to Refund",module,Magento_Sales
-"Return to Stock","Return to Stock",module,Magento_Sales
-"Qty to Refund","Qty to Refund",module,Magento_Sales
-"Tax Amount","Tax Amount",module,Magento_Sales
-"Discount Amount","Discount Amount",module,Magento_Sales
-"Row Total","Row Total",module,Magento_Sales
-"No Items To Refund","No Items To Refund",module,Magento_Sales
-"Credit Memo Comments","Credit Memo Comments",module,Magento_Sales
-"Refund Totals","Refund Totals",module,Magento_Sales
-"Email Copy of Credit Memo","Email Copy of Credit Memo",module,Magento_Sales
-"Please enter a positive number in this field.","Please enter a positive number in this field.",module,Magento_Sales
-"Items Refunded","Items Refunded",module,Magento_Sales
-"No Items","No Items",module,Magento_Sales
-"Memo Total","Memo Total",module,Magento_Sales
-"Credit Memo History","Credit Memo History",module,Magento_Sales
-"Credit Memo Totals","Credit Memo Totals",module,Magento_Sales
-"Customer Name: %1","Customer Name: %1",module,Magento_Sales
-"Purchased From: %1","Purchased From: %1",module,Magento_Sales
-"Gift Message","Gift Message",module,Magento_Sales
-From:,From:,module,Magento_Sales
-To:,To:,module,Magento_Sales
-Message:,Message:,module,Magento_Sales
-"Shipping &amp; Handling","Shipping &amp; Handling",module,Magento_Sales
-"Gift Options","Gift Options",module,Magento_Sales
-"Create Shipment","Create Shipment",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
+"Remove Coupon Code","刪除優惠券代碼",module,Magento_Sales
+Remove,刪除,module,Magento_Sales
+"Address Information","地址信息",module,Magento_Sales
+"Payment &amp; Shipping Information","付款和送貨信息",module,Magento_Sales
+"Order Total","合計訂單",module,Magento_Sales
+"Order Currency:","訂單貨幣:",module,Magento_Sales
+"Same As Billing Address","與帳單地址相同s",module,Magento_Sales
+"Select from existing customer addresses:","從現有的客戶地址選擇:",module,Magento_Sales
+"Add New Address","添加新地址",module,Magento_Sales
+"Save in address book","保存至地址簿",module,Magento_Sales
+"You don't need to select a shipping address.","你並不需要選擇一個送貨地址.",module,Magento_Sales
+"Gift Message for the Entire Order","整個訂單的禮物訊息",module,Magento_Sales
+"Leave this box blank if you don't want to leave a gift message for the entire order.","將此框留空，如果你不想留下整個訂單禮物消息.",module,Magento_Sales
+"Row Subtotal","行小計",module,Magento_Sales
+Action,操作,module,Magento_Sales
+"No ordered items","沒有訂購的物品",module,Magento_Sales
+"Update Items and Quantities","更新項目和數量",module,Magento_Sales
+"Total %1 product(s)","共 %1 個產品",module,Magento_Sales
+Subtotal:,小計:,module,Magento_Sales
+"Tier Pricing","分層定價",module,Magento_Sales
+"Custom Price","定制價格",module,Magento_Sales
+"Please select","請選擇",module,Magento_Sales
+"Move to Shopping Cart","移至購物車",module,Magento_Sales
+"Move to Wish List","移至願望清單",module,Magento_Sales
+"Subscribe to Newsletter","訂閱電子報",module,Magento_Sales
+"Click to change shipping method","點擊改變運輸方式",module,Magento_Sales
+"Sorry, no quotes are available for this order.","對不起，此訂單暫無可用報價.",module,Magento_Sales
+"Get shipping methods and rates","獲取運送方式和費率",module,Magento_Sales
+"You don't need to select a shipping method.","你並不需要選擇送貨方式.",module,Magento_Sales
+"Customer's Activities","客戶活動",module,Magento_Sales
+Refresh,刷新,module,Magento_Sales
+Item,項目,module,Magento_Sales
+"Add To Order","添加至訂單",module,Magento_Sales
+"Configure and Add to Order","配置並添加至訂單",module,Magento_Sales
+"No items","沒有項目",module,Magento_Sales
+"Append Comments","附加評論",module,Magento_Sales
+"Email Order Confirmation","電子郵件訂單確認",module,Magento_Sales
+"Grand Total Excl. Tax","總計不含稅",module,Magento_Sales
+"Grand Total Incl. Tax","總計含稅",module,Magento_Sales
+"Subtotal (Excl. Tax)","小計（不含稅）",module,Magento_Sales
+"Subtotal (Incl. Tax)","小計（含稅）",module,Magento_Sales
+"Payment &amp; Shipping Method","付款和送貨方式",module,Magento_Sales
+"Payment Information","支付信息",module,Magento_Sales
+"The order was placed using %1.","該訂單是通過 %1 下單.",module,Magento_Sales
+"Shipping Information","送貨信息",module,Magento_Sales
+"Items to Refund","退款項目",module,Magento_Sales
+"Return to Stock","退返到庫存",module,Magento_Sales
+"Qty to Refund","退款數量",module,Magento_Sales
+"Tax Amount","稅額",module,Magento_Sales
+"Discount Amount","折扣金額",module,Magento_Sales
+"Row Total","行總數",module,Magento_Sales
+"No Items To Refund","沒有退還項目",module,Magento_Sales
+"Credit Memo Comments","貸項通知單評論",module,Magento_Sales
+"Refund Totals","退款總計",module,Magento_Sales
+"Email Copy of Credit Memo","電郵貸項通知單的副本",module,Magento_Sales
+"Please enter a positive number in this field.","請在此字段中輸入一個正數.",module,Magento_Sales
+"Items Refunded","退款項目",module,Magento_Sales
+"No Items","沒有項目",module,Magento_Sales
+"Memo Total","備註總數",module,Magento_Sales
+"Credit Memo History","貸項通知單歷史",module,Magento_Sales
+"Credit Memo Totals","貸項通知單合計",module,Magento_Sales
+"Customer Name: %1","顧客姓名: %1",module,Magento_Sales
+"Purchased From: %1","購買於: %1",module,Magento_Sales
+"Gift Message","禮品信息",module,Magento_Sales
+From:,由:,module,Magento_Sales
+To:,至:,module,Magento_Sales
+Message:,信息:,module,Magento_Sales
+"Shipping &amp; Handling","運輸及處理",module,Magento_Sales
+"Gift Options","禮品選項",module,Magento_Sales
+"Create Shipment","創建裝運",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","發票和裝運類型不匹配此訂單上的商品。您只能在創建發票後創建一個運輸.",module,Magento_Sales
 %1,%1,module,Magento_Sales
-"Qty to Invoice","Qty to Invoice",module,Magento_Sales
-"Invoice History","Invoice History",module,Magento_Sales
-"Invoice Comments","Invoice Comments",module,Magento_Sales
-"Invoice Totals","Invoice Totals",module,Magento_Sales
-Amount,Amount,module,Magento_Sales
-"Capture Online","Capture Online",module,Magento_Sales
-"Capture Offline","Capture Offline",module,Magento_Sales
-"Not Capture","Not Capture",module,Magento_Sales
-"The invoice will be created offline without the payment gateway.","The invoice will be created offline without the payment gateway.",module,Magento_Sales
-"Email Copy of Invoice","Email Copy of Invoice",module,Magento_Sales
-"Items Invoiced","Items Invoiced",module,Magento_Sales
-"Total Tax","Total Tax",module,Magento_Sales
-"From Name","From Name",module,Magento_Sales
-"To Name","To Name",module,Magento_Sales
-Status,Status,module,Magento_Sales
-Comment,Comment,module,Magento_Sales
-"Notification Not Applicable","Notification Not Applicable",module,Magento_Sales
-"Order & Account Information","Order & Account Information",module,Magento_Sales
-"The order confirmation email was sent","The order confirmation email was sent",module,Magento_Sales
-"The order confirmation email is not sent","The order confirmation email is not sent",module,Magento_Sales
-"Order Date","Order Date",module,Magento_Sales
-"Order Date (%1)","Order Date (%1)",module,Magento_Sales
-"Purchased From","Purchased From",module,Magento_Sales
-"Link to the New Order","Link to the New Order",module,Magento_Sales
-"Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
+"Qty to Invoice","發票數量",module,Magento_Sales
+"Invoice History","發票歷史記錄",module,Magento_Sales
+"Invoice Comments","發票評論",module,Magento_Sales
+"Invoice Totals","發票總額",module,Magento_Sales
+Amount,金額,module,Magento_Sales
+"Capture Online","在線捕獲",module,Magento_Sales
+"Capture Offline","離線捕獲",module,Magento_Sales
+"Not Capture","沒有捕獲",module,Magento_Sales
+"The invoice will be created offline without the payment gateway.","該發票將在沒有支付網關下離線創建.",module,Magento_Sales
+"Email Copy of Invoice","發票的電子郵件副本",module,Magento_Sales
+"Items Invoiced","已開發票的項目",module,Magento_Sales
+"Total Tax","稅收總額",module,Magento_Sales
+"From Name","從名稱",module,Magento_Sales
+"To Name","至名稱",module,Magento_Sales
+Status,狀態,module,Magento_Sales
+Comment,評論,module,Magento_Sales
+"Notification Not Applicable","通知不適用",module,Magento_Sales
+"Order & Account Information","訂單和帳戶信息",module,Magento_Sales
+"The order confirmation email was sent","訂單確認電子郵件已發送",module,Magento_Sales
+"The order confirmation email is not sent","訂單確認電子郵件沒有發送",module,Magento_Sales
+"Order Date","訂購日期",module,Magento_Sales
+"Order Date (%1)","訂購日期 (%1)",module,Magento_Sales
+"Purchased From","購買於",module,Magento_Sales
+"Link to the New Order","鏈接到新訂單",module,Magento_Sales
+"Link to the Previous Order","鏈接到以前的訂單",module,Magento_Sales
 "Placed from IP","Placed from IP",module,Magento_Sales
 "%1 / %2 rate:","%1 / %2 rate:",module,Magento_Sales
-"Customer Name","Customer Name",module,Magento_Sales
-"Customer Group","Customer Group",module,Magento_Sales
-"Item Status","Item Status",module,Magento_Sales
-"Original Price","Original Price",module,Magento_Sales
-"Tax Percent","Tax Percent",module,Magento_Sales
-"Notes for this Order","Notes for this Order",module,Magento_Sales
-"Comment added","Comment added",module,Magento_Sales
-"Transaction Data","Transaction Data",module,Magento_Sales
-"Transaction ID","Transaction ID",module,Magento_Sales
+"Customer Name","顧客姓名",module,Magento_Sales
+"Customer Group","客戶群",module,Magento_Sales
+"Item Status","項目狀態",module,Magento_Sales
+"Original Price","原價",module,Magento_Sales
+"Tax Percent","稅（百分率）",module,Magento_Sales
+"Notes for this Order","此訂單的備註",module,Magento_Sales
+"Comment added","添加評論",module,Magento_Sales
+"Transaction Data","交易數據",module,Magento_Sales
+"Transaction ID","交易 ID",module,Magento_Sales
 "Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
-"Order ID","Order ID",module,Magento_Sales
-"Transaction Type","Transaction Type",module,Magento_Sales
-"Is Closed","Is Closed",module,Magento_Sales
-"Created At","Created At",module,Magento_Sales
-"Child Transactions","Child Transactions",module,Magento_Sales
-"Transaction Details","Transaction Details",module,Magento_Sales
-Items,Items,module,Magento_Sales
-"Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
-"Shipped By","Shipped By",module,Magento_Sales
-"Tracking Number","Tracking Number",module,Magento_Sales
-"Billing Last Name","Billing Last Name",module,Magento_Sales
-"Find Order By","Find Order By",module,Magento_Sales
-"ZIP Code","ZIP Code",module,Magento_Sales
-"Billing ZIP Code","Billing ZIP Code",module,Magento_Sales
-Continue,Continue,module,Magento_Sales
-"Print All Refunds","Print All Refunds",module,Magento_Sales
-"Refund #","Refund #",module,Magento_Sales
-"Print Refund","Print Refund",module,Magento_Sales
-"Product Name","Product Name",module,Magento_Sales
-"Order #","Order #",module,Magento_Sales
-Date,Date,module,Magento_Sales
-"Ship To","Ship To",module,Magento_Sales
-Actions,Actions,module,Magento_Sales
-"View Order","View Order",module,Magento_Sales
-"You have placed no orders.","You have placed no orders.",module,Magento_Sales
-"No shipping information available","No shipping information available",module,Magento_Sales
-"Print Order","Print Order",module,Magento_Sales
-"Print All Invoices","Print All Invoices",module,Magento_Sales
-"Invoice #","Invoice #",module,Magento_Sales
-"Print Invoice","Print Invoice",module,Magento_Sales
-"Qty Invoiced","Qty Invoiced",module,Magento_Sales
-Close,Close,module,Magento_Sales
-"About Your Order","About Your Order",module,Magento_Sales
-"<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1",module,Magento_Sales
-"Refund #%1","Refund #%1",module,Magento_Sales
-"Shipment #%1","Shipment #%1",module,Magento_Sales
-"Qty Shipped","Qty Shipped",module,Magento_Sales
-"Recent Orders","Recent Orders",module,Magento_Sales
-"View All","View All",module,Magento_Sales
-"Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
-"Add to Cart","Add to Cart",module,Magento_Sales
-Search,Search,module,Magento_Sales
-"Search Term","Search Term",module,Magento_Search
-Results,Results,module,Magento_Search
-Uses,Uses,module,Magento_Search
-"Search Terms","Search Terms",module,Magento_Search
-Search,Search,module,Magento_Search
-"Add New Search Term","Add New Search Term",module,Magento_Search
-"Save Search","Save Search",module,Magento_Search
-"Delete Search","Delete Search",module,Magento_Search
-"Edit Search '%1'","Edit Search '%1'",module,Magento_Search
-"New Search","New Search",module,Magento_Search
-"Search Information","Search Information",module,Magento_Search
-"General Information","General Information",module,Magento_Search
-No,No,module,Magento_Search
-Yes,Yes,module,Magento_Search
-"Search Query","Search Query",module,Magento_Search
-Store,Store,module,Magento_Search
-"Number of results","Number of results",module,Magento_Search
-"Number of results (For the last time placed)","Number of results (For the last time placed)",module,Magento_Search
-"For the last time placed.","For the last time placed.",module,Magento_Search
-"Number of Uses","Number of Uses",module,Magento_Search
-"Synonym For","Synonym For",module,Magento_Search
-"Will make search for the query above return results for this search","Will make search for the query above return results for this search",module,Magento_Search
-"Redirect URL","Redirect URL",module,Magento_Search
+"Order ID","訂單 ID",module,Magento_Sales
+"Transaction Type","交易類型",module,Magento_Sales
+"Is Closed","關閉了",module,Magento_Sales
+"Created At","創建於",module,Magento_Sales
+"Child Transactions","子交易",module,Magento_Sales
+"Transaction Details","交易明細",module,Magento_Sales
+Items,項目,module,Magento_Sales
+"Gift Message for this Order","此訂單的禮物留言",module,Magento_Sales
+"Shipped By","運送方式",module,Magento_Sales
+"Tracking Number","追踪號碼",module,Magento_Sales
+"Billing Last Name","開票姓",module,Magento_Sales
+"Find Order By","查找訂單通過",module,Magento_Sales
+"ZIP Code","ZIP 碼",module,Magento_Sales
+"Billing ZIP Code","發票 ZIP 碼",module,Magento_Sales
+Continue,繼續,module,Magento_Sales
+"Print All Refunds","打印全部退款",module,Magento_Sales
+"Refund #","退款 #",module,Magento_Sales
+"Print Refund","打印退款",module,Magento_Sales
+"Product Name","產品名稱",module,Magento_Sales
+"Order #","訂購 #",module,Magento_Sales
+Date,日期,module,Magento_Sales
+"Ship To","運送到",module,Magento_Sales
+Actions,操作,module,Magento_Sales
+"View Order","查看訂單",module,Magento_Sales
+"You have placed no orders.","你沒有下任何訂單.",module,Magento_Sales
+"No shipping information available","無發貨信息",module,Magento_Sales
+"Print Order","打印訂單",module,Magento_Sales
+"Print All Invoices","打印所有發票",module,Magento_Sales
+"Invoice #","發票 #",module,Magento_Sales
+"Print Invoice","打印發票",module,Magento_Sales
+"Qty Invoiced","已開發票數量",module,Magento_Sales
+Close,關閉,module,Magento_Sales
+"About Your Order","關於您的訂單",module,Magento_Sales
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">訂購日期:</span> %1",module,Magento_Sales
+"Refund #%1","退款 #%1",module,Magento_Sales
+"Shipment #%1","送貨 #%1",module,Magento_Sales
+"Qty Shipped","已送貨數量",module,Magento_Sales
+"Recent Orders","最近的訂單",module,Magento_Sales
+"View All","查看全部",module,Magento_Sales
+"Gift Message for This Order","該訂單的禮物留言",module,Magento_Sales
+"Add to Cart","添加到購物車",module,Magento_Sales
+Search,搜索,module,Magento_Sales
+"Search Term","搜索詞",module,Magento_Search
+Results,結果,module,Magento_Search
+Uses,利用,module,Magento_Search
+"Search Terms","搜索詞",module,Magento_Search
+Search,搜索,module,Magento_Search
+"Add New Search Term","添加新的搜索字詞",module,Magento_Search
+"Save Search","保存搜索",module,Magento_Search
+"Delete Search","刪除搜索",module,Magento_Search
+"Edit Search '%1'","編輯搜索 '%1'",module,Magento_Search
+"New Search","新搜索",module,Magento_Search
+"Search Information","搜索信息",module,Magento_Search
+"General Information","一般信息",module,Magento_Search
+No,否,module,Magento_Search
+Yes,是,module,Magento_Search
+"Search Query","搜索查詢",module,Magento_Search
+Store,商店,module,Magento_Search
+"Number of results","結果數目",module,Magento_Search
+"Number of results (For the last time placed)","結果數目（上一次放置）",module,Magento_Search
+"For the last time placed.","上一次放置.",module,Magento_Search
+"Number of Uses","使用的次數",module,Magento_Search
+"Synonym For","代名詞",module,Magento_Search
+"Will make search for the query above return results for this search","將以上面的查詢作搜索，以返回這個搜索的結果",module,Magento_Search
+"Redirect URL","重定向 URL",module,Magento_Search
 "ex. http://domain.com","ex. http://domain.com",module,Magento_Search
-"Display in Suggested Terms","Display in Suggested Terms",module,Magento_Search
-"You deleted the search.","You deleted the search.",module,Magento_Search
-"We can't find a search term to delete.","We can't find a search term to delete.",module,Magento_Search
-"This search no longer exists.","This search no longer exists.",module,Magento_Search
-"Edit Search","Edit Search",module,Magento_Search
-"Please select searches.","Please select searches.",module,Magento_Search
-"Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Search
-Reports,Reports,module,Magento_Search
-"Search Terms Report","Search Terms Report",module,Magento_Search
-"You saved the search term.","You saved the search term.",module,Magento_Search
-"Something went wrong while saving the search query.","Something went wrong while saving the search query.",module,Magento_Search
-"You already have an identical search term query.","You already have an identical search term query.",module,Magento_Search
-"Your search query can't be longer than %1, so we shortened your query.","Your search query can't be longer than %1, so we shortened your query.",module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
-"There are no search terms available.","There are no search terms available.",module,Magento_Search
-"Page not found.","Page not found.",module,Magento_SendFriend
-"You can't send messages more than %1 times an hour.","You can't send messages more than %1 times an hour.",module,Magento_SendFriend
-"The link to a friend was sent.","The link to a friend was sent.",module,Magento_SendFriend
-"We found some problems with the data.","We found some problems with the data.",module,Magento_SendFriend
-"Some emails were not sent.","Some emails were not sent.",module,Magento_SendFriend
-"You've met your limit of %1 sends in an hour.","You've met your limit of %1 sends in an hour.",module,Magento_SendFriend
-"Please enter a sender name.","Please enter a sender name.",module,Magento_SendFriend
-"Invalid Sender Email","Invalid Sender Email",module,Magento_SendFriend
-"Please enter a message.","Please enter a message.",module,Magento_SendFriend
-"Please specify at least one recipient.","Please specify at least one recipient.",module,Magento_SendFriend
-"Please enter a correct recipient email address.","Please enter a correct recipient email address.",module,Magento_SendFriend
-"No more than %1 emails can be sent at a time.","No more than %1 emails can be sent at a time.",module,Magento_SendFriend
-"Please define a correct product instance.","Please define a correct product instance.",module,Magento_SendFriend
-"Invalid Sender Information","Invalid Sender Information",module,Magento_SendFriend
-"Please define the correct sender information.","Please define the correct sender information.",module,Magento_SendFriend
-"IP Address","IP Address",module,Magento_SendFriend
+"Display in Suggested Terms","在建議字詞中顯示",module,Magento_Search
+"You deleted the search.","您已刪除搜索.",module,Magento_Search
+"We can't find a search term to delete.","我們無法找到一個搜索詞刪除.",module,Magento_Search
+"This search no longer exists.","該搜索已不存在.",module,Magento_Search
+"Edit Search","編輯搜索",module,Magento_Search
+"Please select searches.","請選擇搜索.",module,Magento_Search
+"Total of %1 record(s) were deleted.","共 %1 結果被刪除.",module,Magento_Search
+Reports,報告,module,Magento_Search
+"Search Terms Report","搜索字詞報告",module,Magento_Search
+"You saved the search term.","您保存了搜索詞.",module,Magento_Search
+"Something went wrong while saving the search query.","保存搜索查詢時出了錯.",module,Magento_Search
+"You already have an identical search term query.","你已經有一個相同的搜索條件查詢.",module,Magento_Search
+"Your search query can't be longer than %1, so we shortened your query.","您的搜索查詢不能長於 %1, 所以我們縮短查詢.",module,Magento_Search
+"Search entire store here...","從這裡搜索整店...",module,Magento_Search
+"There are no search terms available.","沒有可用的搜索字詞.",module,Magento_Search
+"Page not found.","找不到網頁.",module,Magento_SendFriend
+"You can't send messages more than %1 times an hour.","在一小時內，你不可以將消息發送超過 %1 次.",module,Magento_SendFriend
+"The link to a friend was sent.","往朋友的鏈接已被發送.",module,Magento_SendFriend
+"We found some problems with the data.","我們在數據中發現了一些問題.",module,Magento_SendFriend
+"Some emails were not sent.","有些郵件沒有發送.",module,Magento_SendFriend
+"You've met your limit of %1 sends in an hour.","您已到達每小時發送 %1 次的上限.",module,Magento_SendFriend
+"Please enter a sender name.","請輸入發件人名稱.",module,Magento_SendFriend
+"Invalid Sender Email","無效的電子郵件發件人",module,Magento_SendFriend
+"Please enter a message.","請輸入信息.",module,Magento_SendFriend
+"Please specify at least one recipient.","請至少指定一個收件人.",module,Magento_SendFriend
+"Please enter a correct recipient email address.","請輸入正確的收件人電子郵件地址.",module,Magento_SendFriend
+"No more than %1 emails can be sent at a time.","一次只可發送不超過 %1 封郵件.",module,Magento_SendFriend
+"Please define a correct product instance.","請確定正確的產品實例.",module,Magento_SendFriend
+"Invalid Sender Information","無效的發件人信息",module,Magento_SendFriend
+"Please define the correct sender information.","請定義正確的發件人信息.",module,Magento_SendFriend
+"IP Address","IP 地址",module,Magento_SendFriend
 "Cookie (unsafe)","Cookie (unsafe)",module,Magento_SendFriend
 "No Product Exception.","No Product Exception.",module,Magento_SendFriend
 "No Category Exception.","No Category Exception.",module,Magento_SendFriend
 "Some error","Some error",module,Magento_SendFriend
 "Localized Exception.","Localized Exception.",module,Magento_SendFriend
 Exception.,Exception.,module,Magento_SendFriend
-"Remove Recipent","Remove Recipent",module,Magento_SendFriend
-Remove,Remove,module,Magento_SendFriend
-Name,Name,module,Magento_SendFriend
-Email,Email,module,Magento_SendFriend
-"* Required Fields","* Required Fields",module,Magento_SendFriend
-Sender,Sender,module,Magento_SendFriend
-Message,Message,module,Magento_SendFriend
-Invitee,Invitee,module,Magento_SendFriend
-"Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_SendFriend
-"Add Invitee","Add Invitee",module,Magento_SendFriend
-"Send Email","Send Email",module,Magento_SendFriend
-Back,Back,module,Magento_SendFriend
-"New Shipment for Order #%1","New Shipment for Order #%1",module,Magento_Shipping
-"Submit Shipment","Submit Shipment",module,Magento_Shipping
-"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",module,Magento_Shipping
-"Products should be added to package(s)","Products should be added to package(s)",module,Magento_Shipping
-"The value that you entered is not valid.","The value that you entered is not valid.",module,Magento_Shipping
-"Add Tracking Number","Add Tracking Number",module,Magento_Shipping
-"Custom Value","Custom Value",module,Magento_Shipping
-Add,Add,module,Magento_Shipping
-"Send Tracking Information","Send Tracking Information",module,Magento_Shipping
-"Are you sure you want to send a Shipment email to customer?","Are you sure you want to send a Shipment email to customer?",module,Magento_Shipping
-Print,Print,module,Magento_Shipping
-"the shipment email was sent","the shipment email was sent",module,Magento_Shipping
-"the shipment email is not sent","the shipment email is not sent",module,Magento_Shipping
-"Shipment #%1 | %3 (%2)","Shipment #%1 | %3 (%2)",module,Magento_Shipping
-"Create Shipping Label...","Create Shipping Label...",module,Magento_Shipping
-"Print Shipping Label","Print Shipping Label",module,Magento_Shipping
-"Show Packages","Show Packages",module,Magento_Shipping
-"About Your Shipment","About Your Shipment",module,Magento_Shipping
-"Order # %1","Order # %1",module,Magento_Shipping
-"Back to My Orders","Back to My Orders",module,Magento_Shipping
-"View Another Order","View Another Order",module,Magento_Shipping
-"Please enter a comment.","Please enter a comment.",module,Magento_Shipping
-"Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
-"Please specify a carrier.","Please specify a carrier.",module,Magento_Shipping
-"Please enter a tracking number.","Please enter a tracking number.",module,Magento_Shipping
-Shipments,Shipments,module,Magento_Shipping
-"We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
-"Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
-"You created the shipping label.","You created the shipping label.",module,Magento_Shipping
-"An error occurred while creating shipping label.","An error occurred while creating shipping label.",module,Magento_Shipping
-"You sent the shipment.","You sent the shipment.",module,Magento_Shipping
-"Cannot send shipment information.","Cannot send shipment information.",module,Magento_Shipping
-"There are no shipping labels related to selected orders.","There are no shipping labels related to selected orders.",module,Magento_Shipping
-"New Shipment","New Shipment",module,Magento_Shipping
-"We don't recognize or support the file extension in this shipment: %1.","We don't recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
-"We can't initialize shipment for delete tracking number.","We can't initialize shipment for delete tracking number.",module,Magento_Shipping
-"We can't delete tracking number.","We can't delete tracking number.",module,Magento_Shipping
+"Remove Recipent","刪除收件人",module,Magento_SendFriend
+Remove,移除,module,Magento_SendFriend
+Name,名稱,module,Magento_SendFriend
+Email,電子郵件,module,Magento_SendFriend
+"* Required Fields","* 必填字段",module,Magento_SendFriend
+Sender,寄件人,module,Magento_SendFriend
+Message,信息,module,Magento_SendFriend
+Invitee,受邀者,module,Magento_SendFriend
+"Maximum %1 email addresses allowed.","最大允許 %1 的電子郵件地址.",module,Magento_SendFriend
+"Add Invitee","添加被邀請者",module,Magento_SendFriend
+"Send Email","發電子郵件",module,Magento_SendFriend
+Back,返回,module,Magento_SendFriend
+"New Shipment for Order #%1","訂單 #%1 的新送貨",module,Magento_Shipping
+"Submit Shipment","提交裝運",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","您正在嘗試添加不符合被裝運數量到某些產品的數量.",module,Magento_Shipping
+"Products should be added to package(s)","產品應被加入到包",module,Magento_Shipping
+"The value that you entered is not valid.","您輸入的值無效.",module,Magento_Shipping
+"Add Tracking Number","添加追踪號碼",module,Magento_Shipping
+"Custom Value","自定義值",module,Magento_Shipping
+Add,新加,module,Magento_Shipping
+"Send Tracking Information","發送跟踪信息",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","你確定要發送裝運電子郵件給客戶?",module,Magento_Shipping
+Print,打印,module,Magento_Shipping
+"the shipment email was sent","裝運電子郵件已發送",module,Magento_Shipping
+"the shipment email is not sent","裝運電子郵件沒有發送",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","送貨 #%1 | %3 (%2)",module,Magento_Shipping
+"Create Shipping Label...","創建運輸標籤...",module,Magento_Shipping
+"Print Shipping Label","印運輸標籤",module,Magento_Shipping
+"Show Packages","顯示包",module,Magento_Shipping
+"About Your Shipment","關於您的送貨",module,Magento_Shipping
+"Order # %1","訂單 # %1",module,Magento_Shipping
+"Back to My Orders","回到我的訂單",module,Magento_Shipping
+"View Another Order","查看另一個訂單",module,Magento_Shipping
+"Please enter a comment.","請輸入評論.",module,Magento_Shipping
+"Cannot add new comment.","無法添加新評論.",module,Magento_Shipping
+"Please specify a carrier.","請指定承運人.",module,Magento_Shipping
+"Please enter a tracking number.","請輸入查詢號碼.",module,Magento_Shipping
+Shipments,出貨,module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.","我們不能為添加追踪號碼來初始化裝運.",module,Magento_Shipping
+"Cannot add tracking number.","無法添加追踪號碼.",module,Magento_Shipping
+"You created the shipping label.","您創建的運輸標籤.",module,Magento_Shipping
+"An error occurred while creating shipping label.","在創建貨運標籤時發生錯誤.",module,Magento_Shipping
+"You sent the shipment.","您發送發貨.",module,Magento_Shipping
+"Cannot send shipment information.","無法發送快件信息.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","沒有與所選訂單相關的發貨標籤.",module,Magento_Shipping
+"New Shipment","新送貨",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","我們不承認或支持本批貨物的文件擴展名: %1.",module,Magento_Shipping
+"We can't initialize shipment for delete tracking number.","我們不能為刪除追踪號碼來初始化裝運.",module,Magento_Shipping
+"We can't delete tracking number.","我們無法刪除追踪號碼.",module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","We can't load track with retrieving identifier right now.",module,Magento_Shipping
-"We can't save the shipment right now.","We can't save the shipment right now.",module,Magento_Shipping
-"The shipment has been created.","The shipment has been created.",module,Magento_Shipping
-"Cannot save shipment.","Cannot save shipment.",module,Magento_Shipping
-"The order no longer exists.","The order no longer exists.",module,Magento_Shipping
-"Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice.",module,Magento_Shipping
-"Cannot do shipment for the order.","Cannot do shipment for the order.",module,Magento_Shipping
-"There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments.",module,Magento_Shipping
-"Page not found.","Page not found.",module,Magento_Shipping
-"Tracking Information","Tracking Information",module,Magento_Shipping
-"Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module.",module,Magento_Shipping
-"The shipping module is not available.","The shipping module is not available.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code.",module,Magento_Shipping
-"No packages for request","No packages for request",module,Magento_Shipping
-"Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Shipping
-"All Allowed Countries","All Allowed Countries",module,Magento_Shipping
-"Specific Countries","Specific Countries",module,Magento_Shipping
-Development,Development,module,Magento_Shipping
+"We can't save the shipment right now.","我們現在不能保存送貨.",module,Magento_Shipping
+"The shipment has been created.","這運輸已創建.",module,Magento_Shipping
+"Cannot save shipment.","無法保存發貨.",module,Magento_Shipping
+"The order no longer exists.","訂單已不存在.",module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.","訂單發貨不能和發票分開.",module,Magento_Shipping
+"Cannot do shipment for the order.","該訂單不能送貨.",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","選定的出貨沒有相關的運輸標籤.",module,Magento_Shipping
+"Page not found.","找不到網頁.",module,Magento_Shipping
+"Tracking Information","追踪信息",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","很抱歉，但我們無法以此航運模塊來發送到目的地國家.",module,Magento_Shipping
+"The shipping module is not available.","航運模塊不可用.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","這種運輸方式不可用。請註明郵政編碼.",module,Magento_Shipping
+"No packages for request","要求沒有包裹",module,Magento_Shipping
+"Security validation of XML document has been failed.","XML文檔的安全性驗證已經失敗.",module,Magento_Shipping
+"All Allowed Countries","所有允許國家",module,Magento_Shipping
+"Specific Countries","特定國家",module,Magento_Shipping
+Development,開發,module,Magento_Shipping
 Live,Live,module,Magento_Shipping
-"Divide to equal weight (one request)","Divide to equal weight (one request)",module,Magento_Shipping
-"Use origin weight (few requests)","Use origin weight (few requests)",module,Magento_Shipping
-Packages,Packages,module,Magento_Shipping
-Package,Package,module,Magento_Shipping
-Type,Type,module,Magento_Shipping
-Length,Length,module,Magento_Shipping
-"Signature Confirmation","Signature Confirmation",module,Magento_Shipping
-"Customs Value","Customs Value",module,Magento_Shipping
-Width,Width,module,Magento_Shipping
-Contents,Contents,module,Magento_Shipping
-"Total Weight","Total Weight",module,Magento_Shipping
-Height,Height,module,Magento_Shipping
-Size,Size,module,Magento_Shipping
-Girth,Girth,module,Magento_Shipping
-"Items in the Package","Items in the Package",module,Magento_Shipping
-Product,Product,module,Magento_Shipping
-Weight,Weight,module,Magento_Shipping
-"Qty Ordered","Qty Ordered",module,Magento_Shipping
-Qty,Qty,module,Magento_Shipping
-"No detail for number ""%1""","No detail for number ""%1""",module,Magento_Shipping
+"Divide to equal weight (one request)","分成相等的重量（一個請求）",module,Magento_Shipping
+"Use origin weight (few requests)","使用原來重量（幾個請求）",module,Magento_Shipping
+Packages,包裹,module,Magento_Shipping
+Package,包裹,module,Magento_Shipping
+Type,類型,module,Magento_Shipping
+Length,長度,module,Magento_Shipping
+"Signature Confirmation","簽字確認",module,Magento_Shipping
+"Customs Value","自定義值",module,Magento_Shipping
+Width,寬度,module,Magento_Shipping
+Contents,內容,module,Magento_Shipping
+"Total Weight","總重量",module,Magento_Shipping
+Height,高度,module,Magento_Shipping
+Size,尺寸,module,Magento_Shipping
+Girth,周長,module,Magento_Shipping
+"Items in the Package","包中的項",module,Magento_Shipping
+Product,產品,module,Magento_Shipping
+Weight,重量,module,Magento_Shipping
+"Qty Ordered","已訂購數量",module,Magento_Shipping
+Qty,數量,module,Magento_Shipping
+"No detail for number ""%1""","沒有號碼 ""%1"" 的細節",module,Magento_Shipping
 "Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
 "Response info is not exist.","Response info is not exist.",module,Magento_Shipping
 "Invalid carrier: %1","Invalid carrier: %1",module,Magento_Shipping
