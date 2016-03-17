@@ -4998,137 +4998,137 @@ Weight,重量,module,Magento_Shipping
 "Qty Ordered","已訂購數量",module,Magento_Shipping
 Qty,數量,module,Magento_Shipping
 "No detail for number ""%1""","沒有號碼 ""%1"" 的細節",module,Magento_Shipping
-"Shipping labels is not available.","Shipping labels is not available.",module,Magento_Shipping
-"Response info is not exist.","Response info is not exist.",module,Magento_Shipping
-"Invalid carrier: %1","Invalid carrier: %1",module,Magento_Shipping
-"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
-"Per Order","Per Order",module,Magento_Shipping
-"Per Package","Per Package",module,Magento_Shipping
-Fixed,Fixed,module,Magento_Shipping
-Percent,Percent,module,Magento_Shipping
-"Tracking information is unavailable.","Tracking information is unavailable.",module,Magento_Shipping
-message,message,module,Magento_Shipping
-"Email has not been sent","Email has not been sent",module,Magento_Shipping
-"Payment &amp; Shipping Method","Payment &amp; Shipping Method",module,Magento_Shipping
-"Payment Information","Payment Information",module,Magento_Shipping
-"The order was placed using %1.","The order was placed using %1.",module,Magento_Shipping
-"Shipping Information","Shipping Information",module,Magento_Shipping
-"Total Shipping Charges","Total Shipping Charges",module,Magento_Shipping
-"Incl. Tax","Incl. Tax",module,Magento_Shipping
-"Items to Ship","Items to Ship",module,Magento_Shipping
-"Qty to Ship","Qty to Ship",module,Magento_Shipping
-Ship,Ship,module,Magento_Shipping
-"Shipment Total","Shipment Total",module,Magento_Shipping
-"Shipment Comments","Shipment Comments",module,Magento_Shipping
-"Comment Text","Comment Text",module,Magento_Shipping
-"Shipment Options","Shipment Options",module,Magento_Shipping
-"Create Shipping Label","Create Shipping Label",module,Magento_Shipping
-"Append Comments","Append Comments",module,Magento_Shipping
-"Email Copy of Shipment","Email Copy of Shipment",module,Magento_Shipping
-"Invalid value(s) for Qty to Ship","Invalid value(s) for Qty to Ship",module,Magento_Shipping
-"Select All","Select All",module,Magento_Shipping
-"Product Name","Product Name",module,Magento_Shipping
-Delete,Delete,module,Magento_Shipping
-"Create Packages","Create Packages",module,Magento_Shipping
-Cancel,Cancel,module,Magento_Shipping
-Save,Save,module,Magento_Shipping
-"Add Package","Add Package",module,Magento_Shipping
-"Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Shipping
-"Add Products to Package","Add Products to Package",module,Magento_Shipping
-"USPS domestic shipments don't use package types.","USPS domestic shipments don't use package types.",module,Magento_Shipping
+"Shipping labels is not available.","貨運標籤不可用.",module,Magento_Shipping
+"Response info is not exist.","響應信息是不存在的.",module,Magento_Shipping
+"Invalid carrier: %1","運營商無效: %1",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","我們沒有足夠的信息來創建貨運標籤。請確保您的商店信息和設置完成.",module,Magento_Shipping
+"Per Order","每訂單",module,Magento_Shipping
+"Per Package","每包裹",module,Magento_Shipping
+Fixed,固定,module,Magento_Shipping
+Percent,百分率,module,Magento_Shipping
+"Tracking information is unavailable.","跟踪信息不可用.",module,Magento_Shipping
+message,信息,module,Magento_Shipping
+"Email has not been sent","電子郵件尚未發送",module,Magento_Shipping
+"Payment &amp; Shipping Method","付款和郵寄方式",module,Magento_Shipping
+"Payment Information","支付信息",module,Magento_Shipping
+"The order was placed using %1.","該訂單是通過 %1 放置.",module,Magento_Shipping
+"Shipping Information","航運信息",module,Magento_Shipping
+"Total Shipping Charges","總運費",module,Magento_Shipping
+"Incl. Tax","含稅",module,Magento_Shipping
+"Items to Ship","發貨項目",module,Magento_Shipping
+"Qty to Ship","發貨數量",module,Magento_Shipping
+Ship,送貨,module,Magento_Shipping
+"Shipment Total","總出貨",module,Magento_Shipping
+"Shipment Comments","出貨評論",module,Magento_Shipping
+"Comment Text","註釋文本",module,Magento_Shipping
+"Shipment Options","航運選項",module,Magento_Shipping
+"Create Shipping Label","創建運輸標籤",module,Magento_Shipping
+"Append Comments","附加評論",module,Magento_Shipping
+"Email Copy of Shipment","裝運的電子郵件副本",module,Magento_Shipping
+"Invalid value(s) for Qty to Ship","發貨數量的值無效",module,Magento_Shipping
+"Select All","全選",module,Magento_Shipping
+"Product Name","產品名稱",module,Magento_Shipping
+Delete,刪除,module,Magento_Shipping
+"Create Packages","創建包裹",module,Magento_Shipping
+Cancel,取消,module,Magento_Shipping
+Save,保存,module,Magento_Shipping
+"Add Package","新增包裹",module,Magento_Shipping
+"Add Selected Product(s) to Package","添加所選產品至包裹",module,Magento_Shipping
+"Add Products to Package","添加產品至包裹",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","USPS 國內出貨不使用封裝類型.",module,Magento_Shipping
 in,in,module,Magento_Shipping
 cm,cm,module,Magento_Shipping
 lb,lb,module,Magento_Shipping
 kg,kg,module,Magento_Shipping
-"Delete Package","Delete Package",module,Magento_Shipping
-Explanation,Explanation,module,Magento_Shipping
-Carrier,Carrier,module,Magento_Shipping
-Title,Title,module,Magento_Shipping
-Number,Number,module,Magento_Shipping
-Action,Action,module,Magento_Shipping
-"Are you sure?","Are you sure?",module,Magento_Shipping
-"Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
-"Track Order","Track Order",module,Magento_Shipping
-"No shipping information available","No shipping information available",module,Magento_Shipping
-"Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
-"Track this shipment","Track this shipment",module,Magento_Shipping
-"Items Shipped","Items Shipped",module,Magento_Shipping
-"Order Total","Order Total",module,Magento_Shipping
-"Shipment History","Shipment History",module,Magento_Shipping
-"Qty Shipped","Qty Shipped",module,Magento_Shipping
-"Print All Shipments","Print All Shipments",module,Magento_Shipping
-"Shipment #","Shipment #",module,Magento_Shipping
-"Print Shipment","Print Shipment",module,Magento_Shipping
-"Tracking Number(s):","Tracking Number(s):",module,Magento_Shipping
+"Delete Package","刪除包",module,Magento_Shipping
+Explanation,說明,module,Magento_Shipping
+Carrier,運送者,module,Magento_Shipping
+Title,標題,module,Magento_Shipping
+Number,數,module,Magento_Shipping
+Action,操作,module,Magento_Shipping
+"Are you sure?","你確定?",module,Magento_Shipping
+"Shipping &amp; Handling Information","運輸和處理信息",module,Magento_Shipping
+"Track Order","追蹤訂單",module,Magento_Shipping
+"No shipping information available","無發貨信息",module,Magento_Shipping
+"Shipping and Tracking Information","運輸和跟踪信息",module,Magento_Shipping
+"Track this shipment","追踪這批貨物",module,Magento_Shipping
+"Items Shipped","商品已發貨",module,Magento_Shipping
+"Order Total","訂單合計",module,Magento_Shipping
+"Shipment History","托運歷史",module,Magento_Shipping
+"Qty Shipped","已發貨數量",module,Magento_Shipping
+"Print All Shipments","打印全部出貨",module,Magento_Shipping
+"Shipment #","出貨 #",module,Magento_Shipping
+"Print Shipment","打印出貨",module,Magento_Shipping
+"Tracking Number(s):","追踪號碼:",module,Magento_Shipping
 SKU,SKU,module,Magento_Shipping
-"Order tracking","Order tracking",module,Magento_Shipping
-"Tracking Number:","Tracking Number:",module,Magento_Shipping
-Carrier:,Carrier:,module,Magento_Shipping
-Error:,Error:,module,Magento_Shipping
-"Tracking information is currently not available. Please ","Tracking information is currently not available. Please ",module,Magento_Shipping
-"contact us","contact us",module,Magento_Shipping
-" for more information or "," for more information or ",module,Magento_Shipping
-"email us at ","email us at ",module,Magento_Shipping
-Info:,Info:,module,Magento_Shipping
-Track:,Track:,module,Magento_Shipping
-Status:,Status:,module,Magento_Shipping
-"Delivered on:","Delivered on:",module,Magento_Shipping
-"Signed by:","Signed by:",module,Magento_Shipping
-"Delivered to:","Delivered to:",module,Magento_Shipping
-"Shipped or billed on:","Shipped or billed on:",module,Magento_Shipping
-"Service Type:","Service Type:",module,Magento_Shipping
-Weight:,Weight:,module,Magento_Shipping
+"Order tracking","訂單跟踪",module,Magento_Shipping
+"Tracking Number:","追踪號碼:",module,Magento_Shipping
+Carrier:,運送者:,module,Magento_Shipping
+Error:,錯誤:,module,Magento_Shipping
+"Tracking information is currently not available. Please ","跟踪信息當前不可用。 請 ",module,Magento_Shipping
+"contact us","聯繫我們",module,Magento_Shipping
+" for more information or "," 來獲得更多信息或 ",module,Magento_Shipping
+"email us at ","給我們發電子郵件 ",module,Magento_Shipping
+Info:,信息:,module,Magento_Shipping
+Track:,跟踪:,module,Magento_Shipping
+Status:,狀態:,module,Magento_Shipping
+"Delivered on:","送貨於:",module,Magento_Shipping
+"Signed by:","簽收人:",module,Magento_Shipping
+"Delivered to:","送貨至:",module,Magento_Shipping
+"Shipped or billed on:","已送貨或發帳單於:",module,Magento_Shipping
+"Service Type:","服務類型:",module,Magento_Shipping
+Weight:,重量:,module,Magento_Shipping
 N/A,N/A,module,Magento_Shipping
-"Track history","Track history",module,Magento_Shipping
-Location,Location,module,Magento_Shipping
-Date,Date,module,Magento_Shipping
-"Local Time","Local Time",module,Magento_Shipping
-Description,Description,module,Magento_Shipping
-"There is no tracking available for this shipment.","There is no tracking available for this shipment.",module,Magento_Shipping
-"There is no tracking available.","There is no tracking available.",module,Magento_Shipping
-"Close Window","Close Window",module,Magento_Shipping
-"Save & Generate","Save & Generate",module,Magento_Sitemap
-"Edit Sitemap","Edit Sitemap",module,Magento_Sitemap
-"New Sitemap","New Sitemap",module,Magento_Sitemap
-"Sitemap Information","Sitemap Information",module,Magento_Sitemap
-Sitemap,Sitemap,module,Magento_Sitemap
-Filename,Filename,module,Magento_Sitemap
-"example: sitemap.xml","example: sitemap.xml",module,Magento_Sitemap
-Path,Path,module,Magento_Sitemap
+"Track history","追踪歷史",module,Magento_Shipping
+Location,位置,module,Magento_Shipping
+Date,日期,module,Magento_Shipping
+"Local Time","當地時間",module,Magento_Shipping
+Description,描述,module,Magento_Shipping
+"There is no tracking available for this shipment.","沒有可用於該送貨的跟踪.",module,Magento_Shipping
+"There is no tracking available.","沒有可用的跟踪.",module,Magento_Shipping
+"Close Window","關閉窗口",module,Magento_Shipping
+"Save & Generate","保存並生成",module,Magento_Sitemap
+"Edit Sitemap","編輯網站地圖",module,Magento_Sitemap
+"New Sitemap","新網站地圖",module,Magento_Sitemap
+"Sitemap Information","網站地圖信息",module,Magento_Sitemap
+Sitemap,網站地圖,module,Magento_Sitemap
+Filename,文件名,module,Magento_Sitemap
+"example: sitemap.xml","例: sitemap.xml",module,Magento_Sitemap
+Path,路徑,module,Magento_Sitemap
 "example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","example: ""/sitemap/"" or ""/"" for base path (path must be writeable)",module,Magento_Sitemap
-"Store View","Store View",module,Magento_Sitemap
-Generate,Generate,module,Magento_Sitemap
+"Store View","商店視圖",module,Magento_Sitemap
+Generate,生成,module,Magento_Sitemap
 "XML Sitemap","XML Sitemap",module,Magento_Sitemap
 "Add Sitemap","Add Sitemap",module,Magento_Sitemap
-Catalog,Catalog,module,Magento_Sitemap
-"You deleted the sitemap.","You deleted the sitemap.",module,Magento_Sitemap
-"We can't find a sitemap to delete.","We can't find a sitemap to delete.",module,Magento_Sitemap
-"This sitemap no longer exists.","This sitemap no longer exists.",module,Magento_Sitemap
-"Site Map","Site Map",module,Magento_Sitemap
-"New Site Map","New Site Map",module,Magento_Sitemap
-"The sitemap ""%1"" has been generated.","The sitemap ""%1"" has been generated.",module,Magento_Sitemap
-"We can't generate the sitemap right now.","We can't generate the sitemap right now.",module,Magento_Sitemap
-"We can't find a sitemap to generate.","We can't find a sitemap to generate.",module,Magento_Sitemap
-"You saved the sitemap.","You saved the sitemap.",module,Magento_Sitemap
-"The priority must be between 0 and 1.","The priority must be between 0 and 1.",module,Magento_Sitemap
-Always,Always,module,Magento_Sitemap
-Hourly,Hourly,module,Magento_Sitemap
-Daily,Daily,module,Magento_Sitemap
-Weekly,Weekly,module,Magento_Sitemap
-Monthly,Monthly,module,Magento_Sitemap
-Yearly,Yearly,module,Magento_Sitemap
-Never,Never,module,Magento_Sitemap
+Catalog,目錄,module,Magento_Sitemap
+"You deleted the sitemap.","你刪除了網站地圖.",module,Magento_Sitemap
+"We can't find a sitemap to delete.","我們無法找到一個網站地圖刪除.",module,Magento_Sitemap
+"This sitemap no longer exists.","該地圖已不存在.",module,Magento_Sitemap
+"Site Map","網站地圖",module,Magento_Sitemap
+"New Site Map","新網站地圖",module,Magento_Sitemap
+"The sitemap ""%1"" has been generated.","網站地圖 ""%1"" 已生成.",module,Magento_Sitemap
+"We can't generate the sitemap right now.","我們現在不能生成網站地圖.",module,Magento_Sitemap
+"We can't find a sitemap to generate.","我們無法找到一個網站地圖生成.",module,Magento_Sitemap
+"You saved the sitemap.","您已保存網站地圖.",module,Magento_Sitemap
+"The priority must be between 0 and 1.","優先級必須是0和1之間.",module,Magento_Sitemap
+Always,總是,module,Magento_Sitemap
+Hourly,每小時,module,Magento_Sitemap
+Daily,每日,module,Magento_Sitemap
+Weekly,每週,module,Magento_Sitemap
+Monthly,每月,module,Magento_Sitemap
+Yearly,每年,module,Magento_Sitemap
+Never,永不,module,Magento_Sitemap
 "File handler unreachable","File handler unreachable",module,Magento_Sitemap
-"Please define a correct path.","Please define a correct path.",module,Magento_Sitemap
-"Please create the specified folder ""%1"" before saving the sitemap.","Please create the specified folder ""%1"" before saving the sitemap.",module,Magento_Sitemap
+"Please define a correct path.","請定義一個正確的路徑.",module,Magento_Sitemap
+"Please create the specified folder ""%1"" before saving the sitemap.","保存地圖之前請先創建指定的文件夾 ""%1"".",module,Magento_Sitemap
 "Please make sure that ""%1"" is writable by the web-server.","Please make sure that ""%1"" is writable by the web-server.",module,Magento_Sitemap
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.",module,Magento_Sitemap
 None,None,module,Magento_Sitemap
 "Base Only","Base Only",module,Magento_Sitemap
 All,All,module,Magento_Sitemap
-"Current store is not active.","Current store is not active.",module,Magento_Store
-"Requested store is inactive","Requested store is inactive",module,Magento_Store
-"Requested store is not found","Requested store is not found",module,Magento_Store
+"Current store is not active.","當前商店不活躍.",module,Magento_Store
+"Requested store is inactive","要求商店不活躍",module,Magento_Store
+"Requested store is not found","請求商店沒有找到",module,Magento_Store
 "Environment emulation nesting is not allowed.","Environment emulation nesting is not allowed.",module,Magento_Store
 "Only default scope allowed","Only default scope allowed",module,Magento_Store
 "Invalid scope object","Invalid scope object",module,Magento_Store
@@ -5579,25 +5579,25 @@ No,No,module,Magento_UrlRewrite
 "URL key for specified store already exists.","URL key for specified store already exists.",module,Magento_UrlRewrite
 "Custom storage message","Custom storage message",module,Magento_UrlRewrite
 "Select Category","Select Category",module,Magento_UrlRewrite
-Back,Back,module,Magento_User
-Reset,Reset,module,Magento_User
-"Delete Role","Delete Role",module,Magento_User
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_User
-"Save Role","Save Role",module,Magento_User
-Roles,Roles,module,Magento_User
-"Add New Role","Add New Role",module,Magento_User
-"Role Information","Role Information",module,Magento_User
-"Role Users","Role Users",module,Magento_User
-"User ID","User ID",module,Magento_User
-"User Name","User Name",module,Magento_User
-"First Name","First Name",module,Magento_User
-"Last Name","Last Name",module,Magento_User
-Email,Email,module,Magento_User
-Status,Status,module,Magento_User
-Active,Active,module,Magento_User
-Inactive,Inactive,module,Magento_User
-"Role Resources","Role Resources",module,Magento_User
-"Role Info","Role Info",module,Magento_User
+Back,返回,module,Magento_User
+Reset,重置,module,Magento_User
+"Delete Role","刪除角色",module,Magento_User
+"Are you sure you want to do this?","你確定你想這樣做?",module,Magento_User
+"Save Role","保存角色",module,Magento_User
+Roles,角色,module,Magento_User
+"Add New Role","添加新角色",module,Magento_User
+"Role Information","角色信息",module,Magento_User
+"Role Users","角色的用戶",module,Magento_User
+"User ID","用戶 ID",module,Magento_User
+"User Name","用戶名",module,Magento_User
+"First Name","名字",module,Magento_User
+"Last Name","姓",module,Magento_User
+Email,電子郵件,module,Magento_User
+Status,狀態,module,Magento_User
+Active,活躍,module,Magento_User
+Inactive,不活躍,module,Magento_User
+"Role Resources","角色資源",module,Magento_User
+"Role Info","角色信息",module,Magento_User
 "Role Name","Role Name",module,Magento_User
 "Add New User","Add New User",module,Magento_User
 Users,Users,module,Magento_User
