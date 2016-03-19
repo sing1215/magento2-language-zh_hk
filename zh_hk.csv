@@ -5998,113 +5998,113 @@ Reason,原因,module,Magento_Checkout
 Customer:,顧客:,module,Magento_Checkout
 Items,項目,module,Magento_Checkout
 Total:,共計:,module,Magento_Checkout
-"Billing Address:","Billing Address:",module,Magento_Checkout
-"Shipping Address:","Shipping Address:",module,Magento_Checkout
-"Shipping Method:","Shipping Method:",module,Magento_Checkout
-"Payment Method:","Payment Method:",module,Magento_Checkout
-"Date & Time:","Date & Time:",module,Magento_Checkout
-"Name: %name","Name: %name",module,Magento_Contact
-"Email: %email","Email: %email",module,Magento_Contact
-"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
-"Comment: %comment","Comment: %comment",module,Magento_Contact
+"Billing Address:","帳單地址:",module,Magento_Checkout
+"Shipping Address:","送貨地址:",module,Magento_Checkout
+"Shipping Method:","送貨方式:",module,Magento_Checkout
+"Payment Method:","付款方法:",module,Magento_Checkout
+"Date & Time:","日期與時間:",module,Magento_Checkout
+"Name: %name","名稱: %name",module,Magento_Contact
+"Email: %email","電子郵件: %email",module,Magento_Contact
+"Phone Number: %telephone","電話號碼: %telephone",module,Magento_Contact
+"Comment: %comment","評論: %comment",module,Magento_Contact
 "%name,","%name,",module,Magento_Customer
-"Welcome to %store_name.","Welcome to %store_name.",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
-Email:,Email:,module,Magento_Customer
-Password:,Password:,module,Magento_Customer
-"Password you set when creating account","Password you set when creating account",module,Magento_Customer
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Customer
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Customer
-"Proceed through checkout faster","Proceed through checkout faster",module,Magento_Customer
-"Check the status of orders","Check the status of orders",module,Magento_Customer
-"View past orders","View past orders",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","You must confirm your %customer_email email before you can sign in (link is only valid once):",module,Magento_Customer
-"Confirm Your Account","Confirm Your Account",module,Magento_Customer
-"Thank you for confirming your %store_name account.","Thank you for confirming your %store_name account.",module,Magento_Customer
-"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:",module,Magento_Customer
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
-"If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
-"The password for your account has been successfully changed.","The password for your account has been successfully changed.",module,Magento_Customer
-"If you did not request this change, please contact us.","If you did not request this change, please contact us.",module,Magento_Customer
-"Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
-"Thank you, %store_name","Thank you, %store_name",module,Magento_Email
-"Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter.",module,Magento_Newsletter
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
-"You have been successfully subscribed to our newsletter.","You have been successfully subscribed to our newsletter.",module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter
-"Product alerts cron warnings","Product alerts cron warnings",module,Magento_ProductAlert
+"Welcome to %store_name.","歡迎來到 %store_name.",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","要登錄我們的網站，在結帳時使用這些憑證，或在 <a href=""%customer_url"">我的帳戶</a> 頁面:",module,Magento_Customer
+Email:,電子郵件:,module,Magento_Customer
+Password:,密碼:,module,Magento_Customer
+"Password you set when creating account","在創建帳戶時設置的密碼",module,Magento_Customer
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","忘記帳號密碼? 點擊 <a href=""%reset_url"">這裡</a> to reset it.",module,Magento_Customer
+"When you sign in to your account, you will be able to:","當您登錄到您的帳戶，您將能夠:",module,Magento_Customer
+"Proceed through checkout faster","結帳進行得更快",module,Magento_Customer
+"Check the status of orders","檢查訂單狀態",module,Magento_Customer
+"View past orders","查看過去的訂單",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","存儲替代地址（用於運送到多個家庭成員和朋友）",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","您必須確認您的電子郵件 %customer_email 然後才能登錄（鏈接只有效一次）:",module,Magento_Customer
+"Confirm Your Account","確認您的帳戶",module,Magento_Customer
+"Thank you for confirming your %store_name account.","感謝您確認您的 %store_name 帳戶.",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","要登錄我們的網站，並設置密碼，請點擊 <a href=""%create_password_url"">鏈接</a>:",module,Magento_Customer
+"There was recently a request to change the password for your account.","最近您的帳戶有個更改密碼的請求.",module,Magento_Customer
+"If you requested this change, set a new password here:","如果是你要求的更改，在這裡設置一個新密碼:",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","如果您沒有提出這一要求，則可以忽略此電子郵件和密碼將保持不變.",module,Magento_Customer
+"The password for your account has been successfully changed.","您帳戶的密碼已成功更改.",module,Magento_Customer
+"If you did not request this change, please contact us.","如果您沒有要求這一更改，請與我們聯繫.",module,Magento_Customer
+"Currency Update Warnings","貨幣更新警告",module,Magento_Directory
+"Thank you, %store_name","謝謝, %store_name",module,Magento_Email
+"Thank you for subscribing to our newsletter.","感謝您訂閱我們的通訊.",module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","開始接收簡訊，你必須先點擊以下鏈接確認您的訂閱:",module,Magento_Newsletter
+"You have been successfully subscribed to our newsletter.","您已成功訂閱我們的通訊.",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","你已經從通訊退訂.",module,Magento_Newsletter
+"Product alerts cron warnings","產品警示的 cron 警告",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_Sales
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",module,Magento_Sales
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
-"Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
-"Billing Info","Billing Info",module,Magento_Sales
-"Shipping Info","Shipping Info",module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",module,Magento_Sales
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",module,Magento_Sales
+"Thank you for your order from %store_name.","謝謝您的訂單透過 %store_name.",module,Magento_Sales
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","您可以通過 <a href=""%account_url"">登錄到您的帳戶</a> 檢查您的訂單狀態.",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","如果您有關於訂單的問題，您可以給我們發電子郵件 <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","或致電 <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"Our hours are <span class=""no-link"">%store_hours</span>.","我們的工作時間是 <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","您的訂單 #%order_id 的貸項通知單 #%creditmemo_id",module,Magento_Sales
+"Billing Info","計費信息",module,Magento_Sales
+"Shipping Info","航運信息",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你的訂單 #%increment_id 的狀態已更新至 <strong>%order_status</strong>.",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","您的訂單 #%order_id 的發票 #%invoice_id",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",module,Magento_Sales
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",module,Magento_Sales
+"Once your package ships we will send you a tracking number.","一旦你的訂貨送出我們會送你一個跟踪號碼.",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","你的訂單 <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Placed on <span class=""no-link"">%created_at</span>","下於 <span class=""no-link"">%created_at</span>",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","一旦你的訂貨送出我們將發送一封電子郵件，內有鏈接來追踪您的訂單.",module,Magento_Sales
+"Your shipping confirmation is below. Thank you again for your business.","您的發貨確認如下。再次感謝您.",module,Magento_Sales
+"Your Shipment #%shipment_id for Order #%order_id","您的訂單 #%order_id 的送貨 #%shipment_id",module,Magento_Sales
 "%name,","%name,",module,Magento_SendFriend
-"%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
-"Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
+"%sender_name wants to share this product with you:","%sender_name 想與您分享這個產品:",module,Magento_SendFriend
+"Message from %sender_name:","從 %sender_name 的訊息:",module,Magento_SendFriend
 "Sitemap Generation Warnings","Sitemap Generation Warnings",module,Magento_Sitemap
 "%name,","%name,",module,Magento_User
-"The password for your account has been successfully changed.","The password for your account has been successfully changed.",module,Magento_User
-"If you did not request this change, please contact us.","If you did not request this change, please contact us.",module,Magento_User
-"Thank you,","Thank you,",module,Magento_User
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
-"If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
-"Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
-"View all Wish List items","View all Wish List items",module,Magento_Wishlist
+"The password for your account has been successfully changed.","您帳戶的密碼已成功更改.",module,Magento_User
+"If you did not request this change, please contact us.","如果您沒有要求這一更改，請與我們聯繫.",module,Magento_User
+"Thank you,","謝謝,",module,Magento_User
+"There was recently a request to change the password for your account.","您的帳戶最近有更改密碼的請求.",module,Magento_User
+"If you requested this change, reset your password here:","如果是您要求這更改，在這裡重置您的密碼:",module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.","如果您沒有提出這一要求，則可以忽略此電子郵件和密碼將保持不變.",module,Magento_User
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name 想從 %store_name 與您分享這個願望清單:",module,Magento_Wishlist
+"Message from %customer_name:","從 %customer_name 的訊息:",module,Magento_Wishlist
+"View all Wish List items","查看所有的收藏項目",module,Magento_Wishlist
 "%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
-Email:,Email:,theme,frontend/Magento/luma
-Password:,Password:,theme,frontend/Magento/luma
-"Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
-"Quick Checkout","Quick Checkout",theme,frontend/Magento/luma
-"Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
-"Order Status","Order Status",theme,frontend/Magento/luma
-"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
-"Manage Addresses","Manage Addresses",theme,frontend/Magento/luma
-"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
-"Order History","Order History",theme,frontend/Magento/luma
-"View past orders","View past orders",theme,frontend/Magento/luma
-"About Us","About Us",theme,frontend/Magento/luma
-"Customer Service","Customer Service",theme,frontend/Magento/luma
+"Welcome to %store_name.","歡迎來到 %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","要登錄我們的網站，在結帳時使用這些憑證，或在 <a href=""%customer_url"">我的帳戶</a> 頁面進行:",theme,frontend/Magento/luma
+Email:,電子郵件:,theme,frontend/Magento/luma
+Password:,密碼:,theme,frontend/Magento/luma
+"Password you set when creating account","在創建帳戶時設置的密碼",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","忘記帳號密碼? 點擊 <a href=""%reset_url"">這裡</a> to reset it.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","當您登錄到您的帳戶，您將能夠:",theme,frontend/Magento/luma
+"Quick Checkout","快速結帳",theme,frontend/Magento/luma
+"Proceed through checkout faster","結帳進行得更快",theme,frontend/Magento/luma
+"Order Status","訂單狀態",theme,frontend/Magento/luma
+"Check the status of orders","檢查訂單狀態",theme,frontend/Magento/luma
+"Manage Addresses","管理地址",theme,frontend/Magento/luma
+"Store alternative addresses","存儲替代地址",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","方便運送到多個家庭成員和朋友",theme,frontend/Magento/luma
+"Order History","訂單歷史",theme,frontend/Magento/luma
+"View past orders","查看過去的訂單",theme,frontend/Magento/luma
+"About Us","關於我們",theme,frontend/Magento/luma
+"Customer Service","客戶服務",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
-"Billing Info","Billing Info",theme,frontend/Magento/luma
-"Shipping Info","Shipping Info",theme,frontend/Magento/luma
-"Payment Method","Payment Method",theme,frontend/Magento/luma
-"Shipping Method","Shipping Method",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","營業時間:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","謝謝您在 %store_name 的訂單.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","要檢查你的訂單狀態，您可以通過 <a href=""%account_url"">登錄到您的帳戶</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","如果您有關於訂單的問題，您可以給我們發電子郵件 <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","您的訂單 #%order_id 的貸項通知單 #%creditmemo_id",theme,frontend/Magento/luma
+"Billing Info","計費信息",theme,frontend/Magento/luma
+"Shipping Info","航運信息",theme,frontend/Magento/luma
+"Payment Method","付款方法",theme,frontend/Magento/luma
+"Shipping Method","郵寄方式",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","您的訂單 #%increment_id 的狀態已更新至 <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","您的訂單 #%order_id 的發票 #%invoice_id",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","一旦你的貨送出我們會送你一個跟踪號碼.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","你的訂單 <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","下於 <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","您的發貨確認如下。再次感謝您.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","您的送貨 #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
 "Backup options","Backup options",lib,lib/web/mage/adminhtml/backup.js
 Warning,Warning,lib,lib/web/mage/adminhtml/backup.js
 Cancel,Cancel,lib,lib/web/mage/adminhtml/backup.js
@@ -6136,68 +6136,68 @@ Close,Close,lib,lib/web/mage/translate-inline.js
 "Please enter a date from the past.","Please enter a date from the past.",lib,lib/web/mage/validation/validation.js
 "We could not detect a size.","We could not detect a size.",module,Magento_Backend
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Backend
-"Add Products to New Option","Add Products to New Option",module,Magento_Bundle
-"Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle
-"Add Selected Products","Add Selected Products",module,Magento_Bundle
-"Warning message","Warning message",module,Magento_Catalog
+"Add Products to New Option","將產品添加到新選項",module,Magento_Bundle
+"Add Products to Option ""%1""","將產品添加到新選項 ""%1""",module,Magento_Bundle
+"Add Selected Products","添加所選產品",module,Magento_Bundle
+"Warning message","警告信息",module,Magento_Catalog
 Ok,Ok,module,Magento_Catalog
-Cancel,Cancel,module,Magento_Catalog
-Submit,Submit,module,Magento_Catalog
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Catalog
-"Configure Product","Configure Product",module,Magento_Catalog
+Cancel,取消,module,Magento_Catalog
+Submit,提交,module,Magento_Catalog
+"We don't recognize or support this file extension type.","我們不承認或支持此文件類型的擴展名.",module,Magento_Catalog
+"Configure Product","產品配置",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
-"Select type of option.","Select type of option.",module,Magento_Catalog
-"Please add rows to option.","Please add rows to option.",module,Magento_Catalog
-"New Option","New Option",module,Magento_Catalog
-"Select Product","Select Product",module,Magento_Catalog
-"Please select items.","Please select items.",module,Magento_Catalog
-"Choose existing category.","Choose existing category.",module,Magento_Catalog
-"Create Category","Create Category",module,Magento_Catalog
-"Image Detail","Image Detail",module,Magento_Catalog
-"unselect all","unselect all",module,Magento_Catalog
-"We could not detect a size.","We could not detect a size.",module,Magento_Cms
-"Incl. Tax","Incl. Tax",module,Magento_ConfigurableProduct
-"Select Associated Product","Select Associated Product",module,Magento_ConfigurableProduct
-Done,Done,module,Magento_ConfigurableProduct
-"For better results, add attributes and attribute values to your products.","For better results, add attributes and attribute values to your products.",module,Magento_ConfigurableProduct
-"An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
-"Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
-"Please, select attribute for the section ","Please, select attribute for the section ",module,Magento_ConfigurableProduct
-"Please fill in the values for the section ","Please fill in the values for the section ",module,Magento_ConfigurableProduct
-"Please, fill correct values","Please, fill correct values",module,Magento_ConfigurableProduct
-"Please, select image(s) for your attribute","Please, select image(s) for your attribute",module,Magento_ConfigurableProduct
-"Please choose image(s)","Please choose image(s)",module,Magento_ConfigurableProduct
-"We could not detect a size.","We could not detect a size.",module,Magento_ConfigurableProduct
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_ConfigurableProduct
-"Please, select attribute(s)","Please, select attribute(s)",module,Magento_ConfigurableProduct
-"Generate Products","Generate Products",module,Magento_ConfigurableProduct
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
-"Are you sure you want to delete this address?","Are you sure you want to delete this address?",module,Magento_Customer
-"We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
-"Add Products to Group","Add Products to Group",module,Magento_GroupedProduct
-"Add Selected Products","Add Selected Products",module,Magento_GroupedProduct
-"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
-Allow,Allow,module,Magento_Integration
-Done,Done,module,Magento_Integration
-"We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
-"Please choose a payment method.","Please choose a payment method.",module,Magento_Multishipping
-"Sorry, something went wrong.","Sorry, something went wrong.",module,Magento_Paypal
-"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
-"Video Error","Video Error",module,Magento_ProductVideo
-"Unknown video type","Unknown video type",module,Magento_ProductVideo
-"Invalid video url","Invalid video url",module,Magento_ProductVideo
-"Youtube API key is invalid","Youtube API key is invalid",module,Magento_ProductVideo
-"Video cant be shown due to the following reason: ","Video cant be shown due to the following reason: ",module,Magento_ProductVideo
-"Video not found","Video not found",module,Magento_ProductVideo
-Save,Save,module,Magento_ProductVideo
-Cancel,Cancel,module,Magento_ProductVideo
-Delete,Delete,module,Magento_ProductVideo
-"Edit Video","Edit Video",module,Magento_ProductVideo
-"Images and Videos","Images and Videos",module,Magento_ProductVideo
-"This won't take long . . .","This won't take long . . .",module,Magento_Rule
-"Gift Options for ","Gift Options for ",module,Magento_Sales
-"Add Products","Add Products",module,Magento_Sales
-"You have item changes","You have item changes",module,Magento_Sales
+"Select type of option.","選擇選項的類型.",module,Magento_Catalog
+"Please add rows to option.","請添加行到選項.",module,Magento_Catalog
+"New Option","新選項",module,Magento_Catalog
+"Select Product","選擇產品",module,Magento_Catalog
+"Please select items.","請選擇項目.",module,Magento_Catalog
+"Choose existing category.","選擇現有的類別.",module,Magento_Catalog
+"Create Category","創建類別",module,Magento_Catalog
+"Image Detail","圖像細節",module,Magento_Catalog
+"unselect all","全部取消選擇",module,Magento_Catalog
+"We could not detect a size.","我們未能檢測一個尺寸.",module,Magento_Cms
+"Incl. Tax","含稅",module,Magento_ConfigurableProduct
+"Select Associated Product","選擇相關產品",module,Magento_ConfigurableProduct
+Done,完成,module,Magento_ConfigurableProduct
+"For better results, add attributes and attribute values to your products.","為了獲得更好的效果，添加屬性和屬性值至你的產品.",module,Magento_ConfigurableProduct
+"An attribute has been removed. This attribute will no longer appear in your configurations.","一個屬性已被刪除。此屬性將不再出現在你的配置中.",module,Magento_ConfigurableProduct
+"Select options for all attributes or remove unused attributes.","選擇所有屬性選項或刪除未使用的屬性.",module,Magento_ConfigurableProduct
+"Please, select attribute for the section ","請選擇屬性，關於部分 ",module,Magento_ConfigurableProduct
+"Please fill in the values for the section ","請填寫值，關於部分 ",module,Magento_ConfigurableProduct
+"Please, fill correct values","請填寫正確的值",module,Magento_ConfigurableProduct
+"Please, select image(s) for your attribute","請為您的屬性選擇圖片",module,Magento_ConfigurableProduct
+"Please choose image(s)","請選擇圖像",module,Magento_ConfigurableProduct
+"We could not detect a size.","我們未能檢測尺寸.",module,Magento_ConfigurableProduct
+"We don't recognize or support this file extension type.","我們不承認或支持此文件類型的擴展名.",module,Magento_ConfigurableProduct
+"Please, select attribute(s)","請選擇屬性",module,Magento_ConfigurableProduct
+"Generate Products","生成產品",module,Magento_ConfigurableProduct
+"Are you sure you want to do this?","你確定你想這樣做?",module,Magento_Customer
+"Are you sure you want to delete this address?","你確定要刪除這個地址?",module,Magento_Customer
+"We could not detect a size.","我們未能檢測尺寸.",module,Magento_Downloadable
+"Add Products to Group","將產品添加到組",module,Magento_GroupedProduct
+"Add Selected Products","添加所選產品",module,Magento_GroupedProduct
+"Sorry, something went wrong. Please try again later.","抱歉，出了一些問題。 請稍後再試.",module,Magento_Integration
+Allow,允許,module,Magento_Integration
+Done,完成,module,Magento_Integration
+"We can't complete your order because you don't have a payment method set up.","我們無法完成您的訂單，因為你沒有設定付款方式.",module,Magento_Multishipping
+"Please choose a payment method.","請選擇付款方式.",module,Magento_Multishipping
+"Sorry, something went wrong.","抱歉，出了一些問題.",module,Magento_Paypal
+"Sorry, something went wrong. Please try again later.","抱歉，出了一些問題。 請稍後再試.",module,Magento_Paypal
+"Video Error","視頻錯誤",module,Magento_ProductVideo
+"Unknown video type","未知的視頻類型",module,Magento_ProductVideo
+"Invalid video url","影片網址無效",module,Magento_ProductVideo
+"Youtube API key is invalid","YouTube的API密鑰無效",module,Magento_ProductVideo
+"Video cant be shown due to the following reason: ","視頻無法顯示的原因如下: ",module,Magento_ProductVideo
+"Video not found","未找到視頻",module,Magento_ProductVideo
+Save,保存,module,Magento_ProductVideo
+Cancel,取消,module,Magento_ProductVideo
+Delete,刪除,module,Magento_ProductVideo
+"Edit Video","編輯視頻",module,Magento_ProductVideo
+"Images and Videos","圖像和視頻",module,Magento_ProductVideo
+"This won't take long . . .","這不會需要很長時間 . . .",module,Magento_Rule
+"Gift Options for ","禮品選項 ",module,Magento_Sales
+"Add Products","添加產品",module,Magento_Sales
+"You have item changes","你有項目變更",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
 "We could not detect a size.","We could not detect a size.",module,Magento_Theme
 "We don\'t recognize this file extension.","We don\'t recognize this file extension.",module,Magento_Theme
