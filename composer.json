@@ -2,7 +2,7 @@
     "name": "skywidesoft/magento2-language-zh_hk",
     "description": "Chinese (Hong Kong) language",
     "type": "magento2-language",
-    "version": "0.2.0",
+    "version": "0.2.2",
     "license": [
         "MIT"
     ],
