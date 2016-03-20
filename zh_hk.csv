@@ -6509,32 +6509,32 @@ Forms,Forms,module,Magento_Captcha
 "Case Sensitive","Case Sensitive",module,Magento_Captcha
 "Enable CAPTCHA on Storefront","Enable CAPTCHA on Storefront",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",module,Magento_Captcha
-Inventory,Inventory,module,Magento_CatalogInventory
-"Stock Options","Stock Options",module,Magento_CatalogInventory
-"Decrease Stock When Order is Placed","Decrease Stock When Order is Placed",module,Magento_CatalogInventory
-"Set Items' Status to be In Stock When Order is Cancelled","Set Items' Status to be In Stock When Order is Cancelled",module,Magento_CatalogInventory
-"Display Out of Stock Products","Display Out of Stock Products",module,Magento_CatalogInventory
-"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs.",module,Magento_CatalogInventory
-"Only X left Threshold","Only X left Threshold",module,Magento_CatalogInventory
-"Display products availability in stock on Storefront.","Display products availability in stock on Storefront.",module,Magento_CatalogInventory
-"Product Stock Options","Product Stock Options",module,Magento_CatalogInventory
+Inventory,庫存,module,Magento_CatalogInventory
+"Stock Options","庫存選項",module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed","下訂單時減少庫存",module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled","訂單取消時，設置項目狀態為有貨",module,Magento_CatalogInventory
+"Display Out of Stock Products","顯示沒有庫存產品",module,Magento_CatalogInventory
+"Products will still be shown by direct product URLs.","產品仍然會通過直接產品網址顯示.",module,Magento_CatalogInventory
+"Only X left Threshold","只剩 X 閾值",module,Magento_CatalogInventory
+"Display products availability in stock on Storefront.","在店面顯示產品的庫存狀況.",module,Magento_CatalogInventory
+"Product Stock Options","產品庫存選項",module,Magento_CatalogInventory
 "
                     Please note that these settings apply to individual items in the cart, not to the entire cart.
                 ","
-                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                    請注意，這些設置適用於購物車的單個項目，而不是整個購物車.
                 ",module,Magento_CatalogInventory
-"Manage Stock","Manage Stock",module,Magento_CatalogInventory
+"Manage Stock","庫存管理",module,Magento_CatalogInventory
 Backorders,Backorders,module,Magento_CatalogInventory
-"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_CatalogInventory
+"Maximum Qty Allowed in Shopping Cart","允許在購物車的最大數量",module,Magento_CatalogInventory
 "Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_CatalogInventory
-"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_CatalogInventory
-"Notify for Quantity Below","Notify for Quantity Below",module,Magento_CatalogInventory
-"Automatically Return Credit Memo Item to Stock","Automatically Return Credit Memo Item to Stock",module,Magento_CatalogInventory
-"Enable Qty Increments","Enable Qty Increments",module,Magento_CatalogInventory
-"Qty Increments","Qty Increments",module,Magento_CatalogInventory
-Stock,Stock,module,Magento_CatalogInventory
-"Index stock","Index stock",module,Magento_CatalogInventory
-Quantity,Quantity,module,Magento_CatalogInventory
+"Minimum Qty Allowed in Shopping Cart","允許在購物車的最少數量",module,Magento_CatalogInventory
+"Notify for Quantity Below","通知的數量低於",module,Magento_CatalogInventory
+"Automatically Return Credit Memo Item to Stock","自動返回貸項通知單項目至庫存",module,Magento_CatalogInventory
+"Enable Qty Increments","啟用數量遞增",module,Magento_CatalogInventory
+"Qty Increments","數量遞增",module,Magento_CatalogInventory
+Stock,庫存,module,Magento_CatalogInventory
+"Index stock","索引庫存",module,Magento_CatalogInventory
+Quantity,數量,module,Magento_CatalogInventory
 "Catalog Rule Product","Catalog Rule Product",module,Magento_CatalogRule
 "Indexed rule/product association","Indexed rule/product association",module,Magento_CatalogRule
 "Catalog Product Rule","Catalog Product Rule",module,Magento_CatalogRule
@@ -6543,22 +6543,22 @@ Rule,Rule,module,Magento_CatalogRule
 Start,Start,module,Magento_CatalogRule
 End,End,module,Magento_CatalogRule
 "Web Site","Web Site",module,Magento_CatalogRule
-"Popular Search Terms","Popular Search Terms",module,Magento_CatalogSearch
-"Catalog Search","Catalog Search",module,Magento_CatalogSearch
-"Minimal Query Length","Minimal Query Length",module,Magento_CatalogSearch
-"Maximum Query Length","Maximum Query Length",module,Magento_CatalogSearch
+"Popular Search Terms","熱門搜索詞",module,Magento_CatalogSearch
+"Catalog Search","目錄搜索",module,Magento_CatalogSearch
+"Minimal Query Length","查詢最小長度",module,Magento_CatalogSearch
+"Maximum Query Length","查詢最長長度",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Rebuild Catalog product fulltext search index",module,Magento_CatalogSearch
 "Category URL Suffix","Category URL Suffix",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.","You need to refresh the cache.",module,Magento_CatalogUrlRewrite
 "Product URL Suffix","Product URL Suffix",module,Magento_CatalogUrlRewrite
 "Use Categories Path for Product URLs","Use Categories Path for Product URLs",module,Magento_CatalogUrlRewrite
 "Create Permanent Redirect for URLs if URL Key Changed","Create Permanent Redirect for URLs if URL Key Changed",module,Magento_CatalogUrlRewrite
-"Catalog Products List","Catalog Products List",module,Magento_CatalogWidget
-"List of Products","List of Products",module,Magento_CatalogWidget
-Title,Title,module,Magento_CatalogWidget
-"Display Page Control","Display Page Control",module,Magento_CatalogWidget
-"Number of Products per Page","Number of Products per Page",module,Magento_CatalogWidget
-"Number of Products to Display","Number of Products to Display",module,Magento_CatalogWidget
+"Catalog Products List","目錄產品列表",module,Magento_CatalogWidget
+"List of Products","產品列表",module,Magento_CatalogWidget
+Title,標題,module,Magento_CatalogWidget
+"Display Page Control","顯示頁面控制",module,Magento_CatalogWidget
+"Number of Products per Page","每頁商品數量",module,Magento_CatalogWidget
+"Number of Products to Display","商品顯示的數量",module,Magento_CatalogWidget
 Template,Template,module,Magento_CatalogWidget
 "Products Grid Template","Products Grid Template",module,Magento_CatalogWidget
 "Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_CatalogWidget
